@@ -88,6 +88,7 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 #data
 *.mkv
 *.mp4
+*.csv
 
 #Notebooks
-*.ipynb 
+*.ipynb
