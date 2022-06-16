@@ -30,37 +30,7 @@ def write_scene_list(output_csv_file: TextIO,
     # ])
         csv_writer.writerow(COLUMNS)
 
-columnWriter= [][
-            '%d' % (i + 1),[
-            '%d' % (i + 1),[
-            '%d' % (i + 1),
-            '%d' % (start.get_frames() + 1),
-            start.get_timecode(),
-            '%.3f' % start.get_seconds(),
-            '%d' % end.get_frames(),
-            end.get_timecode(),
-            '%.3f' % end.get_seconds(),
-            '%d' % duration.get_frames(),
-            duration.get_timecode(),
-            '%.3f' % duration.get_seconds()
-            '%d' % (start.get_frames() + 1),
-            start.get_timecode(),
-            '%.3f' % start.get_seconds(),
-            '%d' % end.get_frames(),
-            end.get_timecode(),
-            '%.3f' % end.get_seconds(),
-            '%d' % duration.get_frames(),
-            duration.get_timecode(),
-            '%.3f' % duration.get_seconds()
-            '%d' % (start.get_frames() + 1),
-            start.get_timecode(),
-            '%.3f' % start.get_seconds(),
-            '%d' % end.get_frames(),
-            end.get_timecode(),
-            '%.3f' % end.get_seconds(),
-            '%d' % duration.get_frames(),
-            duration.get_timecode(),
-            '%.3f' % duration.get_seconds()
+columnWriter= []
 
 if COLUMNS contains("Scene Number"):
     columnWriter.append('%d' % (i + 1))

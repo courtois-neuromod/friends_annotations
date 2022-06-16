@@ -90,5 +90,6 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 *.mp4
 *.csv
 
+
 #Notebooks
 *.ipynb
