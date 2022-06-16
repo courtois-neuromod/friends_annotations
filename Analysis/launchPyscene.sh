@@ -1,5 +1,5 @@
 #source /path/to/virtualenv/bin/activate
-source ~/Venvs/PyScene/bin/activate
+source ~/Venvs/Pyscene/bin/activate
 
 cd ~/friends_annotations/PySceneDetect
 
