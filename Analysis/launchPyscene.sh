@@ -3,15 +3,15 @@ source ~/Venvs/Pyscene/bin/activate
 
 cd ~/friends_annotations/PySceneDetect
 
-season = ${1}
+season=${1}
 
 for file in /data/neuromod/DATA/cneuromod/friends/stimuli/s${season}/friends_s0${season}e*b.mkv; do
-    python3 -m scenedetect -c ./Config/s${season}.cfg --input "$file" detect-adaptive list-scenes
+    python3 -m scenedetect -c ./Config/s${season}.cfg --input ${file} detect-adaptive list-scenes
 done
 
 
 for file in /data/neuromod/DATA/cneuromod/friends/stimuli/s${season}/friends_s0${season}e*a.mkv; do
-    python3 -m scenedetect -c ./Config/s${season}.cfg --input "$file" detect-adaptive list-scenes
+    python3 -m scenedetect -c ./Config/s${season}.cfg --input ${file} detect-adaptive list-scenes
 done
 
 
