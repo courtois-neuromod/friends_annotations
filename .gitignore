@@ -93,3 +93,9 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 
 #Notebooks
 *.ipynb
+
+
+#emotions json
+./data/CorpusEmotions/
+./data/audiofiles/
+./results/
