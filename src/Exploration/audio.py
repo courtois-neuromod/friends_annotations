@@ -1,5 +1,9 @@
 import moviepy.editor as mp
 import glob
+# import click
+
+#TRIED to have arguments but complicated
+# @click.option('season', default=None, help="Season to convert")
 
 files = sorted(glob.glob(r"/data/neuromod/DATA/cneuromod/friends/stimuli/s4/*.mkv"))
 
