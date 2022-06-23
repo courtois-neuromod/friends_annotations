@@ -5,7 +5,7 @@ import glob
 #TRIED to have arguments but complicated
 # @click.option('season', default=None, help="Season to convert")
 
-files = sorted(glob.glob(r"/data/neuromod/DATA/cneuromod/friends/stimuli/s5/*.mkv"))
+files = sorted(glob.glob(r"/data/neuromod/DATA/cneuromod/friends/stimuli/s6/*.mkv"))
 
 for file in files:
     # print(file[-19:])
