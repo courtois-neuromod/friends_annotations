@@ -11,7 +11,7 @@ for file in files:
     # print(file[-19:])
     if "a" in file[-19:] or "b" in file[-19:]:
          # print(file)
-        name = file[-18:]
+        name = file[-19:]
         name = name.replace(".mkv", "")
 #         print(name)
         my_clip = mp.VideoFileClip(r""+file)
