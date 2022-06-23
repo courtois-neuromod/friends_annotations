@@ -1,7 +1,7 @@
 import moviepy.editor as mp
 import glob
 
-files = sorted(glob.glob(r"/data/neuromod/DATA/cneuromod/friends/stimuli/s*/*.mkv"))
+files = sorted(glob.glob(r"/data/neuromod/DATA/cneuromod/friends/stimuli/s4/*.mkv"))
 
 for file in files:
     # print(file[-19:])
