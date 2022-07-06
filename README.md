@@ -3,10 +3,17 @@ friends_annotations
 This repository makes use of different tools to have annotations of the friends comedy series. Here are the tools necessary for annotations.
 
 
+
+                                                                                                                                    
 PYSCENEDETECT
+
 This tool takes the different friend episodes and detects cuts made when there are camera changes. It detects rapid changes but is weak to gradual  changes just like in fades.  The code for this tool is found in /src/pyscene_code/launchPyscene.sh, a bash script that takes mkv files from the server and generates the scene cuts frame lists with pyscene detect. 
-Input: mkv video files found on neuromod elm servers 
+
+Input: mkv video files found on neuromod elm servers     
 Output: csv files and tsv (from conversion) containing one column= the frame number indicating scene cuts. Said output is found in /annotation_results/*SVpyscene
+
+
+
 
 FRIENDS_CORPUS
 
