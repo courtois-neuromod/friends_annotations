@@ -1,0 +1,4 @@
+[submodule "PySceneDetect"]
+	path = PySceneDetect
+	url = git@github.com:courtois-neuromod/PySceneDetect.git
+	branch = master

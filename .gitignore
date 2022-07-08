@@ -54,7 +54,7 @@ coverage.xml
 docs/_build/
 
 # PyBuilder
-target/
+target/git@github.com:courtois-neuromod/friends_annotations.git
 
 # DotEnv configuration
 .env
@@ -84,3 +84,12 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#data
+*.mkv
+*.mp4
+*.csv
+
+
+#Notebooks
+*.ipynb
