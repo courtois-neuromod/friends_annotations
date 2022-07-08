@@ -1,27 +1,24 @@
 friends_annotations
 ==============================
-This repository makes use of different tools to have annotations of the friends comedy series. Here are the tools necessary for annotations.
+This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. In includes the annotations themselves, as well as the scripts necessary to recreate them.
 
 
-
-                                                                                                                                    
 PYSCENEDETECT
 
-This tool takes the different friend episodes and detects cuts made when there are camera changes. It detects rapid changes but is weak to gradual  changes just like in fades.  The code for this tool is found in /src/pyscene_code/launchPyscene.sh, a bash script that takes mkv files from the server and generates the scene cuts frame lists with pyscene detect. 
+PsySceneDetect detects scene cuts (e.g., camera changes) in the different Friends episodes. Of note, the script detects scene cuts (instant changes) but is weak to pick up gradual changes like fade in / out. The code for this tool is found in a submodule forked and modified from https://github.com/Breakthrough/PySceneDetect. The script to launch the segmentation is  /src/pyscene_code/launchPyscene.sh, a bash script that takes .mkv files (half episodes) and generates the scene cuts (list of frames) with PySceneDetect code. 
 
-Input: mkv video files found on neuromod elm servers     
-Output: csv files and tsv (from conversion) containing one column= the frame number indicating scene cuts. Said output is found in /annotation_results/*SVpyscene
+Input: .mkv video files     
+Output: .csv files (converted to .tsv) containing one column, the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
 
 
-
+CAPTIONS
+pending: captions realigned with the timing of the C-Neuromod runs (half episodes), with timestamps for each word
 
 FRIENDS_CORPUS
-
-
-
+pending: annotated utterances from the Friends Corpus realigned with the timing of the C-Neuromod runs (half episodes)
 
 MELD
-
+pending
 
 annotations of Friends dataset 
 
