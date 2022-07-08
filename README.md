@@ -1,6 +1,6 @@
 friends_annotations
 ==============================
-This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. In includes the annotations themselves, as well as the scripts necessary to recreate them.
+This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. It includes the annotations themselves, as well as the scripts used to generate them.
 
 
 **PYSCENEDETECT**
