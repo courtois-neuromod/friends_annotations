@@ -1,0 +1,11 @@
+{
+  "Name": "PysceneDetect Outputs"
+  "DatasetType": "TSV"
+  "GeneratedBy": [
+    "Name": "PysceneDetect"
+    "Version": "Modification from v0.6 of https://github.com/Breakthrough/PySceneDetect"
+  ]
+  "Contents":[
+    "StartFrame": "Column of frame numbers, indicating when a scene cut was detected"
+  ]
+}
