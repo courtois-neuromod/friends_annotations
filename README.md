@@ -10,7 +10,7 @@ PsySceneDetect detects scene cuts (e.g., camera changes) in the different Friend
 
 The script to launch the segmentation is src/pyscene_code/launchPyscene.sh. It takes .mkv files and generates the scene cuts (list of frames) with the PySceneDetect code. For each season, the config files used are <a href="https://github.com/courtois-neuromod/PySceneDetect/tree/dev/config">here</a>
 
-Input: .mkv video files (half episodes)
+Input: .mkv video files (half episodes)\
 Output: .csv files (converted to .tsv) containing one column, the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
 
 
@@ -23,13 +23,13 @@ pending: captions realigned with the timing of the C-Neuromod runs (half episode
 
 **FRIENDS_CORPUS**
 
-pending: annotated utterances from the <a href="[url](https://convokit.cornell.edu/documentation/friends.html)">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
+pending: annotated utterances from the <a href="https://convokit.cornell.edu/documentation/friends.html">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
 
 
 
 **MELD**
 
-pending: annotated utterances from <a href="[url](https://affective-meld.github.io/)">MELD</a> realigned with the timing of the C-Neuromod runs (half episodes)
+pending: annotated utterances from <a href="https://affective-meld.github.io/">MELD</a> realigned with the timing of the C-Neuromod runs (half episodes)
 
 
 
