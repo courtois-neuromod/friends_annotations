@@ -3,7 +3,7 @@ friends_annotations
 This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. In includes the annotations themselves, as well as the scripts necessary to recreate them.
 
 
-PYSCENEDETECT
+*PYSCENEDETECT*
 
 PsySceneDetect detects scene cuts (e.g., camera changes) in the different Friends episodes. Of note, the script detects scene cuts (instant changes) but is weak to pick up gradual changes like fade in / out. The code for this tool is found in a submodule forked and modified from https://github.com/Breakthrough/PySceneDetect. The script to launch the segmentation is  /src/pyscene_code/launchPyscene.sh, a bash script that takes .mkv files (half episodes) and generates the scene cuts (list of frames) with PySceneDetect code. 
 
@@ -11,16 +11,21 @@ Input: .mkv video files
 Output: .csv files (converted to .tsv) containing one column, the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
 
 
-CAPTIONS
+*CAPTIONS*
+
 pending: captions realigned with the timing of the C-Neuromod runs (half episodes), with timestamps for each word
 
-FRIENDS_CORPUS
-pending: annotated utterances from the Friends Corpus realigned with the timing of the C-Neuromod runs (half episodes)
 
-MELD
-pending
+*FRIENDS_CORPUS*
 
-annotations of Friends dataset 
+pending: annotated utterances from the <a href="[url](https://convokit.cornell.edu/documentation/friends.html)">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
+
+
+*MELD*
+
+pending: annotated utterances from <a href="[url](https://affective-meld.github.io/)">MELD</a> realigned with the timing of the C-Neuromod runs (half episodes)
+
+
 
 
 Project Organization
