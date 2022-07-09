@@ -11,7 +11,7 @@ PsySceneDetect detects scene cuts (e.g., camera changes) in the different Friend
 The script to launch the segmentation is src/pyscene_code/launchPyscene.sh. It takes .mkv files and generates the scene cuts (list of frames) with the PySceneDetect code ("detect-adaptive" mode). For each season, the config files used are <a href="https://github.com/courtois-neuromod/PySceneDetect/tree/dev/config">here</a>
 
 Input: .mkv video files (half episodes)\
-Output: .csv files (converted to .tsv) containing one column, the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
+Output: .tsv files containing three columns: segment onset (in s), duration (s), and the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
 
 
 
