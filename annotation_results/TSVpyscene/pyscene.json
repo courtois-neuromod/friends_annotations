@@ -6,6 +6,8 @@
     "Version": "Modification from v0.6 of https://github.com/Breakthrough/PySceneDetect"
   ]
   "Contents":[
-    "StartFrame": "Column of frame numbers, indicating when a scene cut was detected"
+    "onset": "time in seconds of the start of the scene "
+    "duration": "duration in seconds of the scene"
+    "onset_frame": "frame numbers, indicating when a scene cut was detected"
   ]
 }

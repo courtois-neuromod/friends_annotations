@@ -7,7 +7,7 @@ season=${1}
 ep=${2}
 
 for file in /data/neuromod/DATA/cneuromod/friends/stimuli/s${season}/friends_s0${season}e*${ep}.mkv; do
-    python3 -m scenedetect -c ./Config/s${season}.cfg --input ${file} --output ../annotation_results/TSVpyscene/s${season} detect-adaptive list-scenes
+    python3 -m scenedetect -c ./config/s${season}.cfg --input ${file} --output ../annotation_results/TSVpyscene/s${season} detect-adaptive list-scenes
 done
 
 
