@@ -13,18 +13,20 @@ config = dict(
     enable_automatic_punctuation=True,
     enable_word_time_offsets=True,
 )
-audio = dict(uri="gs://local_audio/monoAudiofiles/friends_s01e01a.wav")
 
-client = speech.SpeechClient()
-operation = client.long_running_recognize(config=config, audio=audio)
-response = operation.result()
 
-df = pd.DataFrame(columns=['word', 'start_time', 'end_time'])
-for result in response.results:
-    alternative = result.alternatives[0]
-    for word in alternative.words:
-        curr_dict = {'word': [word.word], 'start_time': [word.start_time.total_seconds()], 'end_time': [word.end_time.total_seconds()]}
-        curr_df = pd.DataFrame.from_dict(curr_dict)
-        df = pd.concat([df, curr_df], ignore_index=True)
+for file in audiolist['file']:
+    audio = dict(uri="gs://local_audio/monoAudiofiles/"+file)
+    client = speech.SpeechClient()
+    operation = client.long_running_recognize(config=config, audio=audio)
+    response = operation.result()
 
-df.to_csv('/home/steveb/GitHub/friends_annotations/annotation_results/textAligned/google_text_to_speech/test.tsv', index=False, sep="\t")
+    df = pd.DataFrame(columns=['word', 'start_time', 'end_time'])
+    for result in response.results:
+        alternative = result.alternatives[0]
+        for word in alternative.words:
+            curr_dict = {'word': [word.word], 'start_time': [word.start_time.total_seconds()], 'end_time': [word.end_time.total_seconds()]}
+            curr_df = pd.DataFrame.from_dict(curr_dict)
+            df = pd.concat([df, curr_df], ignore_index=True)
+
+    df.to_csv('/home/samougou/friends_annotations/annotation_results/textAligned/google_text_to_speech' + file[:-4] + '.tsv', index=False, sep="\t")
