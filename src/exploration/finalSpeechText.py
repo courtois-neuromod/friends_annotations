@@ -5,7 +5,7 @@ from google.cloud import storage
 import pandas as pd
 
 audiolist = pd.read_csv("audiolist.tsv",sep = '\t')
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/steveb/GitHub/friends_annotations/src/exploration/credentials-Steve-neuromod.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/samougou/friends_annotations/src/exploration/credentials-Steve-neuromod.json'
 speech_client = speech.SpeechClient()
 
 config = dict(
