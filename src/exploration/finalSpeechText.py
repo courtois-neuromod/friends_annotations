@@ -29,4 +29,4 @@ for file in audiolist['file']:
             curr_df = pd.DataFrame.from_dict(curr_dict)
             df = pd.concat([df, curr_df], ignore_index=True)
 
-    df.to_csv('/home/samougou/friends_annotations/annotation_results/textAligned/google_text_to_speech' + file[:-4] + '.tsv', index=False, sep="\t")
+    df.to_csv('/home/samougou/friends_annotations/annotation_results/textAligned/google_text_to_speech/' + file[:-4] + '.tsv', index=False, sep="\t")
