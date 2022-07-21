@@ -100,3 +100,7 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 ./data/CorpusEmotions/
 ./data/audiofiles/
 ./results/
+
+
+#credentials
+./src/exploration/credentials-Steve-neuromod.json
