@@ -3,6 +3,9 @@ from google.cloud import speech
 from google.oauth2 import service_account
 from google.cloud import storage
 import pandas as pd
+from google.protobuf.json_format import MessageToJson
+import ast
+import json
 
 audiolist = pd.read_csv("audiolist.tsv",sep = '\t')
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/samougou/friends_annotations/src/exploration/credentials-Steve-neuromod.json'
@@ -30,3 +33,7 @@ for file in audiolist['file']:
             df = pd.concat([df, curr_df], ignore_index=True)
 
     df.to_csv('/home/samougou/friends_annotations/annotation_results/textAligned/google_text_to_speech/' + file[:-4] + '.tsv', index=False, sep="\t")
+    json_obj = MessageToJson(response._pb)
+    result = ast.literal_eval(json_obj)
+    with open('/home/samougou/friends_annotations/annotation_results/textAligned/google_text_to_speech/json/' + file[:-4] + '.json', 'w') as outfile:
+        json.dump(result, outfile, indent=2)
