@@ -1,0 +1,97 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s01	e07	c03	u001	['Rachel Green']	Wow, this is so cool, you guys. The entire city is blacked out!	[['Wow', ',', 'this', 'is', 'so', 'cool', ',', 'you', 'guys', '.'], ['The', 'entire', 'city', 'is', 'blacked', 'out', '!']]	Joyful
+s01	e07	c03	u002	['Monica Geller']	Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.	"[['Mom', 'says', 'it', ""'s"", 'all', 'of', 'Manhattan', ',', 'parts', 'of', 'Brooklyn', 'and', 'Queens', ',', 'and', 'they', 'have', 'no', 'idea', 'when', 'it', ""'s"", 'coming', 'back', 'on', '.']]"	Scared
+s01	e07	c03	u003	['Rachel Green']	Wow, you guys, this is big.	[['Wow', ',', 'you', 'guys', ',', 'this', 'is', 'big', '.']]	Joyful
+s01	e07	c03	u004	['Monica Geller']	Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK.	[['Pants', 'and', 'a', 'sweater', '?'], ['Why', ',', 'mom', '?'], ['Who', 'am', 'I', 'gon', 'na', 'meet', 'in', 'a', 'blackout', '?'], ['Power', 'company', 'guys', '?'], ['Eligible', 'looters', '?'], ['Could', 'we', 'talk', 'about', 'this', 'later', '?'], ['OK', '.']]	Mad
+s01	e07	c03	u005	['Phoebe Buffay']	Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?	"[['Can', 'I', 'borrow', 'the', 'phone', '?'], ['I', 'want', 'to', 'call', 'my', 'apartment', 'and', 'check', 'on', 'my', 'grandma', '.'], ['What', ""'s"", 'my', 'number', '?']]"	Scared
+s01	e07	c03	u007	['Phoebe Buffay']	Well, I never call me.	[['Well', ',', 'I', 'never', 'call', 'me', '.']]	Neutral
+s01	e07	c04	u001	['Chandler Bing']	Oh my God, it's that Victoria's Secret model. Something... something Goodacre.	"[['Oh', 'my', 'God', ',', 'it', ""'s"", 'that', 'Victoria', ""'s"", 'Secret', 'model', '.'], ['Something', '...'], ['something', 'Goodacre', '.']]"	Joyful
+s01	e07	c04	u002	['Jill Goodacre']	Hi Mom, it's Jill.	"[['Hi', 'Mom', ',', 'it', ""'s"", 'Jill', '.']]"	Neutral
+s01	e07	c04	u003	['Chandler Bing']	She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!	"[['She', ""'s"", 'right', ',', 'it', ""'s"", 'Jill', '.'], ['Jill', 'Goodacre', '.'], ['Oh', 'my', 'God', '.'], ['I', 'am', 'trapped', 'in', 'an', 'ATM', 'vestibule', 'with', 'Jill', 'Goodacre', '!'], ['Is', 'it', 'a', 'vestibule', '?'], ['Maybe', 'it', ""'s"", 'an', 'atrium', '.'], ['Oh', ',', 'yeah', ',', 'that', 'is', 'the', 'part', 'to', 'focus', 'on', ',', 'you', 'idiot', '!']]"	Scared
+s01	e07	c04	u004	['Jill Goodacre']	Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.	"[['Yeah', ',', 'I', ""'m"", 'fine', '.'], ['I', ""'m"", 'just', 'stuck', 'at', 'the', 'bank', ',', 'in', 'an', 'ATM', 'vestibule', '.']]"	Neutral
+s01	e07	c04	u005	['Chandler Bing']	Jill says vestibule... I'm going with vestibule.	"[['Jill', 'says', 'vestibule', '...'], ['I', ""'m"", 'going', 'with', 'vestibule', '.']]"	Neutral
+s01	e07	c04	u006	['Jill Goodacre']	I'm fine. No, I'm not alone... I don't know, some guy.	"[['I', ""'m"", 'fine', '.'], ['No', ',', 'I', ""'m"", 'not', 'alone', '...'], ['I', 'do', ""n't"", 'know', ',', 'some', 'guy', '.']]"	Neutral
+s01	e07	c04	u007	['Chandler Bing']	Oh! Some guy. Some guy. 'Hey Jill, I saw you with some guy last night. Yes, he was some guy.	"[['Oh', '!'], ['Some', 'guy', '.'], ['Some', 'guy', '.'], [""'"", 'Hey', 'Jill', ',', 'I', 'saw', 'you', 'with', 'some', 'guy', 'last', 'night', '.'], ['Yes', ',', 'he', 'was', 'some', 'guy', '.']]"	Joyful
+s01	e07	c05	u001	['Joey Tribbiani']	Hi everyone.	[['Hi', 'everyone', '.']]	Neutral
+s01	e07	c05	u002	['Ross Geller']	And officiating at tonight's blackout, is Rabbi Tribbiani.	"[['And', 'officiating', 'at', 'tonight', ""'s"", 'blackout', ',', 'is', 'Rabbi', 'Tribbiani', '.']]"	Neutral
+s01	e07	c05	u003	['Joey Tribbiani']	Well, Chandler's old roomate was Jewish, and these are the only candles we have, so... Happy Chanukah, everyone.	"[['Well', ',', 'Chandler', ""'s"", 'old', 'roomate', 'was', 'Jewish', ',', 'and', 'these', 'are', 'the', 'only', 'candles', 'we', 'have', ',', 'so', '...'], ['Happy', 'Chanukah', ',', 'everyone', '.']]"	Joyful
+s01	e07	c05	u004	['Phoebe Buffay']	Eww, look. Ugly Naked Guy lit a bunch of candles.	[['Eww', ',', 'look', '.'], ['Ugly', 'Naked', 'Guy', 'lit', 'a', 'bunch', 'of', 'candles', '.']]	Mad
+s01	e07	c05	u006	['Rachel Green']	That had to hurt!	[['That', 'had', 'to', 'hurt', '!']]	Sad
+s01	e07	c06	u001	['Chandler Bing']	Alright, alright, alright. It's been fourteen and a half minutes and you still have not said one word. Oh God, do something. Just make contact, smile!	"[['Alright', ',', 'alright', ',', 'alright', '.'], ['It', ""'s"", 'been', 'fourteen', 'and', 'a', 'half', 'minutes', 'and', 'you', 'still', 'have', 'not', 'said', 'one', 'word', '.'], ['Oh', 'God', ',', 'do', 'something', '.'], ['Just', 'make', 'contact', ',', 'smile', '!']]"	Joyful
+s01	e07	c06	u003	['Chandler Bing']	There you go!	[['There', 'you', 'go', '!']]	Joyful
+s01	e07	c06	u005	['Chandler Bing']	You're definitely scaring here.	"[['You', ""'re"", 'definitely', 'scaring', 'here', '.']]"	Scared
+s01	e07	c06	u006	['Jill Goodacre']	Would you like to call somebody?	[['Would', 'you', 'like', 'to', 'call', 'somebody', '?']]	Joyful
+s01	e07	c06	u007	['Chandler Bing']	Yeah, about 300 guys I went to high school with. Yeah, thanks.	[['Yeah', ',', 'about', '300', 'guys', 'I', 'went', 'to', 'high', 'school', 'with', '.'], ['Yeah', ',', 'thanks', '.']]	Joyful
+s01	e07	c07	u001	['Monica Geller']	Hello?	[['Hello', '?']]	Neutral
+s01	e07	c07	u002	['Chandler Bing']	Hey, it's me.	"[['Hey', ',', 'it', ""'s"", 'me', '.']]"	Neutral
+s01	e07	c07	u003	['Monica Geller']	It's Chandler! Are you OK?	"[['It', ""'s"", 'Chandler', '!'], ['Are', 'you', 'OK', '?']]"	Scared
+s01	e07	c07	u004	['Chandler Bing']	Yeah, I'm fine. I'm trppd in an ATM vstbl wth Jll Gdcr.	"[['Yeah', ',', 'I', ""'m"", 'fine', '.'], ['I', ""'m"", 'trppd', 'in', 'an', 'ATM', 'vstbl', 'wth', 'Jll', 'Gdcr.']]"	Sad
+s01	e07	c07	u005	['Monica Geller']	What?	[['What', '?']]	Scared
+s01	e07	c07	u006	['Chandler Bing']	I'm trppd... in an ATM vstbl... wth Jll Gdcr!	"[['I', ""'m"", 'trppd', '...'], ['in', 'an', 'ATM', 'vstbl', '...'], ['wth', 'Jll', 'Gdcr', '!']]"	Scared
+s01	e07	c07	u007	['Monica Geller']	I have no idea what you just said.	[['I', 'have', 'no', 'idea', 'what', 'you', 'just', 'said', '.']]	Scared
+s01	e07	c07	u008	['Chandler Bing']	Put Joey on the phone.	[['Put', 'Joey', 'on', 'the', 'phone', '.']]	Mad
+s01	e07	c07	u009	['Joey Tribbiani']	What's up man?	"[['What', ""'s"", 'up', 'man', '?']]"	Neutral
+s01	e07	c07	u010	['Chandler Bing']	I'm trppd... in an ATM vstbl... wth JLL GDCR.	"[['I', ""'m"", 'trppd', '...'], ['in', 'an', 'ATM', 'vstbl', '...'], ['wth', 'JLL', 'GDCR.']]"	Scared
+s01	e07	c07	u011	['Joey Tribbiani']	Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.	"[['Oh', 'my', 'God', '!'], ['He', ""'s"", 'trapped', 'in', 'an', 'ATM', 'vestibule', 'with', 'Jill', 'Goodacre', '!'], ['Chandler', ',', 'listen', '.']]"	Joyful
+s01	e07	c07	u012	['Chandler Bing']	Yeah, like that thought never entered my mind.	[['Yeah', ',', 'like', 'that', 'thought', 'never', 'entered', 'my', 'mind', '.']]	Peaceful
+s01	e07	c11	u001	['Rachel Green']	Hmmm... this is so nice.	[['Hmmm', '...'], ['this', 'is', 'so', 'nice', '.']]	Joyful
+s01	e07	c11	u002	['Ross Geller']	OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.	"[['OK', ',', 'I', 'have', 'a', 'question', '.'], ['Well', ',', 'actually', ',', 'it', ""'s"", 'not', 'so', 'much', 'a', 'question', 'as', '..'], ['more', 'of', 'a', 'general', 'wondering', '...'], ['ment', '.']]"	Joyful
+s01	e07	c11	u003	['Rachel Green']	OK.	[['OK', '.']]	Neutral
+s01	e07	c11	u004	['Ross Geller']	OK. Here goes. For a while now, I've been wanting to, um....	"[['OK', '.'], ['Here', 'goes', '.'], ['For', 'a', 'while', 'now', ',', 'I', ""'ve"", 'been', 'wanting', 'to', ',', 'um', '....']]"	Neutral
+s01	e07	c11	u005	['Rachel Green']	Ohhh!!!!	[['Ohhh', '!!!!']]	Joyful
+s01	e07	c11	u006	['Ross Geller']	Yes, yes, that's right...	"[['Yes', ',', 'yes', ',', 'that', ""'s"", 'right', '...']]"	Neutral
+s01	e07	c11	u007	['Rachel Green']	Oh, look at the little cat!	[['Oh', ',', 'look', 'at', 'the', 'little', 'cat', '!']]	Peaceful
+s01	e07	c11	u008	['Ross Geller']	What? Ow!	[['What', '?'], ['Ow', '!']]	Scared
+s01	e07	c11	u010	['Joey Tribbiani', 'Monica Geller', 'Phoebe Buffay']	I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since...	"[['I', ""'m"", 'on', 'top', 'of', 'the', 'world', ',', 'looking', 'down', 'on', 'creation', 'and', 'the', 'only', 'explanation', 'I', 'can', 'find', ',', 'is', 'the', 'wonders', 'I', ""'ve"", 'found', 'ever', 'since', '...']]"	Powerful
+s01	e07	c12	u001	['Monica Geller']	This is just Bactine. It won't hurt.	"[['This', 'is', 'just', 'Bactine', '.'], ['It', 'wo', ""n't"", 'hurt', '.']]"	Peaceful
+s01	e07	c12	u003	['Joey Tribbiani']	Sorry, that was wax.	[['Sorry', ',', 'that', 'was', 'wax', '.']]	Neutral
+s01	e07	c12	u004	['Phoebe Buffay']	Oh, poor little Tooty is scared to death. We should find his owner.	[['Oh', ',', 'poor', 'little', 'Tooty', 'is', 'scared', 'to', 'death', '.'], ['We', 'should', 'find', 'his', 'owner', '.']]	Scared
+s01	e07	c12	u005	['Ross Geller']	Why don't we just put 'poor little Tooty' out in the hall?	"[['Why', 'do', ""n't"", 'we', 'just', 'put', ""'"", 'poor', 'little', 'Tooty', ""'"", 'out', 'in', 'the', 'hall', '?']]"	Neutral
+s01	e07	c12	u006	['Rachel Green']	During a blackout? He'd get trampled!	"[['During', 'a', 'blackout', '?'], ['He', ""'d"", 'get', 'trampled', '!']]"	Scared
+s01	e07	c12	u007	['Ross Geller']	Yeah?	[['Yeah', '?']]	Neutral
+s01	e07	c14	u001	['Phoebe Buffay']	Oh no, the Mendels, they hate all living things, right?	[['Oh', 'no', ',', 'the', 'Mendels', ',', 'they', 'hate', 'all', 'living', 'things', ',', 'right', '?']]	Scared
+s01	e07	c14	u002	['Rachel Green']	Oh. Hi. We just found this cat and we're looking for the owner.	"[['Oh', '.'], ['Hi', '.'], ['We', 'just', 'found', 'this', 'cat', 'and', 'we', ""'re"", 'looking', 'for', 'the', 'owner', '.']]"	Powerful
+s01	e07	c14	u003	['Mr. Heckles']	Er, yeah, it's mine.	"[['Er', ',', 'yeah', ',', 'it', ""'s"", 'mine', '.']]"	Mad
+s01	e07	c14	u004	['Phoebe Buffay']	He seems to hate you. Are you sure?	[['He', 'seems', 'to', 'hate', 'you', '.'], ['Are', 'you', 'sure', '?']]	Mad
+s01	e07	c14	u005	['Mr. Heckles']	Yeah, it's my cat. Give me my cat.	"[['Yeah', ',', 'it', ""'s"", 'my', 'cat', '.'], ['Give', 'me', 'my', 'cat', '.']]"	Mad
+s01	e07	c14	u006	['Phoebe Buffay']	Wait a minute. What's his name?	"[['Wait', 'a', 'minute', '.'], ['What', ""'s"", 'his', 'name', '?']]"	Mad
+s01	e07	c14	u007	['Mr. Heckles']	Ehhhh... B-Buttons.	[['Ehhhh', '...'], ['B', '-', 'Buttons', '.']]	Scared
+s01	e07	c14	u008	['Rachel Green']	Bob Buttons?	[['Bob', 'Buttons', '?']]	Powerful
+s01	e07	c14	u009	['Mr. Heckles']	Mmm. Bob Buttons. Here, Bob Buttons.	[['Mmm.', 'Bob', 'Buttons', '.'], ['Here', ',', 'Bob', 'Buttons', '.']]	Peaceful
+s01	e07	c14	u010	['Phoebe Buffay']	Oooh! You are a very bad man!	[['Oooh', '!'], ['You', 'are', 'a', 'very', 'bad', 'man', '!']]	Mad
+s01	e07	c14	u011	['Mr. Heckles']	You owe me a cat.	[['You', 'owe', 'me', 'a', 'cat', '.']]	Mad
+s01	e07	c16	u001	['Ross Geller']	Lucky sixes....	[['Lucky', 'sixes', '....']]	Joyful
+s01	e07	c16	u002	['Rachel Green']	Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.	[['Everybody', ',', 'this', 'is', 'Paolo', '.'], ['Paolo', ',', 'I', 'want', 'you', 'to', 'meet', 'my', 'friends', '.'], ['This', 'is', 'Monica', '.']]	Joyful
+s01	e07	c16	u003	['Monica Geller']	Hi!	[['Hi', '!']]	Joyful
+s01	e07	c16	u004	['Rachel Green']	And Joey....	[['And', 'Joey', '....']]	Joyful
+s01	e07	c16	u005	['Monica Geller']	Hi!	[['Hi', '!']]	Joyful
+s01	e07	c16	u006	['Rachel Green']	And Ross.	[['And', 'Ross', '.']]	Joyful
+s01	e07	c16	u007	['Monica Geller']	Hi!	[['Hi', '!']]	Joyful
+s01	e07	c16	u009	['Rachel Green']	He doesn't speak much English.	"[['He', 'does', ""n't"", 'speak', 'much', 'English', '.']]"	Neutral
+s01	e07	c16	u010	['Paolo']	Monopoly!	[['Monopoly', '!']]	Joyful
+s01	e07	c16	u011	['Rachel Green']	Look at that!	[['Look', 'at', 'that', '!']]	Joyful
+s01	e07	c16	u012	['Ross Geller']	So, um... where did Paolo come from?	[['So', ',', 'um', '...'], ['where', 'did', 'Paolo', 'come', 'from', '?']]	Joyful
+s01	e07	c16	u013	['Rachel Green']	Oh... Italy, I think.	[['Oh', '...'], ['Italy', ',', 'I', 'think', '.']]	Joyful
+s01	e07	c16	u014	['Ross Geller']	No, I mean tonight, in the building. Suddenly. Into our lives.	[['No', ',', 'I', 'mean', 'tonight', ',', 'in', 'the', 'building', '.'], ['Suddenly', '.'], ['Into', 'our', 'lives', '.']]	Joyful
+s01	e07	c16	u015	['Rachel Green']	Well, the cat... the cat turned out to be Paolo's cat!	"[['Well', ',', 'the', 'cat', '...'], ['the', 'cat', 'turned', 'out', 'to', 'be', 'Paolo', ""'s"", 'cat', '!']]"	Sad
+s01	e07	c16	u016	['Ross Geller']	That, that is funny... .... and Rachel keeps touching him.	[['That', ',', 'that', 'is', 'funny', '...'], ['....'], ['and', 'Rachel', 'keeps', 'touching', 'him', '.']]	Joyful
+s01	e07	c16	u018	['Phoebe Buffay']	Alright. I looked all over the building and I couldn't find the kitty anywhere.	"[['Alright', '.'], ['I', 'looked', 'all', 'over', 'the', 'building', 'and', 'I', 'could', ""n't"", 'find', 'the', 'kitty', 'anywhere', '.']]"	Powerful
+s01	e07	c16	u019	['Rachel Green']	Oh, I found him. He was Paolo's cat.	"[['Oh', ',', 'I', 'found', 'him', '.'], ['He', 'was', 'Paolo', ""'s"", 'cat', '.']]"	Neutral
+s01	e07	c16	u020	['Phoebe Buffay']	Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.	"[['Ah', '!'], ['Well', '!'], ['There', 'you', 'go', '!'], ['Last', 'to', 'know', 'again', '!'], ['And', 'I', ""'m"", 'guessing', '...'], ['since', 'nobody', 'told', 'me', '...'], ['this', 'is', 'Paolo', '.']]"	Neutral
+s01	e07	c16	u021	['Rachel Green']	Ah, Paolo, this is Phoebe.	[['Ah', ',', 'Paolo', ',', 'this', 'is', 'Phoebe', '.']]	Neutral
+s01	e07	c16	u023	['Phoebe Buffay']	You betcha!	[['You', 'betcha', '!']]	Joyful
+s01	e07	c17	u001	['Chandler Bing']	Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go.	"[['Ah', ',', 'let', ""'s"", 'see', '.'], ['What', 'next', '?'], ['Blow', 'a', 'bubble', '.'], ['A', 'bubble', ""'s"", 'good', '.'], ['It', ""'s"", 'got', 'a', '...'], ['boyish', 'charm', ',', 'it', ""'s"", 'impish', '.'], ['Here', 'we', 'go', '.']]"	Peaceful
+s01	e07	c17	u003	['Chandler Bing']	Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth.	"[['Nice', 'going', ',', 'imp', '.'], ['OK', ',', 'it', ""'s"", 'OK', '.'], ['All', 'I', 'need', 'to', 'do', 'is', 'reach', 'over', 'and', 'put', 'it', 'in', 'my', 'mouth', '.']]"	Joyful
+s01	e07	c17	u004	['Chandler Bing']	Good save! We're back on track, and I'm... ..chewing someone else's gum. This is not my gum. Oh my God! Oh my God! And now you're choking.	"[['Good', 'save', '!'], ['We', ""'re"", 'back', 'on', 'track', ',', 'and', 'I', ""'m"", '...'], ['..'], ['chewing', 'someone', 'else', ""'s"", 'gum', '.'], ['This', 'is', 'not', 'my', 'gum', '.'], ['Oh', 'my', 'God', '!'], ['Oh', 'my', 'God', '!'], ['And', 'now', 'you', ""'re"", 'choking', '.']]"	Scared
+s01	e07	c17	u006	['Jill Goodacre']	Are you alright?	[['Are', 'you', 'alright', '?']]	Scared
+s01	e07	c17	u008	['Jill Goodacre']	My God, you're choking! That better?	"[['My', 'God', ',', 'you', ""'re"", 'choking', '!'], ['That', 'better', '?']]"	Powerful
+s01	e07	c17	u009	['Chandler Bing']	Yes... thank you. That was... that was....	[['Yes', '...'], ['thank', 'you', '.'], ['That', 'was', '...'], ['that', 'was', '....']]	Neutral
+s01	e07	c17	u010	['Jill Goodacre']	Perfection?	[['Perfection', '?']]	Neutral
+s01	e07	c20	u001	['Phoebe Buffay']	Oh, look look look. The last candle's about to burn out. 10, 9, 8, 7... ... negative 46, negative 47, negative 48....	"[['Oh', ',', 'look', 'look', 'look', '.'], ['The', 'last', 'candle', ""'s"", 'about', 'to', 'burn', 'out', '.'], ['10', ',', '9', ',', '8', ',', '7', '...'], ['...'], ['negative', '46', ',', 'negative', '47', ',', 'negative', '48', '....']]"	Scared
+s01	e07	c20	u002	['Ross Geller']	Thank you.	[['Thank', 'you', '.']]	Neutral
+s01	e07	c20	u003	['Phoebe Buffay']	Thanks.	[['Thanks', '.']]	Joyful
+s01	e07	c20	u004	['Ross Geller']	Kinda... spooky without any lights.	[['Kinda', '...'], ['spooky', 'without', 'any', 'lights', '.']]	Scared
+s01	e07	c20	u005	['Joey Tribbiani']	Bwah-hah-hah!	[['Bwah', '-', 'hah', '-', 'hah', '!']]	Joyful
+s01	e07	c20	u007	['Ross Geller']	OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...	[['OK', ',', 'guys', ',', 'guys', '?'], ['I', 'have', 'the', 'definitive', 'one', '.'], ['Mwwwooooo', '-', 'hah', '-', 'hah', '...']]	Joyful
+s01	e07	c20	u009	['Ross Geller']	Oh.. oh... oh.	[['Oh', '..'], ['oh', '...'], ['oh', '.']]	Joyful
+s01	e07	c20	u010	['Joey Tribbiani']	Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica.	"[['Hey', 'Ross', '.'], ['This', 'probably', 'is', ""n't"", 'the', 'best', 'time', 'to', 'bring', 'it', 'up', ',', 'but', 'you', 'have', 'to', 'throw', 'a', 'party', 'for', 'Monica', '.']]"	Joyful

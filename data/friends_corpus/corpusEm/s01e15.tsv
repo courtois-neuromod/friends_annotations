@@ -1,0 +1,92 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s01	e15	c01	u001	['Rachel Green']	Coffee.	[['Coffee', '.']]	Neutral
+s01	e15	c01	u002	['Joey Tribbiani']	Thank you.	[['Thank', 'you', '.']]	Neutral
+s01	e15	c01	u003	['Rachel Green']	Cappuccino.	[['Cappuccino', '.']]	Neutral
+s01	e15	c01	u004	['Ross Geller']	Grazie.	[['Grazie', '.']]	Neutral
+s01	e15	c01	u005	['Rachel Green']	And a nice hot cider for Monica.	[['And', 'a', 'nice', 'hot', 'cider', 'for', 'Monica', '.']]	Neutral
+s01	e15	c01	u006	['Monica Geller']	Aww, thank you. Uh Rach?	[['Aww', ',', 'thank', 'you', '.'], ['Uh', 'Rach', '?']]	Scared
+s01	e15	c01	u007	['Rachel Green']	Yeah?	[['Yeah', '?']]	Neutral
+s01	e15	c01	u008	['Monica Geller']	Why does my cinamon stick have an eraser?	[['Why', 'does', 'my', 'cinamon', 'stick', 'have', 'an', 'eraser', '?']]	Neutral
+s01	e15	c01	u009	['Rachel Green']	Oh! That's why. I'm sorry!	"[['Oh', '!'], ['That', ""'s"", 'why', '.'], ['I', ""'m"", 'sorry', '!']]"	Neutral
+s01	e15	c06	u001	['Monica Geller']	OK, try this salmon mousse.	[['OK', ',', 'try', 'this', 'salmon', 'mousse', '.']]	Joyful
+s01	e15	c06	u002	['Joey Tribbiani']	Mmmm. Good.	[['Mmmm.', 'Good', '.']]	Joyful
+s01	e15	c06	u003	['Monica Geller']	Is it better than the other salmon mousse?	[['Is', 'it', 'better', 'than', 'the', 'other', 'salmon', 'mousse', '?']]	Joyful
+s01	e15	c06	u004	['Joey Tribbiani']	It's creamier.	"[['It', ""'s"", 'creamier', '.']]"	Peaceful
+s01	e15	c06	u005	['Monica Geller']	Yeah, well, is that better?	[['Yeah', ',', 'well', ',', 'is', 'that', 'better', '?']]	Mad
+s01	e15	c06	u006	['Joey Tribbiani']	I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?	"[['I', 'do', ""n't"", 'know', '.'], ['We', ""'re"", 'talking', 'about', 'whipped', 'fish', ',', 'Monica', '.'], ['I', ""'m"", 'just', 'happy', 'I', ""'m"", 'keeping', 'it', 'down', ',', ""y'know"", '?']]"	Joyful
+s01	e15	c06	u008	['Rachel Green']	My God! What happened to you?	[['My', 'God', '!'], ['What', 'happened', 'to', 'you', '?']]	Scared
+s01	e15	c06	u009	['Chandler Bing']	"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? ""You are ideally suited for a career in data processing for a large multinational corporation."""	"[['Eight', 'and', 'a', 'half', 'hours', 'of', 'aptitude', 'tests', ',', 'intelligence', 'tests', ',', 'personality', 'tests', '...'], ['and', 'what', 'do', 'I', 'learn', '?'], ['""', 'You', 'are', 'ideally', 'suited', 'for', 'a', 'career', 'in', 'data', 'processing', 'for', 'a', 'large', 'multinational', 'corporation', '.', '""']]"	Mad
+s01	e15	c06	u010	['Phoebe Buffay']	That's so great! 'Cause you already know how to do that!	"[['That', ""'s"", 'so', 'great', '!'], [""'"", 'Cause', 'you', 'already', 'know', 'how', 'to', 'do', 'that', '!']]"	Joyful
+s01	e15	c06	u011	['Chandler Bing']	Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.	"[['Can', 'you', 'believe', 'it', '?'], ['I', 'mean', ',', 'do', ""n't"", 'I', 'seem', 'like', 'somebody', 'who', 'should', 'be', 'doing', 'something', 'really', 'cool', '?'], ['You', 'know', ',', 'I', 'just', 'always', 'pictured', 'myself', 'doing', 'something', '...'], ['something', '.']]"	Mad
+s01	e15	c06	u012	['Rachel Green']	Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!	[['Oh', 'Chandler', ',', 'I', 'know', ',', 'I', 'know', '...'], ['oh', ',', 'hey', '!'], ['You', 'can', 'see', 'your', 'nipples', 'through', 'this', 'shirt', '!']]	Joyful
+s01	e15	c06	u013	['Monica Geller']	Here you go, maybe this'll cheer you up.	"[['Here', 'you', 'go', ',', 'maybe', 'this', ""'ll"", 'cheer', 'you', 'up', '.']]"	Peaceful
+s01	e15	c06	u014	['Chandler Bing']	Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.	"[['Ooh', ',', 'you', 'know', ',', 'I', 'had', 'a', 'grape', 'about', 'five', 'hours', 'ago', ',', 'so', 'I', ""'d"", 'better', 'split', 'this', 'with', 'you', '.']]"	Mad
+s01	e15	c06	u015	['Monica Geller']	It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.	"[['It', ""'s"", 'supposed', 'to', 'be', 'that', 'small', '.'], ['It', ""'s"", 'a', 'pre-appetizer', '.'], ['The', 'French', 'call', 'it', 'an', 'amouz', '-', 'bouche', '.']]"	Joyful
+s01	e15	c06	u016	['Chandler Bing']	Well.... it is amouz-ing...	[['Well', '....'], ['it', 'is', 'amouz', '-', 'ing', '...']]	Joyful
+s01	e15	c06	u018	['Monica Geller']	Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.	"[['Hello', '?'], ['Oh', ',', 'hi', 'Wendy', '!'], ['Yeah', ',', 'eight', ""o'clock"", '.'], ['What', 'did', 'we', 'say', '?'], ['Ten', 'dollars', 'an', 'hour', '?...'], ['OK', ',', 'great', '.'], ['All', 'right', ',', 'I', ""'ll"", 'see', 'you', 'then', '.'], ['Bye', '.']]"	Joyful
+s01	e15	c06	u019	['Phoebe Buffay']	Ten dollars an hour for what?	[['Ten', 'dollars', 'an', 'hour', 'for', 'what', '?']]	Neutral
+s01	e15	c06	u020	['Monica Geller']	Oh, I asked one of the waitresses at work if she'd help me out.	"[['Oh', ',', 'I', 'asked', 'one', 'of', 'the', 'waitresses', 'at', 'work', 'if', 'she', ""'d"", 'help', 'me', 'out', '.']]"	Neutral
+s01	e15	c06	u021	['Rachel Green']	Waitressing?	[['Waitressing', '?']]	Mad
+s01	e15	c06	u022	['Joey Tribbiani']	Uh-oh.	[['Uh-oh', '.']]	Neutral
+s01	e15	c06	u023	['Monica Geller']	Well... of course I thought of you! But... but...	[['Well', '...'], ['of', 'course', 'I', 'thought', 'of', 'you', '!'], ['But', '...'], ['but', '...']]	Sad
+s01	e15	c06	u024	['Rachel Green']	But, but?	[['But', ',', 'but', '?']]	Mad
+s01	e15	c06	u025	['Monica Geller']	But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.	"[['But', ',', 'you', 'see', ',', 'it', ""'s"", 'just', '...'], ['this', 'night', 'has', 'to', 'go', 'just', 'perfect', ',', 'you', 'know', '?'], ['And', ',', 'well', ',', 'Wendy', ""'s"", 'more', 'of', 'a', '...'], ['professional', 'waitress', '.']]"	Mad
+s01	e15	c06	u026	['Rachel Green']	Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.	"[['Oh', '!'], ['I', 'see', '.'], ['And', 'I', ""'ve"", 'sort', 'of', 'been', 'maintaining', 'my', 'amateur', 'status', 'so', 'that', 'I', 'can', 'waitress', 'in', 'the', 'Olympics', '.']]"	Mad
+s01	e15	c06	u027	['Chandler Bing']	You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?	"[['You', 'know', ',', 'I', 'do', ""n't"", 'mean', 'to', 'brag', ',', 'but', 'I', 'waited', 'tables', 'at', 'Innsbruck', 'in', ""'76"", '.'], ['Amouz', '-', 'bouche', '?']]"	Joyful
+s01	e15	c07	u001	['Celia']	Talk to me.	[['Talk', 'to', 'me', '.']]	Neutral
+s01	e15	c07	u002	['Ross Geller']	OK.... um, a weird thing happened to me on the train this morning...	[['OK', '....'], ['um', ',', 'a', 'weird', 'thing', 'happened', 'to', 'me', 'on', 'the', 'train', 'this', 'morning', '...']]	Scared
+s01	e15	c07	u003	['Celia']	No no no. Talk... dirty.	[['No', 'no', 'no', '.'], ['Talk', '...'], ['dirty', '.']]	Joyful
+s01	e15	c07	u004	['Ross Geller']	Wha... what, here?	[['Wha', '...'], ['what', ',', 'here', '?']]	Scared
+s01	e15	c07	u005	['Celia']	Yes...	[['Yes', '...']]	Neutral
+s01	e15	c07	u006	['Ross Geller']	Ah....	[['Ah', '....']]	Neutral
+s01	e15	c07	u007	['Celia']	Say something..... hot.	[['Say', 'something', '.....'], ['hot', '.']]	Neutral
+s01	e15	c07	u008	['Ross Geller']	Er.... um.....	[['Er', '....'], ['um', '.....']]	Scared
+s01	e15	c07	u009	['Celia']	What?	[['What', '?']]	Neutral
+s01	e15	c07	u010	['Ross Geller']	Um... uh.... vulva.	[['Um', '...'], ['uh', '....'], ['vulva', '.']]	Joyful
+s01	e15	c09	u001	['Chandler Bing']	Well?	[['Well', '?']]	Neutral
+s01	e15	c09	u002	['Phoebe Buffay']	Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.	"[['Wow', '!'], ['It', ""'s"", 'huge', '!'], ['It', ""'s"", 'so', 'much', 'bigger', 'than', 'the', 'cubicle', '.'], ['Oh', ',', 'this', 'is', 'a', 'cube', '.']]"	Joyful
+s01	e15	c09	u003	['Chandler Bing']	Look at this!	[['Look', 'at', 'this', '!']]	Joyful
+s01	e15	c09	u004	['Phoebe Buffay']	Oh! You have a window!	[['Oh', '!'], ['You', 'have', 'a', 'window', '!']]	Joyful
+s01	e15	c09	u005	['Chandler Bing']	Yes indeedy! With a beautiful view of...	[['Yes', 'indeedy', '!'], ['With', 'a', 'beautiful', 'view', 'of', '...']]	Joyful
+s01	e15	c09	u006	['Phoebe Buffay']	Oh look! That guy's peeing!	"[['Oh', 'look', '!'], ['That', 'guy', ""'s"", 'peeing', '!']]"	Joyful
+s01	e15	c09	u007	['Chandler Bing']	OK, that's enough of the view. Check this out, look at this. Sit down, sit down.	"[['OK', ',', 'that', ""'s"", 'enough', 'of', 'the', 'view', '.'], ['Check', 'this', 'out', ',', 'look', 'at', 'this', '.'], ['Sit', 'down', ',', 'sit', 'down', '.']]"	Joyful
+s01	e15	c09	u008	['Phoebe Buffay']	OK.	[['OK', '.']]	Neutral
+s01	e15	c09	u009	['Chandler Bing']	This is great! Helen, could you come in here for a moment?	[['This', 'is', 'great', '!'], ['Helen', ',', 'could', 'you', 'come', 'in', 'here', 'for', 'a', 'moment', '?']]	Powerful
+s01	e15	c09	u011	['Chandler Bing']	Thank you Helen, that'll be all.	"[['Thank', 'you', 'Helen', ',', 'that', ""'ll"", 'be', 'all', '.']]"	Neutral
+s01	e15	c09	u013	['Chandler Bing']	Last time I do that, I promise.	[['Last', 'time', 'I', 'do', 'that', ',', 'I', 'promise', '.']]	Mad
+s01	e15	c10	u001	['Monica Geller']	Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!	[['Wendy', ',', 'we', 'had', 'a', 'deal', '!'], ['Yeah', ',', 'you', 'promised', '!'], ['Wendy', '!'], ['Wendy', '!'], ['Wendy', '!']]	Mad
+s01	e15	c10	u002	['Rachel Green']	Who was that?	[['Who', 'was', 'that', '?']]	Neutral
+s01	e15	c10	u003	['Monica Geller']	Wendy bailed. I have no waitress.	[['Wendy', 'bailed', '.'], ['I', 'have', 'no', 'waitress', '.']]	Mad
+s01	e15	c10	u004	['Rachel Green']	Oh... that's too bad. Bye bye.	"[['Oh', '...'], ['that', ""'s"", 'too', 'bad', '.'], ['Bye', 'bye', '.']]"	Neutral
+s01	e15	c10	u005	['Monica Geller']	Ten dollars an hour.	[['Ten', 'dollars', 'an', 'hour', '.']]	Neutral
+s01	e15	c10	u006	['Rachel Green']	No.	[['No', '.']]	Neutral
+s01	e15	c10	u007	['Monica Geller']	Twelve dollars an hour.	[['Twelve', 'dollars', 'an', 'hour', '.']]	Neutral
+s01	e15	c10	u008	['Rachel Green']	Mon. I wish I could, but I've made plans to walk around.	"[['Mon.', 'I', 'wish', 'I', 'could', ',', 'but', 'I', ""'ve"", 'made', 'plans', 'to', 'walk', 'around', '.']]"	Neutral
+s01	e15	c10	u009	['Monica Geller']	You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.	[['You', 'know', ',', 'Rachel', ',', 'when', 'you', 'ran', 'out', 'of', 'your', 'wedding', ',', 'I', 'was', 'there', 'for', 'you', '.'], ['I', 'put', 'a', 'roof', 'over', 'your', 'head', ',', 'and', 'if', 'that', 'means', 'nothing', 'to', 'you', '...'], ['twenty', 'dollars', 'an', 'hour', '.']]	Scared
+s01	e15	c10	u010	['Rachel Green']	Done.	[['Done', '.']]	Neutral
+s01	e15	c12	u001	['Joey Tribbiani']	What a tool!	[['What', 'a', 'tool', '!']]	Mad
+s01	e15	c12	u002	['Rachel Green']	You don't want to work for a guy like that.	"[['You', 'do', ""n't"", 'want', 'to', 'work', 'for', 'a', 'guy', 'like', 'that', '.']]"	Powerful
+s01	e15	c12	u003	['Ross Geller']	Yeah!	[['Yeah', '!']]	Powerful
+s01	e15	c12	u004	['Monica Geller']	I know... it's just... I thought this was, you know... it.	"[['I', 'know', '...'], ['it', ""'s"", 'just', '...'], ['I', 'thought', 'this', 'was', ',', 'you', 'know', '...'], ['it', '.']]"	Sad
+s01	e15	c12	u005	['Ross Geller']	Look, you'll get there. You're an amazing chef.	"[['Look', ',', 'you', ""'ll"", 'get', 'there', '.'], ['You', ""'re"", 'an', 'amazing', 'chef', '.']]"	Powerful
+s01	e15	c12	u006	['Phoebe Buffay']	Yeah! You know all those yummy noises? I wasn't faking.	"[['Yeah', '!'], ['You', 'know', 'all', 'those', 'yummy', 'noises', '?'], ['I', 'was', ""n't"", 'faking', '.']]"	Joyful
+s01	e15	c12	u008	['Joey Tribbiani']	So, er... how did it go with Celia?	[['So', ',', 'er', '...'], ['how', 'did', 'it', 'go', 'with', 'Celia', '?']]	Scared
+s01	e15	c12	u009	['Ross Geller']	Oh, I was unbelievable.	[['Oh', ',', 'I', 'was', 'unbelievable', '.']]	Powerful
+s01	e15	c12	u010	['Joey Tribbiani']	All right, Ross!	[['All', 'right', ',', 'Ross', '!']]	Powerful
+s01	e15	c12	u011	['Ross Geller']	I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.	[['I', 'was', 'the', 'James', 'Michener', 'of', 'dirty', 'talk', '.'], ['It', 'was', 'the', 'most', 'elaborate', 'filth', 'you', 'have', 'ever', 'heard', '.'], ['I', 'mean', ',', 'there', 'were', 'characters', ',', 'plot', 'lines', ',', 'themes', ',', 'a', 'motif', '...'], ['at', 'one', 'point', 'there', 'were', 'villagers', '.']]	Joyful
+s01	e15	c12	u012	['Joey Tribbiani']	Whoa! And the... huh-huh?	[['Whoa', '!'], ['And', 'the', '...'], ['huh', '-', 'huh', '?']]	Joyful
+s01	e15	c12	u013	['Ross Geller']	Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...	"[['Well', ',', 'ahem', '...'], ['you', 'know', ',', 'by', 'the', 'time', 'we', ""'d"", 'finished', 'with', 'all', 'the', 'dirty', 'talk', ',', 'it', 'was', 'kinda', 'late', '...'], ['and', 'we', 'were', 'both', 'kind', 'of', 'exhausted', ',', 'so', 'uh', '...']]"	Scared
+s01	e15	c12	u014	['Joey Tribbiani']	You cuddled.	[['You', 'cuddled', '.']]	Joyful
+s01	e15	c12	u015	['Ross Geller']	Yeah, which was nice.	[['Yeah', ',', 'which', 'was', 'nice', '.']]	Joyful
+s01	e15	c12	u016	['Phoebe Buffay']	You guys wanna try and catch a late movie or something?	[['You', 'guys', 'wan', 'na', 'try', 'and', 'catch', 'a', 'late', 'movie', 'or', 'something', '?']]	Neutral
+s01	e15	c12	u017	['Rachel Green']	Maybe, but shouldn't we wait for Chandler?	"[['Maybe', ',', 'but', 'should', ""n't"", 'we', 'wait', 'for', 'Chandler', '?']]"	Neutral
+s01	e15	c12	u018	['Joey Tribbiani']	Yeah, where the hell is he?	[['Yeah', ',', 'where', 'the', 'hell', 'is', 'he', '?']]	Scared
+s01	e15	c14	u001	['Phoebe Buffay']	How's this?	"[['How', ""'s"", 'this', '?']]"	Neutral
+s01	e15	c14	u002	['Steve (drug addict)']	Eeeee!	[['Eeeee', '!']]	Joyful
+s01	e15	c14	u003	['Phoebe Buffay']	Sorry. How about over here?	[['Sorry', '.'], ['How', 'about', 'over', 'here', '?']]	Neutral
+s01	e15	c14	u004	['Steve (drug addict)']	Aaaaah!	[['Aaaaah', '!']]	Joyful
+s01	e15	c14	u005	['Phoebe Buffay']	See, that just means it's working. Does this hurt?	"[['See', ',', 'that', 'just', 'means', 'it', ""'s"", 'working', '.'], ['Does', 'this', 'hurt', '?']]"	Neutral
+s01	e15	c14	u006	['Steve (drug addict)']	No.	[['No', '.']]	Neutral
+s01	e15	c14	u007	['Phoebe Buffay']	What about this?	[['What', 'about', 'this', '?']]	Neutral
+s01	e15	c14	u008	['Steve (drug addict)']	Aaaaahhh!!	[['Aaaaahhh', '!!']]	Mad
+s01	e15	c14	u009	['Phoebe Buffay']	There you go!	[['There', 'you', 'go', '!']]	Neutral

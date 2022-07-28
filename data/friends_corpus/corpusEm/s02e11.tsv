@@ -1,0 +1,97 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s02	e11	c01	u002	['Ross Geller']	Ok. Here's his diaper bag, and his uh, Mr. Winky, and uh...oh, him. Hi!	"[['Ok', '.'], ['Here', ""'s"", 'his', 'diaper', 'bag', ',', 'and', 'his', 'uh', ',', 'Mr.', 'Winky', ',', 'and', 'uh', '...'], ['oh', ',', 'him', '.'], ['Hi', '!']]"	Neutral
+s02	e11	c01	u003	['Carol Willick']	So how did everything go?	[['So', 'how', 'did', 'everything', 'go', '?']]	Neutral
+s02	e11	c01	u004	['Ross Geller']	Oh, great. Great. There was a projectile, uh, throwing up incident, but he started it.	[['Oh', ',', 'great', '.'], ['Great', '.'], ['There', 'was', 'a', 'projectile', ',', 'uh', ',', 'throwing', 'up', 'incident', ',', 'but', 'he', 'started', 'it', '.']]	Peaceful
+s02	e11	c01	u005	['Carol Willick']	Well, we've gotta go.	"[['Well', ',', 'we', ""'ve"", 'got', 'ta', 'go', '.']]"	Peaceful
+s02	e11	c01	u006	['Ross Geller']	Ok.	[['Ok', '.']]	Neutral
+s02	e11	c01	u008	['Carol Willick']	Oh, right. Um, I've got some news. It's about us.	"[['Oh', ',', 'right', '.'], ['Um', ',', 'I', ""'ve"", 'got', 'some', 'news', '.'], ['It', ""'s"", 'about', 'us', '.']]"	Neutral
+s02	e11	c01	u009	['Ross Geller']	Oh, you and me?	[['Oh', ',', 'you', 'and', 'me', '?']]	Scared
+s02	e11	c01	u010	['Carol Willick']	Uh, no, Susan and me.	[['Uh', ',', 'no', ',', 'Susan', 'and', 'me', '.']]	Neutral
+s02	e11	c01	u011	['Susan Bunch']	The other us.	[['The', 'other', 'us', '.']]	Neutral
+s02	e11	c01	u012	['Ross Geller']	Ok.	[['Ok', '.']]	Neutral
+s02	e11	c01	u013	['Carol Willick']	We're uh, we're getting married.	"[['We', ""'re"", 'uh', ',', 'we', ""'re"", 'getting', 'married', '.']]"	Neutral
+s02	e11	c01	u014	['Ross Geller']	"As in, ""I now pronounce you wife and wife"" married?"	"[['As', 'in', ',', '""', 'I', 'now', 'pronounce', 'you', 'wife', 'and', 'wife', '""', 'married', '?']]"	Scared
+s02	e11	c01	u015	['Carol Willick']	Anyway, we'd like you to come, but we totally understand if you don't want to.	"[['Anyway', ',', 'we', ""'d"", 'like', 'you', 'to', 'come', ',', 'but', 'we', 'totally', 'understand', 'if', 'you', 'do', ""n't"", 'want', 'to', '.']]"	Neutral
+s02	e11	c01	u016	['Ross Geller']	Why wouldn't I want to come? I had fun at the first wedding.	"[['Why', 'would', ""n't"", 'I', 'want', 'to', 'come', '?'], ['I', 'had', 'fun', 'at', 'the', 'first', 'wedding', '.']]"	Scared
+s02	e11	c01	u017	['Carol Willick']	Look I just thought that...	[['Look', 'I', 'just', 'thought', 'that', '...']]	Neutral
+s02	e11	c01	u018	['Ross Geller']	No no no, I mean, hey, why shouldn't I be happy for you? What would it say about me if I couldn't revel in your joy? I'm revelling baby, believe me!	"[['No', 'no', 'no', ',', 'I', 'mean', ',', 'hey', ',', 'why', 'should', ""n't"", 'I', 'be', 'happy', 'for', 'you', '?'], ['What', 'would', 'it', 'say', 'about', 'me', 'if', 'I', 'could', ""n't"", 'revel', 'in', 'your', 'joy', '?'], ['I', ""'m"", 'revelling', 'baby', ',', 'believe', 'me', '!']]"	Neutral
+s02	e11	c01	u019	['Susan Bunch']	Is your finger caught in that chair?	[['Is', 'your', 'finger', 'caught', 'in', 'that', 'chair', '?']]	Mad
+s02	e11	c01	u020	['Ross Geller']	Mmm hmmm.	[['Mmm', 'hmmm.']]	Neutral
+s02	e11	c01	u021	['Carol Willick']	Want us to go?	[['Want', 'us', 'to', 'go', '?']]	Neutral
+s02	e11	c01	u022	['Ross Geller']	Uh-huh.	[['Uh-huh', '.']]	Neutral
+s02	e11	c03	u002	['Ross Geller']	That is so good! Do it again!	[['That', 'is', 'so', 'good', '!'], ['Do', 'it', 'again', '!']]	Joyful
+s02	e11	c03	u003	['Joey Tribbiani']	"All right, all right. ""Damnit Braverman, it's right there on the chart!"""	"[['All', 'right', ',', 'all', 'right', '.'], ['""', 'Damnit', 'Braverman', ',', 'it', ""'s"", 'right', 'there', 'on', 'the', 'chart', '!', '""']]"	Joyful
+s02	e11	c03	u004	['Chandler Bing']	That's great. All right, I gotta get to work, I got a big dinosaur bone to inspect.	"[['That', ""'s"", 'great', '.'], ['All', 'right', ',', 'I', 'got', 'ta', 'get', 'to', 'work', ',', 'I', 'got', 'a', 'big', 'dinosaur', 'bone', 'to', 'inspect', '.']]"	Joyful
+s02	e11	c03	u005	['Ross Geller']	No no, that's me.	"[['No', 'no', ',', 'that', ""'s"", 'me', '.']]"	Neutral
+s02	e11	c03	u006	['Chandler Bing']	Oh, yeah.	[['Oh', ',', 'yeah', '.']]	Neutral
+s02	e11	c03	u007	['Ross Geller']	Oh, hello.	[['Oh', ',', 'hello', '.']]	Peaceful
+s02	e11	c03	u008	['Phoebe Buffay']	Oh, thanks. I couldn't uh...	"[['Oh', ',', 'thanks', '.'], ['I', 'could', ""n't"", 'uh', '...']]"	Peaceful
+s02	e11	c03	u009	['Ross Geller']	Is everything ok?	[['Is', 'everything', 'ok', '?']]	Scared
+s02	e11	c03	u010	['Phoebe Buffay']	Um, no, huh-uh. One of my clients died on the massage table today.	[['Um', ',', 'no', ',', 'huh', '-', 'uh', '.'], ['One', 'of', 'my', 'clients', 'died', 'on', 'the', 'massage', 'table', 'today', '.']]	Sad
+s02	e11	c03	u011	['Ross Geller']	Oh my god.	[['Oh', 'my', 'god', '.']]	Scared
+s02	e11	c03	u012	['Chandler Bing']	That's a little more relaxed than you want them to get.	"[['That', ""'s"", 'a', 'little', 'more', 'relaxed', 'than', 'you', 'want', 'them', 'to', 'get', '.']]"	Joyful
+s02	e11	c03	u013	['Phoebe Buffay']	Yeah, um, she was 82 years old. Her name was um, Mrs. Adelman.	[['Yeah', ',', 'um', ',', 'she', 'was', '82', 'years', 'old', '.'], ['Her', 'name', 'was', 'um', ',', 'Mrs.', 'Adelman', '.']]	Sad
+s02	e11	c03	u014	['Monica Geller']	Oh, honey.	[['Oh', ',', 'honey', '.']]	Peaceful
+s02	e11	c03	u015	['Phoebe Buffay']	"Yeah, it's just so strange. I mean, she probably woke up today and thought, ""ok, I'll have some breakfast, and then I'll take a little walk, and then I'll have my massage."" Little did she know God was thinking, ""Ok, but that's it."" Oh, but the weirdest thing was, ok, I was cleansing her aura when she died, and when the spirit left her body, I don't think it went very far."	"[['Yeah', ',', 'it', ""'s"", 'just', 'so', 'strange', '.'], ['I', 'mean', ',', 'she', 'probably', 'woke', 'up', 'today', 'and', 'thought', ',', '""', 'ok', ',', 'I', ""'ll"", 'have', 'some', 'breakfast', ',', 'and', 'then', 'I', ""'ll"", 'take', 'a', 'little', 'walk', ',', 'and', 'then', 'I', ""'ll"", 'have', 'my', 'massage', '.', '""'], ['Little', 'did', 'she', 'know', 'God', 'was', 'thinking', ',', '""', 'Ok', ',', 'but', 'that', ""'s"", 'it', '.', '""'], ['Oh', ',', 'but', 'the', 'weirdest', 'thing', 'was', ',', 'ok', ',', 'I', 'was', 'cleansing', 'her', 'aura', 'when', 'she', 'died', ',', 'and', 'when', 'the', 'spirit', 'left', 'her', 'body', ',', 'I', 'do', ""n't"", 'think', 'it', 'went', 'very', 'far', '.']]"	Sad
+s02	e11	c03	u016	['Rachel Green']	What do you mean?	[['What', 'do', 'you', 'mean', '?']]	Scared
+s02	e11	c03	u017	['Phoebe Buffay']	I think it went into me.	[['I', 'think', 'it', 'went', 'into', 'me', '.']]	Scared
+s02	e11	c07	u002	['Monica Geller']	Hi.	[['Hi', '.']]	Neutral
+s02	e11	c07	u003	['Carol Willick']	How's it going?	"[['How', ""'s"", 'it', 'going', '?']]"	Peaceful
+s02	e11	c07	u004	['Monica Geller']	It's goin' great. Right on schedule. Got my little happy helpers.	"[['It', ""'s"", 'goin', ""'"", 'great', '.'], ['Right', 'on', 'schedule', '.'], ['Got', 'my', 'little', 'happy', 'helpers', '.']]"	Joyful
+s02	e11	c07	u005	['Carol Willick']	Fine, whatever.	[['Fine', ',', 'whatever', '.']]	Mad
+s02	e11	c07	u006	['Ross Geller']	What's the matter?	"[['What', ""'s"", 'the', 'matter', '?']]"	Neutral
+s02	e11	c07	u007	['Carol Willick']	Nothing. Ok, everything. I think we're calling off the wedding.	"[['Nothing', '.'], ['Ok', ',', 'everything', '.'], ['I', 'think', 'we', ""'re"", 'calling', 'off', 'the', 'wedding', '.']]"	Sad
+s02	e11	c07	u008	['Ross Geller']	What?	[['What', '?']]	Neutral
+s02	e11	c07	u009	['Monica Geller']	You're still gonna pay me, right? Or something a little less selfish.	"[['You', ""'re"", 'still', 'gon', 'na', 'pay', 'me', ',', 'right', '?'], ['Or', 'something', 'a', 'little', 'less', 'selfish', '.']]"	Mad
+s02	e11	c07	u010	['Ross Geller']	Carol, what's the matter? What happened?	"[['Carol', ',', 'what', ""'s"", 'the', 'matter', '?'], ['What', 'happened', '?']]"	Neutral
+s02	e11	c07	u011	['Carol Willick']	My parents called this afternoon to say they weren't coming.	"[['My', 'parents', 'called', 'this', 'afternoon', 'to', 'say', 'they', 'were', ""n't"", 'coming', '.']]"	Sad
+s02	e11	c07	u012	['Ross Geller']	Oh my god.	[['Oh', 'my', 'god', '.']]	Neutral
+s02	e11	c07	u013	['Carol Willick']	I mean, I knew they were having trouble with this whole thing, but they're my parents. They're supposed to give me away and everything.	"[['I', 'mean', ',', 'I', 'knew', 'they', 'were', 'having', 'trouble', 'with', 'this', 'whole', 'thing', ',', 'but', 'they', ""'re"", 'my', 'parents', '.'], ['They', ""'re"", 'supposed', 'to', 'give', 'me', 'away', 'and', 'everything', '.']]"	Sad
+s02	e11	c07	u014	['Ross Geller']	It's ok. I'm sorry.	"[['It', ""'s"", 'ok', '.'], ['I', ""'m"", 'sorry', '.']]"	Neutral
+s02	e11	c07	u015	['Carol Willick']	And then Susan and I got in this big fight because I said maybe we should call off the wedding, and she said we weren't doing it for them, we were doing it for us, and if I couldn't see that, then maybe we should call off the wedding. I don't know what to do.	"[['And', 'then', 'Susan', 'and', 'I', 'got', 'in', 'this', 'big', 'fight', 'because', 'I', 'said', 'maybe', 'we', 'should', 'call', 'off', 'the', 'wedding', ',', 'and', 'she', 'said', 'we', 'were', ""n't"", 'doing', 'it', 'for', 'them', ',', 'we', 'were', 'doing', 'it', 'for', 'us', ',', 'and', 'if', 'I', 'could', ""n't"", 'see', 'that', ',', 'then', 'maybe', 'we', 'should', 'call', 'off', 'the', 'wedding', '.'], ['I', 'do', ""n't"", 'know', 'what', 'to', 'do', '.']]"	Scared
+s02	e11	c07	u016	['Ross Geller']	I uh can't believe I'm gonna say this, but I think Susan's right.	"[['I', 'uh', 'ca', ""n't"", 'believe', 'I', ""'m"", 'gon', 'na', 'say', 'this', ',', 'but', 'I', 'think', 'Susan', ""'s"", 'right', '.']]"	Powerful
+s02	e11	c07	u017	['Carol Willick']	You do?	[['You', 'do', '?']]	Mad
+s02	e11	c07	u018	['Ross Geller']	Look, do you love her? And you don't have to be too emphatic about this.	"[['Look', ',', 'do', 'you', 'love', 'her', '?'], ['And', 'you', 'do', ""n't"", 'have', 'to', 'be', 'too', 'emphatic', 'about', 'this', '.']]"	Neutral
+s02	e11	c07	u019	['Carol Willick']	Of course I do.	[['Of', 'course', 'I', 'do', '.']]	Mad
+s02	e11	c07	u020	['Ross Geller']	Well then that's it. And if George and Adelaide can't accept that, then the hell with them. Look, if my parents didn't want me to marry you, no way that would have stopped me. Look, this is your wedding. Do it.	"[['Well', 'then', 'that', ""'s"", 'it', '.'], ['And', 'if', 'George', 'and', 'Adelaide', 'ca', ""n't"", 'accept', 'that', ',', 'then', 'the', 'hell', 'with', 'them', '.'], ['Look', ',', 'if', 'my', 'parents', 'did', ""n't"", 'want', 'me', 'to', 'marry', 'you', ',', 'no', 'way', 'that', 'would', 'have', 'stopped', 'me', '.'], ['Look', ',', 'this', 'is', 'your', 'wedding', '.'], ['Do', 'it', '.']]"	Mad
+s02	e11	c07	u021	['Carol Willick']	You're right. Of course you're right.	"[['You', ""'re"", 'right', '.'], ['Of', 'course', 'you', ""'re"", 'right', '.']]"	Neutral
+s02	e11	c07	u022	['Monica Geller']	So we're back on?	"[['So', 'we', ""'re"", 'back', 'on', '?']]"	Scared
+s02	e11	c07	u023	['Carol Willick']	We're back on.	"[['We', ""'re"", 'back', 'on', '.']]"	Powerful
+s02	e11	c07	u024	['Monica Geller']	You heard the woman. Peel, chop, devil! I can't believe I lost 2 minutes.	"[['You', 'heard', 'the', 'woman', '.'], ['Peel', ',', 'chop', ',', 'devil', '!'], ['I', 'ca', ""n't"", 'believe', 'I', 'lost', '2', 'minutes', '.']]"	Powerful
+s02	e11	c08	u002	['Joey Tribbiani']	It just seems so futile, you know ? All these women, and nothing. I feel like Superman without my powers, you know? I have the cape, and yet I cannot fly.	[['It', 'just', 'seems', 'so', 'futile', ',', 'you', 'know', '?'], ['All', 'these', 'women', ',', 'and', 'nothing', '.'], ['I', 'feel', 'like', 'Superman', 'without', 'my', 'powers', ',', 'you', 'know', '?'], ['I', 'have', 'the', 'cape', ',', 'and', 'yet', 'I', 'can', 'not', 'fly', '.']]	Powerful
+s02	e11	c08	u003	['Chandler Bing']	Well now you understand how I feel every single day, ok? The world is my lesbian wedding.	[['Well', 'now', 'you', 'understand', 'how', 'I', 'feel', 'every', 'single', 'day', ',', 'ok', '?'], ['The', 'world', 'is', 'my', 'lesbian', 'wedding', '.']]	Joyful
+s02	e11	c08	u004	['Phoebe Buffay']	Butterscotch? No one? All right, you'll be sorry later.	"[['Butterscotch', '?'], ['No', 'one', '?'], ['All', 'right', ',', 'you', ""'ll"", 'be', 'sorry', 'later', '.']]"	Mad
+s02	e11	c08	u005	['Carol Willick']	Thank you.	[['Thank', 'you', '.']]	Neutral
+s02	e11	c08	u006	['Ross Geller']	Any time.	[['Any', 'time', '.']]	Sad
+s02	e11	c08	u007	['Carol Willick']	Ross.	[['Ross', '.']]	Peaceful
+s02	e11	c08	u008	['Minister']	You know, nothing makes God happier than when two people, any two people, come together in love. Friends, family, we're gathered here today to join Carol and Susan in holy matrimony.	"[['You', 'know', ',', 'nothing', 'makes', 'God', 'happier', 'than', 'when', 'two', 'people', ',', 'any', 'two', 'people', ',', 'come', 'together', 'in', 'love', '.'], ['Friends', ',', 'family', ',', 'we', ""'re"", 'gathered', 'here', 'today', 'to', 'join', 'Carol', 'and', 'Susan', 'in', 'holy', 'matrimony', '.']]"	Powerful
+s02	e11	c08	u009	['Phoebe Buffay']	Oh my god. Now I've seen everything! Whoa, she's gone. She's gone. She's gone! Go ahead, get married. Go, go.	"[['Oh', 'my', 'god', '.'], ['Now', 'I', ""'ve"", 'seen', 'everything', '!'], ['Whoa', ',', 'she', ""'s"", 'gone', '.'], ['She', ""'s"", 'gone', '.'], ['She', ""'s"", 'gone', '!'], ['Go', 'ahead', ',', 'get', 'married', '.'], ['Go', ',', 'go', '.']]"	Joyful
+s02	e11	c09	u002	['Monica Geller']	Would you look at them?	[['Would', 'you', 'look', 'at', 'them', '?']]	Joyful
+s02	e11	c09	u003	['Ross Geller']	Yeah, can't help but.	"[['Yeah', ',', 'ca', ""n't"", 'help', 'but', '.']]"	Powerful
+s02	e11	c09	u004	['Joey Tribbiani']	How's that pig-in-the-blanket workin' out for you? I wrapped those bad boys.	"[['How', ""'s"", 'that', 'pig', '-', 'in', '-', 'the', '-', 'blanket', 'workin', ""'"", 'out', 'for', 'you', '?'], ['I', 'wrapped', 'those', 'bad', 'boys', '.']]"	Peaceful
+s02	e11	c09	u005	['Phoebe Buffay']	I miss Rose.	[['I', 'miss', 'Rose', '.']]	Scared
+s02	e11	c09	u006	['Chandler Bing']	Oh, yeah?	[['Oh', ',', 'yeah', '?']]	Sad
+s02	e11	c09	u007	['Phoebe Buffay']	I know it's kind of weird, but I mean, she was a big part of my life there, you know, and now I just feel kind of alone.	"[['I', 'know', 'it', ""'s"", 'kind', 'of', 'weird', ',', 'but', 'I', 'mean', ',', 'she', 'was', 'a', 'big', 'part', 'of', 'my', 'life', 'there', ',', 'you', 'know', ',', 'and', 'now', 'I', 'just', 'feel', 'kind', 'of', 'alone', '.']]"	Sad
+s02	e11	c09	u008	['Woman']	You know, I uh, I couldn't help but overhear what you just said, and I think it's time for you to forget about Rose, move on with your life...how 'bout we go get you a drink?	"[['You', 'know', ',', 'I', 'uh', ',', 'I', 'could', ""n't"", 'help', 'but', 'overhear', 'what', 'you', 'just', 'said', ',', 'and', 'I', 'think', 'it', ""'s"", 'time', 'for', 'you', 'to', 'forget', 'about', 'Rose', ',', 'move', 'on', 'with', 'your', 'life', '...'], ['how', ""'"", 'bout', 'we', 'go', 'get', 'you', 'a', 'drink', '?']]"	Mad
+s02	e11	c09	u009	['Phoebe Buffay']	Ok, that's so nice.	"[['Ok', ',', 'that', ""'s"", 'so', 'nice', '.']]"	Peaceful
+s02	e11	c09	u010	['Chandler Bing']	I shouldn't even bother coming up with a line, right?	"[['I', 'should', ""n't"", 'even', 'bother', 'coming', 'up', 'with', 'a', 'line', ',', 'right', '?']]"	Powerful
+s02	e11	c09	u011	['Rachel Green']	Hey, Mom? Having fun?	[['Hey', ',', 'Mom', '?'], ['Having', 'fun', '?']]	Joyful
+s02	e11	c09	u012	['Sandra Green']	Oh, am I! I just danced with a wonderfully large woman. And three other girls made eyes at me over the buffet. Oh, I'm not saying it's something I wanna pursue, but it's nice to know I have options.	"[['Oh', ',', 'am', 'I', '!'], ['I', 'just', 'danced', 'with', 'a', 'wonderfully', 'large', 'woman', '.'], ['And', 'three', 'other', 'girls', 'made', 'eyes', 'at', 'me', 'over', 'the', 'buffet', '.'], ['Oh', ',', 'I', ""'m"", 'not', 'saying', 'it', ""'s"", 'something', 'I', 'wan', 'na', 'pursue', ',', 'but', 'it', ""'s"", 'nice', 'to', 'know', 'I', 'have', 'options', '.']]"	Joyful
+s02	e11	c09	u013	['Rachel Green']	There's more alcohol, right?	"[['There', ""'s"", 'more', 'alcohol', ',', 'right', '?']]"	Joyful
+s02	e11	c10	u002	['Susan Bunch']	How you doin'?	"[['How', 'you', 'doin', ""'"", '?']]"	Neutral
+s02	e11	c10	u003	['Ross Geller']	Ok.	[['Ok', '.']]	Neutral
+s02	e11	c10	u004	['Susan Bunch']	You did a good thing today.	[['You', 'did', 'a', 'good', 'thing', 'today', '.']]	Neutral
+s02	e11	c10	u005	['Ross Geller']	Yeah.	[['Yeah', '.']]	Neutral
+s02	e11	c10	u006	['Susan Bunch']	You wanna dance?	[['You', 'wan', 'na', 'dance', '?']]	Neutral
+s02	e11	c10	u007	['Ross Geller']	No, that's fine.	"[['No', ',', 'that', ""'s"", 'fine', '.']]"	Neutral
+s02	e11	c10	u008	['Susan Bunch']	Come on. I'll let you lead.	"[['Come', 'on', '.'], ['I', ""'ll"", 'let', 'you', 'lead', '.']]"	Neutral
+s02	e11	c10	u009	['Ross Geller']	Ok.	[['Ok', '.']]	Neutral
+s02	e11	c10	u010	['Chandler Bing']	All right look. Penis schmenis. We're all people.	"[['All', 'right', 'look', '.'], ['Penis', 'schmenis', '.'], ['We', ""'re"", 'all', 'people', '.']]"	Sad
+s02	e11	c11	u002	['Monica Geller']	Ok, which one of us do you think is gonna be the first one to get married?	[['Ok', ',', 'which', 'one', 'of', 'us', 'do', 'you', 'think', 'is', 'gon', 'na', 'be', 'the', 'first', 'one', 'to', 'get', 'married', '?']]	Neutral
+s02	e11	c11	u003	['Ross Geller']	Well, Mon, I was married.	[['Well', ',', 'Mon', ',', 'I', 'was', 'married', '.']]	Peaceful
+s02	e11	c11	u004	['Phoebe Buffay']	Yeah, me, too, technically.	[['Yeah', ',', 'me', ',', 'too', ',', 'technically', '.']]	Neutral
+s02	e11	c11	u005	['Rachel Green']	I had a wedding.	[['I', 'had', 'a', 'wedding', '.']]	Neutral
+s02	e11	c11	u006	['Monica Geller']	All right, just trying to start an interesting discussion.	[['All', 'right', ',', 'just', 'trying', 'to', 'start', 'an', 'interesting', 'discussion', '.']]	Neutral
+s02	e11	c11	u007	['Joey Tribbiani']	I got one. Which one of us do you think will be the last to get married?	[['I', 'got', 'one', '.'], ['Which', 'one', 'of', 'us', 'do', 'you', 'think', 'will', 'be', 'the', 'last', 'to', 'get', 'married', '?']]	Joyful
+s02	e11	c11	u008	['Chandler Bing']	Isn't Ben in this?	"[['Is', ""n't"", 'Ben', 'in', 'this', '?']]"	Mad
+s02	e11	c11	u009	['#ALL#']	Oh, yeah!	[['Oh', ',', 'yeah', '!']]	Joyful

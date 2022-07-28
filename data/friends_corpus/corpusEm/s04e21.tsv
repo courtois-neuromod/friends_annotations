@@ -1,0 +1,145 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e21	c02	u002	['Emily Waltham']	So what did he decide? Does your Uncle Nathan get an invite or not?	[['So', 'what', 'did', 'he', 'decide', '?'], ['Does', 'your', 'Uncle', 'Nathan', 'get', 'an', 'invite', 'or', 'not', '?']]	Scared
+s04	e21	c02	u003	['Ross Geller']	Ohh, God, nobody likes him, and he's so cheap, he'd never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough?	"[['Ohh', ',', 'God', ',', 'nobody', 'likes', 'him', ',', 'and', 'he', ""'s"", 'so', 'cheap', ',', 'he', ""'d"", 'never', 'fly', 'to', 'London', 'in', 'a', 'million', 'years', '.'], ['Yeah', ',', 'invite', 'him', '?'], ['Hey', ',', 'did', 'I', 'do', 'these', 'neat', 'enough', '?']]"	Scared
+s04	e21	c02	u004	['Emily Waltham']	Yeah, they're fine.	"[['Yeah', ',', 'they', ""'re"", 'fine', '.']]"	Joyful
+s04	e21	c02	u005	['Ross Geller']	Yeah?	[['Yeah', '?']]	Peaceful
+s04	e21	c02	u006	['Emily Waltham']	If anyone asks, we'll just say Ben addressed them. Oh! So you invited Rachel then?	"[['If', 'anyone', 'asks', ',', 'we', ""'ll"", 'just', 'say', 'Ben', 'addressed', 'them', '.'], ['Oh', '!'], ['So', 'you', 'invited', 'Rachel', 'then', '?']]"	Powerful
+s04	e21	c02	u007	['Ross Geller']	Sure. Why not?	[['Sure', '.'], ['Why', 'not', '?']]	Peaceful
+s04	e21	c02	u008	['Emily Waltham']	Really?	[['Really', '?']]	Scared
+s04	e21	c02	u009	['Ross Geller']	Yeah?	[['Yeah', '?']]	Peaceful
+s04	e21	c02	u010	['Emily Waltham']	I don't think I'd be comfortable with any of my old lovers there.	"[['I', 'do', ""n't"", 'think', 'I', ""'d"", 'be', 'comfortable', 'with', 'any', 'of', 'my', 'old', 'lovers', 'there', '.']]"	Powerful
+s04	e21	c02	u011	['Ross Geller']	Wait-wait-wait, do you, do you think, maybe we shouldn't invite her?	"[['Wait', '-', 'wait', '-', 'wait', ',', 'do', 'you', ',', 'do', 'you', 'think', ',', 'maybe', 'we', 'should', ""n't"", 'invite', 'her', '?']]"	Peaceful
+s04	e21	c02	u012	['Emily Waltham']	Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you. But it's absolutely your decision. More tea?	"[['Oh', ',', 'no', '-', 'no', ',', ""y'know"", 'I', 'absolutely', 'adore', 'Rachel', 'it', ""'s"", 'just', 'that', ',', 'well', 'it', 'might', 'be', 'a', 'awkward', 'for', 'you', '.'], ['But', 'it', ""'s"", 'absolutely', 'your', 'decision', '.'], ['More', 'tea', '?']]"	Sad
+s04	e21	c02	u013	['Ross Geller']	Yeah sure.	[['Yeah', 'sure', '.']]	Peaceful
+s04	e21	c02	u014	['Emily Waltham']	Earl Grey?	[['Earl', 'Grey', '?']]	Mad
+s04	e21	c02	u015	['Ross Geller']	Huh? Yeah, fine, invite whoever you want.	[['Huh', '?'], ['Yeah', ',', 'fine', ',', 'invite', 'whoever', 'you', 'want', '.']]	Peaceful
+s04	e21	c03	u002	['Ross Geller']	I don't want to be single, okay? I just... I just- I just wanna be married again!	"[['I', 'do', ""n't"", 'want', 'to', 'be', 'single', ',', 'okay', '?'], ['I', 'just', '...'], ['I', 'just', '-', 'I', 'just', 'wan', 'na', 'be', 'married', 'again', '!']]"	Mad
+s04	e21	c03	u004	['Chandler Bing']	And I just want a million dollars!	[['And', 'I', 'just', 'want', 'a', 'million', 'dollars', '!']]	Peaceful
+s04	e21	c03	u005	['Monica Geller']	Rachel?!	[['Rachel', '?!']]	Scared
+s04	e21	c03	u006	['Rachel Green']	Oh God Monica hi! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!	"[['Oh', 'God', 'Monica', 'hi', '!'], ['I', 'just', 'went', 'to', 'your', 'building', 'and', 'you', 'were', ""n't"", 'there', 'and', 'then', 'this', 'guy', 'with', 'a', 'big', 'hammer', 'said', 'you', 'might', 'be', 'here', 'and', 'you', 'are', ',', 'you', 'are', '!']]"	Mad
+s04	e21	c03	u008	['Monica Geller']	Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?	[['Okay', ',', 'everybody', ',', 'this', 'is', 'Rachel', ',', 'another', 'Lincoln', 'High', 'survivor', '.'], ['This', 'is', 'everybody', ',', 'this', 'is', 'Chandler', ',', 'and', 'Phoebe', ',', 'and', 'Joey', ',', 'and', '-', 'you', 'remember', 'my', 'brother', 'Ross', '?']]	Powerful
+s04	e21	c03	u009	['Rachel Green']	Hi, sure!	[['Hi', ',', 'sure', '!']]	Peaceful
+s04	e21	c03	u010	['Ross Geller']	Hi.	[['Hi', '.']]	Neutral
+s04	e21	c04	u002	['Ross Geller']	You know you probably didn't know this, but back in high school, I had a, um, major crush on you.	"[['You', 'know', 'you', 'probably', 'did', ""n't"", 'know', 'this', ',', 'but', 'back', 'in', 'high', 'school', ',', 'I', 'had', 'a', ',', 'um', ',', 'major', 'crush', 'on', 'you', '.']]"	Peaceful
+s04	e21	c04	u003	['Rachel Green']	I knew.	[['I', 'knew', '.']]	Neutral
+s04	e21	c04	u004	['Ross Geller']	You did! Oh.... I always figured you just thought I was Monica's geeky older brother.	"[['You', 'did', '!'], ['Oh', '....'], ['I', 'always', 'figured', 'you', 'just', 'thought', 'I', 'was', 'Monica', ""'s"", 'geeky', 'older', 'brother', '.']]"	Powerful
+s04	e21	c04	u005	['Rachel Green']	I did.	[['I', 'did', '.']]	Peaceful
+s04	e21	c04	u006	['Ross Geller']	Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?	[['Oh', '.'], ['Listen', ',', 'do', 'you', 'think', '-', 'and', 'try', 'not', 'to', 'let', 'my', 'intense', 'vulnerability', 'become', 'any', 'kind', 'of', 'a', 'factor', 'here', '-', 'but', 'do', 'you', 'think', 'it', 'would', 'be', 'okay', 'if', 'I', 'asked', 'you', 'out', '?'], ['Sometime', '?'], ['Maybe', '?']]	Powerful
+s04	e21	c04	u007	['Rachel Green']	Yeah, maybe...	[['Yeah', ',', 'maybe', '...']]	Powerful
+s04	e21	c04	u008	['Ross Geller']	Okay... okay, maybe I will...	[['Okay', '...'], ['okay', ',', 'maybe', 'I', 'will', '...']]	Powerful
+s04	e21	c05	u002	['Ross Geller']	See, I see.... big passion in your future.	[['See', ',', 'I', 'see', '....'], ['big', 'passion', 'in', 'your', 'future', '.']]	Powerful
+s04	e21	c05	u003	['Rachel Green']	Really?	[['Really', '?']]	Neutral
+s04	e21	c05	u004	['Ross Geller']	I do.	[['I', 'do', '.']]	Neutral
+s04	e21	c05	u005	['Rachel Green']	Oh Ross, you're so great.	"[['Oh', 'Ross', ',', 'you', ""'re"", 'so', 'great', '.']]"	Joyful
+s04	e21	c05	u007	['Joey Tribbiani']	It's never gonna happen.	"[['It', ""'s"", 'never', 'gon', 'na', 'happen', '.']]"	Neutral
+s04	e21	c06	u002	['Ross Geller']	Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.	"[['Hey', ',', 'I', 'have', 'a', 'question', '.'], ['Well', ',', 'actually', ',', 'it', ""'s"", 'not', 'so', 'much', 'a', 'question', 'as', '..'], ['more', 'of', 'a', 'general', 'wondering', '...'], ['ment', '.']]"	Neutral
+s04	e21	c06	u003	['Rachel Green']	Okay.	[['Okay', '.']]	Neutral
+s04	e21	c06	u004	['Ross Geller']	Okay. Umm, for a while now, I've been wanting to, um....	"[['Okay', '.'], ['Umm', ',', 'for', 'a', 'while', 'now', ',', 'I', ""'ve"", 'been', 'wanting', 'to', ',', 'um', '....']]"	Neutral
+s04	e21	c06	u005	['Rachel Green']	Ohhh!!!!	[['Ohhh', '!!!!']]	Scared
+s04	e21	c06	u006	['Ross Geller']	Yes, yes, that's right...	"[['Yes', ',', 'yes', ',', 'that', ""'s"", 'right', '...']]"	Neutral
+s04	e21	c06	u007	['Rachel Green']	Oh, look at the little cat! Look at it!	[['Oh', ',', 'look', 'at', 'the', 'little', 'cat', '!'], ['Look', 'at', 'it', '!']]	Joyful
+s04	e21	c06	u008	['Ross Geller']	What? Ow!	[['What', '?'], ['Ow', '!']]	Scared
+s04	e21	c06	u010	['Joey Tribbiani', 'Monica Geller', 'Phoebe Buffay']	I'm on top of the world, looking down on creation and the only explanation I can find...	"[['I', ""'m"", 'on', 'top', 'of', 'the', 'world', ',', 'looking', 'down', 'on', 'creation', 'and', 'the', 'only', 'explanation', 'I', 'can', 'find', '...']]"	Joyful
+s04	e21	c07	u002	['Rachel Green']	All right, listen, missy. If you want this cart, you're gonna have to take me with it!	"[['All', 'right', ',', 'listen', ',', 'missy', '.'], ['If', 'you', 'want', 'this', 'cart', ',', 'you', ""'re"", 'gon', 'na', 'have', 'to', 'take', 'me', 'with', 'it', '!']]"	Mad
+s04	e21	c07	u004	['Rachel Green']	Yes! Did you see that?	[['Yes', '!'], ['Did', 'you', 'see', 'that', '?']]	Joyful
+s04	e21	c07	u005	['Ross Geller']	You were incredible! Brand new woman, ladies and gentlemen.	[['You', 'were', 'incredible', '!'], ['Brand', 'new', 'woman', ',', 'ladies', 'and', 'gentlemen', '.']]	Joyful
+s04	e21	c07	u006	['Rachel Green']	I could not have done this without you.	[['I', 'could', 'not', 'have', 'done', 'this', 'without', 'you', '.']]	Powerful
+s04	e21	c07	u008	['Ross Geller']	Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.	"[['Ok', ',', 'um', ',', 'uh', ',', 'more', 'clothes', 'in', 'the', 'dryer', '?'], ['I', ""'m"", 'fine', ',', 'I', ""'m"", 'fine', '.']]"	Peaceful
+s04	e21	c08	u002	['Ross Geller']	You had no right to tell me you ever had feelings for me.	[['You', 'had', 'no', 'right', 'to', 'tell', 'me', 'you', 'ever', 'had', 'feelings', 'for', 'me', '.']]	Mad
+s04	e21	c08	u003	['Rachel Green']	What?	[['What', '?']]	Sad
+s04	e21	c08	u004	['Ross Geller']	I was doing great with Julie before I found out about you.	[['I', 'was', 'doing', 'great', 'with', 'Julie', 'before', 'I', 'found', 'out', 'about', 'you', '.']]	Mad
+s04	e21	c08	u005	['Rachel Green']	Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?	"[['Hey', ',', 'I', 'was', 'doin', ""'"", 'great', 'before', 'I', 'found', 'out', 'about', 'you', '.'], ['You', 'think', 'it', ""'s"", 'easy', 'for', 'me', 'to', 'see', 'you', 'with', 'Julie', '?']]"	Mad
+s04	e21	c08	u007	['Ross Geller']	The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.	"[['The', 'point', 'is', 'I', '...'], ['I', 'do', ""n't"", 'need', 'this', 'right', 'now', ',', 'OK', '.'], ['It', ',', 'it', ""'s"", 'too', 'late', ',', 'I', ""'m"", 'with', 'somebody', 'else', ',', 'I', ""'m"", 'happy', '.'], ['This', 'ship', 'has', 'sailed', '.']]"	Mad
+s04	e21	c08	u009	['Rachel Green']	Alright, fine, you go ahead and you do that, alright Ross.	[['Alright', ',', 'fine', ',', 'you', 'go', 'ahead', 'and', 'you', 'do', 'that', ',', 'alright', 'Ross', '.']]	Mad
+s04	e21	c08	u010	['Ross Geller']	Fine.	[['Fine', '.']]	Mad
+s04	e21	c08	u011	['Rachel Green']	'Cause I don't need your stupid ship.	"[[""'"", 'Cause', 'I', 'do', ""n't"", 'need', 'your', 'stupid', 'ship', '.']]"	Mad
+s04	e21	c08	u012	['Ross Geller']	Good.	[['Good', '.']]	Mad
+s04	e21	c08	u013	['Rachel Green']	Good.	[['Good', '.']]	Mad
+s04	e21	c09	u002	['Rachel Green']	Ross do you realise this is the first time in my life I'm doing something I actually care about. This is the first time in my life I'm doing something that I'm actually good at. I mean. if you don't get that...	"[['Ross', 'do', 'you', 'realise', 'this', 'is', 'the', 'first', 'time', 'in', 'my', 'life', 'I', ""'m"", 'doing', 'something', 'I', 'actually', 'care', 'about', '.'], ['This', 'is', 'the', 'first', 'time', 'in', 'my', 'life', 'I', ""'m"", 'doing', 'something', 'that', 'I', ""'m"", 'actually', 'good', 'at', '.'], ['I', 'mean', '.'], ['if', 'you', 'do', ""n't"", 'get', 'that', '...']]"	Powerful
+s04	e21	c09	u003	['Ross Geller']	No, hey, I get that, okay, I get that big time. And I'm happy for ya, but I'm tired of having a relationship with your answering machine! Okay, I don't know what to do anymore.	"[['No', ',', 'hey', ',', 'I', 'get', 'that', ',', 'okay', ',', 'I', 'get', 'that', 'big', 'time', '.'], ['And', 'I', ""'m"", 'happy', 'for', 'ya', ',', 'but', 'I', ""'m"", 'tired', 'of', 'having', 'a', 'relationship', 'with', 'your', 'answering', 'machine', '!'], ['Okay', ',', 'I', 'do', ""n't"", 'know', 'what', 'to', 'do', 'anymore', '.']]"	Sad
+s04	e21	c09	u004	['Rachel Green']	Well neither do I!	[['Well', 'neither', 'do', 'I', '!']]	Peaceful
+s04	e21	c09	u005	['Ross Geller']	Is this about Mark?	[['Is', 'this', 'about', 'Mark', '?']]	Scared
+s04	e21	c09	u006	['Rachel Green']	Oh my God.	[['Oh', 'my', 'God', '.']]	Scared
+s04	e21	c09	u007	['Ross Geller']	Okay, it's not, it's not.	"[['Okay', ',', 'it', ""'s"", 'not', ',', 'it', ""'s"", 'not', '.']]"	Mad
+s04	e21	c09	u008	['Rachel Green']	Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard.	"[['Oh', 'my', 'God', '.'], ['I', 'can', 'not', 'keep', 'having', 'this', 'same', 'fight', 'over', 'and', 'over', 'again', ',', 'Ross', ',', 'no', ',', 'you', ""'re"", ',', 'you', ""'re"", ',', 'you', ""'re"", 'making', 'this', 'too', 'hard', '.']]"	Powerful
+s04	e21	c09	u009	['Ross Geller']	Oh I'm, I'm making this too hard. Okay, what do you want me to do.	"[['Oh', 'I', ""'m"", ',', 'I', ""'m"", 'making', 'this', 'too', 'hard', '.'], ['Okay', ',', 'what', 'do', 'you', 'want', 'me', 'to', 'do', '.']]"	Peaceful
+s04	e21	c09	u010	['Rachel Green']	I don't know, I don't know. Urrrgh! Look, maybe we should take a break.	"[['I', 'do', ""n't"", 'know', ',', 'I', 'do', ""n't"", 'know', '.'], ['Urrrgh', '!'], ['Look', ',', 'maybe', 'we', 'should', 'take', 'a', 'break', '.']]"	Scared
+s04	e21	c09	u011	['Ross Geller']	Okay, okay, fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yogart, or something..	"[['Okay', ',', 'okay', ',', 'fine', ',', 'you', ""'re"", 'right', '.'], ['Let', ""'s"", 'ah', ',', 'let', ""'s"", 'take', 'a', 'break', ',', 'let', ""'s"", 'cool', 'off', ',', 'okay', ',', 'let', ""'s"", 'get', 'some', 'frozen', 'yogart', ',', 'or', 'something', '..']]"	Powerful
+s04	e21	c09	u012	['Rachel Green']	No. A break from us.	[['No', '.'], ['A', 'break', 'from', 'us', '.']]	Sad
+s04	e21	c10	u002	['Chloe']	Do I know why we're rushing?	"[['Do', 'I', 'know', 'why', 'we', ""'re"", 'rushing', '?']]"	Scared
+s04	e21	c10	u003	['Ross Geller']	Yeah, y'know the ah, the girlfriend I told you about last night? Well it turns out she ah, she wants to get back together with me. Oh, I found it!!	"[['Yeah', ',', ""y'know"", 'the', 'ah', ',', 'the', 'girlfriend', 'I', 'told', 'you', 'about', 'last', 'night', '?'], ['Well', 'it', 'turns', 'out', 'she', 'ah', ',', 'she', 'wants', 'to', 'get', 'back', 'together', 'with', 'me', '.'], ['Oh', ',', 'I', 'found', 'it', '!!']]"	Peaceful
+s04	e21	c10	u004	['Chloe']	That's so great for you guys!	"[['That', ""'s"", 'so', 'great', 'for', 'you', 'guys', '!']]"	Joyful
+s04	e21	c10	u005	['Ross Geller']	Yeah!	[['Yeah', '!']]	Scared
+s04	e21	c10	u007	['Chloe']	Good luck, with your girlfriend.	[['Good', 'luck', ',', 'with', 'your', 'girlfriend', '.']]	Joyful
+s04	e21	c10	u008	['Ross Geller']	Oh, thank you. Hey, hey. Rachel!!!!	[['Oh', ',', 'thank', 'you', '.'], ['Hey', ',', 'hey', '.'], ['Rachel', '!!!!']]	Scared
+s04	e21	c10	u009	['Rachel Green']	Hi. Ohhh, you got my message.	[['Hi', '.'], ['Ohhh', ',', 'you', 'got', 'my', 'message', '.']]	Joyful
+s04	e21	c10	u010	['Ross Geller']	Yeah, oh hey, you are right on time.	[['Yeah', ',', 'oh', 'hey', ',', 'you', 'are', 'right', 'on', 'time', '.']]	Scared
+s04	e21	c10	u011	['Rachel Green']	So what do you say? Can I be your girlfriend again?	[['So', 'what', 'do', 'you', 'say', '?'], ['Can', 'I', 'be', 'your', 'girlfriend', 'again', '?']]	Peaceful
+s04	e21	c10	u012	['Ross Geller']	Yes, you can, very much.	[['Yes', ',', 'you', 'can', ',', 'very', 'much', '.']]	Powerful
+s04	e21	c10	u014	['Ross Geller']	Ahhhh!!	[['Ahhhh', '!!']]	Scared
+s04	e21	c11	u002	['Rachel Green']	Y'know what, I want you to leave! Get outta here!	"[[""Y'know"", 'what', ',', 'I', 'want', 'you', 'to', 'leave', '!'], ['Get', 'outta', 'here', '!']]"	Mad
+s04	e21	c11	u003	['Ross Geller']	No!!	[['No', '!!']]	Mad
+s04	e21	c11	u004	['Rachel Green']	Just get out! Now!!	[['Just', 'get', 'out', '!'], ['Now', '!!']]	Mad
+s04	e21	c11	u005	['Ross Geller']	No!! No!! I wanna stay. I wanna talk about this.	[['No', '!!'], ['No', '!!'], ['I', 'wan', 'na', 'stay', '.'], ['I', 'wan', 'na', 'talk', 'about', 'this', '.']]	Powerful
+s04	e21	c11	u006	['Rachel Green']	Okay! All right! How was she?	[['Okay', '!'], ['All', 'right', '!'], ['How', 'was', 'she', '?']]	Neutral
+s04	e21	c11	u008	['Chandler Bing']	Uh-oh.	[['Uh-oh', '.']]	Scared
+s04	e21	c11	u010	['Ross Geller']	What?	[['What', '?']]	Neutral
+s04	e21	c11	u011	['Rachel Green']	Was she good?	[['Was', 'she', 'good', '?']]	Neutral
+s04	e21	c11	u013	['Joey Tribbiani']	Don't answer that.	"[['Do', ""n't"", 'answer', 'that', '.']]"	Neutral
+s04	e21	c11	u015	['Rachel Green']	Come on Ross! You said you wanted to talk about it, let's talk about it!! How was she?	"[['Come', 'on', 'Ross', '!'], ['You', 'said', 'you', 'wanted', 'to', 'talk', 'about', 'it', ',', 'let', ""'s"", 'talk', 'about', 'it', '!!'], ['How', 'was', 'she', '?']]"	Mad
+s04	e21	c11	u016	['Ross Geller']	She was...	[['She', 'was', '...']]	Scared
+s04	e21	c11	u018	['Joey Tribbiani']	Awful! Horrible!	[['Awful', '!'], ['Horrible', '!']]	Mad
+s04	e21	c11	u019	['Chandler Bing']	She was not good. Not good.	[['She', 'was', 'not', 'good', '.'], ['Not', 'good', '.']]	Neutral
+s04	e21	c11	u020	['Joey Tribbiani']	She was nothing compared to you.	[['She', 'was', 'nothing', 'compared', 'to', 'you', '.']]	Neutral
+s04	e21	c11	u022	['Ross Geller']	She, she was different.	[['She', ',', 'she', 'was', 'different', '.']]	Peaceful
+s04	e21	c11	u024	['Joey Tribbiani']	Ewwwww!	[['Ewwwww', '!']]	Neutral
+s04	e21	c11	u025	['Chandler Bing']	Uh-oh.	[['Uh-oh', '.']]	Scared
+s04	e21	c11	u027	['Rachel Green']	Good different?	[['Good', 'different', '?']]	Neutral
+s04	e21	c11	u028	['Ross Geller']	Nobody likes change.	[['Nobody', 'likes', 'change', '.']]	Neutral
+s04	e21	c11	u030	['Ross Geller']	What? Okay, okay, okay, okay.	[['What', '?'], ['Okay', ',', 'okay', ',', 'okay', ',', 'okay', '.']]	Neutral
+s04	e21	c14	u002	['Rachel Green']	You seem to really like her.	[['You', 'seem', 'to', 'really', 'like', 'her', '.']]	Joyful
+s04	e21	c14	u003	['Ross Geller']	Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y'know no commitment.	"[['Yeah', ',', 'I', 'really', 'do', '.'], ['Yeah', ',', 'but', 'what', 'am', 'I', 'gon', 'na', 'do', ',', 'I', 'mean', 'we', '-', 'we', 'both', 'agreed', 'that', 'it', 'was', 'gon', 'na', 'be', 'a', 'two', '-', 'week', 'thing', ',', ""y'know"", 'no', 'commitment', '.']]"	Neutral
+s04	e21	c14	u004	['Rachel Green']	Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica's photo albums, I mean you don't do that if you're just in it for two weeks.	"[['Ross', ',', 'that', 'girl', 'just', 'spent', 'the', 'entire', 'evening', 'talking', 'to', 'your', 'friends', ',', 'asking', 'to', 'hear', 'stories', 'about', 'you', ',', 'looking', 'through', 'Monica', ""'s"", 'photo', 'albums', ',', 'I', 'mean', 'you', 'do', ""n't"", 'do', 'that', 'if', 'you', ""'re"", 'just', 'in', 'it', 'for', 'two', 'weeks', '.']]"	Neutral
+s04	e21	c14	u005	['Ross Geller']	You think?	[['You', 'think', '?']]	Neutral
+s04	e21	c14	u006	['Rachel Green']	Yeah, you got like 14 hours until she has to be at the airport, and you're sitting here in the hallway with a 28-year-old cheerleader with a fat lip.	"[['Yeah', ',', 'you', 'got', 'like', '14', 'hours', 'until', 'she', 'has', 'to', 'be', 'at', 'the', 'airport', ',', 'and', 'you', ""'re"", 'sitting', 'here', 'in', 'the', 'hallway', 'with', 'a', '28', '-', 'year', '-', 'old', 'cheerleader', 'with', 'a', 'fat', 'lip', '.']]"	Neutral
+s04	e21	c14	u007	['Ross Geller']	Hey, you're right.	"[['Hey', ',', 'you', ""'re"", 'right', '.']]"	Joyful
+s04	e21	c14	u008	['Rachel Green']	Yeah.	[['Yeah', '.']]	Joyful
+s04	e21	c16	u002	['Rachel Green']	Who's this from?	"[['Who', ""'s"", 'this', 'from', '?']]"	Neutral
+s04	e21	c16	u003	['Chandler Bing']	Oh, that's Ross's.	"[['Oh', ',', 'that', ""'s"", 'Ross', ""'s"", '.']]"	Joyful
+s04	e21	c16	u004	['Rachel Green']	Oh... Oh my God. He remembered.	[['Oh', '...'], ['Oh', 'my', 'God', '.'], ['He', 'remembered', '.']]	Powerful
+s04	e21	c16	u005	['Phoebe Buffay']	Remembered what?	[['Remembered', 'what', '?']]	Neutral
+s04	e21	c16	u006	['Rachel Green']	It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!	"[['It', 'was', 'like', 'months', 'ago', '.'], ['We', 'were', 'walking', 'by', 'this', 'antique', 'store', ',', 'and', 'I', 'saw', 'this', 'pin', 'in', 'the', 'window', ',', 'and', 'I', 'told', 'him', 'that', 'it', 'was', 'just', 'like', 'one', 'my', 'grandmother', 'had', 'when', 'I', 'was', 'a', 'little', 'girl', '.'], ['Oh', '!'], ['I', 'ca', ""n't"", 'believe', 'he', 'remembered', '!']]"	Joyful
+s04	e21	c16	u007	['Phoebe Buffay']	Oh, it's so pretty. This must have cost him a fortune.	"[['Oh', ',', 'it', ""'s"", 'so', 'pretty', '.'], ['This', 'must', 'have', 'cost', 'him', 'a', 'fortune', '.']]"	Joyful
+s04	e21	c16	u008	['Monica Geller']	I can't believe he did this.	"[['I', 'ca', ""n't"", 'believe', 'he', 'did', 'this', '.']]"	Joyful
+s04	e21	c16	u009	['Chandler Bing']	Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?	[['Come', 'on', ',', 'Ross', '?'], ['Remember', 'back', 'in', 'college', ',', 'when', 'he', 'fell', 'in', 'love', 'with', 'Carol', 'and', 'bought', 'her', 'that', 'ridiculously', 'expensive', 'crystal', 'duck', '?']]	Joyful
+s04	e21	c16	u011	['Rachel Green']	What did you just say?	[['What', 'did', 'you', 'just', 'say', '?']]	Scared
+s04	e21	c16	u012	['Chandler Bing']	F-hah.... flennin....	[['F', '-', 'hah', '....'], ['flennin', '....']]	Scared
+s04	e21	c16	u013	['Rachel Green']	Oh.... my God.	[['Oh', '....'], ['my', 'God', '.']]	Joyful
+s04	e21	c21	u002	['Ross Geller']	Rach, I got a message from you.	[['Rach', ',', 'I', 'got', 'a', 'message', 'from', 'you', '.']]	Joyful
+s04	e21	c21	u004	['Rachel Green']	Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .	[['Oh', 'my', 'God', '.'], ['Oh', 'my', 'God', 'Ross', ',', 'no', ',', 'hang', 'up', 'the', 'phone', ',', 'give', 'me', 'the', 'phone', 'Ross', ',', 'give', 'me', 'the', 'phone', ',', 'give', 'me', 'the', 'phone', ',', 'give', 'me', 'the', '.'], ['.'], ['.']]	Scared
+s04	e21	c21	u005	['Ross Geller']	You're over me?	"[['You', ""'re"", 'over', 'me', '?']]"	Sad
+s04	e21	c21	u006	['Rachel Green']	Ohhhhhhhh God.	[['Ohhhhhhhh', 'God', '.']]	Peaceful
+s04	e21	c21	u007	['Ross Geller']	Wha... you're uh, you're, you're over me?	"[['Wha', '...'], ['you', ""'re"", 'uh', ',', 'you', ""'re"", ',', 'you', ""'re"", 'over', 'me', '?']]"	Sad
+s04	e21	c21	u008	['Rachel Green']	Ohh, ohh.	[['Ohh', ',', 'ohh', '.']]	Sad
+s04	e21	c21	u009	['Ross Geller']	When, when were you... under me?	[['When', ',', 'when', 'were', 'you', '...'], ['under', 'me', '?']]	Scared
+s04	e21	c21	u010	['Rachel Green']	Well, basically, lately, I've uh, I've uh, sort of had feelings for you.	"[['Well', ',', 'basically', ',', 'lately', ',', 'I', ""'ve"", 'uh', ',', 'I', ""'ve"", 'uh', ',', 'sort', 'of', 'had', 'feelings', 'for', 'you', '.']]"	Scared
+s04	e21	c21	u012	['Ross Geller']	OK, I need to lie down.	[['OK', ',', 'I', 'need', 'to', 'lie', 'down', '.']]	Scared
+s04	e21	c22	u002	['Joey Tribbiani']	He broke up with Julie. Well, go hug her, for god's sakes.	"[['He', 'broke', 'up', 'with', 'Julie', '.'], ['Well', ',', 'go', 'hug', 'her', ',', 'for', 'god', ""'s"", 'sakes', '.']]"	Mad
+s04	e21	c22	u003	['Rachel Green']	Really?	[['Really', '?']]	Neutral
+s04	e21	c22	u004	['Ross Geller']	Really. It's always been you, Rach.	"[['Really', '.'], ['It', ""'s"", 'always', 'been', 'you', ',', 'Rach', '.']]"	Neutral
+s04	e21	c22	u005	['Rachel Green']	Oh, god.	[['Oh', ',', 'god', '.']]	Scared
+s04	e21	c22	u007	['Chandler Bing', 'Joey Tribbiani']	Ohhh.	[['Ohhh', '.']]	Sad
+s04	e21	c25	u002	['Ross Geller']	Y'know, hey! You're the one who ended it, remember?	"[[""Y'know"", ',', 'hey', '!'], ['You', ""'re"", 'the', 'one', 'who', 'ended', 'it', ',', 'remember', '?']]"	Mad
+s04	e21	c25	u003	['Rachel Green']	Yeah, because I was mad at you, not because I stopped loving you!	[['Yeah', ',', 'because', 'I', 'was', 'mad', 'at', 'you', ',', 'not', 'because', 'I', 'stopped', 'loving', 'you', '!']]	Scared
+s04	e21	c25	u004	['Ross Geller']	You still love me?	[['You', 'still', 'love', 'me', '?']]	Scared
+s04	e21	c25	u005	['Rachel Green']	Noo.	[['Noo', '.']]	Mad
+s04	e21	c25	u007	['Ross Geller']	What does this mean? What do you, I mean do you wanna, get back together?	[['What', 'does', 'this', 'mean', '?'], ['What', 'do', 'you', ',', 'I', 'mean', 'do', 'you', 'wan', 'na', ',', 'get', 'back', 'together', '?']]	Scared
+s04	e21	c25	u008	['Rachel Green']	Noo! Maybe! I, I don't know.	"[['Noo', '!'], ['Maybe', '!'], ['I', ',', 'I', 'do', ""n't"", 'know', '.']]"	Scared
+s04	e21	c25	u009	['Ross Geller']	What?!	[['What', '?!']]	Mad
+s04	e21	c25	u010	['Rachel Green']	I just, I feel, I-I just...	[['I', 'just', ',', 'I', 'feel', ',', 'I', '-', 'I', 'just', '...']]	Neutral
+s04	e21	c29	u002	['Chandler Bing']	"All right, check it out. Check this out. It says here that there's a place you can go to rent videos of all the museums! ""It's almost as good as being there."""	"[['All', 'right', ',', 'check', 'it', 'out', '.'], ['Check', 'this', 'out', '.'], ['It', 'says', 'here', 'that', 'there', ""'s"", 'a', 'place', 'you', 'can', 'go', 'to', 'rent', 'videos', 'of', 'all', 'the', 'museums', '!'], ['""', 'It', ""'s"", 'almost', 'as', 'good', 'as', 'being', 'there', '.', '""']]"	Joyful
+s04	e21	c29	u003	['Joey Tribbiani']	It's better! You can't go to a museum in your underwear!	"[['It', ""'s"", 'better', '!'], ['You', 'ca', ""n't"", 'go', 'to', 'a', 'museum', 'in', 'your', 'underwear', '!']]"	Joyful
+s04	e21	c29	u004	['Chandler Bing']	Well, You could, but... probably just the one time.	[['Well', ',', 'You', 'could', ',', 'but', '...'], ['probably', 'just', 'the', 'one', 'time', '.']]	Joyful
+s04	e21	c29	u005	['Joey Tribbiani']	I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!	"[['I', 'bet', 'we', 'could', 'get', 'videos', 'of', 'all', 'the', 'sites', ',', 'get', 'a', 'VCR', 'in', 'our', 'hotel', 'room', '...'], ['we', ""'d"", 'never', 'even', 'have', 'to', 'go', 'outside', '!']]"	Joyful
+s04	e21	c29	u006	['Chandler Bing']	If we do that, we gotta get Die Hard.	[['If', 'we', 'do', 'that', ',', 'we', 'got', 'ta', 'get', 'Die', 'Hard', '.']]	Joyful
+s04	e21	c29	u007	['Joey Tribbiani']	Oh-ho! I bet the British version is gooooood!	[['Oh', '-', 'ho', '!'], ['I', 'bet', 'the', 'British', 'version', 'is', 'gooooood', '!']]	Joyful

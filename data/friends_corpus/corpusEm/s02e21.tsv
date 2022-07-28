@@ -1,0 +1,125 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s02	e21	c01	u002	['Joey Tribbiani']	Hey Monica, why are we watchin' the business channel?	"[['Hey', 'Monica', ',', 'why', 'are', 'we', 'watchin', ""'"", 'the', 'business', 'channel', '?']]"	Scared
+s02	e21	c01	u003	['Monica Geller']	'Cause I was going by it the other day and I saw that there was a stock with my initials, MEG, on it and, well, sometimes I have to watch for two or three hours before it comes up again but when it does, it's pretty exciting.	"[[""'"", 'Cause', 'I', 'was', 'going', 'by', 'it', 'the', 'other', 'day', 'and', 'I', 'saw', 'that', 'there', 'was', 'a', 'stock', 'with', 'my', 'initials', ',', 'MEG', ',', 'on', 'it', 'and', ',', 'well', ',', 'sometimes', 'I', 'have', 'to', 'watch', 'for', 'two', 'or', 'three', 'hours', 'before', 'it', 'comes', 'up', 'again', 'but', 'when', 'it', 'does', ',', 'it', ""'s"", 'pretty', 'exciting', '.']]"	Joyful
+s02	e21	c01	u004	['Rachel Green']	Ok honey, you really need a job.	[['Ok', 'honey', ',', 'you', 'really', 'need', 'a', 'job', '.']]	Neutral
+s02	e21	c01	u005	['Ross Geller']	Mon, speaking of which, dad says he knows someone you can call for an interview.	[['Mon', ',', 'speaking', 'of', 'which', ',', 'dad', 'says', 'he', 'knows', 'someone', 'you', 'can', 'call', 'for', 'an', 'interview', '.']]	Neutral
+s02	e21	c01	u006	['Monica Geller']	Really.	[['Really', '.']]	Scared
+s02	e21	c01	u007	['Phoebe Buffay']	Ok, right there. That, that's the third sign today. Right there.	"[['Ok', ',', 'right', 'there', '.'], ['That', ',', 'that', ""'s"", 'the', 'third', 'sign', 'today', '.'], ['Right', 'there', '.']]"	Scared
+s02	e21	c01	u008	['Ross Geller']	On behalf of everyone, I'd just like to say behuh.	"[['On', 'behalf', 'of', 'everyone', ',', 'I', ""'d"", 'just', 'like', 'to', 'say', 'behuh', '.']]"	Neutral
+s02	e21	c01	u009	['Phoebe Buffay']	No, 'cause you just said dad and everywhere I go today I keep getting signs telling me to go see my father. Like when I was walking over here and I passed a buffet...which is my father's last name.	"[['No', ',', ""'cause"", 'you', 'just', 'said', 'dad', 'and', 'everywhere', 'I', 'go', 'today', 'I', 'keep', 'getting', 'signs', 'telling', 'me', 'to', 'go', 'see', 'my', 'father', '.'], ['Like', 'when', 'I', 'was', 'walking', 'over', 'here', 'and', 'I', 'passed', 'a', 'buffet', '...'], ['which', 'is', 'my', 'father', ""'s"", 'last', 'name', '.']]"	Powerful
+s02	e21	c01	u010	['#ALL#']	Ahh.	[['Ahh', '.']]	Neutral
+s02	e21	c01	u011	['Phoebe Buffay']	And they were serving franks which is his first name minus the s at the end. And there was a rotisserie with spinning chicken.	[['And', 'they', 'were', 'serving', 'franks', 'which', 'is', 'his', 'first', 'name', 'minus', 'the', 's', 'at', 'the', 'end', '.'], ['And', 'there', 'was', 'a', 'rotisserie', 'with', 'spinning', 'chicken', '.']]	Scared
+s02	e21	c01	u012	['Monica Geller']	His indian name?	[['His', 'indian', 'name', '?']]	Scared
+s02	e21	c01	u013	['Phoebe Buffay']	No because I chickened out the last time when I tried to meet him. So I mean coincidences? I don't think so.	"[['No', 'because', 'I', 'chickened', 'out', 'the', 'last', 'time', 'when', 'I', 'tried', 'to', 'meet', 'him', '.'], ['So', 'I', 'mean', 'coincidences', '?'], ['I', 'do', ""n't"", 'think', 'so', '.']]"	Mad
+s02	e21	c01	u014	['Ross Geller']	Freakish.	[['Freakish', '.']]	Neutral
+s02	e21	c01	u015	['Monica Geller']	Wow.	[['Wow', '.']]	Joyful
+s02	e21	c01	u016	['Joey Tribbiani']	Freaky.	[['Freaky', '.']]	Scared
+s02	e21	c01	u017	['Monica Geller']	Weird, weird.	[['Weird', ',', 'weird', '.']]	Scared
+s02	e21	c01	u018	['Rachel Green']	Ok, so uh, who wants the last hamburger?	[['Ok', ',', 'so', 'uh', ',', 'who', 'wants', 'the', 'last', 'hamburger', '?']]	Joyful
+s02	e21	c01	u019	['Phoebe Buffay']	Oh, alright, that's it, now I have to go see him.	"[['Oh', ',', 'alright', ',', 'that', ""'s"", 'it', ',', 'now', 'I', 'have', 'to', 'go', 'see', 'him', '.']]"	Scared
+s02	e21	c01	u020	['Monica Geller']	Why?	[['Why', '?']]	Scared
+s02	e21	c01	u021	['Phoebe Buffay']	Hamburger. McDonald's. Old MacDonald had a farm, my dad is a pharmacist.	"[['Hamburger', '.'], ['McDonald', ""'s"", '.'], ['Old', 'MacDonald', 'had', 'a', 'farm', ',', 'my', 'dad', 'is', 'a', 'pharmacist', '.']]"	Neutral
+s02	e21	c02	u002	['Chandler Bing']	Man, I am so beat.	[['Man', ',', 'I', 'am', 'so', 'beat', '.']]	Neutral
+s02	e21	c02	u003	['Ross Geller']	Oh yeah.	[['Oh', 'yeah', '.']]	Neutral
+s02	e21	c02	u004	['Chandler Bing']	Hey, you just wanna forget about raquetball and hang out here?	[['Hey', ',', 'you', 'just', 'wan', 'na', 'forget', 'about', 'raquetball', 'and', 'hang', 'out', 'here', '?']]	Peaceful
+s02	e21	c02	u005	['Ross Geller']	Yeah alright.	[['Yeah', 'alright', '.']]	Neutral
+s02	e21	c02	u006	['Big Bully']	Hey you're in our seats.	"[['Hey', 'you', ""'re"", 'in', 'our', 'seats', '.']]"	Mad
+s02	e21	c02	u007	['Ross Geller']	Oh, sorry we didn't know.	"[['Oh', ',', 'sorry', 'we', 'did', ""n't"", 'know', '.']]"	Scared
+s02	e21	c02	u008	['Little Bully']	Hey, we were sitting there.	[['Hey', ',', 'we', 'were', 'sitting', 'there', '.']]	Mad
+s02	e21	c02	u009	['Chandler Bing']	Ok, there is one more way to say it, who knows it?	[['Ok', ',', 'there', 'is', 'one', 'more', 'way', 'to', 'say', 'it', ',', 'who', 'knows', 'it', '?']]	Mad
+s02	e21	c02	u010	['Little Bully']	Is that supposed to be funny?	[['Is', 'that', 'supposed', 'to', 'be', 'funny', '?']]	Mad
+s02	e21	c02	u011	['Chandler Bing']	No actually, I was just going for colorful.	[['No', 'actually', ',', 'I', 'was', 'just', 'going', 'for', 'colorful', '.']]	Scared
+s02	e21	c02	u012	['Big Bully']	What's with this guy?	"[['What', ""'s"", 'with', 'this', 'guy', '?']]"	Mad
+s02	e21	c02	u013	['Little Bully']	What's with you?	"[['What', ""'s"", 'with', 'you', '?']]"	Mad
+s02	e21	c02	u014	['Ross Geller']	Uh, nothing, nothing's with him. Enjoy your coffee.	"[['Uh', ',', 'nothing', ',', 'nothing', ""'s"", 'with', 'him', '.'], ['Enjoy', 'your', 'coffee', '.']]"	Scared
+s02	e21	c02	u015	['Chandler Bing']	What just happened?	[['What', 'just', 'happened', '?']]	Mad
+s02	e21	c02	u016	['Little Bully']	I just took your hat. See, I can be funny too. My, my joke is that I, I took your hat.	[['I', 'just', 'took', 'your', 'hat', '.'], ['See', ',', 'I', 'can', 'be', 'funny', 'too', '.'], ['My', ',', 'my', 'joke', 'is', 'that', 'I', ',', 'I', 'took', 'your', 'hat', '.']]	Mad
+s02	e21	c02	u017	['Chandler Bing']	That, that is funny. Can I have it back?	[['That', ',', 'that', 'is', 'funny', '.'], ['Can', 'I', 'have', 'it', 'back', '?']]	Scared
+s02	e21	c02	u018	['Little Bully']	No.	[['No', '.']]	Mad
+s02	e21	c02	u019	['Chandler Bing']	No?	[['No', '?']]	Mad
+s02	e21	c02	u020	['Big Bully']	No.	[['No', '.']]	Mad
+s02	e21	c02	u021	['Ross Geller']	Ok, ok, you know what? I think you're very funny. Kudos on that hat joke. But, come on guy just, just give him back the hat.	"[['Ok', ',', 'ok', ',', 'you', 'know', 'what', '?'], ['I', 'think', 'you', ""'re"", 'very', 'funny', '.'], ['Kudos', 'on', 'that', 'hat', 'joke', '.'], ['But', ',', 'come', 'on', 'guy', 'just', ',', 'just', 'give', 'him', 'back', 'the', 'hat', '.']]"	Mad
+s02	e21	c02	u022	['Big Bully']	Why should we?	[['Why', 'should', 'we', '?']]	Mad
+s02	e21	c02	u023	['Ross Geller']	Because it's a special hat. See he bought it 'cause he was feeling really down one day so he got the hat to cheer himself up, ya know. Now Chandler...	"[['Because', 'it', ""'s"", 'a', 'special', 'hat', '.'], ['See', 'he', 'bought', 'it', ""'cause"", 'he', 'was', 'feeling', 'really', 'down', 'one', 'day', 'so', 'he', 'got', 'the', 'hat', 'to', 'cheer', 'himself', 'up', ',', 'ya', 'know', '.'], ['Now', 'Chandler', '...']]"	Peaceful
+s02	e21	c02	u024	['Chandler Bing']	Stop talking, stop talking now. Let me just get this straight. You're actually stealing my hat?	"[['Stop', 'talking', ',', 'stop', 'talking', 'now', '.'], ['Let', 'me', 'just', 'get', 'this', 'straight', '.'], ['You', ""'re"", 'actually', 'stealing', 'my', 'hat', '?']]"	Mad
+s02	e21	c02	u025	['Big Bully']	You got a problem with that?	[['You', 'got', 'a', 'problem', 'with', 'that', '?']]	Mad
+s02	e21	c02	u026	['Chandler Bing']	No, just wanna make sure we're on the same page.	"[['No', ',', 'just', 'wan', 'na', 'make', 'sure', 'we', ""'re"", 'on', 'the', 'same', 'page', '.']]"	Scared
+s02	e21	c04	u003	['Joey Tribbiani']	See, didn't I tell ya these pillows would be a good idea?	"[['See', ',', 'did', ""n't"", 'I', 'tell', 'ya', 'these', 'pillows', 'would', 'be', 'a', 'good', 'idea', '?']]"	Powerful
+s02	e21	c04	u004	['Phoebe Buffay']	Oh God, here we go. For the first time in my life I'm gonna say 'Hi birthfather'.	"[['Oh', 'God', ',', 'here', 'we', 'go', '.'], ['For', 'the', 'first', 'time', 'in', 'my', 'life', 'I', ""'m"", 'gon', 'na', 'say', ""'"", 'Hi', 'birthfather', ""'"", '.']]"	Scared
+s02	e21	c04	u005	['Rachel Green']	We love you, we're here for you.	"[['We', 'love', 'you', ',', 'we', ""'re"", 'here', 'for', 'you', '.']]"	Peaceful
+s02	e21	c04	u006	['Joey Tribbiani']	Yeah good luck, good luck.	[['Yeah', 'good', 'luck', ',', 'good', 'luck', '.']]	Peaceful
+s02	e21	c04	u007	['Phoebe Buffay']	Thanks.	[['Thanks', '.']]	Powerful
+s02	e21	c04	u008	['Joey Tribbiani']	Hey Rach, you uh, you want some sandwich?	[['Hey', 'Rach', ',', 'you', 'uh', ',', 'you', 'want', 'some', 'sandwich', '?']]	Peaceful
+s02	e21	c04	u009	['Rachel Green']	Ohh, what is in that?	[['Ohh', ',', 'what', 'is', 'in', 'that', '?']]	Neutral
+s02	e21	c04	u010	['Joey Tribbiani']	Olive loaf and ham spread, no mayo.	[['Olive', 'loaf', 'and', 'ham', 'spread', ',', 'no', 'mayo', '.']]	Neutral
+s02	e21	c04	u011	['Rachel Green']	No no, 'cause mayo, that would make it gross.	"[['No', 'no', ',', ""'cause"", 'mayo', ',', 'that', 'would', 'make', 'it', 'gross', '.']]"	Neutral
+s02	e21	c04	u012	['Phoebe Buffay']	Hey, hey, no, oh oh.	[['Hey', ',', 'hey', ',', 'no', ',', 'oh', 'oh', '.']]	Scared
+s02	e21	c04	u013	['Rachel Green']	Run Phoebe run.	[['Run', 'Phoebe', 'run', '.']]	Scared
+s02	e21	c04	u014	['Phoebe Buffay']	No no no, doggie please. Oh, I do so wanna love all animals, please no.	[['No', 'no', 'no', ',', 'doggie', 'please', '.'], ['Oh', ',', 'I', 'do', 'so', 'wan', 'na', 'love', 'all', 'animals', ',', 'please', 'no', '.']]	Scared
+s02	e21	c04	u015	['Joey Tribbiani']	Get him a bone, get a bone. You gotta bone?	[['Get', 'him', 'a', 'bone', ',', 'get', 'a', 'bone', '.'], ['You', 'got', 'ta', 'bone', '?']]	Scared
+s02	e21	c04	u016	['Rachel Green']	Are you kidding me?	[['Are', 'you', 'kidding', 'me', '?']]	Mad
+s02	e21	c04	u017	['Phoebe Buffay']	Look kibbles, bits. Oh God, alright, get the hell off my leg you yippity piece of crap. Ok, alright, we have a problem.	[['Look', 'kibbles', ',', 'bits', '.'], ['Oh', 'God', ',', 'alright', ',', 'get', 'the', 'hell', 'off', 'my', 'leg', 'you', 'yippity', 'piece', 'of', 'crap', '.'], ['Ok', ',', 'alright', ',', 'we', 'have', 'a', 'problem', '.']]	Mad
+s02	e21	c04	u018	['Joey Tribbiani']	Well why don't you just reach out and take his trampoline.	"[['Well', 'why', 'do', ""n't"", 'you', 'just', 'reach', 'out', 'and', 'take', 'his', 'trampoline', '.']]"	Neutral
+s02	e21	c04	u019	['Rachel Green']	Ok, here, I know what we can do.	[['Ok', ',', 'here', ',', 'I', 'know', 'what', 'we', 'can', 'do', '.']]	Neutral
+s02	e21	c04	u020	['Joey Tribbiani']	Hey, hey, hey no.	[['Hey', ',', 'hey', ',', 'hey', 'no', '.']]	Mad
+s02	e21	c04	u021	['Rachel Green']	Ok, doggie get the- aahhh. Ok go get the sandwich, get the sandwich doggie. Good doggie get the sandwich, get the...ok, Joey, the dog will lick himself but he will not touch your sandwich, what does that say?	[['Ok', ',', 'doggie', 'get', 'the', '-', 'aahhh', '.'], ['Ok', 'go', 'get', 'the', 'sandwich', ',', 'get', 'the', 'sandwich', 'doggie', '.'], ['Good', 'doggie', 'get', 'the', 'sandwich', ',', 'get', 'the', '...'], ['ok', ',', 'Joey', ',', 'the', 'dog', 'will', 'lick', 'himself', 'but', 'he', 'will', 'not', 'touch', 'your', 'sandwich', ',', 'what', 'does', 'that', 'say', '?']]	Mad
+s02	e21	c04	u022	['Joey Tribbiani']	Well if he's not gonna eat it, I will.	"[['Well', 'if', 'he', ""'s"", 'not', 'gon', 'na', 'eat', 'it', ',', 'I', 'will', '.']]"	Neutral
+s02	e21	c04	u023	['Phoebe Buffay']	Are you crazy?	[['Are', 'you', 'crazy', '?']]	Scared
+s02	e21	c04	u024	['Joey Tribbiani']	Phoebs, he's just a little dog. Ahhh.	"[['Phoebs', ',', 'he', ""'s"", 'just', 'a', 'little', 'dog', '.'], ['Ahhh', '.']]"	Scared
+s02	e21	c06	u002	['Joey Tribbiani']	Hey Phoeb's, I think you're good to go.	"[['Hey', 'Phoeb', ""'s"", ',', 'I', 'think', 'you', ""'re"", 'good', 'to', 'go', '.']]"	Neutral
+s02	e21	c06	u003	['Phoebe Buffay']	Yeah, I don't know.	"[['Yeah', ',', 'I', 'do', ""n't"", 'know', '.']]"	Sad
+s02	e21	c06	u004	['Rachel Green']	What's the matter?	"[['What', ""'s"", 'the', 'matter', '?']]"	Scared
+s02	e21	c06	u005	['Phoebe Buffay']	I just think that this was a really bad sign, ya know. I mean, like the beast at the threshold, you know. It's just like, I have no family left, ya know. I mean except for my grandmother, you know, but let's face it, she's not gonna be around forever, despite what she says. And I have a sister who I've barely spoken to since we like shared a womb. I don't know, this is my real father and I just, I want things to be like just right.	"[['I', 'just', 'think', 'that', 'this', 'was', 'a', 'really', 'bad', 'sign', ',', 'ya', 'know', '.'], ['I', 'mean', ',', 'like', 'the', 'beast', 'at', 'the', 'threshold', ',', 'you', 'know', '.'], ['It', ""'s"", 'just', 'like', ',', 'I', 'have', 'no', 'family', 'left', ',', 'ya', 'know', '.'], ['I', 'mean', 'except', 'for', 'my', 'grandmother', ',', 'you', 'know', ',', 'but', 'let', ""'s"", 'face', 'it', ',', 'she', ""'s"", 'not', 'gon', 'na', 'be', 'around', 'forever', ',', 'despite', 'what', 'she', 'says', '.'], ['And', 'I', 'have', 'a', 'sister', 'who', 'I', ""'ve"", 'barely', 'spoken', 'to', 'since', 'we', 'like', 'shared', 'a', 'womb', '.'], ['I', 'do', ""n't"", 'know', ',', 'this', 'is', 'my', 'real', 'father', 'and', 'I', 'just', ',', 'I', 'want', 'things', 'to', 'be', 'like', 'just', 'right', '.']]"	Sad
+s02	e21	c06	u006	['Rachel Green']	Yeah Phoebe, I completely understand.	[['Yeah', 'Phoebe', ',', 'I', 'completely', 'understand', '.']]	Peaceful
+s02	e21	c06	u007	['Joey Tribbiani']	Yeah, whatever you need. Hey, you wanna go home?	[['Yeah', ',', 'whatever', 'you', 'need', '.'], ['Hey', ',', 'you', 'wan', 'na', 'go', 'home', '?']]	Peaceful
+s02	e21	c06	u008	['Phoebe Buffay']	Ok, thanks. Sorry, again	[['Ok', ',', 'thanks', '.'], ['Sorry', ',', 'again']]	Sad
+s02	e21	c06	u009	['Phoebe Buffay']	What was that?	[['What', 'was', 'that', '?']]	Scared
+s02	e21	c06	u010	['Joey Tribbiani']	Uhh, I'm guessing the threshold's clear now.	"[['Uhh', ',', 'I', ""'m"", 'guessing', 'the', 'threshold', ""'s"", 'clear', 'now', '.']]"	Scared
+s02	e21	c08	u002	['Chandler Bing']	Your cappucino sir.	[['Your', 'cappucino', 'sir', '.']]	Neutral
+s02	e21	c08	u003	['Ross Geller']	Thank you.	[['Thank', 'you', '.']]	Neutral
+s02	e21	c08	u004	['Chandler Bing']	Ya know I think this is much better than the coffee house.	[['Ya', 'know', 'I', 'think', 'this', 'is', 'much', 'better', 'than', 'the', 'coffee', 'house', '.']]	Joyful
+s02	e21	c08	u005	['Ross Geller']	Absolutely.	[['Absolutely', '.']]	Joyful
+s02	e21	c08	u006	['Ross Geller']	How come it's not mixing with the water?	"[['How', 'come', 'it', ""'s"", 'not', 'mixing', 'with', 'the', 'water', '?']]"	Scared
+s02	e21	c08	u007	['Chandler Bing']	Well the package says you have to uh, constantly keep it moving. Stir and drink, stir and drink, never let it settle.	[['Well', 'the', 'package', 'says', 'you', 'have', 'to', 'uh', ',', 'constantly', 'keep', 'it', 'moving', '.'], ['Stir', 'and', 'drink', ',', 'stir', 'and', 'drink', ',', 'never', 'let', 'it', 'settle', '.']]	Neutral
+s02	e21	c08	u008	['Joey Tribbiani']	Hey, this is ridiculous. I'll tell you what. After I get back from my neice's christening, I'll go down to the coffee house with you and we'll all have a nice cup of coffee alright. No problem, Joey's there.	"[['Hey', ',', 'this', 'is', 'ridiculous', '.'], ['I', ""'ll"", 'tell', 'you', 'what', '.'], ['After', 'I', 'get', 'back', 'from', 'my', 'neice', ""'s"", 'christening', ',', 'I', ""'ll"", 'go', 'down', 'to', 'the', 'coffee', 'house', 'with', 'you', 'and', 'we', ""'ll"", 'all', 'have', 'a', 'nice', 'cup', 'of', 'coffee', 'alright', '.'], ['No', 'problem', ',', 'Joey', ""'s"", 'there', '.']]"	Joyful
+s02	e21	c08	u009	['Chandler Bing']	Ok.	[['Ok', '.']]	Neutral
+s02	e21	c08	u010	['Ross Geller']	No.	[['No', '.']]	Powerful
+s02	e21	c08	u011	['Chandler Bing']	No?	[['No', '?']]	Scared
+s02	e21	c08	u012	['Ross Geller']	No. Man I don't wanna have to have Joey with me every time I wanna descent cup of coffee. Ya know, and I don't wanna spend the rest of my life drinking cappucino with a 'K'. I say you and I go back down there and stand up to those guys.	"[['No', '.'], ['Man', 'I', 'do', ""n't"", 'wan', 'na', 'have', 'to', 'have', 'Joey', 'with', 'me', 'every', 'time', 'I', 'wan', 'na', 'descent', 'cup', 'of', 'coffee', '.'], ['Ya', 'know', ',', 'and', 'I', 'do', ""n't"", 'wan', 'na', 'spend', 'the', 'rest', 'of', 'my', 'life', 'drinking', 'cappucino', 'with', 'a', ""'"", 'K', ""'"", '.'], ['I', 'say', 'you', 'and', 'I', 'go', 'back', 'down', 'there', 'and', 'stand', 'up', 'to', 'those', 'guys', '.']]"	Mad
+s02	e21	c08	u013	['Chandler Bing']	Alright, hang on a second there Custer.	[['Alright', ',', 'hang', 'on', 'a', 'second', 'there', 'Custer', '.']]	Neutral
+s02	e21	c08	u014	['Joey Tribbiani']	Yeah really, Ross, have you ever been beaten up before?	[['Yeah', 'really', ',', 'Ross', ',', 'have', 'you', 'ever', 'been', 'beaten', 'up', 'before', '?']]	Neutral
+s02	e21	c08	u015	['Ross Geller']	Yeah, sure.	[['Yeah', ',', 'sure', '.']]	Neutral
+s02	e21	c08	u016	['Joey Tribbiani']	By someone besides Monica?	[['By', 'someone', 'besides', 'Monica', '?']]	Scared
+s02	e21	c08	u017	['Ross Geller']	No. So what. So what if we get beaten up, maybe that's just something every man has to go through once in his life. Ya know, like a, like a right of passage or somethin'.	"[['No', '.'], ['So', 'what', '.'], ['So', 'what', 'if', 'we', 'get', 'beaten', 'up', ',', 'maybe', 'that', ""'s"", 'just', 'something', 'every', 'man', 'has', 'to', 'go', 'through', 'once', 'in', 'his', 'life', '.'], ['Ya', 'know', ',', 'like', 'a', ',', 'like', 'a', 'right', 'of', 'passage', 'or', 'somethin', ""'"", '.']]"	Scared
+s02	e21	c08	u018	['Chandler Bing']	Well, couldn't we just lose our virginities again? Ya know, because I think actually mine's growing back.	"[['Well', ',', 'could', ""n't"", 'we', 'just', 'lose', 'our', 'virginities', 'again', '?'], ['Ya', 'know', ',', 'because', 'I', 'think', 'actually', 'mine', ""'s"", 'growing', 'back', '.']]"	Joyful
+s02	e21	c09	u002	['Monica Geller']	I need to borrow a hundred bucks.	[['I', 'need', 'to', 'borrow', 'a', 'hundred', 'bucks', '.']]	Scared
+s02	e21	c09	u003	['Rachel Green']	What?	[['What', '?']]	Scared
+s02	e21	c09	u004	['Monica Geller']	Hi, welcome home. I need to borrow a hundred bucks.	[['Hi', ',', 'welcome', 'home', '.'], ['I', 'need', 'to', 'borrow', 'a', 'hundred', 'bucks', '.']]	Scared
+s02	e21	c09	u005	['Rachel Green']	For what?	[['For', 'what', '?']]	Scared
+s02	e21	c09	u006	['Monica Geller']	I've gotta get back in the game.	"[['I', ""'ve"", 'got', 'ta', 'get', 'back', 'in', 'the', 'game', '.']]"	Scared
+s02	e21	c09	u007	['Rachel Green']	Why, when did you get out of the game?	[['Why', ',', 'when', 'did', 'you', 'get', 'out', 'of', 'the', 'game', '?']]	Neutral
+s02	e21	c09	u008	['Monica Geller']	I don't know, I lost it all ok. I lost it.	"[['I', 'do', ""n't"", 'know', ',', 'I', 'lost', 'it', 'all', 'ok', '.'], ['I', 'lost', 'it', '.']]"	Sad
+s02	e21	c09	u009	['Rachel Green']	Oh no.	[['Oh', 'no', '.']]	Sad
+s02	e21	c09	u010	['Monica Geller']	Hey, I've come to terms with it, you have to too.	"[['Hey', ',', 'I', ""'ve"", 'come', 'to', 'terms', 'with', 'it', ',', 'you', 'have', 'to', 'too', '.']]"	Neutral
+s02	e21	c09	u011	['Rachel Green']	Ok. Look uhh, Mon I'm, I'm really sorry.	"[['Ok', '.'], ['Look', 'uhh', ',', 'Mon', 'I', ""'m"", ',', 'I', ""'m"", 'really', 'sorry', '.']]"	Scared
+s02	e21	c09	u012	['Monica Geller']	Yeah, yeah, yeah, where are we on the hundred bucks?	[['Yeah', ',', 'yeah', ',', 'yeah', ',', 'where', 'are', 'we', 'on', 'the', 'hundred', 'bucks', '?']]	Neutral
+s02	e21	c09	u013	['Rachel Green']	I, I don't have it.	"[['I', ',', 'I', 'do', ""n't"", 'have', 'it', '.']]"	Scared
+s02	e21	c09	u014	['Monica Geller']	But I need it. Otherwords I'm gonna have to take that horrible diner job. You know, with the dancing and the costumes. I don't wanna have to wear flame retardant boobs.	"[['But', 'I', 'need', 'it', '.'], ['Otherwords', 'I', ""'m"", 'gon', 'na', 'have', 'to', 'take', 'that', 'horrible', 'diner', 'job', '.'], ['You', 'know', ',', 'with', 'the', 'dancing', 'and', 'the', 'costumes', '.'], ['I', 'do', ""n't"", 'wan', 'na', 'have', 'to', 'wear', 'flame', 'retardant', 'boobs', '.']]"	Sad
+s02	e21	c09	u015	['Rachel Green']	Nobody does honey.	[['Nobody', 'does', 'honey', '.']]	Sad
+s02	e21	c12	u002	['Ross Geller']	God, that was, that was amazing, that was incredible. You guys, you guys kicked butt.	[['God', ',', 'that', 'was', ',', 'that', 'was', 'amazing', ',', 'that', 'was', 'incredible', '.'], ['You', 'guys', ',', 'you', 'guys', 'kicked', 'butt', '.']]	Joyful
+s02	e21	c12	u003	['Little Bully']	Us, what about you guys? Man you really, bing, gave it to old Mr. Clean back there. He was a big guy.	[['Us', ',', 'what', 'about', 'you', 'guys', '?'], ['Man', 'you', 'really', ',', 'bing', ',', 'gave', 'it', 'to', 'old', 'Mr.', 'Clean', 'back', 'there', '.'], ['He', 'was', 'a', 'big', 'guy', '.']]	Joyful
+s02	e21	c12	u004	['Ross Geller']	Yeah he was wasn't he.	"[['Yeah', 'he', 'was', 'was', ""n't"", 'he', '.']]"	Neutral
+s02	e21	c12	u005	['Chandler Bing']	Yeah, I wouldn't know having missed everything.	"[['Yeah', ',', 'I', 'would', ""n't"", 'know', 'having', 'missed', 'everything', '.']]"	Sad
+s02	e21	c12	u006	['Big Bully']	Don't do that to yourself. Any one of us could have tripped over that little girls jump-rope.	"[['Do', ""n't"", 'do', 'that', 'to', 'yourself', '.'], ['Any', 'one', 'of', 'us', 'could', 'have', 'tripped', 'over', 'that', 'little', 'girls', 'jump', '-', 'rope', '.']]"	Scared
+s02	e21	c12	u007	['Ross Geller']	So, listen guys, are we uh, are we ok here?	[['So', ',', 'listen', 'guys', ',', 'are', 'we', 'uh', ',', 'are', 'we', 'ok', 'here', '?']]	Scared
+s02	e21	c12	u008	['Little Bully']	We're ok.	"[['We', ""'re"", 'ok', '.']]"	Neutral
+s02	e21	c12	u009	['Ross Geller']	Alright.	[['Alright', '.']]	Neutral
+s02	e21	c12	u010	['Chandler Bing']	Ok so, can I have my hat back?	[['Ok', 'so', ',', 'can', 'I', 'have', 'my', 'hat', 'back', '?']]	Joyful
+s02	e21	c12	u011	['Little Bully']	No.	[['No', '.']]	Mad
+s02	e21	c12	u012	['Chandler Bing']	Huh.	[['Huh', '.']]	Neutral
+s02	e21	c13	u002	['Rachel Green']	Look at her.	[['Look', 'at', 'her', '.']]	Neutral
+s02	e21	c13	u003	['Chandler Bing']	Hi Monica.	[['Hi', 'Monica', '.']]	Neutral
+s02	e21	c13	u004	['Joey Tribbiani']	He-he-he, how's it goin'?	"[['He', '-', 'he', '-', 'he', ',', 'how', ""'s"", 'it', 'goin', ""'"", '?']]"	Joyful
+s02	e21	c13	u005	['Phoebe Buffay']	Hey nice boobs.	[['Hey', 'nice', 'boobs', '.']]	Joyful
+s02	e21	c13	u006	['Chandler Bing']	Guys guys, check this out.	[['Guys', 'guys', ',', 'check', 'this', 'out', '.']]	Joyful
+s02	e21	c13	u007	['Joey Tribbiani']	Excellent.	[['Excellent', '.']]	Neutral

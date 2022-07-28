@@ -1,0 +1,48 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s02	e05	c01	u002	['Ross Geller']	Man, I sure miss Julie.	[['Man', ',', 'I', 'sure', 'miss', 'Julie', '.']]	Sad
+s02	e05	c01	u003	['Chandler Bing']	Spanish midgets. Spanish midgets wrestling. Julie. Ok, yes, I see how you got there.	[['Spanish', 'midgets', '.'], ['Spanish', 'midgets', 'wrestling', '.'], ['Julie', '.'], ['Ok', ',', 'yes', ',', 'I', 'see', 'how', 'you', 'got', 'there', '.']]	Joyful
+s02	e05	c01	u004	['Ross Geller']	You ever figure out what that thing's for?	"[['You', 'ever', 'figure', 'out', 'what', 'that', 'thing', ""'s"", 'for', '?']]"	Neutral
+s02	e05	c01	u005	['Chandler Bing']	No, see, I'm trying this new screening thing. You know, I figure if I'm always answering the phone, people'll think I don't have a life. My god, Rodrigo never gets pinned.	"[['No', ',', 'see', ',', 'I', ""'m"", 'trying', 'this', 'new', 'screening', 'thing', '.'], ['You', 'know', ',', 'I', 'figure', 'if', 'I', ""'m"", 'always', 'answering', 'the', 'phone', ',', 'people', ""'ll"", 'think', 'I', 'do', ""n't"", 'have', 'a', 'life', '.'], ['My', 'god', ',', 'Rodrigo', 'never', 'gets', 'pinned', '.']]"	Neutral
+s02	e05	c01	u006	['Joey Tribbiani']	Here comes the beep, you know what to do.	[['Here', 'comes', 'the', 'beep', ',', 'you', 'know', 'what', 'to', 'do', '.']]	Neutral
+s02	e05	c01	u007	['Jade']	Hello, I'm looking for Bob. This is Jane. I don't know if you're still at this number, but I was just thinking about us, and how great it was, and, well, I know it's been three years, but, I was kinda hoping we could hook up again. I barely had t he nerve to make this call, so you know what I did?	"[['Hello', ',', 'I', ""'m"", 'looking', 'for', 'Bob', '.'], ['This', 'is', 'Jane', '.'], ['I', 'do', ""n't"", 'know', 'if', 'you', ""'re"", 'still', 'at', 'this', 'number', ',', 'but', 'I', 'was', 'just', 'thinking', 'about', 'us', ',', 'and', 'how', 'great', 'it', 'was', ',', 'and', ',', 'well', ',', 'I', 'know', 'it', ""'s"", 'been', 'three', 'years', ',', 'but', ',', 'I', 'was', 'kinda', 'hoping', 'we', 'could', 'hook', 'up', 'again', '.'], ['I', 'barely', 'had', 't', 'he', 'nerve', 'to', 'make', 'this', 'call', ',', 'so', 'you', 'know', 'what', 'I', 'did', '?']]"	Peaceful
+s02	e05	c01	u008	['Chandler Bing']	What?	[['What', '?']]	Joyful
+s02	e05	c01	u009	['Jade']	I got a little drunk...and naked.	[['I', 'got', 'a', 'little', 'drunk', '...'], ['and', 'naked', '.']]	Joyful
+s02	e05	c01	u010	['Chandler Bing']	Bob here.	[['Bob', 'here', '.']]	Neutral
+s02	e05	c01	u011	['Chandler Bing']	What've you been up to?	"[['What', ""'ve"", 'you', 'been', 'up', 'to', '?']]"	Neutral
+s02	e05	c01	u012	['Jade']	Oh, you know, the usual, teaching aerobics, partying way too much. Oh, and in case you were wondering, those are my legs on the new James Bond poster.	[['Oh', ',', 'you', 'know', ',', 'the', 'usual', ',', 'teaching', 'aerobics', ',', 'partying', 'way', 'too', 'much', '.'], ['Oh', ',', 'and', 'in', 'case', 'you', 'were', 'wondering', ',', 'those', 'are', 'my', 'legs', 'on', 'the', 'new', 'James', 'Bond', 'poster', '.']]	Joyful
+s02	e05	c01	u013	['Chandler Bing']	Can you hold on a moment? I have another call. I love her.	[['Can', 'you', 'hold', 'on', 'a', 'moment', '?'], ['I', 'have', 'another', 'call', '.'], ['I', 'love', 'her', '.']]	Joyful
+s02	e05	c01	u014	['Ross Geller']	I know.	[['I', 'know', '.']]	Neutral
+s02	e05	c01	u015	['Chandler Bing']	I'm back.	"[['I', ""'m"", 'back', '.']]"	Neutral
+s02	e05	c01	u016	['Jade']	So, are we gonna get together or what?	[['So', ',', 'are', 'we', 'gon', 'na', 'get', 'together', 'or', 'what', '?']]	Peaceful
+s02	e05	c01	u017	['Chandler Bing']	Um, absolutely. Uh, how 'bout tomorrow afternoon? Do you know uh, Central Perk in the Village, say, five-ish?	"[['Um', ',', 'absolutely', '.'], ['Uh', ',', 'how', ""'"", 'bout', 'tomorrow', 'afternoon', '?'], ['Do', 'you', 'know', 'uh', ',', 'Central', 'Perk', 'in', 'the', 'Village', ',', 'say', ',', 'five', '-', 'ish', '?']]"	Joyful
+s02	e05	c01	u018	['Jade']	Great, I'll see you then.	"[['Great', ',', 'I', ""'ll"", 'see', 'you', 'then', '.']]"	Joyful
+s02	e05	c01	u019	['Chandler Bing']	Ok. Ok. Having a phone has finally paid off.	[['Ok', '.'], ['Ok', '.'], ['Having', 'a', 'phone', 'has', 'finally', 'paid', 'off', '.']]	Neutral
+s02	e05	c01	u020	['Ross Geller']	"Even though you do do a good Bob impression, I'm thinkin' when she sees you tomorow, she's probably gonna realize, ""hey, you're not Bob."""	"[['Even', 'though', 'you', 'do', 'do', 'a', 'good', 'Bob', 'impression', ',', 'I', ""'m"", 'thinkin', ""'"", 'when', 'she', 'sees', 'you', 'tomorow', ',', 'she', ""'s"", 'probably', 'gon', 'na', 'realize', ',', '""', 'hey', ',', 'you', ""'re"", 'not', 'Bob', '.', '""']]"	Neutral
+s02	e05	c01	u021	['Chandler Bing']	I'm hoping that when Bob doesn't show up, she will seek comfort in the open arms of the wry stranger at the next table.	"[['I', ""'m"", 'hoping', 'that', 'when', 'Bob', 'does', ""n't"", 'show', 'up', ',', 'she', 'will', 'seek', 'comfort', 'in', 'the', 'open', 'arms', 'of', 'the', 'wry', 'stranger', 'at', 'the', 'next', 'table', '.']]"	Joyful
+s02	e05	c01	u022	['Ross Geller']	Oh my god. You are pure evil.	[['Oh', 'my', 'god', '.'], ['You', 'are', 'pure', 'evil', '.']]	Joyful
+s02	e05	c01	u023	['Chandler Bing']	Ok, pure evil, horny and alone. I've done this.	"[['Ok', ',', 'pure', 'evil', ',', 'horny', 'and', 'alone', '.'], ['I', ""'ve"", 'done', 'this', '.']]"	Joyful
+s02	e05	c05	u002	['Monica Geller']	You know what? I'm not gonna be able to enjoy this.	"[['You', 'know', 'what', '?'], ['I', ""'m"", 'not', 'gon', 'na', 'be', 'able', 'to', 'enjoy', 'this', '.']]"	Sad
+s02	e05	c05	u003	['Ross Geller']	Yeah, I know, it's my birthday. We all should be here.	"[['Yeah', ',', 'I', 'know', ',', 'it', ""'s"", 'my', 'birthday', '.'], ['We', 'all', 'should', 'be', 'here', '.']]"	Sad
+s02	e05	c05	u004	['Chandler Bing']	So, let's go.	"[['So', ',', 'let', ""'s"", 'go', '.']]"	Neutral
+s02	e05	c05	u005	['Ross Geller']	Well maybe, you know, maybe we should stay for one song.	[['Well', 'maybe', ',', 'you', 'know', ',', 'maybe', 'we', 'should', 'stay', 'for', 'one', 'song', '.']]	Sad
+s02	e05	c05	u006	['Chandler Bing']	Yeah, I mean, it would be rude to them for us to leave now.	[['Yeah', ',', 'I', 'mean', ',', 'it', 'would', 'be', 'rude', 'to', 'them', 'for', 'us', 'to', 'leave', 'now', '.']]	Sad
+s02	e05	c05	u007	['Monica Geller']	You know, the guys are probably having a great time.	[['You', 'know', ',', 'the', 'guys', 'are', 'probably', 'having', 'a', 'great', 'time', '.']]	Neutral
+s02	e05	c06	u002	['Joey Tribbiani']	Come on you guys, one more time.	[['Come', 'on', 'you', 'guys', ',', 'one', 'more', 'time', '.']]	Peaceful
+s02	e05	c06	u003	['Phoebe Buffay']	Ok. One.	[['Ok', '.'], ['One', '.']]	Neutral
+s02	e05	c06	u004	['Joey Tribbiani']	Nooo.	[['Nooo', '.']]	Scared
+s02	e05	c06	u005	['Monica Geller']	That was amazing!	[['That', 'was', 'amazing', '!']]	Joyful
+s02	e05	c06	u006	['Ross Geller']	Excellent, that was excellent.	[['Excellent', ',', 'that', 'was', 'excellent', '.']]	Joyful
+s02	e05	c06	u007	['Chandler Bing']	I can't believe the guys missed this.	"[['I', 'ca', ""n't"", 'believe', 'the', 'guys', 'missed', 'this', '.']]"	Sad
+s02	e05	c06	u008	['Ross Geller']	What guys? Oh, yeah.	[['What', 'guys', '?'], ['Oh', ',', 'yeah', '.']]	Neutral
+s02	e05	c06	u009	['Steven Fisher']	Excuse me, you're Monica Geller aren't you?	"[['Excuse', 'me', ',', 'you', ""'re"", 'Monica', 'Geller', 'are', ""n't"", 'you', '?']]"	Neutral
+s02	e05	c06	u010	['Monica Geller']	Do I know you?	[['Do', 'I', 'know', 'you', '?']]	Neutral
+s02	e05	c06	u011	['Steven Fisher']	You used to be my babysitter.	[['You', 'used', 'to', 'be', 'my', 'babysitter', '.']]	Neutral
+s02	e05	c06	u012	['Monica Geller']	Oh my god, little Stevie Fisher? How've you been?	"[['Oh', 'my', 'god', ',', 'little', 'Stevie', 'Fisher', '?'], ['How', ""'ve"", 'you', 'been', '?']]"	Joyful
+s02	e05	c06	u013	['Steven Fisher']	Good, good, I'm a lawyer now.	"[['Good', ',', 'good', ',', 'I', ""'m"", 'a', 'lawyer', 'now', '.']]"	Joyful
+s02	e05	c06	u014	['Monica Geller']	You can't be a lawyer. You're eight.	"[['You', 'ca', ""n't"", 'be', 'a', 'lawyer', '.'], ['You', ""'re"", 'eight', '.']]"	Sad
+s02	e05	c06	u015	['Steven Fisher']	Listen, it was nice to see you. I gotta run backstage.	[['Listen', ',', 'it', 'was', 'nice', 'to', 'see', 'you', '.'], ['I', 'got', 'ta', 'run', 'backstage', '.']]	Joyful
+s02	e05	c06	u016	['Monica Geller']	Uh, wait, backstage?	[['Uh', ',', 'wait', ',', 'backstage', '?']]	Neutral
+s02	e05	c06	u017	['Steven Fisher']	Oh, yeah, my firm represents the band.	[['Oh', ',', 'yeah', ',', 'my', 'firm', 'represents', 'the', 'band', '.']]	Neutral
+s02	e05	c06	u018	['Ross Geller']	Ross.	[['Ross', '.']]	Neutral
+s02	e05	c06	u019	['Chandler Bing']	Chandler.	[['Chandler', '.']]	Neutral
+s02	e05	c06	u020	['Steven Fisher']	How are you? Look, you guys wanna meet the group? Come on. So, are you one of the ones who fooled around with my dad?	[['How', 'are', 'you', '?'], ['Look', ',', 'you', 'guys', 'wan', 'na', 'meet', 'the', 'group', '?'], ['Come', 'on', '.'], ['So', ',', 'are', 'you', 'one', 'of', 'the', 'ones', 'who', 'fooled', 'around', 'with', 'my', 'dad', '?']]	Joyful

@@ -1,0 +1,111 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e13	c01	u002	['Monica Geller']	Hi.	[['Hi', '.']]	Neutral
+s03	e13	c01	u004	['Clerk']	Six dollars, please.	[['Six', 'dollars', ',', 'please', '.']]	Neutral
+s03	e13	c01	u005	['Monica Geller']	Six? I just had it for one night. It's three.	"[['Six', '?'], ['I', 'just', 'had', 'it', 'for', 'one', 'night', '.'], ['It', ""'s"", 'three', '.']]"	Mad
+s03	e13	c01	u006	['Clerk']	Eight o'clock is the cut-off and, aww, it's 8:02.	"[['Eight', ""o'clock"", 'is', 'the', 'cut', '-', 'off', 'and', ',', 'aww', ',', 'it', ""'s"", '8:02', '.']]"	Powerful
+s03	e13	c01	u007	['Monica Geller']	Y'know in a weird way, you have too much power. Look, you're gonna have to help me out here, 'cause I only have three.	"[[""Y'know"", 'in', 'a', 'weird', 'way', ',', 'you', 'have', 'too', 'much', 'power', '.'], ['Look', ',', 'you', ""'re"", 'gon', 'na', 'have', 'to', 'help', 'me', 'out', 'here', ',', ""'cause"", 'I', 'only', 'have', 'three', '.']]"	Mad
+s03	e13	c01	u008	['Richard Burke']	I can help with that.	[['I', 'can', 'help', 'with', 'that', '.']]	Powerful
+s03	e13	c01	u009	['Monica Geller']	Oh my God. Richard? Hi!	[['Oh', 'my', 'God', '.'], ['Richard', '?'], ['Hi', '!']]	Joyful
+s03	e13	c01	u010	['Richard Burke']	Hi!	[['Hi', '!']]	Joyful
+s03	e13	c01	u011	['Monica Geller']	Wow! Your lip went bald. Hey, thanks.	[['Wow', '!'], ['Your', 'lip', 'went', 'bald', '.'], ['Hey', ',', 'thanks', '.']]	Joyful
+s03	e13	c01	u012	['Richard Burke']	So, you look great.	[['So', ',', 'you', 'look', 'great', '.']]	Joyful
+s03	e13	c01	u013	['Monica Geller']	Right.	[['Right', '.']]	Mad
+s03	e13	c01	u014	['Richard Burke']	No you do. You... just...	[['No', 'you', 'do', '.'], ['You', '...'], ['just', '...']]	Scared
+s03	e13	c01	u015	['Monica Geller']	What?	[['What', '?']]	Scared
+s03	e13	c01	u016	['Richard Burke']	You've got panties stuck to your leg.	"[['You', ""'ve"", 'got', 'panties', 'stuck', 'to', 'your', 'leg', '.']]"	Scared
+s03	e13	c01	u017	['Monica Geller']	That's because I-I was just grabbing some things out of the dryer, and it's static cling. Or maybe it's just that God knew I'd be running into you and saw an opportunity.	"[['That', ""'s"", 'because', 'I', '-', 'I', 'was', 'just', 'grabbing', 'some', 'things', 'out', 'of', 'the', 'dryer', ',', 'and', 'it', ""'s"", 'static', 'cling', '.'], ['Or', 'maybe', 'it', ""'s"", 'just', 'that', 'God', 'knew', 'I', ""'d"", 'be', 'running', 'into', 'you', 'and', 'saw', 'an', 'opportunity', '.']]"	Scared
+s03	e13	c01	u018	['Richard Burke']	It's good to see you.	"[['It', ""'s"", 'good', 'to', 'see', 'you', '.']]"	Peaceful
+s03	e13	c01	u019	['Monica Geller']	It's good to see you too.	"[['It', ""'s"", 'good', 'to', 'see', 'you', 'too', '.']]"	Peaceful
+s03	e13	c02	u002	['Monica Geller']	You see that guy? He's in classics now, but y'know as soon as we leave he's going straight to the porn.	"[['You', 'see', 'that', 'guy', '?'], ['He', ""'s"", 'in', 'classics', 'now', ',', 'but', ""y'know"", 'as', 'soon', 'as', 'we', 'leave', 'he', ""'s"", 'going', 'straight', 'to', 'the', 'porn', '.']]"	Joyful
+s03	e13	c02	u003	['Richard Burke']	He's gonna go up to the counter with Citizen Kane, Vertigo, and Clockwork Orgy. This is nice.	"[['He', ""'s"", 'gon', 'na', 'go', 'up', 'to', 'the', 'counter', 'with', 'Citizen', 'Kane', ',', 'Vertigo', ',', 'and', 'Clockwork', 'Orgy', '.'], ['This', 'is', 'nice', '.']]"	Joyful
+s03	e13	c02	u004	['Monica Geller']	Yeah.	[['Yeah', '.']]	Joyful
+s03	e13	c02	u005	['Richard Burke']	I missed this.	[['I', 'missed', 'this', '.']]	Sad
+s03	e13	c02	u006	['Monica Geller']	Me too.	[['Me', 'too', '.']]	Sad
+s03	e13	c02	u007	['Richard Burke']	So, you wanna get a hamburger or something?	[['So', ',', 'you', 'wan', 'na', 'get', 'a', 'hamburger', 'or', 'something', '?']]	Joyful
+s03	e13	c02	u008	['Monica Geller']	Oh, um, I don't know if that's a good idea.	"[['Oh', ',', 'um', ',', 'I', 'do', ""n't"", 'know', 'if', 'that', ""'s"", 'a', 'good', 'idea', '.']]"	Sad
+s03	e13	c02	u009	['Richard Burke']	Oh. Look, just friends, I won't grope you. I promise.	"[['Oh', '.'], ['Look', ',', 'just', 'friends', ',', 'I', 'wo', ""n't"", 'grope', 'you', '.'], ['I', 'promise', '.']]"	Neutral
+s03	e13	c02	u010	['Monica Geller']	No, I just I think that it's too soon.	"[['No', ',', 'I', 'just', 'I', 'think', 'that', 'it', ""'s"", 'too', 'soon', '.']]"	Peaceful
+s03	e13	c02	u011	['Richard Burke']	No it's not too soon, I had lunch at a eleven.	"[['No', 'it', ""'s"", 'not', 'too', 'soon', ',', 'I', 'had', 'lunch', 'at', 'a', 'eleven', '.']]"	Joyful
+s03	e13	c04	u002	['Rachel Green']	Hey.	[['Hey', '.']]	Joyful
+s03	e13	c04	u003	['Joey Tribbiani']	Hey.	[['Hey', '.']]	Joyful
+s03	e13	c04	u004	['Rachel Green']	Do you have any ice?	[['Do', 'you', 'have', 'any', 'ice', '?']]	Neutral
+s03	e13	c04	u005	['Joey Tribbiani']	Check the freezer. If there's none in there, then we're probably out. Are you just getting in from work? It's late.	"[['Check', 'the', 'freezer', '.'], ['If', 'there', ""'s"", 'none', 'in', 'there', ',', 'then', 'we', ""'re"", 'probably', 'out', '.'], ['Are', 'you', 'just', 'getting', 'in', 'from', 'work', '?'], ['It', ""'s"", 'late', '.']]"	Peaceful
+s03	e13	c04	u006	['Rachel Green']	Yeah, I know. I had the greatest day though, I got to sit in on the meeting with the reps from Calvin Klien. I told my boss I liked this line of lingerie, she ordered a ton of it. How was your day?	[['Yeah', ',', 'I', 'know', '.'], ['I', 'had', 'the', 'greatest', 'day', 'though', ',', 'I', 'got', 'to', 'sit', 'in', 'on', 'the', 'meeting', 'with', 'the', 'reps', 'from', 'Calvin', 'Klien', '.'], ['I', 'told', 'my', 'boss', 'I', 'liked', 'this', 'line', 'of', 'lingerie', ',', 'she', 'ordered', 'a', 'ton', 'of', 'it', '.'], ['How', 'was', 'your', 'day', '?']]	Joyful
+s03	e13	c04	u007	['Joey Tribbiani']	I discovered I'm able to count all of my teeth using just my tongue.	"[['I', 'discovered', 'I', ""'m"", 'able', 'to', 'count', 'all', 'of', 'my', 'teeth', 'using', 'just', 'my', 'tongue', '.']]"	Joyful
+s03	e13	c04	u008	['Rachel Green']	Hmm. Umm, why do you have a copy of The Shining in your freezer?	[['Hmm.', 'Umm', ',', 'why', 'do', 'you', 'have', 'a', 'copy', 'of', 'The', 'Shining', 'in', 'your', 'freezer', '?']]	Powerful
+s03	e13	c04	u009	['Joey Tribbiani']	Oh, I was reading it last night, and I got scared, so.	[['Oh', ',', 'I', 'was', 'reading', 'it', 'last', 'night', ',', 'and', 'I', 'got', 'scared', ',', 'so', '.']]	Scared
+s03	e13	c04	u010	['Rachel Green']	But ah, you're safe from it if it's in the freezer?	"[['But', 'ah', ',', 'you', ""'re"", 'safe', 'from', 'it', 'if', 'it', ""'s"", 'in', 'the', 'freezer', '?']]"	Peaceful
+s03	e13	c04	u011	['Joey Tribbiani']	Well, safer. Y'know, I mean I never start reading The Shining, without making sure we've got plenty of room in the freezer, y'know.	"[['Well', ',', 'safer', '.'], [""Y'know"", ',', 'I', 'mean', 'I', 'never', 'start', 'reading', 'The', 'Shining', ',', 'without', 'making', 'sure', 'we', ""'ve"", 'got', 'plenty', 'of', 'room', 'in', 'the', 'freezer', ',', ""y'know"", '.']]"	Joyful
+s03	e13	c04	u012	['Rachel Green']	How often do you read it?	[['How', 'often', 'do', 'you', 'read', 'it', '?']]	Peaceful
+s03	e13	c04	u013	['Joey Tribbiani']	Haven't you ever read the same book over and over again?	"[['Have', ""n't"", 'you', 'ever', 'read', 'the', 'same', 'book', 'over', 'and', 'over', 'again', '?']]"	Peaceful
+s03	e13	c04	u014	['Rachel Green']	Well, umm, I guess I read Little Women more than once. But I mean that's a classic, what's so great about The Shining?	"[['Well', ',', 'umm', ',', 'I', 'guess', 'I', 'read', 'Little', 'Women', 'more', 'than', 'once', '.'], ['But', 'I', 'mean', 'that', ""'s"", 'a', 'classic', ',', 'what', ""'s"", 'so', 'great', 'about', 'The', 'Shining', '?']]"	Peaceful
+s03	e13	c04	u015	['Joey Tribbiani']	The question should be Rach, what is not so great about the shining. Okay? And the answer would be nothing. All right? This is like the scariest book ever. I bet it's way better than that classic of yours.	"[['The', 'question', 'should', 'be', 'Rach', ',', 'what', 'is', 'not', 'so', 'great', 'about', 'the', 'shining', '.'], ['Okay', '?'], ['And', 'the', 'answer', 'would', 'be', 'nothing', '.'], ['All', 'right', '?'], ['This', 'is', 'like', 'the', 'scariest', 'book', 'ever', '.'], ['I', 'bet', 'it', ""'s"", 'way', 'better', 'than', 'that', 'classic', 'of', 'yours', '.']]"	Mad
+s03	e13	c04	u016	['Rachel Green']	Okay. Ah, well we'll just see about that, okay. I will read The Shining, and you will read Little Women.	"[['Okay', '.'], ['Ah', ',', 'well', 'we', ""'ll"", 'just', 'see', 'about', 'that', ',', 'okay', '.'], ['I', 'will', 'read', 'The', 'Shining', ',', 'and', 'you', 'will', 'read', 'Little', 'Women', '.']]"	Mad
+s03	e13	c04	u017	['Joey Tribbiani']	All right, you got it.	[['All', 'right', ',', 'you', 'got', 'it', '.']]	Peaceful
+s03	e13	c04	u018	['Rachel Green']	All right.	[['All', 'right', '.']]	Mad
+s03	e13	c04	u019	['Joey Tribbiani']	Okay.	[['Okay', '.']]	Joyful
+s03	e13	c04	u020	['Rachel Green']	Okay.	[['Okay', '.']]	Joyful
+s03	e13	c04	u021	['Joey Tribbiani']	Ah, now Rach, these ah, these little women.	[['Ah', ',', 'now', 'Rach', ',', 'these', 'ah', ',', 'these', 'little', 'women', '.']]	Sad
+s03	e13	c04	u022	['Rachel Green']	Yeah.	[['Yeah', '.']]	Peaceful
+s03	e13	c04	u023	['Joey Tribbiani']	How little are they? I mean, are they like scary little?	[['How', 'little', 'are', 'they', '?'], ['I', 'mean', ',', 'are', 'they', 'like', 'scary', 'little', '?']]	Scared
+s03	e13	c06	u002	['Richard Burke']	So when people complement me on my cooking should I, what do I say?	[['So', 'when', 'people', 'complement', 'me', 'on', 'my', 'cooking', 'should', 'I', ',', 'what', 'do', 'I', 'say', '?']]	Powerful
+s03	e13	c06	u003	['Monica Geller']	You say 'Thank you very much,' and then you buy me something pretty. Come on, we're gonna put are hands in this bowl, and we're gonna start squishing the tomatoes.	"[['You', 'say', ""'"", 'Thank', 'you', 'very', 'much', ',', ""'"", 'and', 'then', 'you', 'buy', 'me', 'something', 'pretty', '.'], ['Come', 'on', ',', 'we', ""'re"", 'gon', 'na', 'put', 'are', 'hands', 'in', 'this', 'bowl', ',', 'and', 'we', ""'re"", 'gon', 'na', 'start', 'squishing', 'the', 'tomatoes', '.']]"	Joyful
+s03	e13	c06	u005	['Richard Burke']	Ew, this feels very weird.	[['Ew', ',', 'this', 'feels', 'very', 'weird', '.']]	Scared
+s03	e13	c06	u006	['Monica Geller']	You touch people's eyeballs every day and this feels weird.	"[['You', 'touch', 'people', ""'s"", 'eyeballs', 'every', 'day', 'and', 'this', 'feels', 'weird', '.']]"	Powerful
+s03	e13	c06	u007	['Richard Burke']	Yeah, well, sure I touch them, but I spent years learning not to squish them. That's my hand.	"[['Yeah', ',', 'well', ',', 'sure', 'I', 'touch', 'them', ',', 'but', 'I', 'spent', 'years', 'learning', 'not', 'to', 'squish', 'them', '.'], ['That', ""'s"", 'my', 'hand', '.']]"	Scared
+s03	e13	c06	u008	['Monica Geller']	Oops.	[['Oops', '.']]	Neutral
+s03	e13	c06	u009	['Richard Burke']	Okay.	[['Okay', '.']]	Neutral
+s03	e13	c06	u010	['Monica Geller']	Gotta keep squishing.	[['Got', 'ta', 'keep', 'squishing', '.']]	Neutral
+s03	e13	c06	u011	['Richard Burke']	Tomatoes are squishing.	[['Tomatoes', 'are', 'squishing', '.']]	Peaceful
+s03	e13	c06	u012	['Monica Geller']	Okay.	[['Okay', '.']]	Neutral
+s03	e13	c06	u014	['Richard Burke']	Op.	[['Op', '.']]	Neutral
+s03	e13	c06	u015	['Monica Geller']	Oh, gosh, you got some on your shirt.	[['Oh', ',', 'gosh', ',', 'you', 'got', 'some', 'on', 'your', 'shirt', '.']]	Peaceful
+s03	e13	c06	u016	['Richard Burke']	Yeah.	[['Yeah', '.']]	Neutral
+s03	e13	c06	u017	['Monica Geller']	Hold on a second, just put a little club soda on it and it should umm, be.....	[['Hold', 'on', 'a', 'second', ',', 'just', 'put', 'a', 'little', 'club', 'soda', 'on', 'it', 'and', 'it', 'should', 'umm', ',', 'be', '.....']]	Peaceful
+s03	e13	c06	u019	['Richard Burke']	What?	[['What', '?']]	Neutral
+s03	e13	c06	u020	['Monica Geller']	Umm, you've got some on your pants.	"[['Umm', ',', 'you', ""'ve"", 'got', 'some', 'on', 'your', 'pants', '.']]"	Sad
+s03	e13	c06	u021	['Richard Burke']	I'll just throw them out.	"[['I', ""'ll"", 'just', 'throw', 'them', 'out', '.']]"	Peaceful
+s03	e13	c09	u002	['Monica Geller']	So we can be friends who sleep together.	[['So', 'we', 'can', 'be', 'friends', 'who', 'sleep', 'together', '.']]	Neutral
+s03	e13	c09	u003	['Richard Burke']	Absolutely, this will just be something we do, like racquetball.	[['Absolutely', ',', 'this', 'will', 'just', 'be', 'something', 'we', 'do', ',', 'like', 'racquetball', '.']]	Joyful
+s03	e13	c09	u004	['Monica Geller']	Sounds smart and healthy to me. So um, just out of curiosity, um, do you currently have any other racquetball buddies?	[['Sounds', 'smart', 'and', 'healthy', 'to', 'me', '.'], ['So', 'um', ',', 'just', 'out', 'of', 'curiosity', ',', 'um', ',', 'do', 'you', 'currently', 'have', 'any', 'other', 'racquetball', 'buddies', '?']]	Mad
+s03	e13	c09	u005	['Richard Burke']	Just your dad. Although that's actually racquetball. You know I-I do have a blind date with my sister's neighbour next Tuesday.	"[['Just', 'your', 'dad', '.'], ['Although', 'that', ""'s"", 'actually', 'racquetball', '.'], ['You', 'know', 'I', '-', 'I', 'do', 'have', 'a', 'blind', 'date', 'with', 'my', 'sister', ""'s"", 'neighbour', 'next', 'Tuesday', '.']]"	Neutral
+s03	e13	c09	u006	['Monica Geller']	Oh.	[['Oh', '.']]	Neutral
+s03	e13	c09	u007	['Richard Burke']	You want me to cancel it?	[['You', 'want', 'me', 'to', 'cancel', 'it', '?']]	Neutral
+s03	e13	c09	u008	['Monica Geller']	No! No!	[['No', '!'], ['No', '!']]	Scared
+s03	e13	c09	u009	['Richard Burke']	Okay.	[['Okay', '.']]	Neutral
+s03	e13	c09	u010	['Monica Geller']	'Cause if you do that means you'd be cancelling it for me, and we're just friends.	"[[""'"", 'Cause', 'if', 'you', 'do', 'that', 'means', 'you', ""'d"", 'be', 'cancelling', 'it', 'for', 'me', ',', 'and', 'we', ""'re"", 'just', 'friends', '.']]"	Peaceful
+s03	e13	c09	u011	['Richard Burke']	Exactly.	[['Exactly', '.']]	Neutral
+s03	e13	c11	u002	['Monica Geller']	Hi.	[['Hi', '.']]	Neutral
+s03	e13	c11	u003	['Rachel Green']	Sorry. I'm sorry.	"[['Sorry', '.'], ['I', ""'m"", 'sorry', '.']]"	Scared
+s03	e13	c11	u004	['Monica Geller']	You would not believe my day! I had to work two shifts, and then to top it off, I lost one of my fake boobs, in a grill fire.	[['You', 'would', 'not', 'believe', 'my', 'day', '!'], ['I', 'had', 'to', 'work', 'two', 'shifts', ',', 'and', 'then', 'to', 'top', 'it', 'off', ',', 'I', 'lost', 'one', 'of', 'my', 'fake', 'boobs', ',', 'in', 'a', 'grill', 'fire', '.']]	Mad
+s03	e13	c11	u006	['Monica Geller']	What are you smiling at?	[['What', 'are', 'you', 'smiling', 'at', '?']]	Joyful
+s03	e13	c11	u007	['Rachel Green']	I'm sorry, I was just thinking you're day could still pick up.	"[['I', ""'m"", 'sorry', ',', 'I', 'was', 'just', 'thinking', 'you', ""'re"", 'day', 'could', 'still', 'pick', 'up', '.']]"	Joyful
+s03	e13	c11	u008	['Monica Geller']	Yeah, right.	[['Yeah', ',', 'right', '.']]	Mad
+s03	e13	c11	u010	['Richard Burke']	Hello.	[['Hello', '.']]	Neutral
+s03	e13	c11	u011	['Monica Geller']	I love this friend thing!	[['I', 'love', 'this', 'friend', 'thing', '!']]	Joyful
+s03	e13	c12	u002	['Phoebe Buffay']	Listen, Robert's gonna be here any second so, will one of you just tell him?	"[['Listen', ',', 'Robert', ""'s"", 'gon', 'na', 'be', 'here', 'any', 'second', 'so', ',', 'will', 'one', 'of', 'you', 'just', 'tell', 'him', '?']]"	Scared
+s03	e13	c12	u003	['Ross Geller']	Oh.	[['Oh', '.']]	Neutral
+s03	e13	c12	u004	['Phoebe Buffay']	Please, right now, no, every time I see him it's like 'Is it on the lose?' 'Is it watching me?'	"[['Please', ',', 'right', 'now', ',', 'no', ',', 'every', 'time', 'I', 'see', 'him', 'it', ""'s"", 'like', ""'"", 'Is', 'it', 'on', 'the', 'lose', '?'], [""'"", ""'"", 'Is', 'it', 'watching', 'me', '?'], [""'""]]"	Scared
+s03	e13	c12	u005	['Chandler Bing']	We can't tell him, you can't go up to a guy you barely know and talk about his.... stuff.	"[['We', 'ca', ""n't"", 'tell', 'him', ',', 'you', 'ca', ""n't"", 'go', 'up', 'to', 'a', 'guy', 'you', 'barely', 'know', 'and', 'talk', 'about', 'his', '....'], ['stuff', '.']]"	Mad
+s03	e13	c12	u006	['Ross Geller']	He's right, even if it's to say something complementary.	"[['He', ""'s"", 'right', ',', 'even', 'if', 'it', ""'s"", 'to', 'say', 'something', 'complementary', '.']]"	Joyful
+s03	e13	c12	u007	['Robert Bobby']	Hey!	[['Hey', '!']]	Joyful
+s03	e13	c12	u008	['Phoebe Buffay']	Hey.	[['Hey', '.']]	Neutral
+s03	e13	c12	u009	['Robert Bobby']	So are ready for the gym? They've got this new rock climbing wall, we can spot each other.	"[['So', 'are', 'ready', 'for', 'the', 'gym', '?'], ['They', ""'ve"", 'got', 'this', 'new', 'rock', 'climbing', 'wall', ',', 'we', 'can', 'spot', 'each', 'other', '.']]"	Powerful
+s03	e13	c12	u010	['Phoebe Buffay']	No, I can spot you from here.	[['No', ',', 'I', 'can', 'spot', 'you', 'from', 'here', '.']]	Neutral
+s03	e13	c12	u011	['Robert Bobby']	What?	[['What', '?']]	Neutral
+s03	e13	c12	u012	['Phoebe Buffay']	Okay, listen Robert...	[['Okay', ',', 'listen', 'Robert', '...']]	Scared
+s03	e13	c12	u013	['Ross Geller']	Hey, don't we have to...	"[['Hey', ',', 'do', ""n't"", 'we', 'have', 'to', '...']]"	Neutral
+s03	e13	c12	u014	['Chandler Bing']	Yeah, we got, um-hmm.	[['Yeah', ',', 'we', 'got', ',', 'um', '-', 'hmm.']]	Neutral
+s03	e13	c12	u015	['Phoebe Buffay']	Umm, I think you're really, really great...	"[['Umm', ',', 'I', 'think', 'you', ""'re"", 'really', ',', 'really', 'great', '...']]"	Joyful
+s03	e13	c12	u016	['Robert Bobby']	Oh God! Here we go again. Why does this keep happening to me? Is it something I'm putting out there? Is this my fault? Or am I just nuts?	"[['Oh', 'God', '!'], ['Here', 'we', 'go', 'again', '.'], ['Why', 'does', 'this', 'keep', 'happening', 'to', 'me', '?'], ['Is', 'it', 'something', 'I', ""'m"", 'putting', 'out', 'there', '?'], ['Is', 'this', 'my', 'fault', '?'], ['Or', 'am', 'I', 'just', 'nuts', '?']]"	Mad
+s03	e13	c12	u017	['Phoebe Buffay']	I-I-I-I-I don't know, I don't know what to say.	"[['I-I-I-I-I', 'do', ""n't"", 'know', ',', 'I', 'do', ""n't"", 'know', 'what', 'to', 'say', '.']]"	Scared
+s03	e13	c12	u018	['Gunther']	Hey buddy, this is a family place, put the mouse back in the house.	[['Hey', 'buddy', ',', 'this', 'is', 'a', 'family', 'place', ',', 'put', 'the', 'mouse', 'back', 'in', 'the', 'house', '.']]	Mad
+s03	e13	c14	u002	['Rachel Green']	What?	[['What', '?']]	Scared
+s03	e13	c14	u003	['Joey Tribbiani']	Beth is really, really sick.	[['Beth', 'is', 'really', ',', 'really', 'sick', '.']]	Sad
+s03	e13	c14	u004	['Rachel Green']	Awwww.	[['Awwww', '.']]	Sad
+s03	e13	c14	u005	['Joey Tribbiani']	Jo's there, but I don't think there's anything she could do.	"[['Jo', ""'s"", 'there', ',', 'but', 'I', 'do', ""n't"", 'think', 'there', ""'s"", 'anything', 'she', 'could', 'do', '.']]"	Sad
+s03	e13	c14	u007	['Rachel Green']	Joey?	[['Joey', '?']]	Neutral
+s03	e13	c14	u008	['Joey Tribbiani']	Yeah.	[['Yeah', '.']]	Neutral
+s03	e13	c14	u009	['Rachel Green']	Do you want to put the book in the freezer?	[['Do', 'you', 'want', 'to', 'put', 'the', 'book', 'in', 'the', 'freezer', '?']]	Peaceful
+s03	e13	c14	u010	['Joey Tribbiani']	Okay.	[['Okay', '.']]	Neutral
+s03	e13	c14	u011	['Rachel Green']	Okay.	[['Okay', '.']]	Neutral

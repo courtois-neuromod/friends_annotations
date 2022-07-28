@@ -1,0 +1,18 @@
+{
+  "Name": "Friends Corpus Outputs"
+  "DatasetType": "TSV"
+  "GeneratedBy": [
+    "Name": "CorpusTest.ipynb"
+    "Version": "extracted from  https://github.com/emorynlp/character-mining on 21 June 2022 "
+  ]
+  "Contents":[
+    "season": "friends season of the utterance"
+    "episode": "friends episode of the utterance"
+    "scene": "cutscene, as defined arbitrarily"
+    "utterance":"position of appearance in the scene"
+    "speaker":"speaker(s) in the utterance"
+    "transcript": "transcript/text of the utterance"
+    "tokens": "list of the words present in the transcript"
+    "ID": "A unique id for the transcript, consisting of season, episode, scene and utterance"
+  ]
+}

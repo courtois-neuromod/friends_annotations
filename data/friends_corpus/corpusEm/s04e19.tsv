@@ -1,0 +1,42 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e19	c01	u002	['The Singing Man']	Morning's here! Sunshine is here! The sky is clear, the morning's here! The morning's here!	"[['Morning', ""'s"", 'here', '!'], ['Sunshine', 'is', 'here', '!'], ['The', 'sky', 'is', 'clear', ',', 'the', 'morning', ""'s"", 'here', '!'], ['The', 'morning', ""'s"", 'here', '!']]"	Joyful
+s04	e19	c01	u003	['Rachel Green']	HEY!! Do you have to do that? It's Saturday!	"[['HEY', '!!'], ['Do', 'you', 'have', 'to', 'do', 'that', '?'], ['It', ""'s"", 'Saturday', '!']]"	Powerful
+s04	e19	c01	u004	['The Singing Man']	Oh come on! Morning's here! Morning's here! The morning is here! Sunshine is here!	"[['Oh', 'come', 'on', '!'], ['Morning', ""'s"", 'here', '!'], ['Morning', ""'s"", 'here', '!'], ['The', 'morning', 'is', 'here', '!'], ['Sunshine', 'is', 'here', '!']]"	Joyful
+s04	e19	c01	u006	['Rachel Green']	I hate this apartment! I hate the color of these walls! I hate the fact that this place still smells like bird! I hate that singing guy!	[['I', 'hate', 'this', 'apartment', '!'], ['I', 'hate', 'the', 'color', 'of', 'these', 'walls', '!'], ['I', 'hate', 'the', 'fact', 'that', 'this', 'place', 'still', 'smells', 'like', 'bird', '!'], ['I', 'hate', 'that', 'singing', 'guy', '!']]	Joyful
+s04	e19	c01	u007	['Joey Tribbiani']	Are you kidding? I love that guy! Morning's here! Morning is here-	"[['Are', 'you', 'kidding', '?'], ['I', 'love', 'that', 'guy', '!'], ['Morning', ""'s"", 'here', '!'], ['Morning', 'is', 'here', '-']]"	Scared
+s04	e19	c01	u008	['Rachel Green']	Stop it! I will kill you. I hate the fact that my room is so small.	[['Stop', 'it', '!'], ['I', 'will', 'kill', 'you', '.'], ['I', 'hate', 'the', 'fact', 'that', 'my', 'room', 'is', 'so', 'small', '.']]	Mad
+s04	e19	c01	u009	['Monica Geller']	Hey, I have all the space I need. Just do what I did.	[['Hey', ',', 'I', 'have', 'all', 'the', 'space', 'I', 'need', '.'], ['Just', 'do', 'what', 'I', 'did', '.']]	Peaceful
+s04	e19	c01	u010	['Rachel Green']	Monica, you don't even have a bed, you sleep in a ball on the floor!	"[['Monica', ',', 'you', 'do', ""n't"", 'even', 'have', 'a', 'bed', ',', 'you', 'sleep', 'in', 'a', 'ball', 'on', 'the', 'floor', '!']]"	Mad
+s04	e19	c01	u011	['Monica Geller']	Y'know what? I am really tired of your bellyaching! Okay, I-I worked really hard at making this a nice place for us to live!	"[[""Y'know"", 'what', '?'], ['I', 'am', 'really', 'tired', 'of', 'your', 'bellyaching', '!'], ['Okay', ',', 'I', '-', 'I', 'worked', 'really', 'hard', 'at', 'making', 'this', 'a', 'nice', 'place', 'for', 'us', 'to', 'live', '!']]"	Scared
+s04	e19	c01	u012	['Rachel Green']	I'm sorry. I'm so sorry.	"[['I', ""'m"", 'sorry', '.'], ['I', ""'m"", 'so', 'sorry', '.']]"	Sad
+s04	e19	c01	u013	['Monica Geller']	Okay.	[['Okay', '.']]	Neutral
+s04	e19	c01	u014	['Joey Tribbiani']	See, this is a great apartment.	[['See', ',', 'this', 'is', 'a', 'great', 'apartment', '.']]	Powerful
+s04	e19	c01	u015	['Monica Geller']	Shut up! This place is a hole!	[['Shut', 'up', '!'], ['This', 'place', 'is', 'a', 'hole', '!']]	Mad
+s04	e19	c02	u002	['Emily Waltham']	Oh, blimey, I still can't believe you've got an earring!	"[['Oh', ',', 'blimey', ',', 'I', 'still', 'ca', ""n't"", 'believe', 'you', ""'ve"", 'got', 'an', 'earring', '!']]"	Joyful
+s04	e19	c02	u004	['Ross Geller']	Huh? I know, I know. Who am I? David Bowe?	[['Huh', '?'], ['I', 'know', ',', 'I', 'know', '.'], ['Who', 'am', 'I', '?'], ['David', 'Bowe', '?']]	Joyful
+s04	e19	c02	u005	['Emily Waltham']	He does that?!	[['He', 'does', 'that', '?!']]	Joyful
+s04	e19	c02	u006	['Ross Geller']	Uh, I don't know, whatever.	"[['Uh', ',', 'I', 'do', ""n't"", 'know', ',', 'whatever', '.']]"	Scared
+s04	e19	c02	u007	['Emily Waltham']	I think it makes you look really dangerous.	[['I', 'think', 'it', 'makes', 'you', 'look', 'really', 'dangerous', '.']]	Joyful
+s04	e19	c02	u008	['Ross Geller']	Oh, I know. Y'know what, I never would've gotten this if it weren't for you. No really, when I'm with you I'm-I'm like this whole other guy, I love that guy! I mean, I love you too, a lot, but that guy! I-I love that guy!	"[['Oh', ',', 'I', 'know', '.'], [""Y'know"", 'what', ',', 'I', 'never', 'would', ""'ve"", 'gotten', 'this', 'if', 'it', 'were', ""n't"", 'for', 'you', '.'], ['No', 'really', ',', 'when', 'I', ""'m"", 'with', 'you', 'I', ""'m"", '-', 'I', ""'m"", 'like', 'this', 'whole', 'other', 'guy', ',', 'I', 'love', 'that', 'guy', '!'], ['I', 'mean', ',', 'I', 'love', 'you', 'too', ',', 'a', 'lot', ',', 'but', 'that', 'guy', '!'], ['I', '-', 'I', 'love', 'that', 'guy', '!']]"	Joyful
+s04	e19	c02	u009	['Emily Waltham']	I love both of you!	[['I', 'love', 'both', 'of', 'you', '!']]	Joyful
+s04	e19	c02	u010	['Ross Geller']	Yeah?	[['Yeah', '?']]	Scared
+s04	e19	c02	u012	['Emily Waltham']	I wish I didn't have to go.	"[['I', 'wish', 'I', 'did', ""n't"", 'have', 'to', 'go', '.']]"	Sad
+s04	e19	c02	u013	['Ross Geller']	Then don't. Stay here. Just don't go so soon to London, just one more day.	"[['Then', 'do', ""n't"", '.'], ['Stay', 'here', '.'], ['Just', 'do', ""n't"", 'go', 'so', 'soon', 'to', 'London', ',', 'just', 'one', 'more', 'day', '.']]"	Sad
+s04	e19	c02	u014	['Emily Waltham']	Ohh, Ross, please!	[['Ohh', ',', 'Ross', ',', 'please', '!']]	Sad
+s04	e19	c02	u015	['Ross Geller']	One more day, seriously/	[['One', 'more', 'day', ',', 'seriously', '/']]	Peaceful
+s04	e19	c02	u016	['Emily Waltham']	Don't do this to me, again. You'd know I'd stay here in a minute, but I'd really miss so much work, they'll fire me.	"[['Do', ""n't"", 'do', 'this', 'to', 'me', ',', 'again', '.'], ['You', ""'d"", 'know', 'I', ""'d"", 'stay', 'here', 'in', 'a', 'minute', ',', 'but', 'I', ""'d"", 'really', 'miss', 'so', 'much', 'work', ',', 'they', ""'ll"", 'fire', 'me', '.']]"	Sad
+s04	e19	c02	u017	['Ross Geller']	So, then you can stay as long as you want.	[['So', ',', 'then', 'you', 'can', 'stay', 'as', 'long', 'as', 'you', 'want', '.']]	Sad
+s04	e19	c02	u018	['Emily Waltham']	I wish I could.	[['I', 'wish', 'I', 'could', '.']]	Sad
+s04	e19	c02	u019	['Ross Geller']	Oh no. Don't, don't, don't start packing. Come on!	"[['Oh', 'no', '.'], ['Do', ""n't"", ',', 'do', ""n't"", ',', 'do', ""n't"", 'start', 'packing', '.'], ['Come', 'on', '!']]"	Sad
+s04	e19	c02	u020	['Emily Waltham']	I don't think you understand packing. Look, I just don't want to leave it to the last minute. Last time I left in such a rush, I left my knickers here.	"[['I', 'do', ""n't"", 'think', 'you', 'understand', 'packing', '.'], ['Look', ',', 'I', 'just', 'do', ""n't"", 'want', 'to', 'leave', 'it', 'to', 'the', 'last', 'minute', '.'], ['Last', 'time', 'I', 'left', 'in', 'such', 'a', 'rush', ',', 'I', 'left', 'my', 'knickers', 'here', '.']]"	Scared
+s04	e19	c02	u021	['Ross Geller']	Yeah, I know, I uh, I tried them on.	[['Yeah', ',', 'I', 'know', ',', 'I', 'uh', ',', 'I', 'tried', 'them', 'on', '.']]	Sad
+s04	e19	c02	u022	['Emily Waltham']	You didn't!	"[['You', 'did', ""n't"", '!']]"	Joyful
+s04	e19	c02	u023	['Ross Geller']	No. No, I didn't. I didn't want to be that guy.	"[['No', '.'], ['No', ',', 'I', 'did', ""n't"", '.'], ['I', 'did', ""n't"", 'want', 'to', 'be', 'that', 'guy', '.']]"	Sad
+s04	e19	c08	u002	['The Singing Man']	Morning's here! The morning's here!	"[['Morning', ""'s"", 'here', '!'], ['The', 'morning', ""'s"", 'here', '!']]"	Joyful
+s04	e19	c08	u004	['Both']	Sunshine is here! The sky is clear, the morning's here!	"[['Sunshine', 'is', 'here', '!'], ['The', 'sky', 'is', 'clear', ',', 'the', 'morning', ""'s"", 'here', '!']]"	Joyful
+s04	e19	c08	u005	['The Singing Man']	Hey! You're back!	"[['Hey', '!'], ['You', ""'re"", 'back', '!']]"	Joyful
+s04	e19	c08	u006	['Joey Tribbiani']	Hey! Get into gear!	[['Hey', '!'], ['Get', 'into', 'gear', '!']]	Joyful
+s04	e19	c08	u007	['The Singing Man']	Breakfast is near!	[['Breakfast', 'is', 'near', '!']]	Joyful
+s04	e19	c08	u008	['Both']	The dark of night has disappeared!!	[['The', 'dark', 'of', 'night', 'has', 'disappeared', '!!']]	Joyful
+s04	e19	c08	u009	['The Singing Man']	I'll see you tomorrow morning!	"[['I', ""'ll"", 'see', 'you', 'tomorrow', 'morning', '!']]"	Joyful
+s04	e19	c08	u010	['Joey Tribbiani']	Okay!	[['Okay', '!']]	Joyful

@@ -1,0 +1,145 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e04	c01	u002	['Phoebe Buffay']	Hey! New wallet, huh?	[['Hey', '!'], ['New', 'wallet', ',', 'huh', '?']]	Joyful
+s04	e04	c01	u003	['Chandler Bing']	Yeah, it was time. The old condom ring in the leather just doesn't say 'cool' anymore.	"[['Yeah', ',', 'it', 'was', 'time', '.'], ['The', 'old', 'condom', 'ring', 'in', 'the', 'leather', 'just', 'does', ""n't"", 'say', ""'"", 'cool', ""'"", 'anymore', '.']]"	Neutral
+s04	e04	c01	u004	['Monica Geller']	Rachel!	[['Rachel', '!']]	Mad
+s04	e04	c01	u005	['Rachel Green']	What?	[['What', '?']]	Scared
+s04	e04	c01	u006	['Monica Geller']	You just put an empty carton back in the fridge!	[['You', 'just', 'put', 'an', 'empty', 'carton', 'back', 'in', 'the', 'fridge', '!']]	Mad
+s04	e04	c01	u007	['Rachel Green']	Oh yeah, I know, but the garbage was full.	[['Oh', 'yeah', ',', 'I', 'know', ',', 'but', 'the', 'garbage', 'was', 'full', '.']]	Neutral
+s04	e04	c01	u008	['Monica Geller']	Have you ever taken out the trash?	[['Have', 'you', 'ever', 'taken', 'out', 'the', 'trash', '?']]	Mad
+s04	e04	c01	u009	['Rachel Green']	Well, I thought you liked doing it.	[['Well', ',', 'I', 'thought', 'you', 'liked', 'doing', 'it', '.']]	Mad
+s04	e04	c01	u010	['Monica Geller']	Third door on the left.	[['Third', 'door', 'on', 'the', 'left', '.']]	Neutral
+s04	e04	c01	u011	['Rachel Green']	Right!	[['Right', '!']]	Neutral
+s04	e04	c02	u002	['Rachel Green']	Oh! Hey, Mr. Treeger.	[['Oh', '!'], ['Hey', ',', 'Mr.', 'Treeger', '.']]	Joyful
+s04	e04	c02	u003	['Mr. Treeger']	Hey.	[['Hey', '.']]	Joyful
+s04	e04	c02	u005	['Mr. Treeger']	What are you doing?	[['What', 'are', 'you', 'doing', '?']]	Powerful
+s04	e04	c02	u006	['Rachel Green']	Ummm. Oh! I'm sorry. It's a little old but...	"[['Ummm', '.'], ['Oh', '!'], ['I', ""'m"", 'sorry', '.'], ['It', ""'s"", 'a', 'little', 'old', 'but', '...']]"	Sad
+s04	e04	c02	u007	['Mr. Treeger']	No! You're clogging up the chute that I spent a half-hour unclogging!	"[['No', '!'], ['You', ""'re"", 'clogging', 'up', 'the', 'chute', 'that', 'I', 'spent', 'a', 'half', '-', 'hour', 'unclogging', '!']]"	Sad
+s04	e04	c02	u008	['Rachel Green']	I'm sorry. I didn't-I don't come in here a lot.	"[['I', ""'m"", 'sorry', '.'], ['I', 'did', ""n't"", '-', 'I', 'do', ""n't"", 'come', 'in', 'here', 'a', 'lot', '.']]"	Sad
+s04	e04	c02	u009	['Mr. Treeger']	Oh yeah, of course you don't!	"[['Oh', 'yeah', ',', 'of', 'course', 'you', 'do', ""n't"", '!']]"	Neutral
+s04	e04	c02	u010	['Rachel Green']	No.	[['No', '.']]	Peaceful
+s04	e04	c02	u011	['Mr. Treeger']	"'Cause you're a little princess! ""Daddy, buy me a pizza. Daddy, buy me a candy factory. Daddy, make the cast of Cats sing Happy Birthday to me..."""	"[[""'"", 'Cause', 'you', ""'re"", 'a', 'little', 'princess', '!'], ['""', 'Daddy', ',', 'buy', 'me', 'a', 'pizza', '.'], ['Daddy', ',', 'buy', 'me', 'a', 'candy', 'factory', '.'], ['Daddy', ',', 'make', 'the', 'cast', 'of', 'Cats', 'sing', 'Happy', 'Birthday', 'to', 'me', '...', '""']]"	Powerful
+s04	e04	c02	u012	['Rachel Green']	I didn't... I never said that.	"[['I', 'did', ""n't"", '...'], ['I', 'never', 'said', 'that', '.']]"	Mad
+s04	e04	c02	u013	['Mr. Treeger']	You think you could make a mess and the big man in coveralls will come in here and clean it up, huh? Well, why don't think of someone else for a change?	"[['You', 'think', 'you', 'could', 'make', 'a', 'mess', 'and', 'the', 'big', 'man', 'in', 'coveralls', 'will', 'come', 'in', 'here', 'and', 'clean', 'it', 'up', ',', 'huh', '?'], ['Well', ',', 'why', 'do', ""n't"", 'think', 'of', 'someone', 'else', 'for', 'a', 'change', '?']]"	Sad
+s04	e04	c02	u014	['Rachel Green']	Okay, I'm sorry.	"[['Okay', ',', 'I', ""'m"", 'sorry', '.']]"	Sad
+s04	e04	c02	u016	['Monica Geller']	God! If you're gonna cry about it!	"[['God', '!'], ['If', 'you', ""'re"", 'gon', 'na', 'cry', 'about', 'it', '!']]"	Sad
+s04	e04	c03	u002	['Joey Tribbiani']	Whoa-whoa, Treeger made you cry?	[['Whoa', '-', 'whoa', ',', 'Treeger', 'made', 'you', 'cry', '?']]	Mad
+s04	e04	c03	u003	['Rachel Green']	Yes! And he said really mean things that were only partly true.	[['Yes', '!'], ['And', 'he', 'said', 'really', 'mean', 'things', 'that', 'were', 'only', 'partly', 'true', '.']]	Neutral
+s04	e04	c03	u004	['Joey Tribbiani']	I'm gonna go down there and teach that guy a lesson.	"[['I', ""'m"", 'gon', 'na', 'go', 'down', 'there', 'and', 'teach', 'that', 'guy', 'a', 'lesson', '.']]"	Mad
+s04	e04	c03	u005	['Monica Geller']	Joey, please don't do that. I think it's best that we just forget about it.	"[['Joey', ',', 'please', 'do', ""n't"", 'do', 'that', '.'], ['I', 'think', 'it', ""'s"", 'best', 'that', 'we', 'just', 'forget', 'about', 'it', '.']]"	Peaceful
+s04	e04	c03	u006	['Rachel Green']	That's easy for you to say, you weren't almost just killed.	"[['That', ""'s"", 'easy', 'for', 'you', 'to', 'say', ',', 'you', 'were', ""n't"", 'almost', 'just', 'killed', '.']]"	Mad
+s04	e04	c03	u007	['Joey Tribbiani']	All right that's it, school is in session!	"[['All', 'right', 'that', ""'s"", 'it', ',', 'school', 'is', 'in', 'session', '!']]"	Mad
+s04	e04	c03	u008	['Monica Geller']	My God! Is this a gym card?	[['My', 'God', '!'], ['Is', 'this', 'a', 'gym', 'card', '?']]	Joyful
+s04	e04	c03	u009	['Chandler Bing']	Oh yeah, gym member. I try to go four times a week, but I've missed the last 1200 times.	"[['Oh', 'yeah', ',', 'gym', 'member', '.'], ['I', 'try', 'to', 'go', 'four', 'times', 'a', 'week', ',', 'but', 'I', ""'ve"", 'missed', 'the', 'last', '1200', 'times', '.']]"	Sad
+s04	e04	c03	u010	['Ross Geller']	So why don't you quit?	"[['So', 'why', 'do', ""n't"", 'you', 'quit', '?']]"	Neutral
+s04	e04	c03	u011	['Chandler Bing']	You don't think I've tried? You think I like having 50 dollars taken out of my bank account every month? No, they make you go all the way down there! Then they use all of these phrases and peppiness to try and confuse you! Then they bring out Maria.	"[['You', 'do', ""n't"", 'think', 'I', ""'ve"", 'tried', '?'], ['You', 'think', 'I', 'like', 'having', '50', 'dollars', 'taken', 'out', 'of', 'my', 'bank', 'account', 'every', 'month', '?'], ['No', ',', 'they', 'make', 'you', 'go', 'all', 'the', 'way', 'down', 'there', '!'], ['Then', 'they', 'use', 'all', 'of', 'these', 'phrases', 'and', 'peppiness', 'to', 'try', 'and', 'confuse', 'you', '!'], ['Then', 'they', 'bring', 'out', 'Maria', '.']]"	Mad
+s04	e04	c03	u012	['Ross Geller']	Who is Maria?	[['Who', 'is', 'Maria', '?']]	Neutral
+s04	e04	c03	u013	['Chandler Bing']	Oh Maria. You can't say no to her, she's like this lycra spandex covered gym...treat.	"[['Oh', 'Maria', '.'], ['You', 'ca', ""n't"", 'say', 'no', 'to', 'her', ',', 'she', ""'s"", 'like', 'this', 'lycra', 'spandex', 'covered', 'gym', '...'], ['treat', '.']]"	Joyful
+s04	e04	c03	u014	['Ross Geller']	You need me to go down there with you and hold your hand?	[['You', 'need', 'me', 'to', 'go', 'down', 'there', 'with', 'you', 'and', 'hold', 'your', 'hand', '?']]	Peaceful
+s04	e04	c03	u015	['Chandler Bing']	No!	[['No', '!']]	Mad
+s04	e04	c03	u016	['Ross Geller']	So you're strong enough to face her on your own?	"[['So', 'you', ""'re"", 'strong', 'enough', 'to', 'face', 'her', 'on', 'your', 'own', '?']]"	Neutral
+s04	e04	c03	u017	['Chandler Bing']	Oh no, you'll have to come.	"[['Oh', 'no', ',', 'you', ""'ll"", 'have', 'to', 'come', '.']]"	Neutral
+s04	e04	c04	u002	['Mr. Treeger']	Tribbiani! Hold on, I'll get the plunger.	"[['Tribbiani', '!'], ['Hold', 'on', ',', 'I', ""'ll"", 'get', 'the', 'plunger', '.']]"	Neutral
+s04	e04	c04	u003	['Joey Tribbiani']	Hey! You hold on pal! Now you made my friend, Rachel, cry. So now, you're gonna go up there and apologize to her, unless you want me to call the landlord.	"[['Hey', '!'], ['You', 'hold', 'on', 'pal', '!'], ['Now', 'you', 'made', 'my', 'friend', ',', 'Rachel', ',', 'cry', '.'], ['So', 'now', ',', 'you', ""'re"", 'gon', 'na', 'go', 'up', 'there', 'and', 'apologize', 'to', 'her', ',', 'unless', 'you', 'want', 'me', 'to', 'call', 'the', 'landlord', '.']]"	Mad
+s04	e04	c04	u004	['Mr. Treeger']	And tell him what?	[['And', 'tell', 'him', 'what', '?']]	Neutral
+s04	e04	c04	u005	['Joey Tribbiani']	Have you heard about a little something called, Not Making Girls Cry.	[['Have', 'you', 'heard', 'about', 'a', 'little', 'something', 'called', ',', 'Not', 'Making', 'Girls', 'Cry', '.']]	Mad
+s04	e04	c04	u006	['Mr. Treeger']	Yeah. Well maybe you have heard about the Rent Stabilization Act of 1968!	[['Yeah', '.'], ['Well', 'maybe', 'you', 'have', 'heard', 'about', 'the', 'Rent', 'Stabilization', 'Act', 'of', '1968', '!']]	Mad
+s04	e04	c04	u007	['Joey Tribbiani']	I have actually not heard of that.	[['I', 'have', 'actually', 'not', 'heard', 'of', 'that', '.']]	Neutral
+s04	e04	c04	u008	['Mr. Treeger']	Yeah, well your friends are in violation of it. I've been a nice guy up until now, but uh, I don't need this grief. I'm gonna call the landlord and tell him that Monica is illegally subletting here grandmother's apartment. Your friends are outta here pal.	"[['Yeah', ',', 'well', 'your', 'friends', 'are', 'in', 'violation', 'of', 'it', '.'], ['I', ""'ve"", 'been', 'a', 'nice', 'guy', 'up', 'until', 'now', ',', 'but', 'uh', ',', 'I', 'do', ""n't"", 'need', 'this', 'grief', '.'], ['I', ""'m"", 'gon', 'na', 'call', 'the', 'landlord', 'and', 'tell', 'him', 'that', 'Monica', 'is', 'illegally', 'subletting', 'here', 'grandmother', ""'s"", 'apartment', '.'], ['Your', 'friends', 'are', 'outta', 'here', 'pal', '.']]"	Mad
+s04	e04	c04	u009	['Joey Tribbiani']	Why don't you tell me something I don't know!	"[['Why', 'do', ""n't"", 'you', 'tell', 'me', 'something', 'I', 'do', ""n't"", 'know', '!']]"	Mad
+s04	e04	c06	u002	['Ross Geller']	Whoa-whoa-whoa, hey! Now remember what we talked about, you gotta be strong.	[['Whoa', '-', 'whoa', '-', 'whoa', ',', 'hey', '!'], ['Now', 'remember', 'what', 'we', 'talked', 'about', ',', 'you', 'got', 'ta', 'be', 'strong', '.']]	Powerful
+s04	e04	c06	u003	['Chandler Bing']	Yes. Yes!	[['Yes', '.'], ['Yes', '!']]	Powerful
+s04	e04	c06	u004	['Ross Geller']	"One more time, ""Hey, don't you want a washboard stomach and rock hard pecs?"""	"[['One', 'more', 'time', ',', '""', 'Hey', ',', 'do', ""n't"", 'you', 'want', 'a', 'washboard', 'stomach', 'and', 'rock', 'hard', 'pecs', '?', '""']]"	Powerful
+s04	e04	c06	u005	['Chandler Bing']	No! I want a flabby gut and saggy man breasts!	[['No', '!'], ['I', 'want', 'a', 'flabby', 'gut', 'and', 'saggy', 'man', 'breasts', '!']]	Powerful
+s04	e04	c06	u006	['Ross Geller']	Good! That's good!	"[['Good', '!'], ['That', ""'s"", 'good', '!']]"	Joyful
+s04	e04	c06	u007	['Chandler Bing']	Okay. I wanna quit the gym.	[['Okay', '.'], ['I', 'wan', 'na', 'quit', 'the', 'gym.']]	Powerful
+s04	e04	c06	u008	['Gym Employee']	You wanna quit?	[['You', 'wan', 'na', 'quit', '?']]	Sad
+s04	e04	c06	u009	['Chandler Bing']	I wanna quit the gym.	[['I', 'wan', 'na', 'quit', 'the', 'gym.']]	Powerful
+s04	e04	c06	u010	['Gym Employee']	You do realize that you won't have access to our new full service Swedish spa.	"[['You', 'do', 'realize', 'that', 'you', 'wo', ""n't"", 'have', 'access', 'to', 'our', 'new', 'full', 'service', 'Swedish', 'spa', '.']]"	Sad
+s04	e04	c06	u011	['Chandler Bing']	I wanna quit the gym.	[['I', 'wan', 'na', 'quit', 'the', 'gym.']]	Powerful
+s04	e04	c06	u012	['Gym Employee']	Okay, Dave in the membership office, handles quitters. Uh, excuse me, are you a member?	[['Okay', ',', 'Dave', 'in', 'the', 'membership', 'office', ',', 'handles', 'quitters', '.'], ['Uh', ',', 'excuse', 'me', ',', 'are', 'you', 'a', 'member', '?']]	Neutral
+s04	e04	c06	u013	['Ross Geller']	Me? No.	[['Me', '?'], ['No', '.']]	Neutral
+s04	e04	c06	u014	['Gym Employee']	Sorry, members only.	[['Sorry', ',', 'members', 'only', '.']]	Neutral
+s04	e04	c06	u015	['Chandler Bing']	I wanna quit the gym.	[['I', 'wan', 'na', 'quit', 'the', 'gym.']]	Scared
+s04	e04	c06	u016	['Ross Geller']	It's okay man, be strong.	"[['It', ""'s"", 'okay', 'man', ',', 'be', 'strong', '.']]"	Powerful
+s04	e04	c06	u017	['Gym Employee']	So, are you a member of any gym.	[['So', ',', 'are', 'you', 'a', 'member', 'of', 'any', 'gym.']]	Neutral
+s04	e04	c06	u018	['Ross Geller']	No! And I'm not gonna be, so you can save you little speech.	"[['No', '!'], ['And', 'I', ""'m"", 'not', 'gon', 'na', 'be', ',', 'so', 'you', 'can', 'save', 'you', 'little', 'speech', '.']]"	Powerful
+s04	e04	c06	u019	['Gym Employee']	Okay, no problem. Could you come here for a second?	[['Okay', ',', 'no', 'problem', '.'], ['Could', 'you', 'come', 'here', 'for', 'a', 'second', '?']]	Neutral
+s04	e04	c06	u021	['Woman']	Hi, I'm Maria.	"[['Hi', ',', 'I', ""'m"", 'Maria', '.']]"	Joyful
+s04	e04	c07	u002	['Rick Sanoven']	Wow, you have really pretty feet.	[['Wow', ',', 'you', 'have', 'really', 'pretty', 'feet', '.']]	Joyful
+s04	e04	c07	u003	['Phoebe Buffay']	These old things.	[['These', 'old', 'things', '.']]	Joyful
+s04	e04	c07	u004	['Rick Sanoven']	Would you mind spending some time on my siadic area, it's been killing me today.	"[['Would', 'you', 'mind', 'spending', 'some', 'time', 'on', 'my', 'siadic', 'area', ',', 'it', ""'s"", 'been', 'killing', 'me', 'today', '.']]"	Neutral
+s04	e04	c07	u005	['Phoebe Buffay']	You mean the-Okay by siadic, you mean the towel covered portion.	[['You', 'mean', 'the', '-', 'Okay', 'by', 'siadic', ',', 'you', 'mean', 'the', 'towel', 'covered', 'portion', '.']]	Neutral
+s04	e04	c07	u006	['Rick Sanoven']	Yeah.	[['Yeah', '.']]	Neutral
+s04	e04	c07	u007	['Phoebe Buffay']	Sure, yeah, no I can do that, yeah, because umm, y'know, the muscles in the siadic area can get y'know, real nice and tight. So umm, tell me Rick, how umm, how did you injure the area.	"[['Sure', ',', 'yeah', ',', 'no', 'I', 'can', 'do', 'that', ',', 'yeah', ',', 'because', 'umm', ',', ""y'know"", ',', 'the', 'muscles', 'in', 'the', 'siadic', 'area', 'can', 'get', ""y'know"", ',', 'real', 'nice', 'and', 'tight', '.'], ['So', 'umm', ',', 'tell', 'me', 'Rick', ',', 'how', 'umm', ',', 'how', 'did', 'you', 'injure', 'the', 'area', '.']]"	Scared
+s04	e04	c07	u008	['Rick Sanoven']	Oh, a 16-hour sit-in for Greenpeace.	[['Oh', ',', 'a', '16', '-', 'hour', 'sit', '-', 'in', 'for', 'Greenpeace', '.']]	Neutral
+s04	e04	c07	u009	['Phoebe Buffay']	Oh.	[['Oh', '.']]	Neutral
+s04	e04	c07	u010	['Rick Sanoven']	Ow! Did you just bite me?	[['Ow', '!'], ['Did', 'you', 'just', 'bite', 'me', '?']]	Scared
+s04	e04	c07	u011	['Phoebe Buffay']	No!	[['No', '!']]	Scared
+s04	e04	c08	u002	['Mr. Treeger']	What?	[['What', '?']]	Neutral
+s04	e04	c08	u003	['Joey Tribbiani']	Please don't kick Monica and Rachel out, this wasn't there fault, it was mine.	"[['Please', 'do', ""n't"", 'kick', 'Monica', 'and', 'Rachel', 'out', ',', 'this', 'was', ""n't"", 'there', 'fault', ',', 'it', 'was', 'mine', '.']]"	Sad
+s04	e04	c08	u004	['Mr. Treeger']	You want me to kick you guys out instead?	[['You', 'want', 'me', 'to', 'kick', 'you', 'guys', 'out', 'instead', '?']]	Powerful
+s04	e04	c08	u005	['Joey Tribbiani']	No you can't do that, where would the chick and the duck live?	"[['No', 'you', 'ca', ""n't"", 'do', 'that', ',', 'where', 'would', 'the', 'chick', 'and', 'the', 'duck', 'live', '?']]"	Scared
+s04	e04	c08	u006	['Mr. Treeger']	You have pets!	[['You', 'have', 'pets', '!']]	Mad
+s04	e04	c08	u007	['Joey Tribbiani']	Noo-no-no, no, those are nicknames. I'm the chick and Chandler is the duck.	"[['Noo', '-', 'no', '-', 'no', ',', 'no', ',', 'those', 'are', 'nicknames', '.'], ['I', ""'m"", 'the', 'chick', 'and', 'Chandler', 'is', 'the', 'duck', '.']]"	Scared
+s04	e04	c08	u008	['Mr. Treeger']	Huh, I would've thought it was the other way around.	"[['Huh', ',', 'I', 'would', ""'ve"", 'thought', 'it', 'was', 'the', 'other', 'way', 'around', '.']]"	Neutral
+s04	e04	c08	u009	['Joey Tribbiani']	Come on man, just-just let the girls stay, I'll do whatever you want.	"[['Come', 'on', 'man', ',', 'just', '-', 'just', 'let', 'the', 'girls', 'stay', ',', 'I', ""'ll"", 'do', 'whatever', 'you', 'want', '.']]"	Scared
+s04	e04	c08	u010	['Mr. Treeger']	Really? You'll do anything?	"[['Really', '?'], ['You', ""'ll"", 'do', 'anything', '?']]"	Powerful
+s04	e04	c08	u011	['Joey Tribbiani']	Yeah-yeah, absolutely.	[['Yeah', '-', 'yeah', ',', 'absolutely', '.']]	Scared
+s04	e04	c08	u012	['Mr. Treeger']	Yeah, I've got something you can do.	"[['Yeah', ',', 'I', ""'ve"", 'got', 'something', 'you', 'can', 'do', '.']]"	Powerful
+s04	e04	c08	u013	['Joey Tribbiani']	What, what is it?	[['What', ',', 'what', 'is', 'it', '?']]	Scared
+s04	e04	c08	u014	['Mr. Treeger']	Can you be my dancing partner?	[['Can', 'you', 'be', 'my', 'dancing', 'partner', '?']]	Scared
+s04	e04	c08	u015	['Joey Tribbiani']	That's not, prison lingo, is it?	"[['That', ""'s"", 'not', ',', 'prison', 'lingo', ',', 'is', 'it', '?']]"	Scared
+s04	e04	c10	u002	['Joey Tribbiani']	All right, I'm here, let's ahh, get this over with.	"[['All', 'right', ',', 'I', ""'m"", 'here', ',', 'let', ""'s"", 'ahh', ',', 'get', 'this', 'over', 'with', '.']]"	Peaceful
+s04	e04	c10	u003	['Mr. Treeger']	Okay ahh, well, just ahh, follow my lead.	[['Okay', 'ahh', ',', 'well', ',', 'just', 'ahh', ',', 'follow', 'my', 'lead', '.']]	Powerful
+s04	e04	c10	u004	['Joey Tribbiani']	Whoa-whoa, don't we need to do some kinda preparation first? Like ahh, get really drunk?	"[['Whoa', '-', 'whoa', ',', 'do', ""n't"", 'we', 'need', 'to', 'do', 'some', 'kinda', 'preparation', 'first', '?'], ['Like', 'ahh', ',', 'get', 'really', 'drunk', '?']]"	Scared
+s04	e04	c10	u005	['Mr. Treeger']	Look come on, eh, just ah, just ah, put your arms around me, eh.	[['Look', 'come', 'on', ',', 'eh', ',', 'just', 'ah', ',', 'just', 'ah', ',', 'put', 'your', 'arms', 'around', 'me', ',', 'eh', '.']]	Peaceful
+s04	e04	c10	u007	['Mr. Treeger']	Ahhhh! I'm sorry!	"[['Ahhhh', '!'], ['I', ""'m"", 'sorry', '!']]"	Sad
+s04	e04	c10	u008	['Joey Tribbiani']	No, it's okay, but if I'm Marge, my breasts are coming out my back.	"[['No', ',', 'it', ""'s"", 'okay', ',', 'but', 'if', 'I', ""'m"", 'Marge', ',', 'my', 'breasts', 'are', 'coming', 'out', 'my', 'back', '.']]"	Sad
+s04	e04	c10	u009	['Mr. Treeger']	Ahh, forget it! I'll never be any good at this, my mom was right, I'm just a big potato with arms, and legs, and a head.	"[['Ahh', ',', 'forget', 'it', '!'], ['I', ""'ll"", 'never', 'be', 'any', 'good', 'at', 'this', ',', 'my', 'mom', 'was', 'right', ',', 'I', ""'m"", 'just', 'a', 'big', 'potato', 'with', 'arms', ',', 'and', 'legs', ',', 'and', 'a', 'head', '.']]"	Sad
+s04	e04	c10	u010	['Joey Tribbiani']	Come on man, you're not a potato.	"[['Come', 'on', 'man', ',', 'you', ""'re"", 'not', 'a', 'potato', '.']]"	Peaceful
+s04	e04	c10	u011	['Mr. Treeger']	I'm sure as hell a dancer, it's no use Marge will never go for me.	"[['I', ""'m"", 'sure', 'as', 'hell', 'a', 'dancer', ',', 'it', ""'s"", 'no', 'use', 'Marge', 'will', 'never', 'go', 'for', 'me', '.']]"	Peaceful
+s04	e04	c10	u012	['Joey Tribbiani']	Come on Treeger, don't say that. You just ahh, you just need more practice. Here, come on, let's ahh, let's try it again. Come on. Plus, it was, it was probably mostly my fault, anyway. I mean, y'know, I'm not really that comfortable dancing with a- We-he!! Hey!	"[['Come', 'on', 'Treeger', ',', 'do', ""n't"", 'say', 'that', '.'], ['You', 'just', 'ahh', ',', 'you', 'just', 'need', 'more', 'practice', '.'], ['Here', ',', 'come', 'on', ',', 'let', ""'s"", 'ahh', ',', 'let', ""'s"", 'try', 'it', 'again', '.'], ['Come', 'on', '.'], ['Plus', ',', 'it', 'was', ',', 'it', 'was', 'probably', 'mostly', 'my', 'fault', ',', 'anyway', '.'], ['I', 'mean', ',', ""y'know"", ',', 'I', ""'m"", 'not', 'really', 'that', 'comfortable', 'dancing', 'with', 'a', '-', 'We', '-', 'he', '!!'], ['Hey', '!']]"	Peaceful
+s04	e04	c10	u013	['Mr. Treeger']	Yeah!	[['Yeah', '!']]	Powerful
+s04	e04	c11	u002	['Monica Geller']	Hey-hey, how goes the dancing? Gay yet?	[['Hey', '-', 'hey', ',', 'how', 'goes', 'the', 'dancing', '?'], ['Gay', 'yet', '?']]	Neutral
+s04	e04	c11	u003	['Joey Tribbiani']	Ah-ha-ha, you guys owe me big time.	[['Ah', '-', 'ha', '-', 'ha', ',', 'you', 'guys', 'owe', 'me', 'big', 'time', '.']]	Joyful
+s04	e04	c11	u004	['Rachel Green']	What was that?	[['What', 'was', 'that', '?']]	Joyful
+s04	e04	c11	u005	['Joey Tribbiani']	What?	[['What', '?']]	Neutral
+s04	e04	c11	u006	['Rachel Green']	You just did a little dancy thing.	[['You', 'just', 'did', 'a', 'little', 'dancy', 'thing', '.']]	Peaceful
+s04	e04	c11	u007	['Joey Tribbiani']	No I didn't.	"[['No', 'I', 'did', ""n't"", '.']]"	Neutral
+s04	e04	c11	u008	['Monica Geller']	Yes you did! You did like a little hop.	[['Yes', 'you', 'did', '!'], ['You', 'did', 'like', 'a', 'little', 'hop', '.']]	Powerful
+s04	e04	c11	u009	['Rachel Green']	You are soo enjoying this.	[['You', 'are', 'soo', 'enjoying', 'this', '.']]	Joyful
+s04	e04	c11	u010	['Joey Tribbiani']	No, I'm not! And it wasn't a hop it was a pademarie.	"[['No', ',', 'I', ""'m"", 'not', '!'], ['And', 'it', 'was', ""n't"", 'a', 'hop', 'it', 'was', 'a', 'pademarie', '.']]"	Mad
+s04	e04	c11	u011	['Monica Geller']	You know the words! You are so into this!	[['You', 'know', 'the', 'words', '!'], ['You', 'are', 'so', 'into', 'this', '!']]	Joyful
+s04	e04	c11	u012	['Joey Tribbiani']	All right, well maybe I'm enjoying it a little bit. I mean I'm getting pretty good at it.	"[['All', 'right', ',', 'well', 'maybe', 'I', ""'m"", 'enjoying', 'it', 'a', 'little', 'bit', '.'], ['I', 'mean', 'I', ""'m"", 'getting', 'pretty', 'good', 'at', 'it', '.']]"	Joyful
+s04	e04	c11	u013	['Rachel Green']	Ooh, this is soo sweet, Joey our little twinkle-toes.	[['Ooh', ',', 'this', 'is', 'soo', 'sweet', ',', 'Joey', 'our', 'little', 'twinkle', '-', 'toes', '.']]	Joyful
+s04	e04	c11	u014	['Joey Tribbiani']	Hey-hey, hold on, this isn't some kind of like girly dance. All right, it's like a sport, it's manly!	"[['Hey', '-', 'hey', ',', 'hold', 'on', ',', 'this', 'is', ""n't"", 'some', 'kind', 'of', 'like', 'girly', 'dance', '.'], ['All', 'right', ',', 'it', ""'s"", 'like', 'a', 'sport', ',', 'it', ""'s"", 'manly', '!']]"	Peaceful
+s04	e04	c11	u015	['Monica Geller']	All right, then show me some manly moves.	[['All', 'right', ',', 'then', 'show', 'me', 'some', 'manly', 'moves', '.']]	Peaceful
+s04	e04	c11	u016	['Joey Tribbiani']	All right.	[['All', 'right', '.']]	Peaceful
+s04	e04	c11	u018	['Joey Tribbiani']	I don't know how to lead.	"[['I', 'do', ""n't"", 'know', 'how', 'to', 'lead', '.']]"	Neutral
+s04	e04	c12	u002	['Ross Geller']	Hello.	[['Hello', '.']]	Neutral
+s04	e04	c12	u003	['Chandler Bing']	Hi.	[['Hi', '.']]	Neutral
+s04	e04	c12	u004	['Ross Geller']	We'd like to close our accounts.	"[['We', ""'d"", 'like', 'to', 'close', 'our', 'accounts', '.']]"	Neutral
+s04	e04	c12	u005	['Bank Officer']	Close your accounts? Is there some kind of problem?	[['Close', 'your', 'accounts', '?'], ['Is', 'there', 'some', 'kind', 'of', 'problem', '?']]	Neutral
+s04	e04	c12	u006	['Ross Geller']	No-no.	[['No', '-', 'no', '.']]	Neutral
+s04	e04	c12	u007	['Chandler Bing']	No, we'd just like to close them.	"[['No', ',', 'we', ""'d"", 'just', 'like', 'to', 'close', 'them', '.']]"	Neutral
+s04	e04	c12	u008	['Bank Officer']	Okay, Ms. Lambert handles all our closures. Would you come over here please?	[['Okay', ',', 'Ms.', 'Lambert', 'handles', 'all', 'our', 'closures', '.'], ['Would', 'you', 'come', 'over', 'here', 'please', '?']]	Neutral
+s04	e04	c12	u009	['Ms. Lambert']	Hi, I'm Karen.	"[['Hi', ',', 'I', ""'m"", 'Karen', '.']]"	Neutral
+s04	e04	c12	u010	['Chandler Bing']	I wanna quit the bank!	[['I', 'wan', 'na', 'quit', 'the', 'bank', '!']]	Mad
+s04	e04	c13	u002	['Phoebe Buffay']	Okay, baseball. Rick, playing baseball. Okay, slides into second, maybe even his pants come down a little... Oh no-wait no, no! No! Okay, all right, sandwiches, sandwiches. Umm, okay, on a plate, maybe Rick's pants come down a little. No! No! Okay, Chandler! Okay Chandler, ooh, that's working.	"[['Okay', ',', 'baseball', '.'], ['Rick', ',', 'playing', 'baseball', '.'], ['Okay', ',', 'slides', 'into', 'second', ',', 'maybe', 'even', 'his', 'pants', 'come', 'down', 'a', 'little', '...'], ['Oh', 'no', '-', 'wait', 'no', ',', 'no', '!'], ['No', '!'], ['Okay', ',', 'all', 'right', ',', 'sandwiches', ',', 'sandwiches', '.'], ['Umm', ',', 'okay', ',', 'on', 'a', 'plate', ',', 'maybe', 'Rick', ""'s"", 'pants', 'come', 'down', 'a', 'little', '.'], ['No', '!'], ['No', '!'], ['Okay', ',', 'Chandler', '!'], ['Okay', 'Chandler', ',', 'ooh', ',', 'that', ""'s"", 'working', '.']]"	Scared
+s04	e04	c13	u004	['Phoebe Buffay']	Chandler's knees. Chandler's... ankles. Chandler's ankle hair. Oh no. Okay, you're all set.	"[['Chandler', ""'s"", 'knees', '.'], ['Chandler', ""'s"", '...'], ['ankles', '.'], ['Chandler', ""'s"", 'ankle', 'hair', '.'], ['Oh', 'no', '.'], ['Okay', ',', 'you', ""'re"", 'all', 'set', '.']]"	Scared
+s04	e04	c13	u005	['Rick Sanoven']	Oh wow! That was amazing, was that really just an hour?!	[['Oh', 'wow', '!'], ['That', 'was', 'amazing', ',', 'was', 'that', 'really', 'just', 'an', 'hour', '?!']]	Joyful
+s04	e04	c13	u006	['Phoebe Buffay']	Yeah! In... really long hour world.	[['Yeah', '!'], ['In.', '..'], ['really', 'long', 'hour', 'world', '.']]	Joyful
+s04	e04	c13	u007	['Rick Sanoven']	What?	[['What', '?']]	Mad
+s04	e04	c13	u008	['Phoebe Buffay']	Ugh, okay, I have an enormous crush on you. But because you're a client, I can't ask you out, even though you give me y'know, the feeling.	"[['Ugh', ',', 'okay', ',', 'I', 'have', 'an', 'enormous', 'crush', 'on', 'you', '.'], ['But', 'because', 'you', ""'re"", 'a', 'client', ',', 'I', 'ca', ""n't"", 'ask', 'you', 'out', ',', 'even', 'though', 'you', 'give', 'me', ""y'know"", ',', 'the', 'feeling', '.']]"	Peaceful
+s04	e04	c13	u009	['Rick Sanoven']	Wow! I had no idea! But you know, I could always find another masseuse.	[['Wow', '!'], ['I', 'had', 'no', 'idea', '!'], ['But', 'you', 'know', ',', 'I', 'could', 'always', 'find', 'another', 'masseuse', '.']]	Joyful
+s04	e04	c13	u010	['Phoebe Buffay']	Really?!	[['Really', '?!']]	Joyful
+s04	e04	c13	u011	['Rick Sanoven']	Yeah, really.	[['Yeah', ',', 'really', '.']]	Joyful
+s04	e04	c13	u013	['Phoebe Buffay']	What?	[['What', '?']]	Mad
+s04	e04	c13	u014	['Rick Sanoven']	Suddenly, I very aware that I'm naked.	"[['Suddenly', ',', 'I', 'very', 'aware', 'that', 'I', ""'m"", 'naked', '.']]"	Joyful
+s04	e04	c13	u015	['Phoebe Buffay']	Okay, quit down.	[['Okay', ',', 'quit', 'down', '.']]	Joyful
+s04	e04	c13	u017	['Mrs. Potter']	Mr. Simon's been waiting for- Oh my God!	"[['Mr.', 'Simon', ""'s"", 'been', 'waiting', 'for', '-', 'Oh', 'my', 'God', '!']]"	Peaceful
+s04	e04	c13	u018	['Mr. Simon']	Why wasn't I offered that? I'd definitely pay more for that.	"[['Why', 'was', ""n't"", 'I', 'offered', 'that', '?'], ['I', ""'d"", 'definitely', 'pay', 'more', 'for', 'that', '.']]"	Powerful
+s04	e04	c13	u019	['Mrs. Potter']	Phoebe, we have rules here, this isn't that kind of place.	"[['Phoebe', ',', 'we', 'have', 'rules', 'here', ',', 'this', 'is', ""n't"", 'that', 'kind', 'of', 'place', '.']]"	Powerful
+s04	e04	c13	u020	['Phoebe Buffay']	Oh yeah, oh and I know, but this isn't what it looks like, 'cause Rick is my ahh, husband.	"[['Oh', 'yeah', ',', 'oh', 'and', 'I', 'know', ',', 'but', 'this', 'is', ""n't"", 'what', 'it', 'looks', 'like', ',', ""'cause"", 'Rick', 'is', 'my', 'ahh', ',', 'husband', '.']]"	Peaceful
+s04	e04	c13	u021	['Mrs. Potter']	Oh really? Well, then you'd better tell his other wife, 'cause she called three times asking where he is.	"[['Oh', 'really', '?'], ['Well', ',', 'then', 'you', ""'d"", 'better', 'tell', 'his', 'other', 'wife', ',', ""'cause"", 'she', 'called', 'three', 'times', 'asking', 'where', 'he', 'is', '.']]"	Mad
+s04	e04	c13	u022	['Phoebe Buffay']	Yes, I will tell her.	[['Yes', ',', 'I', 'will', 'tell', 'her', '.']]	Powerful

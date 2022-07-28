@@ -1,0 +1,130 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e22	c02	u002	['Monica Geller']	Here you go. You can wear this.	[['Here', 'you', 'go', '.'], ['You', 'can', 'wear', 'this', '.']]	Neutral
+s03	e22	c02	u003	['Phoebe Buffay']	Thanks!	[['Thanks', '!']]	Joyful
+s03	e22	c02	u004	['Monica Geller']	Uh-huh.	[['Uh-huh', '.']]	Neutral
+s03	e22	c02	u005	['Phoebe Buffay']	Okay. Ooh, I'm setting the phone down. But I'm still here! Just don't go anywhere I'm still here. Don't-don't switch or anything, 'cause I'm, I'm right here. Just one sec. One sec! One second!! Wait! One second! Just...	"[['Okay', '.'], ['Ooh', ',', 'I', ""'m"", 'setting', 'the', 'phone', 'down', '.'], ['But', 'I', ""'m"", 'still', 'here', '!'], ['Just', 'do', ""n't"", 'go', 'anywhere', 'I', ""'m"", 'still', 'here', '.'], ['Do', ""n't"", '-', 'do', ""n't"", 'switch', 'or', 'anything', ',', ""'cause"", 'I', ""'m"", ',', 'I', ""'m"", 'right', 'here', '.'], ['Just', 'one', 'sec', '.'], ['One', 'sec', '!'], ['One', 'second', '!!'], ['Wait', '!'], ['One', 'second', '!'], ['Just', '...']]"	Scared
+s03	e22	c02	u006	['Monica Geller']	Phoebe?	[['Phoebe', '?']]	Neutral
+s03	e22	c02	u007	['Phoebe Buffay']	What?! Monica, I'm scared!!	"[['What', '?!'], ['Monica', ',', 'I', ""'m"", 'scared', '!!']]"	Scared
+s03	e22	c02	u008	['Monica Geller']	All right. Honey, that's-that's a sleeve. Okay?	"[['All', 'right', '.'], ['Honey', ',', 'that', ""'s"", '-', 'that', ""'s"", 'a', 'sleeve', '.'], ['Okay', '?']]"	Peaceful
+s03	e22	c02	u009	['Phoebe Buffay']	Yeah.	[['Yeah', '.']]	Neutral
+s03	e22	c02	u010	['Monica Geller']	And! We also have speaker phone.	[['And', '!'], ['We', 'also', 'have', 'speaker', 'phone', '.']]	Peaceful
+s03	e22	c02	u011	['Hold Voice']	Please, stay on the line. Your call is important to us.	[['Please', ',', 'stay', 'on', 'the', 'line', '.'], ['Your', 'call', 'is', 'important', 'to', 'us', '.']]	Neutral
+s03	e22	c02	u012	['Monica Geller']	Okay, wait, you gotta hang up 'cause we're gonna be late.	"[['Okay', ',', 'wait', ',', 'you', 'got', 'ta', 'hang', 'up', ""'cause"", 'we', ""'re"", 'gon', 'na', 'be', 'late', '.']]"	Neutral
+s03	e22	c02	u014	['Hold Voice']	Thank you for your patience, you're the next caller.	"[['Thank', 'you', 'for', 'your', 'patience', ',', 'you', ""'re"", 'the', 'next', 'caller', '.']]"	Neutral
+s03	e22	c02	u015	['Phoebe Buffay']	Yes!! Yes!! I'm the next caller! You were gonna have me hang up.	"[['Yes', '!!'], ['Yes', '!!'], ['I', ""'m"", 'the', 'next', 'caller', '!'], ['You', 'were', 'gon', 'na', 'have', 'me', 'hang', 'up', '.']]"	Joyful
+s03	e22	c02	u016	['Chandler Bing']	Hey! Can you take a duck and a chick to the theatre?	[['Hey', '!'], ['Can', 'you', 'take', 'a', 'duck', 'and', 'a', 'chick', 'to', 'the', 'theatre', '?']]	Joyful
+s03	e22	c02	u017	['Monica Geller']	Of course not.	[['Of', 'course', 'not', '.']]	Mad
+s03	e22	c02	u018	['Phoebe Buffay']	No.	[['No', '.']]	Neutral
+s03	e22	c02	u019	['Chandler Bing']	Okay. I just wanted them to hear it from somebody else.	[['Okay', '.'], ['I', 'just', 'wanted', 'them', 'to', 'hear', 'it', 'from', 'somebody', 'else', '.']]	Peaceful
+s03	e22	c05	u002	['Monica Geller']	Hey!	[['Hey', '!']]	Joyful
+s03	e22	c05	u003	['Rachel Green']	Hey!	[['Hey', '!']]	Joyful
+s03	e22	c05	u004	['Phoebe Buffay']	Oh, is the play over?	[['Oh', ',', 'is', 'the', 'play', 'over', '?']]	Scared
+s03	e22	c05	u005	['Monica Geller']	Yeah. Where were you?	[['Yeah', '.'], ['Where', 'were', 'you', '?']]	Mad
+s03	e22	c05	u006	['Hold Voice']	Thank you for your patience, you're the next caller.	"[['Thank', 'you', 'for', 'your', 'patience', ',', 'you', ""'re"", 'the', 'next', 'caller', '.']]"	Neutral
+s03	e22	c05	u007	['Monica Geller']	You were the next caller five hours ago. You must be going crazy.	[['You', 'were', 'the', 'next', 'caller', 'five', 'hours', 'ago', '.'], ['You', 'must', 'be', 'going', 'crazy', '.']]	Neutral
+s03	e22	c05	u008	['Phoebe Buffay']	Nah. I kept myself busy.	[['Nah', '.'], ['I', 'kept', 'myself', 'busy', '.']]	Neutral
+s03	e22	c05	u010	['Phoebe Buffay']	Oh, okay, yeah. I put your stuff in her room, and her stuff in your room.	[['Oh', ',', 'okay', ',', 'yeah', '.'], ['I', 'put', 'your', 'stuff', 'in', 'her', 'room', ',', 'and', 'her', 'stuff', 'in', 'your', 'room', '.']]	Neutral
+s03	e22	c06	u002	['Joey Tribbiani']	Hey! Are you okay?	[['Hey', '!'], ['Are', 'you', 'okay', '?']]	Peaceful
+s03	e22	c06	u003	['Kate Miller']	Fabulous.	[['Fabulous', '.']]	Scared
+s03	e22	c06	u004	['Joey Tribbiani']	Listen, drama critics they're nothing but, but people who couldn't make it as actors. You know what you should do?	"[['Listen', ',', 'drama', 'critics', 'they', ""'re"", 'nothing', 'but', ',', 'but', 'people', 'who', 'could', ""n't"", 'make', 'it', 'as', 'actors', '.'], ['You', 'know', 'what', 'you', 'should', 'do', '?']]"	Peaceful
+s03	e22	c06	u005	['Kate Miller']	Become a drama critic!	[['Become', 'a', 'drama', 'critic', '!']]	Neutral
+s03	e22	c06	u006	['The Director']	I am hurt! A plague on both your houses!	[['I', 'am', 'hurt', '!'], ['A', 'plague', 'on', 'both', 'your', 'houses', '!']]	Sad
+s03	e22	c06	u007	['Kate Miller']	By the way, he dumped me tonight after he read my review.	[['By', 'the', 'way', ',', 'he', 'dumped', 'me', 'tonight', 'after', 'he', 'read', 'my', 'review', '.']]	Sad
+s03	e22	c06	u008	['Joey Tribbiani']	Oh, classy.	[['Oh', ',', 'classy', '.']]	Powerful
+s03	e22	c06	u009	['Kate Miller']	Yep! I sure know how to pick 'em, huh? Y'know I gave up a part on a soap for this!	"[['Yep', '!'], ['I', 'sure', 'know', 'how', 'to', 'pick', ""'"", 'em', ',', 'huh', '?'], [""Y'know"", 'I', 'gave', 'up', 'a', 'part', 'on', 'a', 'soap', 'for', 'this', '!']]"	Powerful
+s03	e22	c06	u010	['Joey Tribbiani']	Wow! Yeah I ah, I gave up a job too.	[['Wow', '!'], ['Yeah', 'I', 'ah', ',', 'I', 'gave', 'up', 'a', 'job', 'too', '.']]	Joyful
+s03	e22	c06	u011	['Kate Miller']	Really. What?	[['Really', '.'], ['What', '?']]	Scared
+s03	e22	c06	u012	['Joey Tribbiani']	Uh, de-clawing cats. Hey, tell ya what. Let me walk you home. We'll stop by every news stand and burn every copy of their Times and the Post.	"[['Uh', ',', 'de-clawing', 'cats', '.'], ['Hey', ',', 'tell', 'ya', 'what', '.'], ['Let', 'me', 'walk', 'you', 'home', '.'], ['We', ""'ll"", 'stop', 'by', 'every', 'news', 'stand', 'and', 'burn', 'every', 'copy', 'of', 'their', 'Times', 'and', 'the', 'Post', '.']]"	Powerful
+s03	e22	c06	u013	['Kate Miller']	Why the Post?	[['Why', 'the', 'Post', '?']]	Sad
+s03	e22	c06	u014	['Joey Tribbiani']	Oh, you didn't see the Post?	"[['Oh', ',', 'you', 'did', ""n't"", 'see', 'the', 'Post', '?']]"	Sad
+s03	e22	c06	u015	['Kate Miller']	No. You?	[['No', '.'], ['You', '?']]	Scared
+s03	e22	c06	u016	['Joey Tribbiani']	No. Why?	[['No', '.'], ['Why', '?']]	Powerful
+s03	e22	c07	u002	['Kate Miller']	So you really think those newspapers are just jealous of me?	[['So', 'you', 'really', 'think', 'those', 'newspapers', 'are', 'just', 'jealous', 'of', 'me', '?']]	Scared
+s03	e22	c07	u003	['Joey Tribbiani']	Oh, absolutely! You're talented and you're good looking.	"[['Oh', ',', 'absolutely', '!'], ['You', ""'re"", 'talented', 'and', 'you', ""'re"", 'good', 'looking', '.']]"	Joyful
+s03	e22	c07	u004	['Kate Miller']	Oh, you're sweet and cute.	"[['Oh', ',', 'you', ""'re"", 'sweet', 'and', 'cute', '.']]"	Joyful
+s03	e22	c07	u005	['Joey Tribbiani']	I know! That's why they trashed me!	"[['I', 'know', '!'], ['That', ""'s"", 'why', 'they', 'trashed', 'me', '!']]"	Sad
+s03	e22	c07	u007	['Joey Tribbiani']	Whoa. Wait a minute, wait a minute.	[['Whoa', '.'], ['Wait', 'a', 'minute', ',', 'wait', 'a', 'minute', '.']]	Joyful
+s03	e22	c07	u008	['Kate Miller']	What?	[['What', '?']]	Neutral
+s03	e22	c07	u009	['Joey Tribbiani']	I, I don't get you. I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again.	"[['I', ',', 'I', 'do', ""n't"", 'get', 'you', '.'], ['I', 'mean', 'first', ',', 'you', 'hate', 'me', '.'], ['Then', 'you', 'sleep', 'with', 'me', '.'], ['Then', 'you', 'want', 'nothing', 'to', 'do', 'with', 'me', ',', 'now', 'you', 'want', 'me', 'again', '.']]"	Powerful
+s03	e22	c07	u010	['Kate Miller']	What? So you never went out with an actress before?	[['What', '?'], ['So', 'you', 'never', 'went', 'out', 'with', 'an', 'actress', 'before', '?']]	Neutral
+s03	e22	c07	u011	['Joey Tribbiani']	Kate, do you even like me?	[['Kate', ',', 'do', 'you', 'even', 'like', 'me', '?']]	Joyful
+s03	e22	c07	u012	['Kate Miller']	Of course I do.	[['Of', 'course', 'I', 'do', '.']]	Joyful
+s03	e22	c07	u013	['Joey Tribbiani']	Well so, how come you blew me off? Y'know? How come you were with him?	"[['Well', 'so', ',', 'how', 'come', 'you', 'blew', 'me', 'off', '?'], [""Y'know"", '?'], ['How', 'come', 'you', 'were', 'with', 'him', '?']]"	Joyful
+s03	e22	c07	u014	['Kate Miller']	I don't know! I just, just do this! I-I always have to pick the like the smartest guy, or-or the most talented guy... Why can't I just pick someone like you?	"[['I', 'do', ""n't"", 'know', '!'], ['I', 'just', ',', 'just', 'do', 'this', '!'], ['I', '-', 'I', 'always', 'have', 'to', 'pick', 'the', 'like', 'the', 'smartest', 'guy', ',', 'or', '-', 'or', 'the', 'most', 'talented', 'guy', '...'], ['Why', 'ca', ""n't"", 'I', 'just', 'pick', 'someone', 'like', 'you', '?']]"	Peaceful
+s03	e22	c07	u015	['Joey Tribbiani']	Thanks.	[['Thanks', '.']]	Joyful
+s03	e22	c07	u016	['Kate Miller']	You know what I mean. I mean like the sweetest guy. Joey, you're just so, you're so, so...	"[['You', 'know', 'what', 'I', 'mean', '.'], ['I', 'mean', 'like', 'the', 'sweetest', 'guy', '.'], ['Joey', ',', 'you', ""'re"", 'just', 'so', ',', 'you', ""'re"", 'so', ',', 'so', '...']]"	Joyful
+s03	e22	c07	u017	['Joey Tribbiani']	Okay. Okay, okay, hey. There we go, let's get your feet up there. Good night, Kate. Sweet dreams. I'm gonna put this can right here in case you have to hurl.	"[['Okay', '.'], ['Okay', ',', 'okay', ',', 'hey', '.'], ['There', 'we', 'go', ',', 'let', ""'s"", 'get', 'your', 'feet', 'up', 'there', '.'], ['Good', 'night', ',', 'Kate', '.'], ['Sweet', 'dreams', '.'], ['I', ""'m"", 'gon', 'na', 'put', 'this', 'can', 'right', 'here', 'in', 'case', 'you', 'have', 'to', 'hurl', '.']]"	Joyful
+s03	e22	c08	u002	['Hold Voice']	Please stay on the line. You're call is very important to us.	"[['Please', 'stay', 'on', 'the', 'line', '.'], ['You', ""'re"", 'call', 'is', 'very', 'important', 'to', 'us', '.']]"	Neutral
+s03	e22	c08	u003	['Monica Geller']	Pheebs, you've been up for 24 hours! Go to sleep, honey. Th-this isn't healthy.	"[['Pheebs', ',', 'you', ""'ve"", 'been', 'up', 'for', '24', 'hours', '!'], ['Go', 'to', 'sleep', ',', 'honey', '.'], ['Th', '-', 'this', 'is', ""n't"", 'healthy', '.']]"	Peaceful
+s03	e22	c08	u004	['Phoebe Buffay']	No, no, I'm fine, and y'know why? 'Cause of all the riboflavin.	"[['No', ',', 'no', ',', 'I', ""'m"", 'fine', ',', 'and', ""y'know"", 'why', '?'], [""'"", 'Cause', 'of', 'all', 'the', 'riboflavin', '.']]"	Peaceful
+s03	e22	c08	u005	['Joey Tribbiani']	Hey!	[['Hey', '!']]	Joyful
+s03	e22	c08	u006	['Monica Geller']	Hey! Didn't you have that outfit on last night?	"[['Hey', '!'], ['Did', ""n't"", 'you', 'have', 'that', 'outfit', 'on', 'last', 'night', '?']]"	Peaceful
+s03	e22	c08	u007	['Joey Tribbiani']	Yeah! I stayed at Kate's, but ah, nothing happened. Hey, Pheebs, where were ya?	"[['Yeah', '!'], ['I', 'stayed', 'at', 'Kate', ""'s"", ',', 'but', 'ah', ',', 'nothing', 'happened', '.'], ['Hey', ',', 'Pheebs', ',', 'where', 'were', 'ya', '?']]"	Peaceful
+s03	e22	c08	u008	['Phoebe Buffay']	I'm so, so, so sorry, Joey. I definitely am gonna see you're play. I swear you're play is very important to us, thank you for your patience. You're play is the next play is the next play I'm gonna see.	"[['I', ""'m"", 'so', ',', 'so', ',', 'so', 'sorry', ',', 'Joey', '.'], ['I', 'definitely', 'am', 'gon', 'na', 'see', 'you', ""'re"", 'play', '.'], ['I', 'swear', 'you', ""'re"", 'play', 'is', 'very', 'important', 'to', 'us', ',', 'thank', 'you', 'for', 'your', 'patience', '.'], ['You', ""'re"", 'play', 'is', 'the', 'next', 'play', 'is', 'the', 'next', 'play', 'I', ""'m"", 'gon', 'na', 'see', '.']]"	Peaceful
+s03	e22	c08	u009	['Monica Geller']	Anyway, how did it go with Kate?	[['Anyway', ',', 'how', 'did', 'it', 'go', 'with', 'Kate', '?']]	Peaceful
+s03	e22	c08	u010	['Joey Tribbiani']	Oh, it was great! Yeah, I-I walked her home, and it was amazing how much we connected, y'know? Then ah, then she passed out, but then she woke up. Yeah? And we stayed up all night talking, and now we're like totally crazy about each other!	"[['Oh', ',', 'it', 'was', 'great', '!'], ['Yeah', ',', 'I', '-', 'I', 'walked', 'her', 'home', ',', 'and', 'it', 'was', 'amazing', 'how', 'much', 'we', 'connected', ',', ""y'know"", '?'], ['Then', 'ah', ',', 'then', 'she', 'passed', 'out', ',', 'but', 'then', 'she', 'woke', 'up', '.'], ['Yeah', '?'], ['And', 'we', 'stayed', 'up', 'all', 'night', 'talking', ',', 'and', 'now', 'we', ""'re"", 'like', 'totally', 'crazy', 'about', 'each', 'other', '!']]"	Joyful
+s03	e22	c08	u011	['Monica Geller']	Joey, you had the night!	[['Joey', ',', 'you', 'had', 'the', 'night', '!']]	Powerful
+s03	e22	c08	u012	['Joey Tribbiani']	What?	[['What', '?']]	Neutral
+s03	e22	c08	u013	['Monica Geller']	When two people finally realise their feelings for each other, and-and they talk for hours, and they-they learn all about the other person!	[['When', 'two', 'people', 'finally', 'realise', 'their', 'feelings', 'for', 'each', 'other', ',', 'and', '-', 'and', 'they', 'talk', 'for', 'hours', ',', 'and', 'they', '-', 'they', 'learn', 'all', 'about', 'the', 'other', 'person', '!']]	Powerful
+s03	e22	c08	u014	['Joey Tribbiani']	You-you think?	[['You', '-', 'you', 'think', '?']]	Joyful
+s03	e22	c08	u015	['Monica Geller']	Did you like learn about her family?	[['Did', 'you', 'like', 'learn', 'about', 'her', 'family', '?']]	Peaceful
+s03	e22	c08	u016	['Joey Tribbiani']	Two brothers, one died!	[['Two', 'brothers', ',', 'one', 'died', '!']]	Sad
+s03	e22	c08	u017	['Monica Geller']	Yes!!	[['Yes', '!!']]	Powerful
+s03	e22	c08	u018	['Joey Tribbiani']	Yeah?!	[['Yeah', '?!']]	Sad
+s03	e22	c08	u019	['Monica Geller']	Oh!	[['Oh', '!']]	Peaceful
+s03	e22	c10	u002	['Joey Tribbiani']	Sorry! Sorry, I'm late; sorry, I'm late! My duck and my chick and a fight, it-it was ugly.	"[['Sorry', '!'], ['Sorry', ',', 'I', ""'m"", 'late', ';', 'sorry', ',', 'I', ""'m"", 'late', '!'], ['My', 'duck', 'and', 'my', 'chick', 'and', 'a', 'fight', ',', 'it', '-', 'it', 'was', 'ugly', '.']]"	Scared
+s03	e22	c10	u003	['Stage Manager']	Look, we held the curtain for you buddy. Come on, let's go! Let's go!	"[['Look', ',', 'we', 'held', 'the', 'curtain', 'for', 'you', 'buddy', '.'], ['Come', 'on', ',', 'let', ""'s"", 'go', '!'], ['Let', ""'s"", 'go', '!']]"	Powerful
+s03	e22	c10	u005	['Lauren']	Vic! Where have you been, baby?!	[['Vic', '!'], ['Where', 'have', 'you', 'been', ',', 'baby', '?!']]	Joyful
+s03	e22	c10	u006	['Joey Tribbiani']	Where's Kate?	"[['Where', ""'s"", 'Kate', '?']]"	Joyful
+s03	e22	c10	u007	['Lauren']	She got a job in L.A.	[['She', 'got', 'a', 'job', 'in', 'L.A.']]	Joyful
+s03	e22	c10	u008	['Joey Tribbiani']	What?!	[['What', '?!']]	Neutral
+s03	e22	c10	u009	['Lauren']	I've been waiting up all night for ya. Where have you been? Where have you been? Vic?!	"[['I', ""'ve"", 'been', 'waiting', 'up', 'all', 'night', 'for', 'ya', '.'], ['Where', 'have', 'you', 'been', '?'], ['Where', 'have', 'you', 'been', '?'], ['Vic', '?!']]"	Mad
+s03	e22	c10	u010	['Joey Tribbiani']	Oh, ahh, go to the window. I'm wanna run down to the truck and show you something.	"[['Oh', ',', 'ahh', ',', 'go', 'to', 'the', 'window', '.'], ['I', ""'m"", 'wan', 'na', 'run', 'down', 'to', 'the', 'truck', 'and', 'show', 'you', 'something', '.']]"	Powerful
+s03	e22	c10	u011	['Lauren']	What do you got down there, Vic? What do you got under that tarp?	[['What', 'do', 'you', 'got', 'down', 'there', ',', 'Vic', '?'], ['What', 'do', 'you', 'got', 'under', 'that', 'tarp', '?']]	Neutral
+s03	e22	c10	u012	['Joey Tribbiani']	When is she leaving?	[['When', 'is', 'she', 'leaving', '?']]	Peaceful
+s03	e22	c10	u013	['Lauren']	Tonight. What are you doing?	[['Tonight', '.'], ['What', 'are', 'you', 'doing', '?']]	Scared
+s03	e22	c10	u014	['Joey Tribbiani']	I'm coming up!	"[['I', ""'m"", 'coming', 'up', '!']]"	Powerful
+s03	e22	c11	u002	['Tommy']	Hey, mind if I use the phone?	[['Hey', ',', 'mind', 'if', 'I', 'use', 'the', 'phone', '?']]	Neutral
+s03	e22	c11	u003	['Phoebe Buffay']	Oh, I...	[['Oh', ',', 'I', '...']]	Scared
+s03	e22	c11	u004	['Chandler Bing']	Why don't you use ours across the hall, 'cause she...has...problems.	"[['Why', 'do', ""n't"", 'you', 'use', 'ours', 'across', 'the', 'hall', ',', ""'cause"", 'she', '...'], ['has', '...'], ['problems', '.']]"	Neutral
+s03	e22	c11	u005	['Ross Geller']	Oh-ho, whoa! Sorry, Tommy. I almost spilled this hot coffee on you.	[['Oh', '-', 'ho', ',', 'whoa', '!'], ['Sorry', ',', 'Tommy', '.'], ['I', 'almost', 'spilled', 'this', 'hot', 'coffee', 'on', 'you', '.']]	Peaceful
+s03	e22	c11	u006	['Tommy']	Yeah, but you didn't.	"[['Yeah', ',', 'but', 'you', 'did', ""n't"", '.']]"	Joyful
+s03	e22	c11	u007	['Ross Geller']	No, but it's-it's-it's hot!	"[['No', ',', 'but', 'it', ""'s"", '-', 'it', ""'s"", '-', 'it', ""'s"", 'hot', '!']]"	Scared
+s03	e22	c11	u009	['Rachel Green']	Ross, would you just stop it! It's getting really old.	"[['Ross', ',', 'would', 'you', 'just', 'stop', 'it', '!'], ['It', ""'s"", 'getting', 'really', 'old', '.']]"	Mad
+s03	e22	c11	u010	['Ross Geller']	I can't believe no one believes me!	"[['I', 'ca', ""n't"", 'believe', 'no', 'one', 'believes', 'me', '!']]"	Mad
+s03	e22	c11	u011	['Phoebe Buffay']	I do, I believe you.	[['I', 'do', ',', 'I', 'believe', 'you', '.']]	Powerful
+s03	e22	c11	u012	['Ross Geller']	You do Pheebs?	[['You', 'do', 'Pheebs', '?']]	Neutral
+s03	e22	c11	u013	['Phoebe Buffay']	Yeah. But I also believed her when she said I was next.	[['Yeah', '.'], ['But', 'I', 'also', 'believed', 'her', 'when', 'she', 'said', 'I', 'was', 'next', '.']]	Joyful
+s03	e22	c11	u015	['Tommy']	Ooh, hey! Hey, there little fella. Mr. Fuzzy-Man, how are you doing? Aww. Eww! Oh! Eww! Gross! Idiot!! Stupid little, fuzzy, yellow creature!! Oh look at me, I'm so cute, I'm a little chick who's disgusting! God, you're so stupid, how are you not yet extinct!! Quack-quack, quack-quack!! What are you quacking about?! Dumb Donald Doo-Doo!!	"[['Ooh', ',', 'hey', '!'], ['Hey', ',', 'there', 'little', 'fella', '.'], ['Mr.', 'Fuzzy', '-', 'Man', ',', 'how', 'are', 'you', 'doing', '?'], ['Aww', '.'], ['Eww', '!'], ['Oh', '!'], ['Eww', '!'], ['Gross', '!'], ['Idiot', '!!'], ['Stupid', 'little', ',', 'fuzzy', ',', 'yellow', 'creature', '!!'], ['Oh', 'look', 'at', 'me', ',', 'I', ""'m"", 'so', 'cute', ',', 'I', ""'m"", 'a', 'little', 'chick', 'who', ""'s"", 'disgusting', '!'], ['God', ',', 'you', ""'re"", 'so', 'stupid', ',', 'how', 'are', 'you', 'not', 'yet', 'extinct', '!!'], ['Quack', '-', 'quack', ',', 'quack', '-', 'quack', '!!'], ['What', 'are', 'you', 'quacking', 'about', '?!'], ['Dumb', 'Donald', 'Doo', '-', 'Doo', '!!']]"	Mad
+s03	e22	c11	u017	['Chandler Bing']	Step away from the duck.	[['Step', 'away', 'from', 'the', 'duck', '.']]	Mad
+s03	e22	c11	u018	['Tommy']	Ooh, sorry little Mr. Chic-A-Dee, sorry you went doody in my hand! Well, I guess we're not going out anymore. Whaa!!!	"[['Ooh', ',', 'sorry', 'little', 'Mr.', 'Chic-A-Dee', ',', 'sorry', 'you', 'went', 'doody', 'in', 'my', 'hand', '!'], ['Well', ',', 'I', 'guess', 'we', ""'re"", 'not', 'going', 'out', 'anymore', '.'], ['Whaa', '!!!']]"	Mad
+s03	e22	c12	u002	['Kate Miller']	Joey!	[['Joey', '!']]	Joyful
+s03	e22	c12	u003	['Joey Tribbiani']	Hey!	[['Hey', '!']]	Joyful
+s03	e22	c12	u004	['Kate Miller']	I'm soo glad I caught you, I couldn't find you before.	"[['I', ""'m"", 'soo', 'glad', 'I', 'caught', 'you', ',', 'I', 'could', ""n't"", 'find', 'you', 'before', '.']]"	Joyful
+s03	e22	c12	u005	['Joey Tribbiani']	Wh-wh-what's going on? Wh-what's this about L.A.?	"[['Wh', '-', 'wh', '-', 'what', ""'s"", 'going', 'on', '?'], ['Wh', '-', 'what', ""'s"", 'this', 'about', 'L.A', '.?']]"	Powerful
+s03	e22	c12	u006	['Kate Miller']	They still want me for General Hospital.	[['They', 'still', 'want', 'me', 'for', 'General', 'Hospital', '.']]	Neutral
+s03	e22	c12	u007	['Joey Tribbiani']	But, but wh-what about us?	[['But', ',', 'but', 'wh', '-', 'what', 'about', 'us', '?']]	Powerful
+s03	e22	c12	u008	['Kate Miller']	Last night was wonderful. But I-I can't stay here just for you.	"[['Last', 'night', 'was', 'wonderful', '.'], ['But', 'I', '-', 'I', 'ca', ""n't"", 'stay', 'here', 'just', 'for', 'you', '.']]"	Peaceful
+s03	e22	c12	u009	['Joey Tribbiani']	Well, so, stay for the museums!	[['Well', ',', 'so', ',', 'stay', 'for', 'the', 'museums', '!']]	Joyful
+s03	e22	c12	u010	['Kate Miller']	I'm sorry.	"[['I', ""'m"", 'sorry', '.']]"	Sad
+s03	e22	c12	u011	['Stage Manager']	Joey, onstage!	[['Joey', ',', 'onstage', '!']]	Powerful
+s03	e22	c12	u012	['Joey Tribbiani']	Well can you at least stay to the end of the play? I mean, I'll go to the airport with ya, I-I wanna say good bye.	"[['Well', 'can', 'you', 'at', 'least', 'stay', 'to', 'the', 'end', 'of', 'the', 'play', '?'], ['I', 'mean', ',', 'I', ""'ll"", 'go', 'to', 'the', 'airport', 'with', 'ya', ',', 'I', '-', 'I', 'wan', 'na', 'say', 'good', 'bye', '.']]"	Sad
+s03	e22	c12	u013	['Lauren']	Where are you Vic?	[['Where', 'are', 'you', 'Vic', '?']]	Powerful
+s03	e22	c12	u014	['Kate Miller']	Flight's in an hour. I-I gotta go.	"[['Flight', ""'s"", 'in', 'an', 'hour', '.'], ['I', '-', 'I', 'got', 'ta', 'go', '.']]"	Sad
+s03	e22	c12	u015	['Lauren']	Vic! Vic! Vic!!!	[['Vic', '!'], ['Vic', '!'], ['Vic', '!!!']]	Neutral
+s03	e22	c12	u016	['Joey Tribbiani']	In a minute!!	[['In', 'a', 'minute', '!!']]	Neutral
+s03	e22	c12	u018	['Lauren']	So this is it? Victor?	[['So', 'this', 'is', 'it', '?'], ['Victor', '?']]	Powerful
+s03	e22	c12	u019	['Joey Tribbiani']	Yeah, I guess it is. Listen, I ah, I gotta say good bye, and-and I gotta say it quick 'cause this is killing me. One thing you gotta know, is that I will never forget you. But, you've got things you have to do now, and so do I. And so... I'm gonna get on this spaceship, and I'm gonna go to Blargon 7 in search of alternative fuels. But when I return, 200 years from now, you'll be long gone. But I won't have aged at all. So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I'm gonna want to meet her.	"[['Yeah', ',', 'I', 'guess', 'it', 'is', '.'], ['Listen', ',', 'I', 'ah', ',', 'I', 'got', 'ta', 'say', 'good', 'bye', ',', 'and', '-', 'and', 'I', 'got', 'ta', 'say', 'it', 'quick', ""'cause"", 'this', 'is', 'killing', 'me', '.'], ['One', 'thing', 'you', 'got', 'ta', 'know', ',', 'is', 'that', 'I', 'will', 'never', 'forget', 'you', '.'], ['But', ',', 'you', ""'ve"", 'got', 'things', 'you', 'have', 'to', 'do', 'now', ',', 'and', 'so', 'do', 'I.', 'And', 'so', '...'], ['I', ""'m"", 'gon', 'na', 'get', 'on', 'this', 'spaceship', ',', 'and', 'I', ""'m"", 'gon', 'na', 'go', 'to', 'Blargon', '7', 'in', 'search', 'of', 'alternative', 'fuels', '.'], ['But', 'when', 'I', 'return', ',', '200', 'years', 'from', 'now', ',', 'you', ""'ll"", 'be', 'long', 'gone', '.'], ['But', 'I', 'wo', ""n't"", 'have', 'aged', 'at', 'all', '.'], ['So', 'you', 'tell', 'your', 'great', '-', 'great', '-', 'granddaughter', 'to', 'look', 'me', 'up', ',', 'because', 'Adrienne', ',', 'baby', ',', 'I', ""'m"", 'gon', 'na', 'want', 'to', 'meet', 'her', '.']]"	Sad
+s03	e22	c12	u021	['Lauren']	So long, Vic!	[['So', 'long', ',', 'Vic', '!']]	Sad
+s03	e22	c13	u002	['Monica Geller']	Phoebe, it's been two days.	"[['Phoebe', ',', 'it', ""'s"", 'been', 'two', 'days', '.']]"	Scared
+s03	e22	c13	u003	['Phoebe Buffay']	Yeah, I know. Oh, good thing it's one of those 801 numbers. Right?	"[['Yeah', ',', 'I', 'know', '.'], ['Oh', ',', 'good', 'thing', 'it', ""'s"", 'one', 'of', 'those', '801', 'numbers', '.'], ['Right', '?']]"	Joyful
+s03	e22	c13	u004	['Ross Geller']	Phoebe, 800 is toll free, 801 is-is Utah.	[['Phoebe', ',', '800', 'is', 'toll', 'free', ',', '801', 'is', '-', 'is', 'Utah', '.']]	Neutral
+s03	e22	c13	u005	['Phoebe Buffay']	No, no, no, oh no-no-no, it's has to be 800. 'Cause all those big companies have 800 numbers, every one. Yeah, every big Utah-based company has one.	"[['No', ',', 'no', ',', 'no', ',', 'oh', 'no', '-', 'no', '-', 'no', ',', 'it', ""'s"", 'has', 'to', 'be', '800', '.'], [""'"", 'Cause', 'all', 'those', 'big', 'companies', 'have', '800', 'numbers', ',', 'every', 'one', '.'], ['Yeah', ',', 'every', 'big', 'Utah', '-', 'based', 'company', 'has', 'one', '.']]"	Powerful
+s03	e22	c13	u006	['Rachel Green']	Phoe-be!!	[['Phoe', '-', 'be', '!!']]	Neutral
+s03	e22	c13	u007	['Phoebe Buffay']	Sorry, I'm so sorry, I will pay you back.	"[['Sorry', ',', 'I', ""'m"", 'so', 'sorry', ',', 'I', 'will', 'pay', 'you', 'back', '.']]"	Sad
+s03	e22	c13	u008	['Chandler Bing']	And yet, she's still not hanging up the phone.	"[['And', 'yet', ',', 'she', ""'s"", 'still', 'not', 'hanging', 'up', 'the', 'phone', '.']]"	Scared
+s03	e22	c13	u009	['#ALL#']	Hang it up! Hang up the phone!!	[['Hang', 'it', 'up', '!'], ['Hang', 'up', 'the', 'phone', '!!']]	Powerful
+s03	e22	c13	u010	['Phoebe Buffay']	Fine! Fine! Oh-oh!	[['Fine', '!'], ['Fine', '!'], ['Oh', '-', 'oh', '!']]	Mad
+s03	e22	c13	u011	['Monica Geller']	What?	[['What', '?']]	Mad
+s03	e22	c13	u012	['Phoebe Buffay']	Well, I think I broke it. But that's all right, here's the number you can call.	"[['Well', ',', 'I', 'think', 'I', 'broke', 'it', '.'], ['But', 'that', ""'s"", 'all', 'right', ',', 'here', ""'s"", 'the', 'number', 'you', 'can', 'call', '.']]"	Peaceful
+s03	e22	c13	u013	['Monica Geller']	Oh.	[['Oh', '.']]	Mad

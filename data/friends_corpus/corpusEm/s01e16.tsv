@@ -1,0 +1,150 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s01	e16	c01	u001	['Chandler Bing']	This is unbelievable. Its been like a half an hour. If this was a cartoon, youd be looking like a ham right about now.	[['This', 'is', 'unbelievable', '.'], ['Its', 'been', 'like', 'a', 'half', 'an', 'hour', '.'], ['If', 'this', 'was', 'a', 'cartoon', ',', 'youd', 'be', 'looking', 'like', 'a', 'ham', 'right', 'about', 'now', '.']]	Mad
+s01	e16	c01	u003	['Joey Tribbiani']	Theres the waitress. Excuse me, Miss. Hello, Miss?	[['Theres', 'the', 'waitress', '.'], ['Excuse', 'me', ',', 'Miss.', 'Hello', ',', 'Miss', '?']]	Neutral
+s01	e16	c01	u005	['Chandler Bing']	Its Phoebe! Hi!	[['Its', 'Phoebe', '!'], ['Hi', '!']]	Joyful
+s01	e16	c01	u007	['Ursula']	Hi. Okay, will that be all?	[['Hi', '.'], ['Okay', ',', 'will', 'that', 'be', 'all', '?']]	Neutral
+s01	e16	c01	u008	['Chandler Bing']	Wait, wait! Wh-what are you doing here?	[['Wait', ',', 'wait', '!'], ['Wh', '-', 'what', 'are', 'you', 'doing', 'here', '?']]	Peaceful
+s01	e16	c01	u009	['Ursula']	"Yeah, um, I was over there, then you said, ""Excuse me, hello Miss,"" so now Im here."	"[['Yeah', ',', 'um', ',', 'I', 'was', 'over', 'there', ',', 'then', 'you', 'said', ',', '""', 'Excuse', 'me', ',', 'hello', 'Miss', ',', '""', 'so', 'now', 'Im', 'here', '.']]"	Neutral
+s01	e16	c01	u010	['Joey Tribbiani']	No, no... how come you are working here?	[['No', ',', 'no', '.'], ['..'], ['how', 'come', 'you', 'are', 'working', 'here', '?']]	Neutral
+s01	e16	c01	u011	['Ursula']	Right, yeah, cause its close to where I live, and the aprons are really cute.	[['Right', ',', 'yeah', ',', 'cause', 'its', 'close', 'to', 'where', 'I', 'live', ',', 'and', 'the', 'aprons', 'are', 'really', 'cute', '.']]	Neutral
+s01	e16	c01	u012	['Chandler Bing']	Can we start over?	[['Can', 'we', 'start', 'over', '?']]	Neutral
+s01	e16	c01	u013	['Ursula']	Yeah. Okay great. Im gonna be over here.	[['Yeah', '.'], ['Okay', 'great', '.'], ['Im', 'gon', 'na', 'be', 'over', 'here', '.']]	Neutral
+s01	e16	c01	u014	['Chandler Bing', 'Joey Tribbiani']	No, no, no!	[['No', ',', 'no', ',', 'no', '!']]	Mad
+s01	e16	c03	u001	['Woman']	Hi, were the Rostins. Err, Im J.C., and hes Michael, and were having a boy, and a girl.	[['Hi', ',', 'were', 'the', 'Rostins', '.'], ['Err', ',', 'Im', 'J.C.', ',', 'and', 'hes', 'Michael', ',', 'and', 'were', 'having', 'a', 'boy', ',', 'and', 'a', 'girl', '.']]	Neutral
+s01	e16	c03	u002	['Teacher']	Good for you. Alrighty, next?	[['Good', 'for', 'you', '.'], ['Alrighty', ',', 'next', '?']]	Powerful
+s01	e16	c03	u003	['Ross Geller']	Hi, um, Im err, Im Ross Geller, and err ah... ..thats, thats my boy in there, and uh, this is Carol Willick, and this... is Susan Bunch. Susan is um Carols, just, com... ..whos next?	[['Hi', ',', 'um', ',', 'Im', 'err', ',', 'Im', 'Ross', 'Geller', ',', 'and', 'err', 'ah', '...'], ['..'], ['thats', ',', 'thats', 'my', 'boy', 'in', 'there', ',', 'and', 'uh', ',', 'this', 'is', 'Carol', 'Willick', ',', 'and', 'this', '...'], ['is', 'Susan', 'Bunch', '.'], ['Susan', 'is', 'um', 'Carols', ',', 'just', ',', 'com', '...'], ['..'], ['whos', 'next', '?']]	Scared
+s01	e16	c03	u004	['Teacher']	Im sorry, I didnt get... Susan is?	[['Im', 'sorry', ',', 'I', 'didnt', 'get', '...'], ['Susan', 'is', '?']]	Neutral
+s01	e16	c03	u005	['Ross Geller']	Susan is Carols, Carols, Carols, friend...	[['Susan', 'is', 'Carols', ',', 'Carols', ',', 'Carols', ',', 'friend', '...']]	Scared
+s01	e16	c03	u006	['Carol Willick']	Life partner.	[['Life', 'partner', '.']]	Neutral
+s01	e16	c03	u007	['Ross Geller']	Like buddies.	[['Like', 'buddies', '.']]	Neutral
+s01	e16	c03	u008	['Susan Bunch']	Like lovers.	[['Like', 'lovers', '.']]	Neutral
+s01	e16	c03	u009	['Ross Geller']	You know how close women can get.	[['You', 'know', 'how', 'close', 'women', 'can', 'get', '.']]	Neutral
+s01	e16	c03	u011	['Carol Willick']	Susan and I live together.	[['Susan', 'and', 'I', 'live', 'together', '.']]	Neutral
+s01	e16	c03	u012	['Ross Geller']	Although I was married to her.	[['Although', 'I', 'was', 'married', 'to', 'her', '.']]	Joyful
+s01	e16	c03	u013	['Susan Bunch']	Carol, not me.	[['Carol', ',', 'not', 'me', '.']]	Neutral
+s01	e16	c03	u014	['Ross Geller']	Err, right.	[['Err', ',', 'right', '.']]	Scared
+s01	e16	c03	u015	['Carol Willick']	Its a little complicated.	[['Its', 'a', 'little', 'complicated', '.']]	Neutral
+s01	e16	c03	u016	['Ross Geller']	A little.	[['A', 'little', '.']]	Neutral
+s01	e16	c03	u017	['Susan Bunch']	But were fine.	[['But', 'were', 'fine', '.']]	Neutral
+s01	e16	c03	u018	['Ross Geller']	Absolutely. So, twins... hah! Thats like two births. Ouch.	[['Absolutely', '.'], ['So', ',', 'twins', '...'], ['hah', '!'], ['Thats', 'like', 'two', 'births', '.'], ['Ouch', '.']]	Powerful
+s01	e16	c04	u002	['Chandler Bing']	And to you too, Helen.	[['And', 'to', 'you', 'too', ',', 'Helen', '.']]	Mad
+s01	e16	c04	u003	['Helen']	Nina Bookbinder is here to see you.	[['Nina', 'Bookbinder', 'is', 'here', 'to', 'see', 'you', '.']]	Neutral
+s01	e16	c04	u004	['Chandler Bing']	Oh, okay. Send her in.	[['Oh', ',', 'okay', '.'], ['Send', 'her', 'in.']]	Neutral
+s01	e16	c04	u006	['Nina Bookbinder']	Hi.	[['Hi', '.']]	Neutral
+s01	e16	c04	u007	['Chandler Bing']	Hi, Nina. Come on in.	[['Hi', ',', 'Nina', '.'], ['Come', 'on', 'in.']]	Neutral
+s01	e16	c04	u008	['Nina Bookbinder']	You wanted to see me?	[['You', 'wanted', 'to', 'see', 'me', '?']]	Neutral
+s01	e16	c04	u009	['Chandler Bing']	Uh, Yes. Yes. Ive just been going over your data here, and little thing, youve been post-dating your Friday numbers.	[['Uh', ',', 'Yes', '.'], ['Yes', '.'], ['Ive', 'just', 'been', 'going', 'over', 'your', 'data', 'here', ',', 'and', 'little', 'thing', ',', 'youve', 'been', 'post-dating', 'your', 'Friday', 'numbers', '.']]	Mad
+s01	e16	c04	u010	['Nina Bookbinder']	Which is bad, because?	[['Which', 'is', 'bad', ',', 'because', '?']]	Neutral
+s01	e16	c04	u011	['Chandler Bing']	Well, it throws my WENUS out of whack.	[['Well', ',', 'it', 'throws', 'my', 'WENUS', 'out', 'of', 'whack', '.']]	Mad
+s01	e16	c04	u012	['Nina Bookbinder']	Your... excuse me?	[['Your', '...'], ['excuse', 'me', '?']]	Neutral
+s01	e16	c04	u013	['Chandler Bing']	WENUS. Weekly Estimated Net...	[['WENUS', '.'], ['Weekly', 'Estimated', 'Net', '...']]	Neutral
+s01	e16	c04	u014	['Nina Bookbinder']	"Oh, Net Usage Statistics, right. Gotcha, gotcha. Wont happen again. I wouldnt want to do anything to hurt your... ""wenus."""	"[['Oh', ',', 'Net', 'Usage', 'Statistics', ',', 'right', '.'], ['Gotcha', ',', 'gotcha', '.'], ['Wont', 'happen', 'again', '.'], ['I', 'wouldnt', 'want', 'to', 'do', 'anything', 'to', 'hurt', 'your', '...'], ['""', 'wenus', '.', '""']]"	Neutral
+s01	e16	c06	u001	['Ross Geller']	Sorry.	[['Sorry', '.']]	Sad
+s01	e16	c06	u002	['Ross Geller']	Hi. Sorry Im late. Wheres, wheres Carol?	[['Hi', '.'], ['Sorry', 'Im', 'late', '.'], ['Wheres', ',', 'wheres', 'Carol', '?']]	Neutral
+s01	e16	c06	u003	['Susan Bunch']	Stuck at school. Some parent-teacher thing. You can go. I'll get the information.	"[['Stuck', 'at', 'school', '.'], ['Some', 'parent', '-', 'teacher', 'thing', '.'], ['You', 'can', 'go', '.'], ['I', ""'ll"", 'get', 'the', 'information', '.']]"	Neutral
+s01	e16	c06	u004	['Ross Geller']	No... No... No. I think I should stay, I think we should both know whats going on.	[['No', '.'], ['..'], ['No', '.'], ['..'], ['No', '.'], ['I', 'think', 'I', 'should', 'stay', ',', 'I', 'think', 'we', 'should', 'both', 'know', 'whats', 'going', 'on', '.']]	Powerful
+s01	e16	c06	u005	['Susan Bunch']	Oh, good. Thisll be fun.	[['Oh', ',', 'good', '.'], ['Thisll', 'be', 'fun', '.']]	Joyful
+s01	e16	c06	u006	['Teacher']	Alrighty. Were gonna start with some basic third stage breathing exercises, so Mummies, why dont you get on your back? And... coaches, you should be supporting Mummys head.	[['Alrighty', '.'], ['Were', 'gon', 'na', 'start', 'with', 'some', 'basic', 'third', 'stage', 'breathing', 'exercises', ',', 'so', 'Mummies', ',', 'why', 'dont', 'you', 'get', 'on', 'your', 'back', '?'], ['And', '...'], ['coaches', ',', 'you', 'should', 'be', 'supporting', 'Mummys', 'head', '.']]	Neutral
+s01	e16	c06	u008	['Ross Geller', 'Susan Bunch']	What? What? What?	[['What', '?'], ['What', '?'], ['What', '?']]	Scared
+s01	e16	c06	u009	['Susan Bunch']	I am supposed to be the mommy?	[['I', 'am', 'supposed', 'to', 'be', 'the', 'mommy', '?']]	Scared
+s01	e16	c06	u010	['Ross Geller']	Okay, I'm gonna play my sperm card one more time.	"[['Okay', ',', 'I', ""'m"", 'gon', 'na', 'play', 'my', 'sperm', 'card', 'one', 'more', 'time', '.']]"	Neutral
+s01	e16	c06	u011	['Susan Bunch']	Look, I dont see why I should have to miss out on the coaching training just because I'm a woman.	"[['Look', ',', 'I', 'dont', 'see', 'why', 'I', 'should', 'have', 'to', 'miss', 'out', 'on', 'the', 'coaching', 'training', 'just', 'because', 'I', ""'m"", 'a', 'woman', '.']]"	Mad
+s01	e16	c06	u012	['Ross Geller']	I see. So what do you propose to do?	[['I', 'see', '.'], ['So', 'what', 'do', 'you', 'propose', 'to', 'do', '?']]	Neutral
+s01	e16	c06	u013	['Susan Bunch']	I will flip you for it.	[['I', 'will', 'flip', 'you', 'for', 'it', '.']]	Neutral
+s01	e16	c06	u014	['Ross Geller']	Flip me for it? No, no, no... heads, heads, heads!	[['Flip', 'me', 'for', 'it', '?'], ['No', ',', 'no', ',', 'no', '.'], ['..'], ['heads', ',', 'heads', ',', 'heads', '!']]	Neutral
+s01	e16	c06	u015	['Susan Bunch']	On your back... Mom.	[['On', 'your', 'back', '...'], ['Mom', '.']]	Neutral
+s01	e16	c06	u017	['Teacher']	Alright, Mommies, take a nice deep cleansing breath.	[['Alright', ',', 'Mommies', ',', 'take', 'a', 'nice', 'deep', 'cleansing', 'breath', '.']]	Neutral
+s01	e16	c06	u019	['Teacher']	Good. Now imagine your vagina is opening like a flower.	[['Good', '.'], ['Now', 'imagine', 'your', 'vagina', 'is', 'opening', 'like', 'a', 'flower', '.']]	Joyful
+s01	e16	c07	u001	['Chandler Bing']	Mr. D, hows it going, sir?	[['Mr.', 'D', ',', 'hows', 'it', 'going', ',', 'sir', '?']]	Neutral
+s01	e16	c07	u002	['Mr. Douglas']	Ohh, its been better. The Annual Net Usage Statistics are in.	[['Ohh', ',', 'its', 'been', 'better', '.'], ['The', 'Annual', 'Net', 'Usage', 'Statistics', 'are', 'in.']]	Neutral
+s01	e16	c07	u003	['Chandler Bing']	And?	[['And', '?']]	Neutral
+s01	e16	c07	u004	['Mr. Douglas']	Its pretty ugly. We havent seen an ANUS this bad since the seventies.	[['Its', 'pretty', 'ugly', '.'], ['We', 'havent', 'seen', 'an', 'ANUS', 'this', 'bad', 'since', 'the', 'seventies', '.']]	Sad
+s01	e16	c07	u005	['Chandler Bing']	So what does this mean?	[['So', 'what', 'does', 'this', 'mean', '?']]	Neutral
+s01	e16	c07	u006	['Mr. Douglas']	Well, were gonna be layin off people in every department.	[['Well', ',', 'were', 'gon', 'na', 'be', 'layin', 'off', 'people', 'in', 'every', 'department', '.']]	Sad
+s01	e16	c07	u007	['Chandler Bing']	Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;	[['Hey', ',', 'listen', ',', 'I', 'know', 'I', 'came', 'in', 'late', 'last', 'week', ',', 'but', 'I', 'slept', 'funny', ',', 'and', 'my', 'hair', 'was', 'very', 'very', '&', 'ndash', ';']]	Scared
+s01	e16	c07	u008	['Mr. Douglas']	Not you. Relax. Ever have to fire anyone?	[['Not', 'you', '.'], ['Relax', '.'], ['Ever', 'have', 'to', 'fire', 'anyone', '?']]	Neutral
+s01	e16	c08	u001	['Chandler Bing']	Nina? Nina. Nina. Nina.	[['Nina', '?'], ['Nina', '.'], ['Nina', '.'], ['Nina', '.']]	Scared
+s01	e16	c08	u003	['Nina Bookbinder']	Are you okay?	[['Are', 'you', 'okay', '?']]	Neutral
+s01	e16	c08	u004	['Chandler Bing']	Yes, yes I am. Err, listen, the reason that I called you in here today was, err... please dont hate me.	[['Yes', ',', 'yes', 'I', 'am', '.'], ['Err', ',', 'listen', ',', 'the', 'reason', 'that', 'I', 'called', 'you', 'in', 'here', 'today', 'was', ',', 'err', '...'], ['please', 'dont', 'hate', 'me', '.']]	Scared
+s01	e16	c08	u005	['Nina Bookbinder']	What?	[['What', '?']]	Neutral
+s01	e16	c08	u006	['Chandler Bing']	Would you like to have dinner sometime?	[['Would', 'you', 'like', 'to', 'have', 'dinner', 'sometime', '?']]	Joyful
+s01	e16	c11	u001	['Chandler Bing']	And thats the Chrysler Building right there.	[['And', 'thats', 'the', 'Chrysler', 'Building', 'right', 'there', '.']]	Neutral
+s01	e16	c11	u002	['Mr. Douglas']	Nina.	[['Nina', '.']]	Neutral
+s01	e16	c11	u003	['Nina Bookbinder']	Mr.Douglas... ..cool tie.	[['Mr', '.'], ['Douglas', '...'], ['..'], ['cool', 'tie', '.']]	Joyful
+s01	e16	c11	u005	['Mr. Douglas']	Shes still here.	[['Shes', 'still', 'here', '.']]	Joyful
+s01	e16	c11	u006	['Chandler Bing']	Yes, yes she is. Didnt I memo you on this? See, after I let her go, err, I got a call from her psychiatrist, Dr. Flanen-nen, Dr. Flanen, Dr. Flan.	[['Yes', ',', 'yes', 'she', 'is', '.'], ['Didnt', 'I', 'memo', 'you', 'on', 'this', '?'], ['See', ',', 'after', 'I', 'let', 'her', 'go', ',', 'err', ',', 'I', 'got', 'a', 'call', 'from', 'her', 'psychiatrist', ',', 'Dr.', 'Flanen', '-', 'nen', ',', 'Dr.', 'Flanen', ',', 'Dr.', 'Flan', '.']]	Neutral
+s01	e16	c11	u008	['Chandler Bing']	And err, he informed me that uh, she took the news rather badly, in fact, he uh, mentioned the word frenzy.	[['And', 'err', ',', 'he', 'informed', 'me', 'that', 'uh', ',', 'she', 'took', 'the', 'news', 'rather', 'badly', ',', 'in', 'fact', ',', 'he', 'uh', ',', 'mentioned', 'the', 'word', 'frenzy', '.']]	Sad
+s01	e16	c11	u009	['Mr. Douglas']	Youre kidding? She seems so...	[['Youre', 'kidding', '?'], ['She', 'seems', 'so', '...']]	Neutral
+s01	e16	c11	u010	['Chandler Bing']	Oh, no, no. Nina... ..she is whooo wewee-woo whoo whoo! In fact, if you asked her right now, she would have no recollection of being fired at all, none at all.	[['Oh', ',', 'no', ',', 'no', '.'], ['Nina', '...'], ['..'], ['she', 'is', 'whooo', 'wewee', '-', 'woo', 'whoo', 'whoo', '!'], ['In', 'fact', ',', 'if', 'you', 'asked', 'her', 'right', 'now', ',', 'she', 'would', 'have', 'no', 'recollection', 'of', 'being', 'fired', 'at', 'all', ',', 'none', 'at', 'all', '.']]	Neutral
+s01	e16	c11	u011	['Mr. Douglas']	Thats unbelievable.	[['Thats', 'unbelievable', '.']]	Neutral
+s01	e16	c11	u012	['Chandler Bing']	And yet, believable. So I decided not to fire her again until I can be assured that she will be no threat to herself, or others.	[['And', 'yet', ',', 'believable', '.'], ['So', 'I', 'decided', 'not', 'to', 'fire', 'her', 'again', 'until', 'I', 'can', 'be', 'assured', 'that', 'she', 'will', 'be', 'no', 'threat', 'to', 'herself', ',', 'or', 'others', '.']]	Neutral
+s01	e16	c11	u013	['Mr. Douglas']	I see. I guess you never really know whats goin on inside a persons head.	[['I', 'see', '.'], ['I', 'guess', 'you', 'never', 'really', 'know', 'whats', 'goin', 'on', 'inside', 'a', 'persons', 'head', '.']]	Scared
+s01	e16	c11	u014	['Chandler Bing']	Well, I guess thats why they call it psychology, sir.	[['Well', ',', 'I', 'guess', 'thats', 'why', 'they', 'call', 'it', 'psychology', ',', 'sir', '.']]	Neutral
+s01	e16	c12	u001	['Soothing Male Voice']	..a sound Mom and Dad never forget. For this after all, is the miracle of birth.	[['..'], ['a', 'sound', 'Mom', 'and', 'Dad', 'never', 'forget', '.'], ['For', 'this', 'after', 'all', ',', 'is', 'the', 'miracle', 'of', 'birth', '.']]	Joyful
+s01	e16	c12	u002	['Teacher']	Lights please? And thats having a baby. Next week is our final class.	[['Lights', 'please', '?'], ['And', 'thats', 'having', 'a', 'baby', '.'], ['Next', 'week', 'is', 'our', 'final', 'class', '.']]	Neutral
+s01	e16	c12	u004	['Ross Geller']	Susan, go deep.	[['Susan', ',', 'go', 'deep', '.']]	Neutral
+s01	e16	c12	u006	['Carol Willick']	This is impossible. Its just impossible.	[['This', 'is', 'impossible', '.'], ['Its', 'just', 'impossible', '.']]	Mad
+s01	e16	c12	u007	['Susan Bunch']	What is, honey?	[['What', 'is', ',', 'honey', '?']]	Neutral
+s01	e16	c12	u008	['Carol Willick']	What that woman... did. I am not doin that. Its just gonna have to stay in, thats all, everything will be the same, itll just stay in.	[['What', 'that', 'woman', '...'], ['did', '.'], ['I', 'am', 'not', 'doin', 'that', '.'], ['Its', 'just', 'gon', 'na', 'have', 'to', 'stay', 'in', ',', 'thats', 'all', ',', 'everything', 'will', 'be', 'the', 'same', ',', 'itll', 'just', 'stay', 'in.']]	Neutral
+s01	e16	c12	u009	['Ross Geller']	Carol, honey, shhh, shhh, everythings gonna be alright.	[['Carol', ',', 'honey', ',', 'shhh', ',', 'shhh', ',', 'everythings', 'gon', 'na', 'be', 'alright', '.']]	Neutral
+s01	e16	c12	u010	['Carol Willick']	"Oh, what do you know? No one's going up to you and saying, ""Hi, is that your nostril? Mind if we push this pot roast through it?"""	"[['Oh', ',', 'what', 'do', 'you', 'know', '?'], ['No', 'one', ""'s"", 'going', 'up', 'to', 'you', 'and', 'saying', ',', '""', 'Hi', ',', 'is', 'that', 'your', 'nostril', '?'], ['Mind', 'if', 'we', 'push', 'this', 'pot', 'roast', 'through', 'it', '?', '""']]"	Mad
+s01	e16	c12	u011	['Susan Bunch']	Carol, Carol, sweetie. Cleansing breath.	[['Carol', ',', 'Carol', ',', 'sweetie', '.'], ['Cleansing', 'breath', '.']]	Neutral
+s01	e16	c12	u013	['Susan Bunch']	I know its frightening, but, big picture. The birth part is just one day, and when its over, were all gonna be parents for the rest of our lives.	[['I', 'know', 'its', 'frightening', ',', 'but', ',', 'big', 'picture', '.'], ['The', 'birth', 'part', 'is', 'just', 'one', 'day', ',', 'and', 'when', 'its', 'over', ',', 'were', 'all', 'gon', 'na', 'be', 'parents', 'for', 'the', 'rest', 'of', 'our', 'lives', '.']]	Scared
+s01	e16	c12	u015	['Susan Bunch']	I mean, thats what this is all about, right? Ross? Ross?	[['I', 'mean', ',', 'thats', 'what', 'this', 'is', 'all', 'about', ',', 'right', '?'], ['Ross', '?'], ['Ross', '?']]	Scared
+s01	e16	c13	u001	['Ross Geller']	Im gonna be a father.	[['Im', 'gon', 'na', 'be', 'a', 'father', '.']]	Scared
+s01	e16	c13	u002	['Rachel Green']	This is just occurring to you?	[['This', 'is', 'just', 'occurring', 'to', 'you', '?']]	Neutral
+s01	e16	c13	u003	['Ross Geller']	I always knew I was havin a baby, I just never realised the baby was having me.	[['I', 'always', 'knew', 'I', 'was', 'havin', 'a', 'baby', ',', 'I', 'just', 'never', 'realised', 'the', 'baby', 'was', 'having', 'me', '.']]	Scared
+s01	e16	c13	u004	['Rachel Green']	Oh, youre gonna be great!	[['Oh', ',', 'youre', 'gon', 'na', 'be', 'great', '!']]	Joyful
+s01	e16	c13	u005	['Ross Geller']	Aw, how can you say that? I cant even get Marcel to stop eating the bath mat. How am I gonna raise a kid?	[['Aw', ',', 'how', 'can', 'you', 'say', 'that', '?'], ['I', 'cant', 'even', 'get', 'Marcel', 'to', 'stop', 'eating', 'the', 'bath', 'mat', '.'], ['How', 'am', 'I', 'gon', 'na', 'raise', 'a', 'kid', '?']]	Scared
+s01	e16	c13	u006	['Chandler Bing']	You know, Ross, some scientists are now saying that, that monkeys and babies are actually different.	[['You', 'know', ',', 'Ross', ',', 'some', 'scientists', 'are', 'now', 'saying', 'that', ',', 'that', 'monkeys', 'and', 'babies', 'are', 'actually', 'different', '.']]	Neutral
+s01	e16	c13	u008	['Phoebe Buffay']	Wherere you going?	[['Wherere', 'you', 'going', '?']]	Neutral
+s01	e16	c13	u009	['Joey Tribbiani']	Out.	[['Out', '.']]	Neutral
+s01	e16	c13	u010	['Phoebe Buffay']	With?	[['With', '?']]	Neutral
+s01	e16	c13	u011	['Joey Tribbiani']	Yes.	[['Yes', '.']]	Neutral
+s01	e16	c13	u012	['Phoebe Buffay']	Alright, could I just ask you one question?	[['Alright', ',', 'could', 'I', 'just', 'ask', 'you', 'one', 'question', '?']]	Neutral
+s01	e16	c13	u014	['Phoebe Buffay']	Have you two, you know... like... you know... you know... yet?	[['Have', 'you', 'two', ',', 'you', 'know', '...'], ['like', '...'], ['you', 'know', '...'], ['you', 'know', '...'], ['yet', '?']]	Neutral
+s01	e16	c13	u015	['Joey Tribbiani']	Well, not that its any of your business, but, no, we havent, okay?	[['Well', ',', 'not', 'that', 'its', 'any', 'of', 'your', 'business', ',', 'but', ',', 'no', ',', 'we', 'havent', ',', 'okay', '?']]	Mad
+s01	e16	c13	u017	['Joey Tribbiani']	You meant sex, right?	[['You', 'meant', 'sex', ',', 'right', '?']]	Neutral
+s01	e16	c14	u001	['Nina Bookbinder']	Do you have a sec?	[['Do', 'you', 'have', 'a', 'sec', '?']]	Neutral
+s01	e16	c14	u002	['Chandler Bing']	Ah, sure, Nina. Whats up?	[['Ah', ',', 'sure', ',', 'Nina', '.'], ['Whats', 'up', '?']]	Neutral
+s01	e16	c14	u003	['Nina Bookbinder']	I dont know. For the past couple days, people have been avoiding me and giving me these really strange looks.	[['I', 'dont', 'know', '.'], ['For', 'the', 'past', 'couple', 'days', ',', 'people', 'have', 'been', 'avoiding', 'me', 'and', 'giving', 'me', 'these', 'really', 'strange', 'looks', '.']]	Neutral
+s01	e16	c14	u004	['Chandler Bing']	Oh, well, ah... maybe thats because theyre ah... jealous, of us.	[['Oh', ',', 'well', ',', 'ah', '...'], ['maybe', 'thats', 'because', 'theyre', 'ah', '...'], ['jealous', ',', 'of', 'us', '.']]	Neutral
+s01	e16	c14	u005	['Nina Bookbinder']	Maybe. But that doesnt explain why they keep taking my scissors.	[['Maybe', '.'], ['But', 'that', 'doesnt', 'explain', 'why', 'they', 'keep', 'taking', 'my', 'scissors', '.']]	Neutral
+s01	e16	c14	u006	['Chandler Bing']	Ah, well, maybe thats, ah, because youre getting a big raise.	[['Ah', ',', 'well', ',', 'maybe', 'thats', ',', 'ah', ',', 'because', 'youre', 'getting', 'a', 'big', 'raise', '.']]	Neutral
+s01	e16	c14	u007	['Nina Bookbinder']	I am?	[['I', 'am', '?']]	Neutral
+s01	e16	c14	u008	['Chandler Bing']	Sure, why not?	[['Sure', ',', 'why', 'not', '?']]	Neutral
+s01	e16	c14	u009	['Nina Bookbinder']	Oh my god! Youre amazing!	[['Oh', 'my', 'god', '!'], ['Youre', 'amazing', '!']]	Joyful
+s01	e16	c14	u010	['Chandler Bing']	Oh, you dont know. Helen, could you make sure we put through the paperwork on Miss Bookbinders raise?	[['Oh', ',', 'you', 'dont', 'know', '.'], ['Helen', ',', 'could', 'you', 'make', 'sure', 'we', 'put', 'through', 'the', 'paperwork', 'on', 'Miss', 'Bookbinders', 'raise', '?']]	Neutral
+s01	e16	c14	u011	['Helen']	So you still want me to send her psychological profile to Personnel?	[['So', 'you', 'still', 'want', 'me', 'to', 'send', 'her', 'psychological', 'profile', 'to', 'Personnel', '?']]	Neutral
+s01	e16	c14	u012	['Nina Bookbinder']	What?	[['What', '?']]	Neutral
+s01	e16	c14	u013	['Chandler Bing']	Helen drinks. Will you marry me?	[['Helen', 'drinks', '.'], ['Will', 'you', 'marry', 'me', '?']]	Neutral
+s01	e16	c15	u001	['Chandler Bing']	Well, I ended up telling her everything.	[['Well', ',', 'I', 'ended', 'up', 'telling', 'her', 'everything', '.']]	Neutral
+s01	e16	c15	u002	['Rachel Green']	Oh, howd she take it?	[['Oh', ',', 'howd', 'she', 'take', 'it', '?']]	Neutral
+s01	e16	c15	u003	['Chandler Bing']	Pretty well. Except for the stapler thing. Little tip: if youre ever in a similar situation, never ever leave your hand... ..on the desk.	[['Pretty', 'well', '.'], ['Except', 'for', 'the', 'stapler', 'thing', '.'], ['Little', 'tip', ':', 'if', 'youre', 'ever', 'in', 'a', 'similar', 'situation', ',', 'never', 'ever', 'leave', 'your', 'hand', '...'], ['..'], ['on', 'the', 'desk', '.']]	Mad
+s01	e16	c15	u004	['Monica Geller']	Okay, I think I get how to do this.	[['Okay', ',', 'I', 'think', 'I', 'get', 'how', 'to', 'do', 'this', '.']]	Peaceful
+s01	e16	c15	u006	['Phoebe Buffay']	Alright, so, can we turn this off? Can we just make it... make them go away? Because I cant, I cant watch.	[['Alright', ',', 'so', ',', 'can', 'we', 'turn', 'this', 'off', '?'], ['Can', 'we', 'just', 'make', 'it', '...'], ['make', 'them', 'go', 'away', '?'], ['Because', 'I', 'cant', ',', 'I', 'cant', 'watch', '.']]	Scared
+s01	e16	c15	u007	['Monica Geller']	okay, Pheebs, theyre gone.	[['okay', ',', 'Pheebs', ',', 'theyre', 'gone', '.']]	Peaceful
+s01	e16	c15	u008	['Phoebe Buffay']	Okay.	[['Okay', '.']]	Peaceful
+s01	e16	c15	u009	['Monica Geller']	Are you alright?	[['Are', 'you', 'alright', '?']]	Peaceful
+s01	e16	c15	u010	['Phoebe Buffay']	Yeah. Its just, you know, its this whole stupid Ursula thing, its...	[['Yeah', '.'], ['Its', 'just', ',', 'you', 'know', ',', 'its', 'this', 'whole', 'stupid', 'Ursula', 'thing', ',', 'its', '...']]	Sad
+s01	e16	c15	u011	['Rachel Green']	Okay, Pheebs, can I ask? So, hes going out with her. I mean, is it really so terrible?	[['Okay', ',', 'Pheebs', ',', 'can', 'I', 'ask', '?'], ['So', ',', 'hes', 'going', 'out', 'with', 'her', '.'], ['I', 'mean', ',', 'is', 'it', 'really', 'so', 'terrible', '?']]	Neutral
+s01	e16	c15	u012	['Phoebe Buffay']	Um, yeah. Look, I mean, Im not saying shes like evil or anything. She just, you know, shes always breaking my stuff. When I was eight, and I wouldnt let her have my Judy Jetson thermos, so she threw it under the bus. And then, oh, and then there was Randy Brown, who was like... Have you ever had a boyfriend who was like your best friend?	[['Um', ',', 'yeah', '.'], ['Look', ',', 'I', 'mean', ',', 'Im', 'not', 'saying', 'shes', 'like', 'evil', 'or', 'anything', '.'], ['She', 'just', ',', 'you', 'know', ',', 'shes', 'always', 'breaking', 'my', 'stuff', '.'], ['When', 'I', 'was', 'eight', ',', 'and', 'I', 'wouldnt', 'let', 'her', 'have', 'my', 'Judy', 'Jetson', 'thermos', ',', 'so', 'she', 'threw', 'it', 'under', 'the', 'bus', '.'], ['And', 'then', ',', 'oh', ',', 'and', 'then', 'there', 'was', 'Randy', 'Brown', ',', 'who', 'was', 'like', '...'], ['Have', 'you', 'ever', 'had', 'a', 'boyfriend', 'who', 'was', 'like', 'your', 'best', 'friend', '?']]	Mad
+s01	e16	c15	u013	['Monica Geller', 'Rachel Green']	No.	[['No', '.']]	Sad
+s01	e16	c15	u014	['Phoebe Buffay']	Well, but thats what he was for me. And she you know, kind of stole him away, and then... broke his heart... and then he wouldnt even talk to me any more. Because he said he didnt wanna be around... anything that looked like either one of us.	[['Well', ',', 'but', 'thats', 'what', 'he', 'was', 'for', 'me', '.'], ['And', 'she', 'you', 'know', ',', 'kind', 'of', 'stole', 'him', 'away', ',', 'and', 'then', '...'], ['broke', 'his', 'heart', '...'], ['and', 'then', 'he', 'wouldnt', 'even', 'talk', 'to', 'me', 'any', 'more', '.'], ['Because', 'he', 'said', 'he', 'didnt', 'wan', 'na', 'be', 'around', '...'], ['anything', 'that', 'looked', 'like', 'either', 'one', 'of', 'us', '.']]	Sad
+s01	e16	c15	u015	['Rachel Green']	Oh... Oh, Pheebs.	[['Oh', '...'], ['Oh', ',', 'Pheebs', '.']]	Sad
+s01	e16	c15	u016	['Phoebe Buffay']	I mean, I know Joey is not my boyfriend, or my thermos, or anything, but...	[['I', 'mean', ',', 'I', 'know', 'Joey', 'is', 'not', 'my', 'boyfriend', ',', 'or', 'my', 'thermos', ',', 'or', 'anything', ',', 'but', '...']]	Sad
+s01	e16	c15	u017	['Chandler Bing']	Youre not gonna lose him.	[['Youre', 'not', 'gon', 'na', 'lose', 'him', '.']]	Powerful
+s01	e16	c15	u018	['Monica Geller']	Hon, you gotta talk to Joey.	[['Hon', ',', 'you', 'got', 'ta', 'talk', 'to', 'Joey', '.']]	Peaceful
+s01	e16	c15	u019	['Phoebe Buffay']	Yeah. Okay.	[['Yeah', '.'], ['Okay', '.']]	Neutral
+s01	e16	c15	u020	['Ross Geller']	No, come on, he doesnt know this stuff. If he knew how you felt.	[['No', ',', 'come', 'on', ',', 'he', 'doesnt', 'know', 'this', 'stuff', '.'], ['If', 'he', 'knew', 'how', 'you', 'felt', '.']]	Joyful
+s01	e16	c15	u021	['Phoebe Buffay']	But hes falling in love with her.	[['But', 'hes', 'falling', 'in', 'love', 'with', 'her', '.']]	Sad
+s01	e16	c15	u022	['Rachel Green']	Oh please, theyve been going out a week. They havent even slept together yet, I mean, thats not serious.	[['Oh', 'please', ',', 'theyve', 'been', 'going', 'out', 'a', 'week', '.'], ['They', 'havent', 'even', 'slept', 'together', 'yet', ',', 'I', 'mean', ',', 'thats', 'not', 'serious', '.']]	Peaceful
+s01	e16	c15	u023	['Phoebe Buffay']	Okay... Okay.	[['Okay', '...'], ['Okay', '.']]	Neutral
+s01	e16	c15	u025	['Phoebe Buffay']	Oh, okay, oh.	[['Oh', ',', 'okay', ',', 'oh', '.']]	Neutral
+s01	e16	c15	u027	['Ursula']	Oh.	[['Oh', '.']]	Scared
+s01	e16	c15	u029	['Ursula']	Yeah, um, may we help you?	[['Yeah', ',', 'um', ',', 'may', 'we', 'help', 'you', '?']]	Neutral
+s01	e16	c16	u001	['Monica Geller']	Rachel, what are you doing? Its freezing out here. Would you come back inside?	[['Rachel', ',', 'what', 'are', 'you', 'doing', '?'], ['Its', 'freezing', 'out', 'here', '.'], ['Would', 'you', 'come', 'back', 'inside', '?']]	Neutral
+s01	e16	c16	u002	['Rachel Green']	No no no no no. You wanted me to take them down, so... ..Im takin em down. Okay? Whoa!	[['No', 'no', 'no', 'no', 'no', '.'], ['You', 'wanted', 'me', 'to', 'take', 'them', 'down', ',', 'so', '...'], ['..'], ['Im', 'takin', 'em', 'down', '.'], ['Okay', '?'], ['Whoa', '!']]	Scared
+s01	e16	c16	u004	['Monica Geller']	Oh-my-god Rachel! Rachel!	[['Oh', '-', 'my', '-', 'god', 'Rachel', '!'], ['Rachel', '!']]	Scared
+s01	e16	c16	u006	['Rachel Green']	Im okay! Im okay! Mr. Heckles, Mr. Heckles could you help me please?	[['Im', 'okay', '!'], ['Im', 'okay', '!'], ['Mr.', 'Heckles', ',', 'Mr.', 'Heckles', 'could', 'you', 'help', 'me', 'please', '?']]	Joyful
+s01	e16	c16	u007	['Mr. Heckles']	See, this is just the kind of thing I was talking about.	[['See', ',', 'this', 'is', 'just', 'the', 'kind', 'of', 'thing', 'I', 'was', 'talking', 'about', '.']]	Neutral

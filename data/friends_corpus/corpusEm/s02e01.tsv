@@ -1,0 +1,93 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s02	e01	c02	u002	['Rachel Green']	Oh my god. Oh my god. Excuse me. Move! Move! Emergency! Excuse me!	[['Oh', 'my', 'god', '.'], ['Oh', 'my', 'god', '.'], ['Excuse', 'me', '.'], ['Move', '!'], ['Move', '!'], ['Emergency', '!'], ['Excuse', 'me', '!']]	Joyful
+s02	e01	c02	u003	['Ross Geller']	Rach!	[['Rach', '!']]	Joyful
+s02	e01	c02	u004	['Rachel Green']	Oh, there you are! Hi! Oh, so, so, how was China, you?	[['Oh', ',', 'there', 'you', 'are', '!'], ['Hi', '!'], ['Oh', ',', 'so', ',', 'so', ',', 'how', 'was', 'China', ',', 'you', '?']]	Joyful
+s02	e01	c02	u005	['Ross Geller']	It was, it was great. Oh, what happened?	[['It', 'was', ',', 'it', 'was', 'great', '.'], ['Oh', ',', 'what', 'happened', '?']]	Scared
+s02	e01	c02	u006	['Rachel Green']	What?	[['What', '?']]	Scared
+s02	e01	c02	u007	['Ross Geller']	You're bleeding.	"[['You', ""'re"", 'bleeding', '.']]"	Scared
+s02	e01	c02	u008	['Rachel Green']	I am? Oh, look at that, yes I am. Enough about me, enough about me, Mr. Back from the Orient. Come on. I wanna hear everything! Everything.	[['I', 'am', '?'], ['Oh', ',', 'look', 'at', 'that', ',', 'yes', 'I', 'am', '.'], ['Enough', 'about', 'me', ',', 'enough', 'about', 'me', ',', 'Mr.', 'Back', 'from', 'the', 'Orient', '.'], ['Come', 'on', '.'], ['I', 'wan', 'na', 'hear', 'everything', '!'], ['Everything', '.']]	Joyful
+s02	e01	c02	u009	['Ross Geller']	Well, where do I start? This is Julie. Julie, this is Rachel.	[['Well', ',', 'where', 'do', 'I', 'start', '?'], ['This', 'is', 'Julie', '.'], ['Julie', ',', 'this', 'is', 'Rachel', '.']]	Joyful
+s02	e01	c02	u010	['Rachel Green']	These are, these aren't for you. These are for you. Welcome to our country.	"[['These', 'are', ',', 'these', 'are', ""n't"", 'for', 'you', '.'], ['These', 'are', 'for', 'you', '.'], ['Welcome', 'to', 'our', 'country', '.']]"	Neutral
+s02	e01	c02	u011	['Julie']	Thank you. I'm from New York.	"[['Thank', 'you', '.'], ['I', ""'m"", 'from', 'New', 'York', '.']]"	Peaceful
+s02	e01	c02	u012	['Rachel Green']	Ok, well, not a problem. We'll just use them to stop the bleeding. Ok. Baggage claim? Ok.	"[['Ok', ',', 'well', ',', 'not', 'a', 'problem', '.'], ['We', ""'ll"", 'just', 'use', 'them', 'to', 'stop', 'the', 'bleeding', '.'], ['Ok', '.'], ['Baggage', 'claim', '?'], ['Ok', '.']]"	Peaceful
+s02	e01	c04	u002	['Ross Geller']	Hey, Rach, can I get some coffee?	[['Hey', ',', 'Rach', ',', 'can', 'I', 'get', 'some', 'coffee', '?']]	Neutral
+s02	e01	c04	u003	['Rachel Green']	Yeah, sure.	[['Yeah', ',', 'sure', '.']]	Neutral
+s02	e01	c04	u004	['Ross Geller']	Thank you.	[['Thank', 'you', '.']]	Joyful
+s02	e01	c04	u005	['Chandler Bing']	Hey, Rach, can I get...	[['Hey', ',', 'Rach', ',', 'can', 'I', 'get', '...']]	Neutral
+s02	e01	c04	u006	['Rachel Green']	Did you talk to him?	[['Did', 'you', 'talk', 'to', 'him', '?']]	Scared
+s02	e01	c04	u007	['Chandler Bing']	Not yet.	[['Not', 'yet', '.']]	Neutral
+s02	e01	c04	u008	['Rachel Green']	Then, no.	[['Then', ',', 'no', '.']]	Mad
+s02	e01	c04	u009	['Chandler Bing']	So what the hell happened to you in China? I mean, when last we left you, you were totally in love with, you know.	[['So', 'what', 'the', 'hell', 'happened', 'to', 'you', 'in', 'China', '?'], ['I', 'mean', ',', 'when', 'last', 'we', 'left', 'you', ',', 'you', 'were', 'totally', 'in', 'love', 'with', ',', 'you', 'know', '.']]	Neutral
+s02	e01	c04	u010	['Ross Geller']	I know, I know I was, but there was always this little voice inside that kept saying it's never gonna happen, move on. You know whose voice that was?	"[['I', 'know', ',', 'I', 'know', 'I', 'was', ',', 'but', 'there', 'was', 'always', 'this', 'little', 'voice', 'inside', 'that', 'kept', 'saying', 'it', ""'s"", 'never', 'gon', 'na', 'happen', ',', 'move', 'on', '.'], ['You', 'know', 'whose', 'voice', 'that', 'was', '?']]"	Mad
+s02	e01	c04	u011	['Chandler Bing']	God?	[['God', '?']]	Scared
+s02	e01	c04	u012	['Ross Geller']	It was you, pal.	[['It', 'was', 'you', ',', 'pal', '.']]	Joyful
+s02	e01	c04	u013	['Chandler Bing']	Well, maybe it was God, doing me.	[['Well', ',', 'maybe', 'it', 'was', 'God', ',', 'doing', 'me', '.']]	Scared
+s02	e01	c04	u014	['Ross Geller']	Look, you were right. She looks at me and sees a friend, that's all. But then I met Julie, and I don't know, we're havin' a great time. And I have to say, I never would've gone for it with her if it hadn't been for you.	"[['Look', ',', 'you', 'were', 'right', '.'], ['She', 'looks', 'at', 'me', 'and', 'sees', 'a', 'friend', ',', 'that', ""'s"", 'all', '.'], ['But', 'then', 'I', 'met', 'Julie', ',', 'and', 'I', 'do', ""n't"", 'know', ',', 'we', ""'re"", 'havin', ""'"", 'a', 'great', 'time', '.'], ['And', 'I', 'have', 'to', 'say', ',', 'I', 'never', 'would', ""'ve"", 'gone', 'for', 'it', 'with', 'her', 'if', 'it', 'had', ""n't"", 'been', 'for', 'you', '.']]"	Sad
+s02	e01	c04	u015	['Chandler Bing']	Well, you owe me one, big guy.	[['Well', ',', 'you', 'owe', 'me', 'one', ',', 'big', 'guy', '.']]	Powerful
+s02	e01	c04	u016	['Rachel Green']	Here's your lemonade.	"[['Here', ""'s"", 'your', 'lemonade', '.']]"	Neutral
+s02	e01	c04	u017	['Ross Geller']	I didn't order lemonade.	"[['I', 'did', ""n't"", 'order', 'lemonade', '.']]"	Neutral
+s02	e01	c04	u018	['Rachel Green']	Oh. Well then, you better go take that back because they're gonna charge you for that.	"[['Oh', '.'], ['Well', 'then', ',', 'you', 'better', 'go', 'take', 'that', 'back', 'because', 'they', ""'re"", 'gon', 'na', 'charge', 'you', 'for', 'that', '.']]"	Neutral
+s02	e01	c04	u019	['Ross Geller']	But...	[['But', '...']]	Neutral
+s02	e01	c04	u020	['Rachel Green']	Go-go-go-go, come on! So uh, what did you find out?	[['Go', '-', 'go', '-', 'go', '-', 'go', ',', 'come', 'on', '!'], ['So', 'uh', ',', 'what', 'did', 'you', 'find', 'out', '?']]	Scared
+s02	e01	c04	u021	['Chandler Bing']	He said...he said, he said that they're having a great time. I'm sorry. But, the silver lining, if you wanna see it, is that he made the decision all by himself! Without any outside help whatsoever.	"[['He', 'said', '...'], ['he', 'said', ',', 'he', 'said', 'that', 'they', ""'re"", 'having', 'a', 'great', 'time', '.'], ['I', ""'m"", 'sorry', '.'], ['But', ',', 'the', 'silver', 'lining', ',', 'if', 'you', 'wan', 'na', 'see', 'it', ',', 'is', 'that', 'he', 'made', 'the', 'decision', 'all', 'by', 'himself', '!'], ['Without', 'any', 'outside', 'help', 'whatsoever', '.']]"	Sad
+s02	e01	c04	u022	['Rachel Green']	How is that the silver lining?	[['How', 'is', 'that', 'the', 'silver', 'lining', '?']]	Mad
+s02	e01	c04	u023	['Chandler Bing']	You have to really wanna see it.	[['You', 'have', 'to', 'really', 'wan', 'na', 'see', 'it', '.']]	Powerful
+s02	e01	c06	u002	['Joey Tribbiani']	You know, I think I was sixteen.	[['You', 'know', ',', 'I', 'think', 'I', 'was', 'sixteen', '.']]	Joyful
+s02	e01	c06	u003	['Monica Geller']	Please, just a little bit off the back.	[['Please', ',', 'just', 'a', 'little', 'bit', 'off', 'the', 'back', '.']]	Joyful
+s02	e01	c06	u004	['Phoebe Buffay']	"I'm still on ""no."""	"[['I', ""'m"", 'still', 'on', '""', 'no', '.', '""']]"	Powerful
+s02	e01	c06	u005	['Rachel Green']	Uh, morning. Do you guys think you could close your eyes for just a sec?	[['Uh', ',', 'morning', '.'], ['Do', 'you', 'guys', 'think', 'you', 'could', 'close', 'your', 'eyes', 'for', 'just', 'a', 'sec', '?']]	Peaceful
+s02	e01	c06	u006	['Joey Tribbiani']	No-no-no-no-no, I'm not fallin' for that again.	"[['No', '-', 'no', '-', 'no', '-', 'no', '-', 'no', ',', 'I', ""'m"", 'not', 'fallin', ""'"", 'for', 'that', 'again', '.']]"	Scared
+s02	e01	c06	u007	['Phoebe Buffay']	What's goin' on?	"[['What', ""'s"", 'goin', ""'"", 'on', '?']]"	Mad
+s02	e01	c06	u008	['Rachel Green']	Well, I sorta did a stupid thing last night.	[['Well', ',', 'I', 'sorta', 'did', 'a', 'stupid', 'thing', 'last', 'night', '.']]	Mad
+s02	e01	c06	u009	['Chandler Bing']	What stupid thing did you do?	[['What', 'stupid', 'thing', 'did', 'you', 'do', '?']]	Mad
+s02	e01	c06	u010	['Paulo']	Bon giorno tutti!	[['Bon', 'giorno', 'tutti', '!']]	Powerful
+s02	e01	c06	u011	['Phoebe Buffay']	Ewww!	[['Ewww', '!']]	Powerful
+s02	e01	c08	u002	['Phoebe Buffay']	All right, that's it, I quit.	"[['All', 'right', ',', 'that', ""'s"", 'it', ',', 'I', 'quit', '.']]"	Mad
+s02	e01	c08	u003	['Monica Geller']	What? I didn't say anything.	"[['What', '?'], ['I', 'did', ""n't"", 'say', 'anything', '.']]"	Scared
+s02	e01	c08	u004	['Phoebe Buffay']	Yeah, but this isn't the face of a person who trusts a person. Ok, this is the face of a person who, you know, doesn't trust a person.	"[['Yeah', ',', 'but', 'this', 'is', ""n't"", 'the', 'face', 'of', 'a', 'person', 'who', 'trusts', 'a', 'person', '.'], ['Ok', ',', 'this', 'is', 'the', 'face', 'of', 'a', 'person', 'who', ',', 'you', 'know', ',', 'does', ""n't"", 'trust', 'a', 'person', '.']]"	Mad
+s02	e01	c08	u005	['Monica Geller']	I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.	"[['I', ""'m"", 'sorry', '.'], ['I', ""'m"", 'sorry', ',', 'Phoebe', '.'], ['It', ""'s"", 'just', 'a', 'little', 'shorter', 'than', 'what', 'we', 'had', 'discussed', '.']]"	Sad
+s02	e01	c08	u006	['Phoebe Buffay']	Would you relax? I know what I am doing. This is how he wears it.	[['Would', 'you', 'relax', '?'], ['I', 'know', 'what', 'I', 'am', 'doing', '.'], ['This', 'is', 'how', 'he', 'wears', 'it', '.']]	Mad
+s02	e01	c08	u007	['Monica Geller']	How who wears it?	[['How', 'who', 'wears', 'it', '?']]	Mad
+s02	e01	c08	u008	['Phoebe Buffay']	Demi Moore.	[['Demi', 'Moore', '.']]	Neutral
+s02	e01	c08	u009	['Monica Geller']	Demi Moore is not a he.	[['Demi', 'Moore', 'is', 'not', 'a', 'he', '.']]	Mad
+s02	e01	c08	u010	['Phoebe Buffay']	Well, he was a he in Arthur, and in Ten.	[['Well', ',', 'he', 'was', 'a', 'he', 'in', 'Arthur', ',', 'and', 'in', 'Ten', '.']]	Neutral
+s02	e01	c08	u011	['Monica Geller']	That's Dudley Moore. I said I wanted it like Demi Moore.	"[['That', ""'s"", 'Dudley', 'Moore', '.'], ['I', 'said', 'I', 'wanted', 'it', 'like', 'Demi', 'Moore', '.']]"	Mad
+s02	e01	c08	u012	['Phoebe Buffay']	Oh. Oh!	[['Oh', '.'], ['Oh', '!']]	Scared
+s02	e01	c08	u013	['Monica Geller']	Oh my God!	[['Oh', 'my', 'God', '!']]	Scared
+s02	e01	c08	u014	['Phoebe Buffay']	Oh my God!	[['Oh', 'my', 'God', '!']]	Scared
+s02	e01	c08	u015	['Monica Geller']	Oh my God!	[['Oh', 'my', 'God', '!']]	Scared
+s02	e01	c08	u016	['Phoebe Buffay']	Oh my God! I'm sorry, I'm sorry. Which one's Demi Moore?	"[['Oh', 'my', 'God', '!'], ['I', ""'m"", 'sorry', ',', 'I', ""'m"", 'sorry', '.'], ['Which', 'one', ""'s"", 'Demi', 'Moore', '?']]"	Scared
+s02	e01	c08	u017	['Monica Geller']	She's the actress that was in Disclosure, Indecent Proposal, Ghost!	"[['She', ""'s"", 'the', 'actress', 'that', 'was', 'in', 'Disclosure', ',', 'Indecent', 'Proposal', ',', 'Ghost', '!']]"	Neutral
+s02	e01	c08	u018	['Phoebe Buffay']	Oh, she's got gorgeous hair.	"[['Oh', ',', 'she', ""'s"", 'got', 'gorgeous', 'hair', '.']]"	Joyful
+s02	e01	c08	u019	['Monica Geller']	I know!	[['I', 'know', '!']]	Mad
+s02	e01	c11	u002	['Monica Geller']	Even Mary Tyler Moore would've been better.	"[['Even', 'Mary', 'Tyler', 'Moore', 'would', ""'ve"", 'been', 'better', '.']]"	Mad
+s02	e01	c11	u003	['Ross Geller']	I like it. I do, I think it's a Ten.	"[['I', 'like', 'it', '.'], ['I', 'do', ',', 'I', 'think', 'it', ""'s"", 'a', 'Ten', '.']]"	Joyful
+s02	e01	c11	u004	['Monica Geller']	Thank you. My hair is very amused.	[['Thank', 'you', '.'], ['My', 'hair', 'is', 'very', 'amused', '.']]	Mad
+s02	e01	c11	u005	['Chandler Bing']	Come on, Monica, things could be worse. You could get caught between the moon and New York City. I know it's crazy, but it's true.	"[['Come', 'on', ',', 'Monica', ',', 'things', 'could', 'be', 'worse', '.'], ['You', 'could', 'get', 'caught', 'between', 'the', 'moon', 'and', 'New', 'York', 'City', '.'], ['I', 'know', 'it', ""'s"", 'crazy', ',', 'but', 'it', ""'s"", 'true', '.']]"	Joyful
+s02	e01	c11	u006	['Phoebe Buffay']	Thank you.	[['Thank', 'you', '.']]	Joyful
+s02	e01	c11	u007	['Ross Geller']	Well, I gotta go. Bye. Bye, Rach.	[['Well', ',', 'I', 'got', 'ta', 'go', '.'], ['Bye', '.'], ['Bye', ',', 'Rach', '.']]	Joyful
+s02	e01	c11	u008	['Rachel Green']	Wait, are you leaving?	[['Wait', ',', 'are', 'you', 'leaving', '?']]	Scared
+s02	e01	c11	u009	['Ross Geller']	"Yeah, that's kinda what I meant by ""bye!"""	"[['Yeah', ',', 'that', ""'s"", 'kinda', 'what', 'I', 'meant', 'by', '""', 'bye', '!', '""']]"	Mad
+s02	e01	c11	u010	['Rachel Green']	Well, can I talk to you for a sec?	[['Well', ',', 'can', 'I', 'talk', 'to', 'you', 'for', 'a', 'sec', '?']]	Scared
+s02	e01	c11	u011	['Ross Geller']	Okay.	[['Okay', '.']]	Neutral
+s02	e01	c11	u012	['Joey Tribbiani']	Hey, when the doctor does that hernia test...	[['Hey', ',', 'when', 'the', 'doctor', 'does', 'that', 'hernia', 'test', '...']]	Scared
+s02	e01	c11	u013	['Chandler Bing']	That's ok.	"[['That', ""'s"", 'ok', '.']]"	Peaceful
+s02	e01	c11	u014	['Ross Geller']	What's goin' on?	"[['What', ""'s"", 'goin', ""'"", 'on', '?']]"	Scared
+s02	e01	c11	u015	['Rachel Green']	Well, first of all, Paulo and I are not back together. It was just a stupid thing I did, and if I could go back in time and do it again, well, I wouldn't. Um, second of all , what?	"[['Well', ',', 'first', 'of', 'all', ',', 'Paulo', 'and', 'I', 'are', 'not', 'back', 'together', '.'], ['It', 'was', 'just', 'a', 'stupid', 'thing', 'I', 'did', ',', 'and', 'if', 'I', 'could', 'go', 'back', 'in', 'time', 'and', 'do', 'it', 'again', ',', 'well', ',', 'I', 'would', ""n't"", '.'], ['Um', ',', 'second', 'of', 'all', ',', 'what', '?']]"	Mad
+s02	e01	c11	u016	['Ross Geller']	Ok. Well, before I say anything, I just need to know, is this one of those things where you break up with a guy, and then I tell you what I think, and then the next day you get back together with the guy, and I look like a complete idiot?	[['Ok', '.'], ['Well', ',', 'before', 'I', 'say', 'anything', ',', 'I', 'just', 'need', 'to', 'know', ',', 'is', 'this', 'one', 'of', 'those', 'things', 'where', 'you', 'break', 'up', 'with', 'a', 'guy', ',', 'and', 'then', 'I', 'tell', 'you', 'what', 'I', 'think', ',', 'and', 'then', 'the', 'next', 'day', 'you', 'get', 'back', 'together', 'with', 'the', 'guy', ',', 'and', 'I', 'look', 'like', 'a', 'complete', 'idiot', '?']]	Scared
+s02	e01	c11	u017	['Rachel Green']	No. No-no-no-no.	[['No', '.'], ['No', '-', 'no', '-', 'no', '-', 'no', '.']]	Powerful
+s02	e01	c11	u018	['Ross Geller']	Well, then, I think, I think the guy is scum. I hate him. I mean I actuallyI-I physically hate him. I always have. You are way too good to be with a guy like that.	[['Well', ',', 'then', ',', 'I', 'think', ',', 'I', 'think', 'the', 'guy', 'is', 'scum', '.'], ['I', 'hate', 'him', '.'], ['I', 'mean', 'I', 'actuallyI', '-', 'I', 'physically', 'hate', 'him', '.'], ['I', 'always', 'have', '.'], ['You', 'are', 'way', 'too', 'good', 'to', 'be', 'with', 'a', 'guy', 'like', 'that', '.']]	Mad
+s02	e01	c11	u019	['Rachel Green']	Really?	[['Really', '?']]	Peaceful
+s02	e01	c11	u020	['Ross Geller']	"You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know? Someone who wakes up every morning thinking ""Oh my god, I'm with Rachel"". You know, someone who makes you feel good, the way I am with Julie. Was there a second of all?"	"[['You', 'deserve', 'to', 'be', 'with', 'someone', 'who', 'appreciates', 'you', ',', 'and', 'who', 'gets', 'how', 'funny', 'and', 'sweet', 'and', 'amazing', ',', 'and', 'adorable', ',', 'and', 'sexy', 'you', 'are', ',', 'you', 'know', '?'], ['Someone', 'who', 'wakes', 'up', 'every', 'morning', 'thinking', '""', 'Oh', 'my', 'god', ',', 'I', ""'m"", 'with', 'Rachel', '""', '.'], ['You', 'know', ',', 'someone', 'who', 'makes', 'you', 'feel', 'good', ',', 'the', 'way', 'I', 'am', 'with', 'Julie', '.'], ['Was', 'there', 'a', 'second', 'of', 'all', '?']]"	Peaceful
+s02	e01	c11	u021	['Rachel Green']	No, I think that was the whole all.	[['No', ',', 'I', 'think', 'that', 'was', 'the', 'whole', 'all', '.']]	Sad
+s02	e01	c11	u022	['Ross Geller']	Okay. Okay. Okay.	[['Okay', '.'], ['Okay', '.'], ['Okay', '.']]	Joyful
+s02	e01	c11	u023	['Joey Tribbiani']	I swear to god, Dad. That's not how they measure pants.	"[['I', 'swear', 'to', 'god', ',', 'Dad', '.'], ['That', ""'s"", 'not', 'how', 'they', 'measure', 'pants', '.']]"	Mad
+s02	e01	c12	u002	['Julie']	I was thinking of doing it a little shorter, you know, like Andie McDowell's new haircut?	"[['I', 'was', 'thinking', 'of', 'doing', 'it', 'a', 'little', 'shorter', ',', 'you', 'know', ',', 'like', 'Andie', 'McDowell', ""'s"", 'new', 'haircut', '?']]"	Neutral
+s02	e01	c12	u003	['Phoebe Buffay']	Oh yeah! Oh, I can do that.	[['Oh', 'yeah', '!'], ['Oh', ',', 'I', 'can', 'do', 'that', '.']]	Joyful
+s02	e01	c12	u004	['Julie']	Really?	[['Really', '?']]	Joyful
+s02	e01	c12	u005	['Phoebe Buffay']	You wanna do it right now?	[['You', 'wan', 'na', 'do', 'it', 'right', 'now', '?']]	Scared
+s02	e01	c12	u006	['Julie']	Great!	[['Great', '!']]	Joyful
+s02	e01	c12	u007	['Phoebe Buffay']	Ok, I just wanna be really sure this time. Andie McDowell's the girl from Four Weddings and a Funeral, right?	"[['Ok', ',', 'I', 'just', 'wan', 'na', 'be', 'really', 'sure', 'this', 'time', '.'], ['Andie', 'McDowell', ""'s"", 'the', 'girl', 'from', 'Four', 'Weddings', 'and', 'a', 'Funeral', ',', 'right', '?']]"	Scared
+s02	e01	c12	u008	['Rachel Green']	No. No no no no no. That's Rodney McDowell. Andie McDowell is the guy from Planet of the Apes.	"[['No', '.'], ['No', 'no', 'no', 'no', 'no', '.'], ['That', ""'s"", 'Rodney', 'McDowell', '.'], ['Andie', 'McDowell', 'is', 'the', 'guy', 'from', 'Planet', 'of', 'the', 'Apes', '.']]"	Peaceful
+s02	e01	c12	u009	['Phoebe Buffay']	Oh, yeah. Ok, thank you.	[['Oh', ',', 'yeah', '.'], ['Ok', ',', 'thank', 'you', '.']]	Peaceful
+s02	e01	c12	u010	['Rachel Green']	You're welcome.	"[['You', ""'re"", 'welcome', '.']]"	Neutral

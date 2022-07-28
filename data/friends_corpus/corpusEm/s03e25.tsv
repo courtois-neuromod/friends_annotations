@@ -1,0 +1,140 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e25	c01	u002	['Chandler Bing']	So ah, your first sexual experience was with a woman?!	[['So', 'ah', ',', 'your', 'first', 'sexual', 'experience', 'was', 'with', 'a', 'woman', '?!']]	Joyful
+s03	e25	c01	u003	['Bonnie']	All right, I was 15, it was my best friend, Ruth, and we got drunk on that hard cider, and then suddenly, I don't know, we were, we were making out.	"[['All', 'right', ',', 'I', 'was', '15', ',', 'it', 'was', 'my', 'best', 'friend', ',', 'Ruth', ',', 'and', 'we', 'got', 'drunk', 'on', 'that', 'hard', 'cider', ',', 'and', 'then', 'suddenly', ',', 'I', 'do', ""n't"", 'know', ',', 'we', 'were', ',', 'we', 'were', 'making', 'out', '.']]"	Powerful
+s03	e25	c01	u004	['Chandler Bing']	Tell it again. Seriously.	[['Tell', 'it', 'again', '.'], ['Seriously', '.']]	Joyful
+s03	e25	c01	u006	['Rachel Green']	I mean is that woman capable of talking about anything else but sex?	[['I', 'mean', 'is', 'that', 'woman', 'capable', 'of', 'talking', 'about', 'anything', 'else', 'but', 'sex', '?']]	Mad
+s03	e25	c01	u007	['Joey Tribbiani']	Yeah, sure. Well y'know, earlier she was talking about geography.	"[['Yeah', ',', 'sure', '.'], ['Well', ""y'know"", ',', 'earlier', 'she', 'was', 'talking', 'about', 'geography', '.']]"	Neutral
+s03	e25	c01	u008	['Monica Geller']	Joey, she was listing the countries she's done it in.	"[['Joey', ',', 'she', 'was', 'listing', 'the', 'countries', 'she', ""'s"", 'done', 'it', 'in.']]"	Mad
+s03	e25	c01	u009	['Joey Tribbiani']	Well, I think we all learned something.	[['Well', ',', 'I', 'think', 'we', 'all', 'learned', 'something', '.']]	Peaceful
+s03	e25	c01	u010	['Phoebe Buffay']	Hey, you guys! Look what I found! Look at this! That's my Mom's writing! Look.	"[['Hey', ',', 'you', 'guys', '!'], ['Look', 'what', 'I', 'found', '!'], ['Look', 'at', 'this', '!'], ['That', ""'s"", 'my', 'Mom', ""'s"", 'writing', '!'], ['Look', '.']]"	Joyful
+s03	e25	c01	u011	['Chandler Bing']	Me and Frank and Phoebe, Graduation 1965.	[['Me', 'and', 'Frank', 'and', 'Phoebe', ',', 'Graduation', '1965', '.']]	Neutral
+s03	e25	c01	u012	['Phoebe Buffay']	Y'know what that means?	"[[""Y'know"", 'what', 'that', 'means', '?']]"	Joyful
+s03	e25	c01	u013	['Joey Tribbiani']	That you're actually 50?	"[['That', 'you', ""'re"", 'actually', '50', '?']]"	Joyful
+s03	e25	c01	u014	['Phoebe Buffay']	No-no, that's not, that's not me Phoebe, that's her pal Phoebe. According to her high school yearbook, they were like B.F.F. Best Friends Forever.	"[['No', '-', 'no', ',', 'that', ""'s"", 'not', ',', 'that', ""'s"", 'not', 'me', 'Phoebe', ',', 'that', ""'s"", 'her', 'pal', 'Phoebe', '.'], ['According', 'to', 'her', 'high', 'school', 'yearbook', ',', 'they', 'were', 'like', 'B.F.F.', 'Best', 'Friends', 'Forever', '.']]"	Joyful
+s03	e25	c01	u015	['#ALL#']	Oh!	[['Oh', '!']]	Joyful
+s03	e25	c01	u016	['Rachel Green']	That is so cool.	[['That', 'is', 'so', 'cool', '.']]	Joyful
+s03	e25	c01	u017	['Phoebe Buffay']	I know! So this woman probably could like have all kinds of stories about my parents, and she might even know like where my Dad is. So I looked her up, and she lives out by the beach. So maybe this weekend we could go to the beach?	[['I', 'know', '!'], ['So', 'this', 'woman', 'probably', 'could', 'like', 'have', 'all', 'kinds', 'of', 'stories', 'about', 'my', 'parents', ',', 'and', 'she', 'might', 'even', 'know', 'like', 'where', 'my', 'Dad', 'is', '.'], ['So', 'I', 'looked', 'her', 'up', ',', 'and', 'she', 'lives', 'out', 'by', 'the', 'beach', '.'], ['So', 'maybe', 'this', 'weekend', 'we', 'could', 'go', 'to', 'the', 'beach', '?']]	Joyful
+s03	e25	c01	u018	['#ALL#']	Yeah! Yeah, we can!	[['Yeah', '!'], ['Yeah', ',', 'we', 'can', '!']]	Joyful
+s03	e25	c01	u019	['Bonnie']	Shoot! I can't go, I have to work!	"[['Shoot', '!'], ['I', 'ca', ""n't"", 'go', ',', 'I', 'have', 'to', 'work', '!']]"	Sad
+s03	e25	c01	u020	['Ross Geller']	That's too bad.	"[['That', ""'s"", 'too', 'bad', '.']]"	Sad
+s03	e25	c01	u021	['Rachel Green']	Ohh, big, fat bummerrr.	[['Ohh', ',', 'big', ',', 'fat', 'bummerrr', '.']]	Sad
+s03	e25	c01	u022	['Phoebe Buffay']	So great! Okay! Tomorrow we're gonna drive out to Montauk.	"[['So', 'great', '!'], ['Okay', '!'], ['Tomorrow', 'we', ""'re"", 'gon', 'na', 'drive', 'out', 'to', 'Montauk', '.']]"	Joyful
+s03	e25	c01	u023	['Joey Tribbiani']	Hey, Bonnie had sex there!	[['Hey', ',', 'Bonnie', 'had', 'sex', 'there', '!']]	Joyful
+s03	e25	c03	u002	['Ross Geller']	Go, go, go!	[['Go', ',', 'go', ',', 'go', '!']]	Joyful
+s03	e25	c03	u003	['Rachel Green']	Oh yeah, now everybody wants to be under this hat!	[['Oh', 'yeah', ',', 'now', 'everybody', 'wants', 'to', 'be', 'under', 'this', 'hat', '!']]	Powerful
+s03	e25	c03	u005	['Phoebe Buffay']	Oy!!	[['Oy', '!!']]	Mad
+s03	e25	c03	u006	['Monica Geller']	What's with all this sand?	"[['What', ""'s"", 'with', 'all', 'this', 'sand', '?']]"	Peaceful
+s03	e25	c03	u007	['Phoebe Buffay']	Oh, yeah, Bob said there might be flood damage.	[['Oh', ',', 'yeah', ',', 'Bob', 'said', 'there', 'might', 'be', 'flood', 'damage', '.']]	Neutral
+s03	e25	c03	u008	['Ross Geller']	Yeah, either that, or he has a really big cat.	[['Yeah', ',', 'either', 'that', ',', 'or', 'he', 'has', 'a', 'really', 'big', 'cat', '.']]	Neutral
+s03	e25	c04	u002	['Phoebe Abbott']	Well, yes, it's kind've an unusual house. It has umm, three beautiful bedrooms and ah, no baths. But y'know, the ocean is right there.	"[['Well', ',', 'yes', ',', 'it', ""'s"", 'kind', ""'ve"", 'an', 'unusual', 'house', '.'], ['It', 'has', 'umm', ',', 'three', 'beautiful', 'bedrooms', 'and', 'ah', ',', 'no', 'baths', '.'], ['But', ""y'know"", ',', 'the', 'ocean', 'is', 'right', 'there', '.']]"	Joyful
+s03	e25	c04	u003	['Phoebe Buffay']	Knock, knock, knock.	[['Knock', ',', 'knock', ',', 'knock', '.']]	Joyful
+s03	e25	c04	u004	['Phoebe Abbott']	Ah, oh, hang on a second. Come in, come in. All right, so think about it, and call me back.	[['Ah', ',', 'oh', ',', 'hang', 'on', 'a', 'second', '.'], ['Come', 'in', ',', 'come', 'in.', 'All', 'right', ',', 'so', 'think', 'about', 'it', ',', 'and', 'call', 'me', 'back', '.']]	Neutral
+s03	e25	c04	u005	['Phoebe Buffay']	Are you ah, Phoebe Abott?	[['Are', 'you', 'ah', ',', 'Phoebe', 'Abott', '?']]	Scared
+s03	e25	c04	u006	['Phoebe Abbott']	Ahh, yes.	[['Ahh', ',', 'yes', '.']]	Scared
+s03	e25	c04	u007	['Phoebe Buffay']	Hi Phoebe Abott, I'm your best friends daughter!	"[['Hi', 'Phoebe', 'Abott', ',', 'I', ""'m"", 'your', 'best', 'friends', 'daughter', '!']]"	Joyful
+s03	e25	c04	u008	['Phoebe Abbott']	You're Erwin's daughter?!	"[['You', ""'re"", 'Erwin', ""'s"", 'daughter', '?!']]"	Joyful
+s03	e25	c04	u009	['Phoebe Buffay']	No, I-I mean your-your old best friend, here. Lily, from high school. Remember?	[['No', ',', 'I', '-', 'I', 'mean', 'your', '-', 'your', 'old', 'best', 'friend', ',', 'here', '.'], ['Lily', ',', 'from', 'high', 'school', '.'], ['Remember', '?']]	Joyful
+s03	e25	c04	u010	['Phoebe Abbott']	Oh gosh, Lily, yes. Of course I remember Lily. I... Then you must be?	[['Oh', 'gosh', ',', 'Lily', ',', 'yes', '.'], ['Of', 'course', 'I', 'remember', 'Lily', '.'], ['I', '...'], ['Then', 'you', 'must', 'be', '?']]	Joyful
+s03	e25	c04	u011	['Phoebe Buffay']	Phoebe. Phoebe. Phoebe, yeah. She named me after you I guess.	[['Phoebe', '.'], ['Phoebe', '.'], ['Phoebe', ',', 'yeah', '.'], ['She', 'named', 'me', 'after', 'you', 'I', 'guess', '.']]	Joyful
+s03	e25	c04	u012	['Phoebe Abbott']	Uh-huh. Wow! Well, look! There's Frank.	"[['Uh-huh', '.'], ['Wow', '!'], ['Well', ',', 'look', '!'], ['There', ""'s"", 'Frank', '.']]"	Joyful
+s03	e25	c04	u013	['Phoebe Buffay']	Yes!! Yes! Yes! Yes!! That's my Dad, that's Frank! Yeah! I'm sorry I'm getting all flingy.	"[['Yes', '!!'], ['Yes', '!'], ['Yes', '!'], ['Yes', '!!'], ['That', ""'s"", 'my', 'Dad', ',', 'that', ""'s"", 'Frank', '!'], ['Yeah', '!'], ['I', ""'m"", 'sorry', 'I', ""'m"", 'getting', 'all', 'flingy', '.']]"	Joyful
+s03	e25	c04	u014	['Phoebe Abbott']	Take it easy--if you want, there's cookies on the counter, or, or--sangria! I can make sangria!	"[['Take', 'it', 'easy', '--', 'if', 'you', 'want', ',', 'there', ""'s"", 'cookies', 'on', 'the', 'counter', ',', 'or', ',', 'or', '--', 'sangria', '!'], ['I', 'can', 'make', 'sangria', '!']]"	Joyful
+s03	e25	c04	u015	['Phoebe Buffay']	No-no, sorry. Cookies are good, thanks.	[['No', '-', 'no', ',', 'sorry', '.'], ['Cookies', 'are', 'good', ',', 'thanks', '.']]	Neutral
+s03	e25	c04	u016	['Phoebe Abbott']	Oh.	[['Oh', '.']]	Neutral
+s03	e25	c04	u017	['Phoebe Buffay']	Well, so, umm, anyway umm, I've been, I've been looking for my Father, and umm, have you heard from him, or seen him?	"[['Well', ',', 'so', ',', 'umm', ',', 'anyway', 'umm', ',', 'I', ""'ve"", 'been', ',', 'I', ""'ve"", 'been', 'looking', 'for', 'my', 'Father', ',', 'and', 'umm', ',', 'have', 'you', 'heard', 'from', 'him', ',', 'or', 'seen', 'him', '?']]"	Neutral
+s03	e25	c04	u018	['Phoebe Abbott']	Oh no, I-I'm sorry, I guess we lost track of everybody after high school.	"[['Oh', 'no', ',', 'I', '-', 'I', ""'m"", 'sorry', ',', 'I', 'guess', 'we', 'lost', 'track', 'of', 'everybody', 'after', 'high', 'school', '.']]"	Neutral
+s03	e25	c04	u019	['Phoebe Buffay']	Oh, okay. Well, so tell me everything about my parents. Everything.	[['Oh', ',', 'okay', '.'], ['Well', ',', 'so', 'tell', 'me', 'everything', 'about', 'my', 'parents', '.'], ['Everything', '.']]	Sad
+s03	e25	c04	u020	['Phoebe Abbott']	Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.	"[['Ohh', ',', 'well', '.'], [""Y'know"", 'we', 'were', 'always', 'together', ',', 'in', 'fact', 'the', 'had', 'a', 'nickname', 'for', 'the', 'three', 'of', 'us', '.']]"	Neutral
+s03	e25	c04	u021	['Phoebe Buffay']	Oh, what? What was it?	[['Oh', ',', 'what', '?'], ['What', 'was', 'it', '?']]	Neutral
+s03	e25	c04	u022	['Phoebe Abbott']	The three losers. Oh, poor Lily. Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way.	"[['The', 'three', 'losers', '.'], ['Oh', ',', 'poor', 'Lily', '.'], ['Ohh', ',', ""y'know"", 'I', '-', 'I', 'heard', 'about', 'what', 'happened', ',', 'that', 'must', 'have', 'been', 'just', 'terrible', 'for', 'you', ',', 'losing', 'your', 'mother', 'that', 'way', '.']]"	Sad
+s03	e25	c04	u023	['Phoebe Buffay']	Yeah, no, it was great.	[['Yeah', ',', 'no', ',', 'it', 'was', 'great', '.']]	Joyful
+s03	e25	c06	u002	['Chandler Bing']	So, you still don't think I'm boyfriend material?	"[['So', ',', 'you', 'still', 'do', ""n't"", 'think', 'I', ""'m"", 'boyfriend', 'material', '?']]"	Neutral
+s03	e25	c06	u003	['Monica Geller']	Huh?	[['Huh', '?']]	Neutral
+s03	e25	c06	u004	['Chandler Bing']	I saw you checking me out during the game last night.	[['I', 'saw', 'you', 'checking', 'me', 'out', 'during', 'the', 'game', 'last', 'night', '.']]	Neutral
+s03	e25	c06	u005	['Monica Geller']	You didn't even take off your pants.	"[['You', 'did', ""n't"", 'even', 'take', 'off', 'your', 'pants', '.']]"	Neutral
+s03	e25	c06	u006	['Chandler Bing']	Yeah, well, lucky for you.	[['Yeah', ',', 'well', ',', 'lucky', 'for', 'you', '.']]	Mad
+s03	e25	c06	u007	['Monica Geller']	What?	[['What', '?']]	Neutral
+s03	e25	c06	u008	['Chandler Bing']	I don't know.	"[['I', 'do', ""n't"", 'know', '.']]"	Neutral
+s03	e25	c06	u009	['Rachel Green']	Well! Is everybody else having just the best time?!	[['Well', '!'], ['Is', 'everybody', 'else', 'having', 'just', 'the', 'best', 'time', '?!']]	Joyful
+s03	e25	c06	u010	['Phoebe Buffay']	Shhh! Shhhh! Joey's asleep.	"[['Shhh', '!'], ['Shhhh', '!'], ['Joey', ""'s"", 'asleep', '.']]"	Scared
+s03	e25	c06	u012	['Phoebe Buffay']	After he passed out, we put the sand around him to keep him warm.	[['After', 'he', 'passed', 'out', ',', 'we', 'put', 'the', 'sand', 'around', 'him', 'to', 'keep', 'him', 'warm', '.']]	Neutral
+s03	e25	c06	u013	['Rachel Green']	Well I assume the ah, happy couple isn't up yet. Did you guys hear them last night?	"[['Well', 'I', 'assume', 'the', 'ah', ',', 'happy', 'couple', 'is', ""n't"", 'up', 'yet', '.'], ['Did', 'you', 'guys', 'hear', 'them', 'last', 'night', '?']]"	Neutral
+s03	e25	c06	u014	['Chandler Bing']	Oh, yeah, I don't know what they were doing, but at one point sea turtles actually came up to the house.	"[['Oh', ',', 'yeah', ',', 'I', 'do', ""n't"", 'know', 'what', 'they', 'were', 'doing', ',', 'but', 'at', 'one', 'point', 'sea', 'turtles', 'actually', 'came', 'up', 'to', 'the', 'house', '.']]"	Neutral
+s03	e25	c06	u016	['Ross Geller']	Good morning.	[['Good', 'morning', '.']]	Joyful
+s03	e25	c06	u017	['#ALL#']	Hey.	[['Hey', '.']]	Neutral
+s03	e25	c06	u018	['Bonnie']	Hey! How did everybody sleep?	[['Hey', '!'], ['How', 'did', 'everybody', 'sleep', '?']]	Joyful
+s03	e25	c06	u019	['Rachel Green']	Oh, great.	[['Oh', ',', 'great', '.']]	Joyful
+s03	e25	c06	u020	['Monica Geller']	Like a log.	[['Like', 'a', 'log', '.']]	Joyful
+s03	e25	c06	u021	['Bonnie', 'Ross Geller']	Us too.	[['Us', 'too', '.']]	Joyful
+s03	e25	c06	u022	['Rachel Green']	I'm going for a walk.	"[['I', ""'m"", 'going', 'for', 'a', 'walk', '.']]"	Neutral
+s03	e25	c06	u024	['Ross Geller']	Good morning. Nice breasts by the way.	[['Good', 'morning', '.'], ['Nice', 'breasts', 'by', 'the', 'way', '.']]	Joyful
+s03	e25	c07	u002	['Bonnie']	Hey, what happened to you?	[['Hey', ',', 'what', 'happened', 'to', 'you', '?']]	Neutral
+s03	e25	c07	u003	['Rachel Green']	Oh, ah nothin'. I just felt like hangin' out here and reading.	"[['Oh', ',', 'ah', 'nothin', ""'"", '.'], ['I', 'just', 'felt', 'like', 'hangin', ""'"", 'out', 'here', 'and', 'reading', '.']]"	Peaceful
+s03	e25	c07	u004	['Bonnie']	Oh, the water was sooo great! We jumped off this pier and my suit came off.	[['Oh', ',', 'the', 'water', 'was', 'sooo', 'great', '!'], ['We', 'jumped', 'off', 'this', 'pier', 'and', 'my', 'suit', 'came', 'off', '.']]	Joyful
+s03	e25	c07	u005	['Rachel Green']	Ohhhh, sorry I missed that.	[['Ohhhh', ',', 'sorry', 'I', 'missed', 'that', '.']]	Sad
+s03	e25	c07	u006	['Bonnie']	Yeah, Joey and Chandler sure are funny.	[['Yeah', ',', 'Joey', 'and', 'Chandler', 'sure', 'are', 'funny', '.']]	Joyful
+s03	e25	c07	u007	['Rachel Green']	Ohh-ha-ha!	[['Ohh', '-', 'ha', '-', 'ha', '!']]	Joyful
+s03	e25	c07	u008	['Bonnie']	I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.	[['I', 'think', 'I', 'brought', 'back', 'half', 'of', 'the', 'beach', 'in', 'my', 'hair', '.'], ['It', 'was', 'so', 'much', 'easier', 'when', 'I', 'used', 'to', 'shave', 'my', 'head', '.']]	Joyful
+s03	e25	c07	u009	['Rachel Green']	Y'know, I gotta tell ya, I just loved your look when you were bald.	"[[""Y'know"", ',', 'I', 'got', 'ta', 'tell', 'ya', ',', 'I', 'just', 'loved', 'your', 'look', 'when', 'you', 'were', 'bald', '.']]"	Powerful
+s03	e25	c07	u010	['Bonnie']	Really?!	[['Really', '?!']]	Joyful
+s03	e25	c07	u011	['Rachel Green']	Ohh!	[['Ohh', '!']]	Joyful
+s03	e25	c07	u012	['Bonnie']	Because I think about shaving it all off again sometime.	[['Because', 'I', 'think', 'about', 'shaving', 'it', 'all', 'off', 'again', 'sometime', '.']]	Joyful
+s03	e25	c07	u013	['Rachel Green']	Really?!	[['Really', '?!']]	Joyful
+s03	e25	c07	u014	['Bonnie']	Yeah!	[['Yeah', '!']]	Joyful
+s03	e25	c07	u015	['Rachel Green']	I mean you definitely should do that.	[['I', 'mean', 'you', 'definitely', 'should', 'do', 'that', '.']]	Powerful
+s03	e25	c07	u016	['Bonnie']	Y'know what, I should do it.	"[[""Y'know"", 'what', ',', 'I', 'should', 'do', 'it', '.']]"	Joyful
+s03	e25	c07	u017	['Rachel Green']	Yeah!	[['Yeah', '!']]	Joyful
+s03	e25	c07	u018	['Bonnie']	Yeah, thank you Rachel, you are soo cool.	[['Yeah', ',', 'thank', 'you', 'Rachel', ',', 'you', 'are', 'soo', 'cool', '.']]	Joyful
+s03	e25	c07	u019	['Rachel Green']	Awww, stop. Come on. Now go shave that head!	[['Awww', ',', 'stop', '.'], ['Come', 'on', '.'], ['Now', 'go', 'shave', 'that', 'head', '!']]	Neutral
+s03	e25	c07	u020	['Bonnie']	All right.	[['All', 'right', '.']]	Joyful
+s03	e25	c08	u002	['Joey Tribbiani']	What's the matter, Pheebs?	"[['What', ""'s"", 'the', 'matter', ',', 'Pheebs', '?']]"	Neutral
+s03	e25	c08	u003	['Phoebe Buffay']	She cancelled! My namesake cancelled on me!	[['She', 'cancelled', '!'], ['My', 'namesake', 'cancelled', 'on', 'me', '!']]	Mad
+s03	e25	c08	u004	['Joey Tribbiani']	What?!	[['What', '?!']]	Scared
+s03	e25	c08	u005	['Phoebe Buffay']	Yeah, she clamed she had to go out of town suddenly. She's avoiding me, she doesn't want to tell me where my Father is. She knows, and she won't tell me.	"[['Yeah', ',', 'she', 'clamed', 'she', 'had', 'to', 'go', 'out', 'of', 'town', 'suddenly', '.'], ['She', ""'s"", 'avoiding', 'me', ',', 'she', 'does', ""n't"", 'want', 'to', 'tell', 'me', 'where', 'my', 'Father', 'is', '.'], ['She', 'knows', ',', 'and', 'she', 'wo', ""n't"", 'tell', 'me', '.']]"	Scared
+s03	e25	c08	u006	['Rachel Green']	Aww Pheebs, that sucks!	[['Aww', 'Pheebs', ',', 'that', 'sucks', '!']]	Sad
+s03	e25	c08	u007	['Phoebe Buffay']	"Yeah, well, don't ""Aww Pheebs, that sucks!"" me yet."	"[['Yeah', ',', 'well', ',', 'do', ""n't"", '""', 'Aww', 'Pheebs', ',', 'that', 'sucks', '!', '""'], ['me', 'yet', '.']]"	Sad
+s03	e25	c08	u008	['Chandler Bing']	Where ya going?	[['Where', 'ya', 'going', '?']]	Scared
+s03	e25	c08	u009	['Phoebe Buffay']	Well, she's out of town so, there's gotta be something in her house that tells me where my Father is.	"[['Well', ',', 'she', ""'s"", 'out', 'of', 'town', 'so', ',', 'there', ""'s"", 'got', 'ta', 'be', 'something', 'in', 'her', 'house', 'that', 'tells', 'me', 'where', 'my', 'Father', 'is', '.']]"	Scared
+s03	e25	c08	u010	['Ross Geller']	Uh, Pheebs, some people call that breaking and entering.	[['Uh', ',', 'Pheebs', ',', 'some', 'people', 'call', 'that', 'breaking', 'and', 'entering', '.']]	Scared
+s03	e25	c08	u011	['Phoebe Buffay']	Well, are any of those people here?!	[['Well', ',', 'are', 'any', 'of', 'those', 'people', 'here', '?!']]	Scared
+s03	e25	c08	u012	['#ALL#']	Oh, no!! No, no!	[['Oh', ',', 'no', '!!'], ['No', ',', 'no', '!']]	Scared
+s03	e25	c08	u013	['Phoebe Buffay']	Okay, look I-I-I do something nice, okay? I'll-I'll fill her ice trays.	"[['Okay', ',', 'look', 'I-I-I', 'do', 'something', 'nice', ',', 'okay', '?'], ['I', ""'ll"", '-', 'I', ""'ll"", 'fill', 'her', 'ice', 'trays', '.']]"	Peaceful
+s03	e25	c08	u015	['Bonnie']	Hey, everybody!	[['Hey', ',', 'everybody', '!']]	Peaceful
+s03	e25	c08	u016	['#ALL#']	Wow!!	[['Wow', '!!']]	Scared
+s03	e25	c08	u017	['Ross Geller']	Wh-haa-haa! Look what 'cha did!	"[['Wh', '-', 'haa', '-', 'haa', '!'], ['Look', 'what', ""'"", 'cha', 'did', '!']]"	Joyful
+s03	e25	c08	u018	['Bonnie']	You wanna touch it?	[['You', 'wan', 'na', 'touch', 'it', '?']]	Peaceful
+s03	e25	c08	u019	['Ross Geller']	Nooo, but it, but it's great.	"[['Nooo', ',', 'but', 'it', ',', 'but', 'it', ""'s"", 'great', '.']]"	Peaceful
+s03	e25	c08	u020	['Bonnie']	Come on, touch it!	[['Come', 'on', ',', 'touch', 'it', '!']]	Peaceful
+s03	e25	c08	u021	['Ross Geller']	Okay. You can feel all the bones in your skull.	[['Okay', '.'], ['You', 'can', 'feel', 'all', 'the', 'bones', 'in', 'your', 'skull', '.']]	Peaceful
+s03	e25	c10	u003	['Phoebe Buffay']	Ow! My ass. Okay. Okay. Oh, shhh!	[['Ow', '!'], ['My', 'ass', '.'], ['Okay', '.'], ['Okay', '.'], ['Oh', ',', 'shhh', '!']]	Mad
+s03	e25	c10	u005	['Phoebe Buffay']	No! No!! It's me! It's me! I-I didn't want to make any noise!	"[['No', '!'], ['No', '!!'], ['It', ""'s"", 'me', '!'], ['It', ""'s"", 'me', '!'], ['I', '-', 'I', 'did', ""n't"", 'want', 'to', 'make', 'any', 'noise', '!']]"	Powerful
+s03	e25	c10	u006	['Phoebe Abbott']	Then don't break in!!	"[['Then', 'do', ""n't"", 'break', 'in', '!!']]"	Mad
+s03	e25	c10	u007	['Phoebe Buffay']	I'm sorry.	"[['I', ""'m"", 'sorry', '.']]"	Sad
+s03	e25	c10	u008	['Phoebe Abbott']	What are you doing here?!	[['What', 'are', 'you', 'doing', 'here', '?!']]	Powerful
+s03	e25	c10	u009	['Phoebe Buffay']	I-I, came to fill your ice cube trays.	[['I', '-', 'I', ',', 'came', 'to', 'fill', 'your', 'ice', 'cube', 'trays', '.']]	Peaceful
+s03	e25	c10	u010	['Phoebe Abbott']	What?!	[['What', '?!']]	Powerful
+s03	e25	c10	u011	['Phoebe Buffay']	Umm, okay, okay, look. I took this picture from your fridge. Okay, because I know that this is my Father. Yeah, this is Frank Buffay and you are standing right there next to him. Now, look I deserve to know where I came from. All right? So if you can help me find my Father then you should! Otherwise, you're just mean! So, just tell me the truth!	"[['Umm', ',', 'okay', ',', 'okay', ',', 'look', '.'], ['I', 'took', 'this', 'picture', 'from', 'your', 'fridge', '.'], ['Okay', ',', 'because', 'I', 'know', 'that', 'this', 'is', 'my', 'Father', '.'], ['Yeah', ',', 'this', 'is', 'Frank', 'Buffay', 'and', 'you', 'are', 'standing', 'right', 'there', 'next', 'to', 'him', '.'], ['Now', ',', 'look', 'I', 'deserve', 'to', 'know', 'where', 'I', 'came', 'from', '.'], ['All', 'right', '?'], ['So', 'if', 'you', 'can', 'help', 'me', 'find', 'my', 'Father', 'then', 'you', 'should', '!'], ['Otherwise', ',', 'you', ""'re"", 'just', 'mean', '!'], ['So', ',', 'just', 'tell', 'me', 'the', 'truth', '!']]"	Mad
+s03	e25	c10	u012	['Phoebe Abbott']	All right, the man in the picture is Chuck Magioni.	[['All', 'right', ',', 'the', 'man', 'in', 'the', 'picture', 'is', 'Chuck', 'Magioni', '.']]	Neutral
+s03	e25	c10	u013	['Phoebe Buffay']	My Father is Chuck Magioni?	[['My', 'Father', 'is', 'Chuck', 'Magioni', '?']]	Peaceful
+s03	e25	c10	u014	['Phoebe Abbott']	No, no, that's just Chuck Magioni, I-I sold him a house last year! And I'm very sorry, but I don't know where your Father is, and that's the truth.	"[['No', ',', 'no', ',', 'that', ""'s"", 'just', 'Chuck', 'Magioni', ',', 'I', '-', 'I', 'sold', 'him', 'a', 'house', 'last', 'year', '!'], ['And', 'I', ""'m"", 'very', 'sorry', ',', 'but', 'I', 'do', ""n't"", 'know', 'where', 'your', 'Father', 'is', ',', 'and', 'that', ""'s"", 'the', 'truth', '.']]"	Peaceful
+s03	e25	c10	u015	['Phoebe Buffay']	Oh.	[['Oh', '.']]	Sad
+s03	e25	c10	u016	['Phoebe Abbott']	But umm, you're right. I think that a person should know where they come from. Wh-which is why I ah, ahh, okay. I'm your mother.	"[['But', 'umm', ',', 'you', ""'re"", 'right', '.'], ['I', 'think', 'that', 'a', 'person', 'should', 'know', 'where', 'they', 'come', 'from', '.'], ['Wh', '-', 'which', 'is', 'why', 'I', 'ah', ',', 'ahh', ',', 'okay', '.'], ['I', ""'m"", 'your', 'mother', '.']]"	Peaceful
+s03	e25	c10	u017	['Phoebe Buffay']	Heh?	[['Heh', '?']]	Scared
+s03	e25	c10	u018	['Phoebe Abbott']	Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and...	"[[""Y'know"", 'I', 'wanted', 'to', 'tell', 'you', 'yesterday', ',', 'but', 'I', 'just', ',', 'I', 'kinda', 'felt', 'all', 'floopy', ',', 'and', '...']]"	Neutral
+s03	e25	c11	u002	['Joey Tribbiani']	I'm telling ya, you guys are totally getting back together!	"[['I', ""'m"", 'telling', 'ya', ',', 'you', 'guys', 'are', 'totally', 'getting', 'back', 'together', '!']]"	Joyful
+s03	e25	c11	u003	['Ross Geller']	That's not true! Her, she doesn't even know what she wants! Rachel's still mad about the whole thing.	"[['That', ""'s"", 'not', 'true', '!'], ['Her', ',', 'she', 'does', ""n't"", 'even', 'know', 'what', 'she', 'wants', '!'], ['Rachel', ""'s"", 'still', 'mad', 'about', 'the', 'whole', 'thing', '.']]"	Mad
+s03	e25	c11	u004	['Chandler Bing']	Okay, then you gotta back away, all right? You don't need that kind've hurt. Take it from a guy who's never had a long term relationship......	"[['Okay', ',', 'then', 'you', 'got', 'ta', 'back', 'away', ',', 'all', 'right', '?'], ['You', 'do', ""n't"", 'need', 'that', 'kind', ""'ve"", 'hurt', '.'], ['Take', 'it', 'from', 'a', 'guy', 'who', ""'s"", 'never', 'had', 'a', 'long', 'term', 'relationship', '......']]"	Powerful
+s03	e25	c11	u005	['Ross Geller']	I know, but ahhhhhh!! I really wanna go up there and finish that kiss!	[['I', 'know', ',', 'but', 'ahhhhhh', '!!'], ['I', 'really', 'wan', 'na', 'go', 'up', 'there', 'and', 'finish', 'that', 'kiss', '!']]	Joyful
+s03	e25	c11	u006	['Bonnie']	Hey!	[['Hey', '!']]	Joyful
+s03	e25	c11	u007	['Chandler Bing']	Ahhhh!	[['Ahhhh', '!']]	Neutral
+s03	e25	c11	u008	['Bonnie']	You guys, the water's great. You should really go in.	"[['You', 'guys', ',', 'the', 'water', ""'s"", 'great', '.'], ['You', 'should', 'really', 'go', 'in.']]"	Joyful
+s03	e25	c11	u009	['Chandler Bing']	Oh, ahh, no thanks, I just had an M&M.	[['Oh', ',', 'ahh', ',', 'no', 'thanks', ',', 'I', 'just', 'had', 'an', 'M&M', '.']]	Peaceful
+s03	e25	c11	u010	['Bonnie']	Okay, well g'night.	"[['Okay', ',', 'well', ""g'night"", '.']]"	Joyful
+s03	e25	c11	u011	['Ross Geller']	Good night.	[['Good', 'night', '.']]	Neutral
+s03	e25	c11	u012	['Bonnie']	Don't be too long.	"[['Do', ""n't"", 'be', 'too', 'long', '.']]"	Joyful
+s03	e25	c11	u013	['Ross Geller']	Okey-dokey!	[['Okey', '-', 'dokey', '!']]	Joyful
+s03	e25	c11	u014	['Chandler Bing']	There is not one hair on that head.	[['There', 'is', 'not', 'one', 'hair', 'on', 'that', 'head', '.']]	Sad
+s03	e25	c11	u015	['Ross Geller']	Hey, it'll grow back, right? And she-she's really fun, and she's cool, and-and I'm finally moving on. Y'know? I mean getting over Rachel was so , y'know? Y'know, and I'm finally feeling sane again. And now if I go up there, and-and I kiss her, and, Gooood I wanna kiss her, and-and-and it doesn't work out, right? Do I really wanna put myself through that again?	"[['Hey', ',', 'it', ""'ll"", 'grow', 'back', ',', 'right', '?'], ['And', 'she', '-', 'she', ""'s"", 'really', 'fun', ',', 'and', 'she', ""'s"", 'cool', ',', 'and', '-', 'and', 'I', ""'m"", 'finally', 'moving', 'on', '.'], [""Y'know"", '?'], ['I', 'mean', 'getting', 'over', 'Rachel', 'was', 'so', ',', ""y'know"", '?'], [""Y'know"", ',', 'and', 'I', ""'m"", 'finally', 'feeling', 'sane', 'again', '.'], ['And', 'now', 'if', 'I', 'go', 'up', 'there', ',', 'and', '-', 'and', 'I', 'kiss', 'her', ',', 'and', ',', 'Gooood', 'I', 'wan', 'na', 'kiss', 'her', ',', 'and', '-', 'and', '-', 'and', 'it', 'does', ""n't"", 'work', 'out', ',', 'right', '?'], ['Do', 'I', 'really', 'wan', 'na', 'put', 'myself', 'through', 'that', 'again', '?']]"	Scared
+s03	e25	c11	u016	['Joey Tribbiani']	So let me get this straight. If you go with Bonnie tonight, you're doing the smart, healthy thing and moving on.	"[['So', 'let', 'me', 'get', 'this', 'straight', '.'], ['If', 'you', 'go', 'with', 'Bonnie', 'tonight', ',', 'you', ""'re"", 'doing', 'the', 'smart', ',', 'healthy', 'thing', 'and', 'moving', 'on', '.']]"	Scared
+s03	e25	c11	u017	['Ross Geller']	Yeah.	[['Yeah', '.']]	Joyful
+s03	e25	c11	u018	['Joey Tribbiani']	Right, and you go with Rachel, Bonnie's free tonight?	"[['Right', ',', 'and', 'you', 'go', 'with', 'Rachel', ',', 'Bonnie', ""'s"", 'free', 'tonight', '?']]"	Neutral

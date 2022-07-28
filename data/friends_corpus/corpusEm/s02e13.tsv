@@ -1,0 +1,123 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s02	e13	c02	u002	['Rachel Green']	And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore.	"[['And', 'then', 'Jean', '-', 'Claude', 'took', 'me', 'to', 'that', 'place', 'Crossroads', 'and', 'that', ""'s"", 'where', 'we', 'hung', 'out', 'with', 'Drew', 'Barrymore', '.']]"	Peaceful
+s02	e13	c02	u003	['Joey Tribbiani']	Oh man, she's so smokin, she has got the greatest set of. . . no guys around, huh.	"[['Oh', 'man', ',', 'she', ""'s"", 'so', 'smokin', ',', 'she', 'has', 'got', 'the', 'greatest', 'set', 'of', '.'], ['.'], ['.'], ['no', 'guys', 'around', ',', 'huh', '.']]"	Joyful
+s02	e13	c02	u004	['Rachel Green']	Does anybody need anything?	[['Does', 'anybody', 'need', 'anything', '?']]	Neutral
+s02	e13	c02	u005	['Monica Geller']	Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself.	"[['Oh', ',', 'I', ""'ll"", 'have', 'an', 'espresso', '.'], ['Oh', 'acutally', ',', 'I', ""'ll"", 'get', 'it', '.'], ['If', 'I', 'ask', 'you', 'to', ',', 'you', ""'ll"", 'probably', 'end', 'up', 'drinking', 'it', 'yourself', '.']]"	Joyful
+s02	e13	c02	u006	['Rachel Green']	That is so unfair.	[['That', 'is', 'so', 'unfair', '.']]	Sad
+s02	e13	c02	u007	['Phoebe Buffay']	I know. Oh, like you would drink her coffee after what you did to her with Van Damme.	[['I', 'know', '.'], ['Oh', ',', 'like', 'you', 'would', 'drink', 'her', 'coffee', 'after', 'what', 'you', 'did', 'to', 'her', 'with', 'Van', 'Damme', '.']]	Neutral
+s02	e13	c02	u008	['Ross Geller']	Hey Joey I have to cancel racketball for tonight, that was Marcel's trainer. He's gonna let me have him for a couple of hours.	"[['Hey', 'Joey', 'I', 'have', 'to', 'cancel', 'racketball', 'for', 'tonight', ',', 'that', 'was', 'Marcel', ""'s"", 'trainer', '.'], ['He', ""'s"", 'gon', 'na', 'let', 'me', 'have', 'him', 'for', 'a', 'couple', 'of', 'hours', '.']]"	Neutral
+s02	e13	c02	u009	['Joey Tribbiani']	You're blowin' me off for a monkey?	"[['You', ""'re"", 'blowin', ""'"", 'me', 'off', 'for', 'a', 'monkey', '?']]"	Mad
+s02	e13	c02	u010	['Ross Geller']	Hey, we can rescedule for Saturday.	[['Hey', ',', 'we', 'can', 'rescedule', 'for', 'Saturday', '.']]	Neutral
+s02	e13	c02	u011	['Joey Tribbiani']	Yeah, unless you hook up with a bunch of pigeons.	[['Yeah', ',', 'unless', 'you', 'hook', 'up', 'with', 'a', 'bunch', 'of', 'pigeons', '.']]	Neutral
+s02	e13	c02	u012	['Chandler Bing']	Hey, stick a fork in me, I am done.	[['Hey', ',', 'stick', 'a', 'fork', 'in', 'me', ',', 'I', 'am', 'done', '.']]	Neutral
+s02	e13	c02	u013	['Phoebe Buffay']	Stick a fork what?	[['Stick', 'a', 'fork', 'what', '?']]	Neutral
+s02	e13	c02	u014	['Chandler Bing']	Like, when you're cooking a steak.	"[['Like', ',', 'when', 'you', ""'re"", 'cooking', 'a', 'steak', '.']]"	Neutral
+s02	e13	c02	u015	['Phoebe Buffay']	Oh, OK, I don't eat meat.	"[['Oh', ',', 'OK', ',', 'I', 'do', ""n't"", 'eat', 'meat', '.']]"	Neutral
+s02	e13	c02	u016	['Chandler Bing']	Well then, how do you know when vegetables are done?	[['Well', 'then', ',', 'how', 'do', 'you', 'know', 'when', 'vegetables', 'are', 'done', '?']]	Neutral
+s02	e13	c02	u017	['Phoebe Buffay']	Well you know, you juist, you eat them and you can tell.	[['Well', 'you', 'know', ',', 'you', 'juist', ',', 'you', 'eat', 'them', 'and', 'you', 'can', 'tell', '.']]	Neutral
+s02	e13	c02	u018	['Chandler Bing']	OK, then, eat me, I'm done.	"[['OK', ',', 'then', ',', 'eat', 'me', ',', 'I', ""'m"", 'done', '.']]"	Joyful
+s02	e13	c02	u019	['Chandler Bing']	I've met the perfect woman. OK, we're sitting on her couch, we're fooling around, and then suddenly she turns to me and says, 'Do you ever want to do it in an elevator?'	"[['I', ""'ve"", 'met', 'the', 'perfect', 'woman', '.'], ['OK', ',', 'we', ""'re"", 'sitting', 'on', 'her', 'couch', ',', 'we', ""'re"", 'fooling', 'around', ',', 'and', 'then', 'suddenly', 'she', 'turns', 'to', 'me', 'and', 'says', ',', ""'"", 'Do', 'you', 'ever', 'want', 'to', 'do', 'it', 'in', 'an', 'elevator', '?'], [""'""]]"	Joyful
+s02	e13	c02	u020	['Monica Geller']	What did you say?	[['What', 'did', 'you', 'say', '?']]	Neutral
+s02	e13	c02	u021	['Chandler Bing']	Ahh, I believe my exact words were, 'Flaign,en - sten'. I mean I didn't know what to say, how do you know if you wanna do it on an elevator?	"[['Ahh', ',', 'I', 'believe', 'my', 'exact', 'words', 'were', ',', ""'"", 'Flaign', ',', 'en', '-', 'sten', ""'"", '.'], ['I', 'mean', 'I', 'did', ""n't"", 'know', 'what', 'to', 'say', ',', 'how', 'do', 'you', 'know', 'if', 'you', 'wan', 'na', 'do', 'it', 'on', 'an', 'elevator', '?']]"	Scared
+s02	e13	c02	u022	['Phoebe Buffay']	Oh, you just know.	[['Oh', ',', 'you', 'just', 'know', '.']]	Neutral
+s02	e13	c03	u002	['Susie Moss']	Oh, shoot, we gotta go, got a reservation in 30 minutes.	[['Oh', ',', 'shoot', ',', 'we', 'got', 'ta', 'go', ',', 'got', 'a', 'reservation', 'in', '30', 'minutes', '.']]	Scared
+s02	e13	c03	u003	['Chandler Bing']	Oh no no no no, no no no no no no, you see, what I had planned shouldn't take more that 2, 3 minutes tops.	"[['Oh', 'no', 'no', 'no', 'no', ',', 'no', 'no', 'no', 'no', 'no', 'no', ',', 'you', 'see', ',', 'what', 'I', 'had', 'planned', 'should', ""n't"", 'take', 'more', 'that', '2', ',', '3', 'minutes', 'tops', '.']]"	Peaceful
+s02	e13	c03	u004	['Susie Moss']	Oh, 200 seconds of passion. We gotta go.	[['Oh', ',', '200', 'seconds', 'of', 'passion', '.'], ['We', 'got', 'ta', 'go', '.']]	Neutral
+s02	e13	c03	u005	['Susie Moss']	But um, here's an idea, have you ever worn women's underwear?	"[['But', 'um', ',', 'here', ""'s"", 'an', 'idea', ',', 'have', 'you', 'ever', 'worn', 'women', ""'s"", 'underwear', '?']]"	Powerful
+s02	e13	c03	u006	['Chandler Bing']	Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and there were three of us in there.	"[['Well', ',', 'ye', ',', 'yes', ',', 'actually', ',', 'but', ',', 'uh', ',', 'they', 'were', 'my', 'Aunt', 'Edna', ""'s"", ',', 'and', 'there', 'were', 'three', 'of', 'us', 'in', 'there', '.']]"	Scared
+s02	e13	c03	u007	['Susie Moss']	Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner.	[['Well', 'I', 'was', 'thinking', 'it', 'would', 'be', 'um', ',', 'kind', 'of', 'sexy', 'if', 'you', 'wore', 'mine', 'tonight', ',', 'at', 'dinner', '.']]	Powerful
+s02	e13	c03	u008	['Chandler Bing']	You want me to wear your panties?	[['You', 'want', 'me', 'to', 'wear', 'your', 'panties', '?']]	Scared
+s02	e13	c03	u009	['Susie Moss']	Could ya?	[['Could', 'ya', '?']]	Joyful
+s02	e13	c03	u010	['Chandler Bing']	Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell.	"[['Well', ',', 'if', 'I', 'was', 'wearing', 'your', 'underwear', 'then', ',', 'uh', ',', 'what', 'would', 'you', 'be', 'wearing', '?.'], ['.'], ['.'], ['You', ""'re"", 'swell', '.']]"	Joyful
+s02	e13	c04	u002	['Ross Geller']	OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake.	"[['OK', ',', 'got', 'the', 'music', ',', 'got', 'the', 'dinner', '.'], ['Oh', 'and', 'check', 'it', 'out', ',', 'I', 'made', 'Marcel', ""'s"", 'favorite', 'dish', ',', 'banannacake', '.']]"	Joyful
+s02	e13	c04	u003	['Joey Tribbiani']	Oooh.	[['Oooh', '.']]	Joyful
+s02	e13	c04	u004	['Ross Geller']	With mealworms.	[['With', 'mealworms', '.']]	Neutral
+s02	e13	c04	u005	['Joey Tribbiani']	Yaaahhh. Ahhh, candles. What'dya thinks gonna happen here tonight?	"[['Yaaahhh', '.'], ['Ahhh', ',', 'candles', '.'], [""What'dya"", 'thinks', 'gon', 'na', 'happen', 'here', 'tonight', '?']]"	Joyful
+s02	e13	c04	u006	['Ross Geller']	Hello. Oh hi, are you on your way ove-. Oh. No, no, I, I understand, I mean a monkey's gotta work. No it, it's no big deal, it' not like I uh, had anything special planned. Yeah OK, OK. OK, OK, bye.	"[['Hello', '.'], ['Oh', 'hi', ',', 'are', 'you', 'on', 'your', 'way', 'ove', '-', '.'], ['Oh', '.'], ['No', ',', 'no', ',', 'I', ',', 'I', 'understand', ',', 'I', 'mean', 'a', 'monkey', ""'s"", 'got', 'ta', 'work', '.'], ['No', 'it', ',', 'it', ""'s"", 'no', 'big', 'deal', ',', 'it', ""'"", 'not', 'like', 'I', 'uh', ',', 'had', 'anything', 'special', 'planned', '.'], ['Yeah', 'OK', ',', 'OK', '.'], ['OK', ',', 'OK', ',', 'bye', '.']]"	Sad
+s02	e13	c07	u002	['Monica Geller']	I can't believe this, just like 2 weeks ago I was watching Sudden Death, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy? Can you beat up that guy?	"[['I', 'ca', ""n't"", 'believe', 'this', ',', 'just', 'like', '2', 'weeks', 'ago', 'I', 'was', 'watching', 'Sudden', 'Death', ',', 'now', 'I', ""'m"", 'on', 'a', 'date', 'with', 'Jean', '-', 'Claude', 'Van', 'Damme', '.'], ['Can', 'you', 'beat', 'up', 'that', 'guy', '?'], ['Can', 'you', 'beat', 'up', 'that', 'guy', '?']]"	Joyful
+s02	e13	c07	u003	['Jean-Claude Van Damme']	Sure.	[['Sure', '.']]	Neutral
+s02	e13	c07	u004	['Monica Geller']	This is so wild. Ya know, I gotta admit, I was kinda surprised that you agreed to go on a blind date.	[['This', 'is', 'so', 'wild', '.'], ['Ya', 'know', ',', 'I', 'got', 'ta', 'admit', ',', 'I', 'was', 'kinda', 'surprised', 'that', 'you', 'agreed', 'to', 'go', 'on', 'a', 'blind', 'date', '.']]	Joyful
+s02	e13	c07	u005	['Jean-Claude Van Damme']	Normally, I would not do it.	[['Normally', ',', 'I', 'would', 'not', 'do', 'it', '.']]	Neutral
+s02	e13	c07	u006	['Monica Geller']	Well, what made you make the exception for me?	[['Well', ',', 'what', 'made', 'you', 'make', 'the', 'exception', 'for', 'me', '?']]	Neutral
+s02	e13	c07	u007	['Jean-Claude Van Damme']	'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...	"[[""'"", 'Cause', 'Rachel', 'told', 'me', 'uh', ',', 'you', 'were', 'dying', 'to', 'have', 'a', 'threesome', 'with', 'me', 'and', 'uh', ',', 'Drew', 'Barrymore', '.'], ['By', 'the', 'way', ',', 'Drew', 'has', 'some', 'groundrules', 'and', '...']]"	Neutral
+s02	e13	c08	u002	['Monica Geller']	Say you're sorry.	"[['Say', 'you', ""'re"", 'sorry', '.']]"	Mad
+s02	e13	c08	u003	['Rachel Green']	No.	[['No', '.']]	Mad
+s02	e13	c08	u004	['Monica Geller']	Say it.	[['Say', 'it', '.']]	Mad
+s02	e13	c08	u005	['Rachel Green']	No.	[['No', '.']]	Mad
+s02	e13	c08	u006	['Monica Geller']	Rachel, you say you're sorry or your sweater gets it.	"[['Rachel', ',', 'you', 'say', 'you', ""'re"", 'sorry', 'or', 'your', 'sweater', 'gets', 'it', '.']]"	Mad
+s02	e13	c08	u007	['Rachel Green']	OK, OK, that is my favorite sweater, that is my third date sweater.	[['OK', ',', 'OK', ',', 'that', 'is', 'my', 'favorite', 'sweater', ',', 'that', 'is', 'my', 'third', 'date', 'sweater', '.']]	Scared
+s02	e13	c08	u008	['Monica Geller']	Say you're sorry.	"[['Say', 'you', ""'re"", 'sorry', '.']]"	Mad
+s02	e13	c08	u009	['Rachel Green']	OK, you wanna play? OK, let's play, let's play.	"[['OK', ',', 'you', 'wan', 'na', 'play', '?'], ['OK', ',', 'let', ""'s"", 'play', ',', 'let', ""'s"", 'play', '.']]"	Joyful
+s02	e13	c08	u010	['Monica Geller']	What're you gonna do?	"[['What', ""'re"", 'you', 'gon', 'na', 'do', '?']]"	Scared
+s02	e13	c08	u011	['Rachel Green']	You give me back my sweater or it's handbag marinara.	"[['You', 'give', 'me', 'back', 'my', 'sweater', 'or', 'it', ""'s"", 'handbag', 'marinara', '.']]"	Mad
+s02	e13	c08	u012	['Monica Geller']	You don't have the guts.	"[['You', 'do', ""n't"", 'have', 'the', 'guts', '.']]"	Scared
+s02	e13	c08	u013	['Rachel Green']	Oh yeah. Well, at least I wasn't too chicken to tell some guy I thought he was cute.	"[['Oh', 'yeah', '.'], ['Well', ',', 'at', 'least', 'I', 'was', ""n't"", 'too', 'chicken', 'to', 'tell', 'some', 'guy', 'I', 'thought', 'he', 'was', 'cute', '.']]"	Mad
+s02	e13	c08	u014	['Phoebe Buffay']	Oh alright, stop, STOP THE MADNESS. This is crazy. Who can even remember why this even started in the first place?	[['Oh', 'alright', ',', 'stop', ',', 'STOP', 'THE', 'MADNESS', '.'], ['This', 'is', 'crazy', '.'], ['Who', 'can', 'even', 'remember', 'why', 'this', 'even', 'started', 'in', 'the', 'first', 'place', '?']]	Mad
+s02	e13	c08	u015	['Phoebe Buffay']	Yes that's right. But still, I-, look at your purse, look at your sweater, look at yourselves.	"[['Yes', 'that', ""'s"", 'right', '.'], ['But', 'still', ',', 'I', '-', ',', 'look', 'at', 'your', 'purse', ',', 'look', 'at', 'your', 'sweater', ',', 'look', 'at', 'yourselves', '.']]"	Powerful
+s02	e13	c08	u016	['Monica Geller']	I'll help you fix your sweater.	"[['I', ""'ll"", 'help', 'you', 'fix', 'your', 'sweater', '.']]"	Peaceful
+s02	e13	c08	u017	['Rachel Green']	I'll help you throw out your purse.	"[['I', ""'ll"", 'help', 'you', 'throw', 'out', 'your', 'purse', '.']]"	Peaceful
+s02	e13	c08	u018	['Monica Geller']	I'm sorry that I made you stop seeing him.	"[['I', ""'m"", 'sorry', 'that', 'I', 'made', 'you', 'stop', 'seeing', 'him', '.']]"	Sad
+s02	e13	c08	u019	['Rachel Green']	Well, I'm sorry I went out with him when I knew you liked him.	"[['Well', ',', 'I', ""'m"", 'sorry', 'I', 'went', 'out', 'with', 'him', 'when', 'I', 'knew', 'you', 'liked', 'him', '.']]"	Peaceful
+s02	e13	c08	u020	['Monica Geller']	I'm sorry that I borrowed your gloves	"[['I', ""'m"", 'sorry', 'that', 'I', 'borrowed', 'your', 'gloves']]"	Sad
+s02	e13	c09	u003	['Chandler Bing']	Joey?	[['Joey', '?']]	Neutral
+s02	e13	c09	u004	['Joey Tribbiani']	Ma?	[['Ma', '?']]	Neutral
+s02	e13	c09	u005	['Chandler Bing']	Joey!	[['Joey', '!']]	Neutral
+s02	e13	c09	u006	['Joey Tribbiani']	Chandler? What're you still doin' here, I though you guys took off.	"[['Chandler', '?'], ['What', ""'re"", 'you', 'still', 'doin', ""'"", 'here', ',', 'I', 'though', 'you', 'guys', 'took', 'off', '.']]"	Neutral
+s02	e13	c09	u007	['Chandler Bing']	Oh, no no no, she took off with my clothes.	[['Oh', ',', 'no', 'no', 'no', ',', 'she', 'took', 'off', 'with', 'my', 'clothes', '.']]	Neutral
+s02	e13	c09	u008	['Joey Tribbiani']	Are you naked in there?	[['Are', 'you', 'naked', 'in', 'there', '?']]	Neutral
+s02	e13	c09	u009	['Chandler Bing']	Not exactly. . . I'm wearin panties.	"[['Not', 'exactly', '.'], ['.'], ['.'], ['I', ""'m"", 'wearin', 'panties', '.']]"	Neutral
+s02	e13	c09	u010	['Joey Tribbiani']	Huh, you uh, you always wear panties?	[['Huh', ',', 'you', 'uh', ',', 'you', 'always', 'wear', 'panties', '?']]	Neutral
+s02	e13	c09	u011	['Chandler Bing']	No, no, this is the first time.	[['No', ',', 'no', ',', 'this', 'is', 'the', 'first', 'time', '.']]	Neutral
+s02	e13	c09	u012	['Joey Tribbiani']	Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes.	[['Wow', ',', 'talk', 'about', 'your', 'bad', 'luck', ',', 'I', 'mean', ',', 'the', 'first', 'time', 'you', 'try', 'panties', 'and', 'someone', 'walks', 'off', 'with', 'your', 'clothes', '.']]	Neutral
+s02	e13	c09	u013	['Chandler Bing']	I was not trying them out, Susie asked me to wear them.	[['I', 'was', 'not', 'trying', 'them', 'out', ',', 'Susie', 'asked', 'me', 'to', 'wear', 'them', '.']]	Neutral
+s02	e13	c09	u014	['Joey Tribbiani']	Well, let me see.	[['Well', ',', 'let', 'me', 'see', '.']]	Neutral
+s02	e13	c09	u015	['Chandler Bing']	No. I'm not letting you or anybody else see, ever.	"[['No', '.'], ['I', ""'m"", 'not', 'letting', 'you', 'or', 'anybody', 'else', 'see', ',', 'ever', '.']]"	Neutral
+s02	e13	c09	u016	['Joey Tribbiani']	Alright, alright. Woah, someone's flossing.	"[['Alright', ',', 'alright', '.'], ['Woah', ',', 'someone', ""'s"", 'flossing', '.']]"	Joyful
+s02	e13	c09	u017	['Ross Geller']	Joey, some people don't like that.	"[['Joey', ',', 'some', 'people', 'do', ""n't"", 'like', 'that', '.']]"	Mad
+s02	e13	c09	u018	['Joey Tribbiani']	Chandler's wearing panties.	"[['Chandler', ""'s"", 'wearing', 'panties', '.']]"	Neutral
+s02	e13	c09	u019	['Ross Geller']	What? Let me see.	[['What', '?'], ['Let', 'me', 'see', '.']]	Joyful
+s02	e13	c09	u020	['Chandler Bing']	No, no, you don't have to see.	"[['No', ',', 'no', ',', 'you', 'do', ""n't"", 'have', 'to', 'see', '.']]"	Neutral
+s02	e13	c09	u021	['Ross Geller']	Hi Tushie.	[['Hi', 'Tushie', '.']]	Neutral
+s02	e13	c09	u022	['Chandler Bing']	Alright, one of you give me your underpants.	[['Alright', ',', 'one', 'of', 'you', 'give', 'me', 'your', 'underpants', '.']]	Neutral
+s02	e13	c09	u023	['Joey Tribbiani']	Can't help you, I'm not wearing any.	"[['Ca', ""n't"", 'help', 'you', ',', 'I', ""'m"", 'not', 'wearing', 'any', '.']]"	Neutral
+s02	e13	c09	u024	['Chandler Bing']	How can you not be wearing any underwear?	[['How', 'can', 'you', 'not', 'be', 'wearing', 'any', 'underwear', '?']]	Neutral
+s02	e13	c09	u025	['Joey Tribbiani']	Oh, I'm gettin' heat from the guy in the hot pink thong.	"[['Oh', ',', 'I', ""'m"", 'gettin', ""'"", 'heat', 'from', 'the', 'guy', 'in', 'the', 'hot', 'pink', 'thong', '.']]"	Neutral
+s02	e13	c09	u026	['Chandler Bing']	Alright look Ross I'll give you 50 dollars for your underpants.	"[['Alright', 'look', 'Ross', 'I', ""'ll"", 'give', 'you', '50', 'dollars', 'for', 'your', 'underpants', '.']]"	Neutral
+s02	e13	c09	u027	['#ALL#']	Hi.	[['Hi', '.']]	Neutral
+s02	e13	c10	u002	['Chandler Bing']	Hey Phoebs, can I have the milk after you?	[['Hey', 'Phoebs', ',', 'can', 'I', 'have', 'the', 'milk', 'after', 'you', '?']]	Neutral
+s02	e13	c10	u003	['Phoebe Buffay']	I'm almost done with it, keep your panties on.	"[['I', ""'m"", 'almost', 'done', 'with', 'it', ',', 'keep', 'your', 'panties', 'on', '.']]"	Neutral
+s02	e13	c10	u004	['Joey Tribbiani']	Hey, hey, and I'm in the movie.	"[['Hey', ',', 'hey', ',', 'and', 'I', ""'m"", 'in', 'the', 'movie', '.']]"	Neutral
+s02	e13	c10	u005	['Ross Geller']	What happened?	[['What', 'happened', '?']]	Neutral
+s02	e13	c10	u006	['Joey Tribbiani']	One of the virus victims called in sick, so Cathy recommended me and boom, I'm dying on the gurney. Oh Ross, Marcel just finished his last scene if you want to go down there and say goodbye.	"[['One', 'of', 'the', 'virus', 'victims', 'called', 'in', 'sick', ',', 'so', 'Cathy', 'recommended', 'me', 'and', 'boom', ',', 'I', ""'m"", 'dying', 'on', 'the', 'gurney', '.'], ['Oh', 'Ross', ',', 'Marcel', 'just', 'finished', 'his', 'last', 'scene', 'if', 'you', 'want', 'to', 'go', 'down', 'there', 'and', 'say', 'goodbye', '.']]"	Sad
+s02	e13	c10	u007	['Ross Geller']	Ahh, oh that's OK, I mean, he's probably got, you know, parties to go to and stuff. But, ya know, he's moved on. Hey, that, that's the way it goes right.	"[['Ahh', ',', 'oh', 'that', ""'s"", 'OK', ',', 'I', 'mean', ',', 'he', ""'s"", 'probably', 'got', ',', 'you', 'know', ',', 'parties', 'to', 'go', 'to', 'and', 'stuff', '.'], ['But', ',', 'ya', 'know', ',', 'he', ""'s"", 'moved', 'on', '.'], ['Hey', ',', 'that', ',', 'that', ""'s"", 'the', 'way', 'it', 'goes', 'right', '.']]"	Sad
+s02	e13	c10	u008	['Phoebe Buffay']	Oh my God.	[['Oh', 'my', 'God', '.']]	Joyful
+s02	e13	c10	u009	['Ross Geller']	What?	[['What', '?']]	Joyful
+s02	e13	c11	u002	['Jean-Claude Van Damme']	I'm sorry it didn't work out between you and me, or you and me. Drew was very disappointed.	"[['I', ""'m"", 'sorry', 'it', 'did', ""n't"", 'work', 'out', 'between', 'you', 'and', 'me', ',', 'or', 'you', 'and', 'me', '.'], ['Drew', 'was', 'very', 'disappointed', '.']]"	Sad
+s02	e13	c11	u003	['Rachel Green']	OK, well, bye.	[['OK', ',', 'well', ',', 'bye', '.']]	Neutral
+s02	e13	c11	u004	['Jean-Claude Van Damme']	Goodbye.	[['Goodbye', '.']]	Neutral
+s02	e13	c11	u005	['Monica Geller']	Well, bye for me too.	[['Well', ',', 'bye', 'for', 'me', 'too', '.']]	Neutral
+s02	e13	c11	u006	['Rachel Green']	OK, well, bye-bye again.	[['OK', ',', 'well', ',', 'bye', '-', 'bye', 'again', '.']]	Neutral
+s02	e13	c11	u007	['Monica Geller']	OK.	[['OK', '.']]	Neutral
+s02	e13	c11	u008	['Jean-Claude Van Damme']	Perhaps, uh, the three of us, just could. . .	[['Perhaps', ',', 'uh', ',', 'the', 'three', 'of', 'us', ',', 'just', 'could', '.'], ['.'], ['.']]	Scared
+s02	e13	c11	u009	['Monica Geller', 'Rachel Green']	Oh, no no no no no.	[['Oh', ',', 'no', 'no', 'no', 'no', 'no', '.']]	Mad
+s02	e13	c11	u010	['Jean-Claude Van Damme']	Are you sure, I can crush a walnut with my butt.	[['Are', 'you', 'sure', ',', 'I', 'can', 'crush', 'a', 'walnut', 'with', 'my', 'butt', '.']]	Neutral
+s02	e13	c11	u011	['Monica Geller', 'Rachel Green']	No no no no.	[['No', 'no', 'no', 'no', '.']]	Mad
+s02	e13	c11	u012	['Rachel Green']	Impressive.	[['Impressive', '.']]	Peaceful
+s02	e13	c11	u013	['Monica Geller']	But no. Maybe if I were baking.	[['But', 'no', '.'], ['Maybe', 'if', 'I', 'were', 'baking', '.']]	Neutral
+s02	e13	c11	u014	['Monica Geller', 'Rachel Green']	Bye-bye.	[['Bye', '-', 'bye', '.']]	Neutral
+s02	e13	c12	u002	['Ross Geller']	Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy.	"[['Bye', 'Marcel', '.'], ['See', 'ya', 'on', 'the', 'big', 'screen', '.'], ['You', 'keep', 'people', 'drinkin', ""'"", 'that', 'beer', ',', 'OK', '.'], ['I', 'miss', 'you', 'buddy', '.']]"	Sad
+s02	e13	c12	u003	['Phoebe Buffay']	You know, I think I want to write a song about all this.	[['You', 'know', ',', 'I', 'think', 'I', 'want', 'to', 'write', 'a', 'song', 'about', 'all', 'this', '.']]	Neutral
+s02	e13	c12	u004	['Rachel Green']	Oh yeah.	[['Oh', 'yeah', '.']]	Neutral
+s02	e13	c12	u005	['Phoebe Buffay']	Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?	[['Yeah', '.'], ['Oh', ',', 'except', 'one', 'of', 'the', 'strings', 'on', 'my', 'guitar', 'is', 'broken', '.'], ['Hey', ',', 'Chandler', ',', 'can', 'I', 'borrow', 'your', 'G', '-', 'string', '?']]	Neutral
+s02	e13	c12	u006	['Chandler Bing']	How long you been waitin' to say that?	"[['How', 'long', 'you', 'been', 'waitin', ""'"", 'to', 'say', 'that', '?']]"	Neutral
+s02	e13	c12	u007	['Phoebe Buffay']	About 20 minutes. CLOSING CREDITS	[['About', '20', 'minutes', '.'], ['CLOSING', 'CREDITS']]	Neutral
+s02	e13	c13	u002	['Jean-Claude Van Damme']	Can't you see what's going on here, this man is dying.	"[['Ca', ""n't"", 'you', 'see', 'what', ""'s"", 'going', 'on', 'here', ',', 'this', 'man', 'is', 'dying', '.']]"	Joyful
+s02	e13	c13	u003	['Joey Tribbiani']	Aaaaagggghhhhh.	[['Aaaaagggghhhhh', '.']]	Scared
+s02	e13	c13	u004	['Director']	Cut.	[['Cut', '.']]	Powerful
+s02	e13	c13	u005	['Jean-Claude Van Damme']	Can't you see what's going on here, this man is dying.	"[['Ca', ""n't"", 'you', 'see', 'what', ""'s"", 'going', 'on', 'here', ',', 'this', 'man', 'is', 'dying', '.']]"	Peaceful
+s02	e13	c13	u006	['Joey Tribbiani']	Aaaaagggghhhhh.	[['Aaaaagggghhhhh', '.']]	Scared
+s02	e13	c13	u007	['Director']	Cut.	[['Cut', '.']]	Powerful
+s02	e13	c13	u008	['Jean-Claude Van Damme']	Can't you see what's going on here, this man is dying.	"[['Ca', ""n't"", 'you', 'see', 'what', ""'s"", 'going', 'on', 'here', ',', 'this', 'man', 'is', 'dying', '.']]"	Neutral
+s02	e13	c13	u009	['Joey Tribbiani']	Aaaaagggghhhhh. Mommy	[['Aaaaagggghhhhh', '.'], ['Mommy']]	Scared
+s02	e13	c13	u010	['Director']	Cut.	[['Cut', '.']]	Powerful
+s02	e13	c13	u011	['Jean-Claude Van Damme']	Can't you see what's going on here, this man is dead.	"[['Ca', ""n't"", 'you', 'see', 'what', ""'s"", 'going', 'on', 'here', ',', 'this', 'man', 'is', 'dead', '.']]"	Scared

@@ -1,0 +1,94 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e16	c01	u002	['Ross Geller']	I mean, I don't feel like I even have a girlfriend anymore.	"[['I', 'mean', ',', 'I', 'do', ""n't"", 'feel', 'like', 'I', 'even', 'have', 'a', 'girlfriend', 'anymore', '.']]"	Sad
+s03	e16	c01	u003	['Rachel Green']	You want me to just quit my job so that you can feel like you've got a girlfriend?	"[['You', 'want', 'me', 'to', 'just', 'quit', 'my', 'job', 'so', 'that', 'you', 'can', 'feel', 'like', 'you', ""'ve"", 'got', 'a', 'girlfriend', '?']]"	Mad
+s03	e16	c01	u004	['Ross Geller']	Is this about Mark?	[['Is', 'this', 'about', 'Mark', '?']]	Mad
+s03	e16	c01	u005	['Rachel Green']	Oh my God.	[['Oh', 'my', 'God', '.']]	Mad
+s03	e16	c01	u006	['Ross Geller']	Okay, it's not, it's not.	"[['Okay', ',', 'it', ""'s"", 'not', ',', 'it', ""'s"", 'not', '.']]"	Peaceful
+s03	e16	c01	u007	['Rachel Green']	Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.	[['Oh', 'my', 'God', '.'], ['I', 'can', 'not', 'keep', 'having', 'this', 'same', 'fight', 'with', 'you', 'Ross', '!'], ['Look', ',', 'urrgh', ',', 'maybe', 'we', 'should', 'take', 'a', 'break', '.']]	Mad
+s03	e16	c01	u008	['Ross Geller']	Fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yoghurt, or something..	"[['Fine', ',', 'you', ""'re"", 'right', '.'], ['Let', ""'s"", 'ah', ',', 'let', ""'s"", 'take', 'a', 'break', ',', 'let', ""'s"", 'cool', 'off', ',', 'okay', ',', 'let', ""'s"", 'get', 'some', 'frozen', 'yoghurt', ',', 'or', 'something', '..']]"	Peaceful
+s03	e16	c01	u009	['Rachel Green']	No. A break from us.	[['No', '.'], ['A', 'break', 'from', 'us', '.']]	Sad
+s03	e16	c02	u002	['Rachel Green']	Then, we had this big, stupid fight, and I said I wanted to take a break, I don't want to take a break.	"[['Then', ',', 'we', 'had', 'this', 'big', ',', 'stupid', 'fight', ',', 'and', 'I', 'said', 'I', 'wanted', 'to', 'take', 'a', 'break', ',', 'I', 'do', ""n't"", 'want', 'to', 'take', 'a', 'break', '.']]"	Sad
+s03	e16	c02	u003	['Ross Geller']	I've been thinking, this is crazy, I mean don't, don't you think we can work on this?	"[['I', ""'ve"", 'been', 'thinking', ',', 'this', 'is', 'crazy', ',', 'I', 'mean', 'do', ""n't"", ',', 'do', ""n't"", 'you', 'think', 'we', 'can', 'work', 'on', 'this', '?']]"	Scared
+s03	e16	c02	u004	['Mark Robinson']	Hey, what do you want to drink?	[['Hey', ',', 'what', 'do', 'you', 'want', 'to', 'drink', '?']]	Neutral
+s03	e16	c02	u005	['Ross Geller']	Who's that?	"[['Who', ""'s"", 'that', '?']]"	Neutral
+s03	e16	c02	u006	['Rachel Green']	Nobody.	[['Nobody', '.']]	Neutral
+s03	e16	c02	u007	['Ross Geller']	Is that Mark?	[['Is', 'that', 'Mark', '?']]	Neutral
+s03	e16	c02	u008	['Rachel Green']	Umm, honey, look he just came over to....	[['Umm', ',', 'honey', ',', 'look', 'he', 'just', 'came', 'over', 'to', '....']]	Scared
+s03	e16	c02	u009	['Ross Geller']	Yeah! Got it!	[['Yeah', '!'], ['Got', 'it', '!']]	Mad
+s03	e16	c04	u002	['Monica Geller']	Hey.	[['Hey', '.']]	Neutral
+s03	e16	c04	u003	['Rachel Green']	Hey.	[['Hey', '.']]	Neutral
+s03	e16	c04	u004	['Monica Geller']	How's the big anniversary dinner?	"[['How', ""'s"", 'the', 'big', 'anniversary', 'dinner', '?']]"	Neutral
+s03	e16	c04	u005	['Rachel Green']	Well, we never actually got to dinner.	[['Well', ',', 'we', 'never', 'actually', 'got', 'to', 'dinner', '.']]	Sad
+s03	e16	c04	u006	['Monica Geller']	Ohhh, nice.	[['Ohhh', ',', 'nice', '.']]	Sad
+s03	e16	c04	u007	['Rachel Green']	No, we kinda broke up instead.	[['No', ',', 'we', 'kinda', 'broke', 'up', 'instead', '.']]	Sad
+s03	e16	c04	u008	['Monica Geller']	What?!	[['What', '?!']]	Scared
+s03	e16	c04	u009	['Rachel Green']	God, Monica it's on the ceiling.	"[['God', ',', 'Monica', 'it', ""'s"", 'on', 'the', 'ceiling', '.']]"	Scared
+s03	e16	c04	u010	['Monica Geller']	That's okay, this is more important than fruit on my ceiling! You broke up?!	"[['That', ""'s"", 'okay', ',', 'this', 'is', 'more', 'important', 'than', 'fruit', 'on', 'my', 'ceiling', '!'], ['You', 'broke', 'up', '?!']]"	Mad
+s03	e16	c04	u011	['Rachel Green']	Yeah, but it's okay, because when Ross left Mark came over.	"[['Yeah', ',', 'but', 'it', ""'s"", 'okay', ',', 'because', 'when', 'Ross', 'left', 'Mark', 'came', 'over', '.']]"	Joyful
+s03	e16	c04	u012	['Monica Geller']	Oh no!!	[['Oh', 'no', '!!']]	Mad
+s03	e16	c04	u013	['Rachel Green']	No.	[['No', '.']]	Neutral
+s03	e16	c04	u014	['Monica Geller']	Rachel, you and Mark?!	[['Rachel', ',', 'you', 'and', 'Mark', '?!']]	Scared
+s03	e16	c04	u015	['Rachel Green']	No, no-no, it's okay, calm down. Mark and I talked, and I realised how much I love your stupid brother, and, yeah, we got our problems, but I really want to make it work.	"[['No', ',', 'no', '-', 'no', ',', 'it', ""'s"", 'okay', ',', 'calm', 'down', '.'], ['Mark', 'and', 'I', 'talked', ',', 'and', 'I', 'realised', 'how', 'much', 'I', 'love', 'your', 'stupid', 'brother', ',', 'and', ',', 'yeah', ',', 'we', 'got', 'our', 'problems', ',', 'but', 'I', 'really', 'want', 'to', 'make', 'it', 'work', '.']]"	Joyful
+s03	e16	c07	u002	['Phoebe Buffay']	Hey!	[['Hey', '!']]	Joyful
+s03	e16	c07	u003	['Monica Geller']	Hey.	[['Hey', '.']]	Neutral
+s03	e16	c07	u004	['Phoebe Buffay']	Hey, why are you mopping your ceiling?	[['Hey', ',', 'why', 'are', 'you', 'mopping', 'your', 'ceiling', '?']]	Neutral
+s03	e16	c07	u005	['Monica Geller']	Oh, there's banana on it.	"[['Oh', ',', 'there', ""'s"", 'banana', 'on', 'it', '.']]"	Neutral
+s03	e16	c07	u006	['Phoebe Buffay']	Wow, I have the spirit of an old Indian women living in mine.	[['Wow', ',', 'I', 'have', 'the', 'spirit', 'of', 'an', 'old', 'Indian', 'women', 'living', 'in', 'mine', '.']]	Powerful
+s03	e16	c07	u007	['Monica Geller']	So then you know?	[['So', 'then', 'you', 'know', '?']]	Peaceful
+s03	e16	c07	u008	['Phoebe Buffay']	The mailman was downstairs, so I brought up your mail.	[['The', 'mailman', 'was', 'downstairs', ',', 'so', 'I', 'brought', 'up', 'your', 'mail', '.']]	Peaceful
+s03	e16	c07	u009	['Monica Geller']	Oh, good. Thanks.	[['Oh', ',', 'good', '.'], ['Thanks', '.']]	Joyful
+s03	e16	c07	u010	['Phoebe Buffay']	Now what is Fabutec?	[['Now', 'what', 'is', 'Fabutec', '?']]	Peaceful
+s03	e16	c07	u011	['Monica Geller']	Okay, all right don't judge me to much. Okay? Um, but I saw this info-mercial, and um, I swear to you I have never-ever bought anything on TV before, except for this mop. But there was this stuff on leg waxing, it just, it looked so amazing....	"[['Okay', ',', 'all', 'right', 'do', ""n't"", 'judge', 'me', 'to', 'much', '.'], ['Okay', '?'], ['Um', ',', 'but', 'I', 'saw', 'this', 'info', '-', 'mercial', ',', 'and', 'um', ',', 'I', 'swear', 'to', 'you', 'I', 'have', 'never', '-', 'ever', 'bought', 'anything', 'on', 'TV', 'before', ',', 'except', 'for', 'this', 'mop', '.'], ['But', 'there', 'was', 'this', 'stuff', 'on', 'leg', 'waxing', ',', 'it', 'just', ',', 'it', 'looked', 'so', 'amazing', '....']]"	Powerful
+s03	e16	c07	u012	['Phoebe Buffay']	Waxine!!	[['Waxine', '!!']]	Joyful
+s03	e16	c07	u013	['Monica Geller']	Yes! Have you seen it?	[['Yes', '!'], ['Have', 'you', 'seen', 'it', '?']]	Peaceful
+s03	e16	c07	u014	['Phoebe Buffay']	Oh, it's incredible! I so want to be a Waxine girl.	"[['Oh', ',', 'it', ""'s"", 'incredible', '!'], ['I', 'so', 'want', 'to', 'be', 'a', 'Waxine', 'girl', '.']]"	Joyful
+s03	e16	c07	u015	['Monica Geller']	I know!!	[['I', 'know', '!!']]	Peaceful
+s03	e16	c07	u016	['Phoebe Buffay']	God. Do think it really doesn't hurt? 'Cause how can they do that?	"[['God', '.'], ['Do', 'think', 'it', 'really', 'does', ""n't"", 'hurt', '?'], [""'"", 'Cause', 'how', 'can', 'they', 'do', 'that', '?']]"	Scared
+s03	e16	c07	u017	['Monica Geller']	Hello! Organic substances recently discovered in the depths of the rain forest!	[['Hello', '!'], ['Organic', 'substances', 'recently', 'discovered', 'in', 'the', 'depths', 'of', 'the', 'rain', 'forest', '!']]	Peaceful
+s03	e16	c07	u018	['Phoebe Buffay']	They have the best stuff in there.	[['They', 'have', 'the', 'best', 'stuff', 'in', 'there', '.']]	Peaceful
+s03	e16	c08	u002	['Chandler Bing']	Oh my God! Oh my God!	[['Oh', 'my', 'God', '!'], ['Oh', 'my', 'God', '!']]	Scared
+s03	e16	c08	u003	['Joey Tribbiani']	Yeah. We figured when we couldn't find you, you'd gone home to make up with Rachel. Which is probably what you shoulda done. Huh?	"[['Yeah', '.'], ['We', 'figured', 'when', 'we', 'could', ""n't"", 'find', 'you', ',', 'you', ""'d"", 'gone', 'home', 'to', 'make', 'up', 'with', 'Rachel', '.'], ['Which', 'is', 'probably', 'what', 'you', 'should', 'a', 'done', '.'], ['Huh', '?']]"	Powerful
+s03	e16	c08	u004	['Ross Geller']	You think?! God, I, ah, I'm in hell. I mean what, what am I gonna do? Rachel's all like, 'I love you and, and let's work on this.' And all I can think about is, 'What is she gonna do? What is she gonna say?' when I tell her what I did.	"[['You', 'think', '?!'], ['God', ',', 'I', ',', 'ah', ',', 'I', ""'m"", 'in', 'hell', '.'], ['I', 'mean', 'what', ',', 'what', 'am', 'I', 'gon', 'na', 'do', '?'], ['Rachel', ""'s"", 'all', 'like', ',', ""'"", 'I', 'love', 'you', 'and', ',', 'and', 'let', ""'s"", 'work', 'on', 'this', '.'], [""'"", 'And', 'all', 'I', 'can', 'think', 'about', 'is', ',', ""'"", 'What', 'is', 'she', 'gon', 'na', 'do', '?'], ['What', 'is', 'she', 'gon', 'na', 'say', '?'], [""'"", 'when', 'I', 'tell', 'her', 'what', 'I', 'did', '.']]"	Sad
+s03	e16	c08	u005	['Chandler Bing']	Well, before we answer that, I think we should address the more important question. How dumb are you?	[['Well', ',', 'before', 'we', 'answer', 'that', ',', 'I', 'think', 'we', 'should', 'address', 'the', 'more', 'important', 'question', '.'], ['How', 'dumb', 'are', 'you', '?']]	Joyful
+s03	e16	c08	u006	['Ross Geller']	What?! Look, we're trying to rebuild a relationship here, right. How am I supposed to do that here, without being totally honest with each other?	"[['What', '?!'], ['Look', ',', 'we', ""'re"", 'trying', 'to', 'rebuild', 'a', 'relationship', 'here', ',', 'right', '.'], ['How', 'am', 'I', 'supposed', 'to', 'do', 'that', 'here', ',', 'without', 'being', 'totally', 'honest', 'with', 'each', 'other', '?']]"	Peaceful
+s03	e16	c08	u007	['Joey Tribbiani']	Look, Ross look, I'm on board about this totally honesty thing, I am, just not about stuff that's gonna get you in trouble.	"[['Look', ',', 'Ross', 'look', ',', 'I', ""'m"", 'on', 'board', 'about', 'this', 'totally', 'honesty', 'thing', ',', 'I', 'am', ',', 'just', 'not', 'about', 'stuff', 'that', ""'s"", 'gon', 'na', 'get', 'you', 'in', 'trouble', '.']]"	Peaceful
+s03	e16	c08	u008	['Chandler Bing']	He's right. Nobody's gonna benefit, and you're just gonna hurt her.	"[['He', ""'s"", 'right', '.'], ['Nobody', ""'s"", 'gon', 'na', 'benefit', ',', 'and', 'you', ""'re"", 'just', 'gon', 'na', 'hurt', 'her', '.']]"	Neutral
+s03	e16	c08	u009	['Joey Tribbiani']	Yeah, and there won't be a relationship left to rebuild.	"[['Yeah', ',', 'and', 'there', 'wo', ""n't"", 'be', 'a', 'relationship', 'left', 'to', 'rebuild', '.']]"	Neutral
+s03	e16	c08	u010	['Ross Geller']	Yeah, but don't you think....	"[['Yeah', ',', 'but', 'do', ""n't"", 'you', 'think', '....']]"	Neutral
+s03	e16	c08	u011	['Chandler Bing']	All right look, if you absolutely have to tell her, at least wait until the timing's right. And that's what deathbeds are for.	"[['All', 'right', 'look', ',', 'if', 'you', 'absolutely', 'have', 'to', 'tell', 'her', ',', 'at', 'least', 'wait', 'until', 'the', 'timing', ""'s"", 'right', '.'], ['And', 'that', ""'s"", 'what', 'deathbeds', 'are', 'for', '.']]"	Powerful
+s03	e16	c08	u012	['Ross Geller']	Yeah, okay.	[['Yeah', ',', 'okay', '.']]	Peaceful
+s03	e16	c08	u013	['Joey Tribbiani']	All right, okay, now, we just have to make sure she doesn't find out some other way. Did you think about the trail?	"[['All', 'right', ',', 'okay', ',', 'now', ',', 'we', 'just', 'have', 'to', 'make', 'sure', 'she', 'does', ""n't"", 'find', 'out', 'some', 'other', 'way', '.'], ['Did', 'you', 'think', 'about', 'the', 'trail', '?']]"	Peaceful
+s03	e16	c08	u014	['Ross Geller']	What trail?	[['What', 'trail', '?']]	Neutral
+s03	e16	c08	u015	['Joey Tribbiani']	The trail from the woman you did it with to the woman you hope never finds out who did it! You always have to think about the trail!	[['The', 'trail', 'from', 'the', 'woman', 'you', 'did', 'it', 'with', 'to', 'the', 'woman', 'you', 'hope', 'never', 'finds', 'out', 'who', 'did', 'it', '!'], ['You', 'always', 'have', 'to', 'think', 'about', 'the', 'trail', '!']]	Powerful
+s03	e16	c08	u016	['Ross Geller']	Oh, I-I don't think there's any trail.	"[['Oh', ',', 'I', '-', 'I', 'do', ""n't"", 'think', 'there', ""'s"", 'any', 'trail', '.']]"	Peaceful
+s03	e16	c08	u017	['Chandler Bing']	Okay, okay-okay, ah, Chloe works with that guy Issac. Issac's sister is Jasmine. And Jasmine works at that message place with Phoebe. And Phoebe's friends with Rachel. And that's the trail, I did it!	"[['Okay', ',', 'okay', '-', 'okay', ',', 'ah', ',', 'Chloe', 'works', 'with', 'that', 'guy', 'Issac', '.'], ['Issac', ""'s"", 'sister', 'is', 'Jasmine', '.'], ['And', 'Jasmine', 'works', 'at', 'that', 'message', 'place', 'with', 'Phoebe', '.'], ['And', 'Phoebe', ""'s"", 'friends', 'with', 'Rachel', '.'], ['And', 'that', ""'s"", 'the', 'trail', ',', 'I', 'did', 'it', '!']]"	Powerful
+s03	e16	c09	u002	['Phoebe Buffay']	After applying the Waxine and linen strips to leg number one,	[['After', 'applying', 'the', 'Waxine', 'and', 'linen', 'strips', 'to', 'leg', 'number', 'one', ',']]	Neutral
+s03	e16	c09	u003	['Monica Geller']	Did that!	[['Did', 'that', '!']]	Powerful
+s03	e16	c09	u004	['Phoebe Buffay']	Grasp one of the linen strips by its 'easy grab tab' and pull it off in one quick pain free motion.	"[['Grasp', 'one', 'of', 'the', 'linen', 'strips', 'by', 'its', ""'"", 'easy', 'grab', 'tab', ""'"", 'and', 'pull', 'it', 'off', 'in', 'one', 'quick', 'pain', 'free', 'motion', '.']]"	Neutral
+s03	e16	c09	u005	['Monica Geller']	Okay. Ow!!!!! Ow-oh-oh!	[['Okay', '.'], ['Ow', '!!!!!'], ['Ow', '-', 'oh', '-', 'oh', '!']]	Sad
+s03	e16	c09	u006	['Phoebe Buffay']	Was it not pain-free?	[['Was', 'it', 'not', 'pain', '-', 'free', '?']]	Neutral
+s03	e16	c09	u007	['Monica Geller']	No. It was painful. Oh my God , they should call it Pain-zine, now with a little wax.	[['No', '.'], ['It', 'was', 'painful', '.'], ['Oh', 'my', 'God', ',', 'they', 'should', 'call', 'it', 'Pain', '-', 'zine', ',', 'now', 'with', 'a', 'little', 'wax', '.']]	Mad
+s03	e16	c09	u008	['Phoebe Buffay']	Huh, well, the girls in the satin nighties on the commercial don't seem to think it's that bad.	"[['Huh', ',', 'well', ',', 'the', 'girls', 'in', 'the', 'satin', 'nighties', 'on', 'the', 'commercial', 'do', ""n't"", 'seem', 'to', 'think', 'it', ""'s"", 'that', 'bad', '.']]"	Neutral
+s03	e16	c09	u009	['Monica Geller']	That's because their nerves are probably deadened from being so stupid. But hey, y'know if you don't believe me, please, by my guest.	"[['That', ""'s"", 'because', 'their', 'nerves', 'are', 'probably', 'deadened', 'from', 'being', 'so', 'stupid', '.'], ['But', 'hey', ',', ""y'know"", 'if', 'you', 'do', ""n't"", 'believe', 'me', ',', 'please', ',', 'by', 'my', 'guest', '.']]"	Neutral
+s03	e16	c09	u010	['Phoebe Buffay']	Ow-ow-ow-ow! Oh my God!!!	[['Ow', '-', 'ow', '-', 'ow', '-', 'ow', '!'], ['Oh', 'my', 'God', '!!!']]	Mad
+s03	e16	c09	u011	['Monica Geller']	Now, are you glad we didn't start with the bikini strips?	"[['Now', ',', 'are', 'you', 'glad', 'we', 'did', ""n't"", 'start', 'with', 'the', 'bikini', 'strips', '?']]"	Neutral
+s03	e16	c11	u002	['Ross Geller']	Jasmine?	[['Jasmine', '?']]	Mad
+s03	e16	c11	u003	['Jasmine']	Uh-huh.	[['Uh-huh', '.']]	Joyful
+s03	e16	c11	u004	['Ross Geller']	We met at Phoebe's birthday party, I'm, I'm Ross Geller.	"[['We', 'met', 'at', 'Phoebe', ""'s"", 'birthday', 'party', ',', 'I', ""'m"", ',', 'I', ""'m"", 'Ross', 'Geller', '.']]"	Mad
+s03	e16	c11	u005	['Jasmine']	You did a bad thing!	[['You', 'did', 'a', 'bad', 'thing', '!']]	Mad
+s03	e16	c11	u006	['Ross Geller']	Yes, I did.	[['Yes', ',', 'I', 'did', '.']]	Peaceful
+s03	e16	c11	u007	['Jasmine']	Very bad!	[['Very', 'bad', '!']]	Sad
+s03	e16	c11	u008	['Ross Geller']	Very bad.	[['Very', 'bad', '.']]	Sad
+s03	e16	c11	u009	['Jasmine']	Very, very bad.	[['Very', ',', 'very', 'bad', '.']]	Mad
+s03	e16	c11	u010	['Ross Geller']	I'm agreeing with you. Did you, listen, did you happen to tell Phoebe yet?	"[['I', ""'m"", 'agreeing', 'with', 'you', '.'], ['Did', 'you', ',', 'listen', ',', 'did', 'you', 'happen', 'to', 'tell', 'Phoebe', 'yet', '?']]"	Peaceful
+s03	e16	c11	u011	['Jasmine']	No.	[['No', '.']]	Neutral
+s03	e16	c11	u012	['Ross Geller']	Okay, Jasmine, please, please don't. I love my girlfriend very much, and I want more than anything to just work it out with her. Okay?	"[['Okay', ',', 'Jasmine', ',', 'please', ',', 'please', 'do', ""n't"", '.'], ['I', 'love', 'my', 'girlfriend', 'very', 'much', ',', 'and', 'I', 'want', 'more', 'than', 'anything', 'to', 'just', 'work', 'it', 'out', 'with', 'her', '.'], ['Okay', '?']]"	Joyful
+s03	e16	c11	u013	['Jasmine']	All right.	[['All', 'right', '.']]	Peaceful
+s03	e16	c11	u014	['Ross Geller']	Thank you, thank you.	[['Thank', 'you', ',', 'thank', 'you', '.']]	Peaceful
+s03	e16	c11	u015	['Jasmine']	But you should probably talk to my roommate, because I told him and he knows Phoebe too.	[['But', 'you', 'should', 'probably', 'talk', 'to', 'my', 'roommate', ',', 'because', 'I', 'told', 'him', 'and', 'he', 'knows', 'Phoebe', 'too', '.']]	Scared
+s03	e16	c11	u016	['Ross Geller']	Who's your roommate?	"[['Who', ""'s"", 'your', 'roommate', '?']]"	Mad
+s03	e16	c14	u002	['Phoebe Buffay']	They've been quiet for a long time.	"[['They', ""'ve"", 'been', 'quiet', 'for', 'a', 'long', 'time', '.']]"	Neutral
+s03	e16	c14	u003	['Joey Tribbiani']	Maybe she killed him?	[['Maybe', 'she', 'killed', 'him', '?']]	Scared
+s03	e16	c14	u004	['Chandler Bing']	Let's go.	"[['Let', ""'s"", 'go', '.']]"	Scared
+s03	e16	c14	u006	['Chandler Bing']	Is that your new walk?	[['Is', 'that', 'your', 'new', 'walk', '?']]	Neutral
+s03	e16	c14	u007	['Joey Tribbiani']	No, I really have to pee.	[['No', ',', 'I', 'really', 'have', 'to', 'pee', '.']]	Sad

@@ -1,0 +1,37 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e02	c01	u002	['Joey Tribbiani']	All right they got water, orange juice, and what looks like cider.	[['All', 'right', 'they', 'got', 'water', ',', 'orange', 'juice', ',', 'and', 'what', 'looks', 'like', 'cider', '.']]	Neutral
+s03	e02	c01	u003	['Chandler Bing']	Taste it.	[['Taste', 'it', '.']]	Joyful
+s03	e02	c01	u004	['Joey Tribbiani']	Yep, it's fat. I drank fat!	"[['Yep', ',', 'it', ""'s"", 'fat', '.'], ['I', 'drank', 'fat', '!']]"	Mad
+s03	e02	c01	u005	['Chandler Bing']	Yeah, I know, I did that two minutes ago.	[['Yeah', ',', 'I', 'know', ',', 'I', 'did', 'that', 'two', 'minutes', 'ago', '.']]	Joyful
+s03	e02	c01	u006	['Ross Geller']	Hey!	[['Hey', '!']]	Joyful
+s03	e02	c01	u007	['Chandler Bing']	Hey, mister tux!	[['Hey', ',', 'mister', 'tux', '!']]	Joyful
+s03	e02	c01	u008	['Ross Geller']	Why aren't you guys dressed?	"[['Why', 'are', ""n't"", 'you', 'guys', 'dressed', '?']]"	Scared
+s03	e02	c01	u009	['Joey Tribbiani']	We have a half hour.	[['We', 'have', 'a', 'half', 'hour', '.']]	Mad
+s03	e02	c01	u010	['Ross Geller']	No, four minutes ago you had a half hour, we have to be out the door at twenty to eight.	[['No', ',', 'four', 'minutes', 'ago', 'you', 'had', 'a', 'half', 'hour', ',', 'we', 'have', 'to', 'be', 'out', 'the', 'door', 'at', 'twenty', 'to', 'eight', '.']]	Mad
+s03	e02	c01	u011	['Joey Tribbiani']	Relax Ross, we'll be ready. It only takes us two minutes to get dressed.	"[['Relax', 'Ross', ',', 'we', ""'ll"", 'be', 'ready', '.'], ['It', 'only', 'takes', 'us', 'two', 'minutes', 'to', 'get', 'dressed', '.']]"	Powerful
+s03	e02	c01	u012	['Ross Geller']	Well, you know, I'd feel a whole lot better if you got dressed now.	"[['Well', ',', 'you', 'know', ',', 'I', ""'d"", 'feel', 'a', 'whole', 'lot', 'better', 'if', 'you', 'got', 'dressed', 'now', '.']]"	Mad
+s03	e02	c01	u013	['Chandler Bing', 'Joey Tribbiani']	Okay.	[['Okay', '.']]	Neutral
+s03	e02	c01	u014	['Rachel Green']	Hey-hey! Oh, look at you, all sexy.	[['Hey', '-', 'hey', '!'], ['Oh', ',', 'look', 'at', 'you', ',', 'all', 'sexy', '.']]	Joyful
+s03	e02	c01	u015	['Ross Geller']	Really.	[['Really', '.']]	Joyful
+s03	e02	c01	u016	['Rachel Green']	Ooooh! Wow!! Oh, hi.	[['Ooooh', '!'], ['Wow', '!!'], ['Oh', ',', 'hi', '.']]	Joyful
+s03	e02	c01	u017	['Ross Geller']	Hi.	[['Hi', '.']]	Peaceful
+s03	e02	c01	u018	['Rachel Green']	How come you didn't come over earlier?	"[['How', 'come', 'you', 'did', ""n't"", 'come', 'over', 'earlier', '?']]"	Neutral
+s03	e02	c01	u019	['Ross Geller']	'Cause, I'm a stupid, stupid man.	"[[""'"", 'Cause', ',', 'I', ""'m"", 'a', 'stupid', ',', 'stupid', 'man', '.']]"	Mad
+s03	e02	c01	u020	['Joey Tribbiani']	Hey, Ross, want some cider?	[['Hey', ',', 'Ross', ',', 'want', 'some', 'cider', '?']]	Mad
+s03	e02	c01	u021	['Ross Geller']	No. So, um, let's see your pretty close, huh. Make-up's on, hair's done.	"[['No', '.'], ['So', ',', 'um', ',', 'let', ""'s"", 'see', 'your', 'pretty', 'close', ',', 'huh', '.'], ['Make', '-', 'up', ""'s"", 'on', ',', 'hair', ""'s"", 'done', '.']]"	Neutral
+s03	e02	c01	u022	['Rachel Green']	Yeah, I just have to get dressed.	[['Yeah', ',', 'I', 'just', 'have', 'to', 'get', 'dressed', '.']]	Neutral
+s03	e02	c01	u023	['Ross Geller']	Yay! And that takes what? Just six or seven minutes.	[['Yay', '!'], ['And', 'that', 'takes', 'what', '?'], ['Just', 'six', 'or', 'seven', 'minutes', '.']]	Joyful
+s03	e02	c01	u024	['Rachel Green']	Yeah! Once, I figure out what I'm wearing.	"[['Yeah', '!'], ['Once', ',', 'I', 'figure', 'out', 'what', 'I', ""'m"", 'wearing', '.']]"	Powerful
+s03	e02	c01	u025	['Joey Tribbiani']	Glass of fat?	[['Glass', 'of', 'fat', '?']]	Neutral
+s03	e02	c04	u002	['Sherman Whitfield']	Dr. Geller, Sherman Whitfield, London Institute.	[['Dr.', 'Geller', ',', 'Sherman', 'Whitfield', ',', 'London', 'Institute', '.']]	Neutral
+s03	e02	c04	u003	['Ross Geller']	Wow! What a pleasure.	[['Wow', '!'], ['What', 'a', 'pleasure', '.']]	Joyful
+s03	e02	c04	u004	['Sherman Whitfield']	Well, I have to tell you, I was quite impressed with your paper on Pre-Cretaceous fossils. Yeah, it confirmed everything that I have written.	[['Well', ',', 'I', 'have', 'to', 'tell', 'you', ',', 'I', 'was', 'quite', 'impressed', 'with', 'your', 'paper', 'on', 'Pre-Cretaceous', 'fossils', '.'], ['Yeah', ',', 'it', 'confirmed', 'everything', 'that', 'I', 'have', 'written', '.']]	Joyful
+s03	e02	c04	u005	['Chandler Bing']	Excuse me. Hi.	[['Excuse', 'me', '.'], ['Hi', '.']]	Neutral
+s03	e02	c04	u006	['Sherman Whitfield']	Yes?	[['Yes', '?']]	Neutral
+s03	e02	c04	u007	['Chandler Bing']	Well, your kind of sitting in my seat.	[['Well', ',', 'your', 'kind', 'of', 'sitting', 'in', 'my', 'seat', '.']]	Mad
+s03	e02	c04	u008	['Sherman Whitfield']	What do you mean, your seat?	[['What', 'do', 'you', 'mean', ',', 'your', 'seat', '?']]	Powerful
+s03	e02	c04	u009	['Chandler Bing']	I mean, I was sitting there.	[['I', 'mean', ',', 'I', 'was', 'sitting', 'there', '.']]	Mad
+s03	e02	c04	u010	['Sherman Whitfield']	But, you got up!	[['But', ',', 'you', 'got', 'up', '!']]	Mad
+s03	e02	c04	u011	['Chandler Bing']	But, I never left the room!	[['But', ',', 'I', 'never', 'left', 'the', 'room', '!']]	Mad
+s03	e02	c04	u012	['Sherman Whitfield']	But, you left the chair area.	[['But', ',', 'you', 'left', 'the', 'chair', 'area', '.']]	Mad
+s03	e02	c04	u013	['Chandler Bing']	All right, that's it, give me your underwear.	"[['All', 'right', ',', 'that', ""'s"", 'it', ',', 'give', 'me', 'your', 'underwear', '.']]"	Mad

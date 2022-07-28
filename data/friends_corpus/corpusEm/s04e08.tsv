@@ -1,0 +1,87 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e08	c01	u002	['Joey Tribbiani']	Hello.	[['Hello', '.']]	Neutral
+s04	e08	c01	u003	['Chandler Bing']	Hey, it's me. I know you can't stand to be in the same room as me, so I just thought I'd try and apologize over the phone. All I...	"[['Hey', ',', 'it', ""'s"", 'me', '.'], ['I', 'know', 'you', 'ca', ""n't"", 'stand', 'to', 'be', 'in', 'the', 'same', 'room', 'as', 'me', ',', 'so', 'I', 'just', 'thought', 'I', ""'d"", 'try', 'and', 'apologize', 'over', 'the', 'phone', '.'], ['All', 'I', '...']]"	Scared
+s04	e08	c01	u006	['Joey Tribbiani']	Hello.	[['Hello', '.']]	Neutral
+s04	e08	c01	u007	['Chandler Bing']	Look I never should have kissed your girlfriend, but I'm...	"[['Look', 'I', 'never', 'should', 'have', 'kissed', 'your', 'girlfriend', ',', 'but', 'I', ""'m"", '...']]"	Mad
+s04	e08	c01	u010	['Joey Tribbiani']	Stop callin'!!	"[['Stop', 'callin', ""'"", '!!']]"	Mad
+s04	e08	c01	u011	['Voice']	Hey! Hey! Hey! This is 92.3, WXRK, K-Rock for our $1,000 daily challenge.	[['Hey', '!'], ['Hey', '!'], ['Hey', '!'], ['This', 'is', '92.3', ',', 'WXRK', ',', 'K', '-', 'Rock', 'for', 'our', '$', '1,000', 'daily', 'challenge', '.']]	Neutral
+s04	e08	c01	u012	['Joey Tribbiani']	All right!	[['All', 'right', '!']]	Neutral
+s04	e08	c01	u013	['Voice']	What is the name of your roommate who is very, very sorry and would do anything...	[['What', 'is', 'the', 'name', 'of', 'your', 'roommate', 'who', 'is', 'very', ',', 'very', 'sorry', 'and', 'would', 'do', 'anything', '...']]	Mad
+s04	e08	c03	u002	['Ross Geller']	Hey!	[['Hey', '!']]	Neutral
+s04	e08	c03	u003	['Joey Tribbiani']	Hey!	[['Hey', '!']]	Neutral
+s04	e08	c03	u004	['Ross Geller']	What are you doing?	[['What', 'are', 'you', 'doing', '?']]	Neutral
+s04	e08	c03	u005	['Joey Tribbiani']	I'm sending back all this stuff that Chandler bought out of guilt.	"[['I', ""'m"", 'sending', 'back', 'all', 'this', 'stuff', 'that', 'Chandler', 'bought', 'out', 'of', 'guilt', '.']]"	Scared
+s04	e08	c03	u006	['Ross Geller']	Everything? Even the TV?	[['Everything', '?'], ['Even', 'the', 'TV', '?']]	Peaceful
+s04	e08	c03	u007	['Joey Tribbiani']	No! I'm putting that in my room.	"[['No', '!'], ['I', ""'m"", 'putting', 'that', 'in', 'my', 'room', '.']]"	Joyful
+s04	e08	c03	u008	['Ross Geller']	Listen, Joey, I know what he did was wrong but don't you think you could at least hear the guy out?	"[['Listen', ',', 'Joey', ',', 'I', 'know', 'what', 'he', 'did', 'was', 'wrong', 'but', 'do', ""n't"", 'you', 'think', 'you', 'could', 'at', 'least', 'hear', 'the', 'guy', 'out', '?']]"	Neutral
+s04	e08	c03	u009	['Joey Tribbiani']	Back when you and Rachel were together, if Chandler had kissed her, would you hear him out?	[['Back', 'when', 'you', 'and', 'Rachel', 'were', 'together', ',', 'if', 'Chandler', 'had', 'kissed', 'her', ',', 'would', 'you', 'hear', 'him', 'out', '?']]	Neutral
+s04	e08	c03	u010	['Ross Geller']	That's a good point. So uh, how long are you gonna punish him?	"[['That', ""'s"", 'a', 'good', 'point', '.'], ['So', 'uh', ',', 'how', 'long', 'are', 'you', 'gon', 'na', 'punish', 'him', '?']]"	Neutral
+s04	e08	c03	u011	['Joey Tribbiani']	Five years.	[['Five', 'years', '.']]	Neutral
+s04	e08	c03	u012	['Ross Geller']	You've sentenced him?!	"[['You', ""'ve"", 'sentenced', 'him', '?!']]"	Scared
+s04	e08	c03	u013	['Joey Tribbiani']	Hey! Don't do the crime if you can't do the time.	"[['Hey', '!'], ['Do', ""n't"", 'do', 'the', 'crime', 'if', 'you', 'ca', ""n't"", 'do', 'the', 'time', '.']]"	Joyful
+s04	e08	c03	u014	['Ross Geller']	Joey, the guy's your best friend.	"[['Joey', ',', 'the', 'guy', ""'s"", 'your', 'best', 'friend', '.']]"	Powerful
+s04	e08	c03	u015	['Joey Tribbiani']	No, was my best friend. Anyway, I don't know why you're pushing for him so hard. With him out of the way as my best friend, there's a spot open.	"[['No', ',', 'was', 'my', 'best', 'friend', '.'], ['Anyway', ',', 'I', 'do', ""n't"", 'know', 'why', 'you', ""'re"", 'pushing', 'for', 'him', 'so', 'hard', '.'], ['With', 'him', 'out', 'of', 'the', 'way', 'as', 'my', 'best', 'friend', ',', 'there', ""'s"", 'a', 'spot', 'open', '.']]"	Joyful
+s04	e08	c03	u016	['Ross Geller']	Oh, who? Me?	[['Oh', ',', 'who', '?'], ['Me', '?']]	Joyful
+s04	e08	c03	u017	['Joey Tribbiani']	Yeah!	[['Yeah', '!']]	Joyful
+s04	e08	c03	u018	['Ross Geller']	Wow! I'm honored! And y'know what I'm gonna do as my first act as your best friend?	"[['Wow', '!'], ['I', ""'m"", 'honored', '!'], ['And', ""y'know"", 'what', 'I', ""'m"", 'gon', 'na', 'do', 'as', 'my', 'first', 'act', 'as', 'your', 'best', 'friend', '?']]"	Powerful
+s04	e08	c03	u019	['Joey Tribbiani']	What?	[['What', '?']]	Joyful
+s04	e08	c03	u020	['Ross Geller']	I'm gonna get you to talk to Chandler.	"[['I', ""'m"", 'gon', 'na', 'get', 'you', 'to', 'talk', 'to', 'Chandler', '.']]"	Joyful
+s04	e08	c03	u021	['Joey Tribbiani']	All right. But if you weren't my best friend.	"[['All', 'right', '.'], ['But', 'if', 'you', 'were', ""n't"", 'my', 'best', 'friend', '.']]"	Sad
+s04	e08	c04	u002	['Kathy']	Oh my God, is it really that bad?	[['Oh', 'my', 'God', ',', 'is', 'it', 'really', 'that', 'bad', '?']]	Powerful
+s04	e08	c04	u003	['Chandler Bing']	I walk into a room and he won't even talk to me, he just mumbles something in Italian. And I know he only knows the bad words.	"[['I', 'walk', 'into', 'a', 'room', 'and', 'he', 'wo', ""n't"", 'even', 'talk', 'to', 'me', ',', 'he', 'just', 'mumbles', 'something', 'in', 'Italian', '.'], ['And', 'I', 'know', 'he', 'only', 'knows', 'the', 'bad', 'words', '.']]"	Sad
+s04	e08	c04	u004	['Joey Tribbiani']	Hey Gunther, have you uh, have you seen Chandler?	[['Hey', 'Gunther', ',', 'have', 'you', 'uh', ',', 'have', 'you', 'seen', 'Chandler', '?']]	Neutral
+s04	e08	c04	u005	['Gunther']	I thought you were Chandler. But umm, one of who is over there.	[['I', 'thought', 'you', 'were', 'Chandler', '.'], ['But', 'umm', ',', 'one', 'of', 'who', 'is', 'over', 'there', '.']]	Neutral
+s04	e08	c04	u007	['Kathy']	Oh.	[['Oh', '.']]	Neutral
+s04	e08	c04	u008	['Chandler Bing']	Hey Joe.	[['Hey', 'Joe', '.']]	Neutral
+s04	e08	c05	u002	['Doctor']	I'll be right with you. Okay? Thanks, Wendy.	"[['I', ""'ll"", 'be', 'right', 'with', 'you', '.'], ['Okay', '?'], ['Thanks', ',', 'Wendy', '.']]"	Powerful
+s04	e08	c05	u003	['Monica Geller']	Oh my God! How cute is the on-call doctor?	[['Oh', 'my', 'God', '!'], ['How', 'cute', 'is', 'the', 'on', '-', 'call', 'doctor', '?']]	Joyful
+s04	e08	c05	u004	['Rachel Green']	Ooh, so cute, that I'm thinking about jamming this pen in my eye.	"[['Ooh', ',', 'so', 'cute', ',', 'that', 'I', ""'m"", 'thinking', 'about', 'jamming', 'this', 'pen', 'in', 'my', 'eye', '.']]"	Powerful
+s04	e08	c05	u006	['Nurse']	Dr. Burke will see you know.	[['Dr.', 'Burke', 'will', 'see', 'you', 'know', '.']]	Peaceful
+s04	e08	c05	u007	['Monica Geller']	Oh no-no-no, not Dr. Burke. Dr. Burke is out of town. The-the on-call doctor will see me now.	[['Oh', 'no', '-', 'no', '-', 'no', ',', 'not', 'Dr.', 'Burke', '.'], ['Dr.', 'Burke', 'is', 'out', 'of', 'town', '.'], ['The', '-', 'the', 'on', '-', 'call', 'doctor', 'will', 'see', 'me', 'now', '.']]	Neutral
+s04	e08	c05	u008	['Nurse']	Dr. Richard Burke is out of town. Dr. Timothy Burke, his son, will see you now.	[['Dr.', 'Richard', 'Burke', 'is', 'out', 'of', 'town', '.'], ['Dr.', 'Timothy', 'Burke', ',', 'his', 'son', ',', 'will', 'see', 'you', 'now', '.']]	Powerful
+s04	e08	c05	u009	['Timothy Burke']	Ready?	[['Ready', '?']]	Powerful
+s04	e08	c06	u002	['Chandler Bing']	Hey! I'm sorry! That- where are you going?	"[['Hey', '!'], ['I', ""'m"", 'sorry', '!'], ['That', '-', 'where', 'are', 'you', 'going', '?']]"	Scared
+s04	e08	c06	u003	['Joey Tribbiani']	My folks.	[['My', 'folks', '.']]	Powerful
+s04	e08	c06	u004	['Chandler Bing']	Oh, uh, when-when are you coming back?	[['Oh', ',', 'uh', ',', 'when', '-', 'when', 'are', 'you', 'coming', 'back', '?']]	Scared
+s04	e08	c06	u005	['Joey Tribbiani']	I don't know. I might stay there for a few days while I look for an apartment.	"[['I', 'do', ""n't"", 'know', '.'], ['I', 'might', 'stay', 'there', 'for', 'a', 'few', 'days', 'while', 'I', 'look', 'for', 'an', 'apartment', '.']]"	Powerful
+s04	e08	c06	u006	['Chandler Bing']	What?!	[['What', '?!']]	Scared
+s04	e08	c06	u007	['Joey Tribbiani']	Yeah, y'know at first I thought we could talk about this y'know, work it out, but uh, seeing you two together I don't think I...	"[['Yeah', ',', ""y'know"", 'at', 'first', 'I', 'thought', 'we', 'could', 'talk', 'about', 'this', ""y'know"", ',', 'work', 'it', 'out', ',', 'but', 'uh', ',', 'seeing', 'you', 'two', 'together', 'I', 'do', ""n't"", 'think', 'I', '...']]"	Sad
+s04	e08	c06	u008	['Chandler Bing']	Hey, look, what do you want me to say? Do you want me to say that I'll stop seeing her?	"[['Hey', ',', 'look', ',', 'what', 'do', 'you', 'want', 'me', 'to', 'say', '?'], ['Do', 'you', 'want', 'me', 'to', 'say', 'that', 'I', ""'ll"", 'stop', 'seeing', 'her', '?']]"	Scared
+s04	e08	c06	u009	['Joey Tribbiani']	Look, it's not about her. Okay? But seeing you two together just reminds me of what you did. And I don't want to live with some one who doesn't know what it is to be a friend. So, I'll see ya.	"[['Look', ',', 'it', ""'s"", 'not', 'about', 'her', '.'], ['Okay', '?'], ['But', 'seeing', 'you', 'two', 'together', 'just', 'reminds', 'me', 'of', 'what', 'you', 'did', '.'], ['And', 'I', 'do', ""n't"", 'want', 'to', 'live', 'with', 'some', 'one', 'who', 'does', ""n't"", 'know', 'what', 'it', 'is', 'to', 'be', 'a', 'friend', '.'], ['So', ',', 'I', ""'ll"", 'see', 'ya', '.']]"	Powerful
+s04	e08	c06	u010	['Chandler Bing']	Hey, look, I know what it is to be a friend, I just-I just screwed up!	[['Hey', ',', 'look', ',', 'I', 'know', 'what', 'it', 'is', 'to', 'be', 'a', 'friend', ',', 'I', 'just', '-', 'I', 'just', 'screwed', 'up', '!']]	Sad
+s04	e08	c06	u011	['Joey Tribbiani']	Yeah! You did! And that's why I'm leaving.	"[['Yeah', '!'], ['You', 'did', '!'], ['And', 'that', ""'s"", 'why', 'I', ""'m"", 'leaving', '.']]"	Mad
+s04	e08	c06	u013	['Chandler Bing']	All right look, if you're not gonna stay for me, then at least stay for them! Okay, they have had a very difficult year! What with the robbery and all!	"[['All', 'right', 'look', ',', 'if', 'you', ""'re"", 'not', 'gon', 'na', 'stay', 'for', 'me', ',', 'then', 'at', 'least', 'stay', 'for', 'them', '!'], ['Okay', ',', 'they', 'have', 'had', 'a', 'very', 'difficult', 'year', '!'], ['What', 'with', 'the', 'robbery', 'and', 'all', '!']]"	Sad
+s04	e08	c06	u014	['Joey Tribbiani']	When that guy was robbing us, and I was locked in the entertainment unit for like six hours, you know what I was doing in there all that time? I was thinking about how I let you down!	[['When', 'that', 'guy', 'was', 'robbing', 'us', ',', 'and', 'I', 'was', 'locked', 'in', 'the', 'entertainment', 'unit', 'for', 'like', 'six', 'hours', ',', 'you', 'know', 'what', 'I', 'was', 'doing', 'in', 'there', 'all', 'that', 'time', '?'], ['I', 'was', 'thinking', 'about', 'how', 'I', 'let', 'you', 'down', '!']]	Mad
+s04	e08	c06	u015	['Chandler Bing']	What?	[['What', '?']]	Mad
+s04	e08	c06	u016	['Joey Tribbiani']	Yeah! But if would've know what kind of friend you were gonna turn out to be, I wouldn't have worried about it so much! See you around!	"[['Yeah', '!'], ['But', 'if', 'would', ""'ve"", 'know', 'what', 'kind', 'of', 'friend', 'you', 'were', 'gon', 'na', 'turn', 'out', 'to', 'be', ',', 'I', 'would', ""n't"", 'have', 'worried', 'about', 'it', 'so', 'much', '!'], ['See', 'you', 'around', '!']]"	Mad
+s04	e08	c06	u017	['Chandler Bing']	All right, wait! Come on! Just wait one second! There has to be something that I can do! Something! If we still had that entertainment unit I would get in it for six hours and think about how I let you down. What?	[['All', 'right', ',', 'wait', '!'], ['Come', 'on', '!'], ['Just', 'wait', 'one', 'second', '!'], ['There', 'has', 'to', 'be', 'something', 'that', 'I', 'can', 'do', '!'], ['Something', '!'], ['If', 'we', 'still', 'had', 'that', 'entertainment', 'unit', 'I', 'would', 'get', 'in', 'it', 'for', 'six', 'hours', 'and', 'think', 'about', 'how', 'I', 'let', 'you', 'down', '.'], ['What', '?']]	Sad
+s04	e08	c06	u018	['Joey Tribbiani']	We've got a box.	"[['We', ""'ve"", 'got', 'a', 'box', '.']]"	Peaceful
+s04	e08	c07	u002	['Timothy Burke']	Last time I saw you, it was the morning I left for college. And you were just standing outside The Dairy Queen.	[['Last', 'time', 'I', 'saw', 'you', ',', 'it', 'was', 'the', 'morning', 'I', 'left', 'for', 'college', '.'], ['And', 'you', 'were', 'just', 'standing', 'outside', 'The', 'Dairy', 'Queen', '.']]	Neutral
+s04	e08	c07	u003	['Monica Geller']	I was probably waiting for it to open.	[['I', 'was', 'probably', 'waiting', 'for', 'it', 'to', 'open', '.']]	Neutral
+s04	e08	c07	u004	['Timothy Burke']	I gotta tell you, you look great now.	[['I', 'got', 'ta', 'tell', 'you', ',', 'you', 'look', 'great', 'now', '.']]	Joyful
+s04	e08	c07	u005	['Monica Geller']	You look great too.	[['You', 'look', 'great', 'too', '.']]	Joyful
+s04	e08	c07	u006	['Timothy Burke']	You're an excellent patient!	"[['You', ""'re"", 'an', 'excellent', 'patient', '!']]"	Joyful
+s04	e08	c07	u007	['Monica Geller']	So how does it look?	[['So', 'how', 'does', 'it', 'look', '?']]	Neutral
+s04	e08	c07	u008	['Timothy Burke']	Well, you've got a little scratch on your cornea, your gonna have to wear a patch for a couple of days.	"[['Well', ',', 'you', ""'ve"", 'got', 'a', 'little', 'scratch', 'on', 'your', 'cornea', ',', 'your', 'gon', 'na', 'have', 'to', 'wear', 'a', 'patch', 'for', 'a', 'couple', 'of', 'days', '.']]"	Neutral
+s04	e08	c07	u009	['Monica Geller']	Like a pirate?!	[['Like', 'a', 'pirate', '?!']]	Scared
+s04	e08	c07	u010	['Timothy Burke']	If that helps you.	[['If', 'that', 'helps', 'you', '.']]	Neutral
+s04	e08	c07	u011	['Monica Geller']	Umm, so how long have you been working with your dad? Come on, one of us had to mention him.	[['Umm', ',', 'so', 'how', 'long', 'have', 'you', 'been', 'working', 'with', 'your', 'dad', '?'], ['Come', 'on', ',', 'one', 'of', 'us', 'had', 'to', 'mention', 'him', '.']]	Neutral
+s04	e08	c07	u012	['Timothy Burke']	I moved back here a couple of months ago.	[['I', 'moved', 'back', 'here', 'a', 'couple', 'of', 'months', 'ago', '.']]	Neutral
+s04	e08	c07	u013	['Monica Geller']	Oh. Big family dinner tonight?	[['Oh', '.'], ['Big', 'family', 'dinner', 'tonight', '?']]	Neutral
+s04	e08	c07	u014	['Timothy Burke']	Uh.	[['Uh', '.']]	Neutral
+s04	e08	c07	u015	['Monica Geller']	No way!	[['No', 'way', '!']]	Scared
+s04	e08	c07	u016	['Timothy Burke']	I was gonna have Thanksgiving at my girlfriend's.	"[['I', 'was', 'gon', 'na', 'have', 'Thanksgiving', 'at', 'my', 'girlfriend', ""'s"", '.']]"	Neutral
+s04	e08	c07	u017	['Monica Geller']	Oh.	[['Oh', '.']]	Sad
+s04	e08	c07	u018	['Timothy Burke']	But we broke up.	[['But', 'we', 'broke', 'up', '.']]	Neutral
+s04	e08	c07	u019	['Monica Geller']	Oh.	[['Oh', '.']]	Joyful
+s04	e08	c07	u020	['Timothy Burke']	She-she wasn't ready for a serious commitment.	"[['She', '-', 'she', 'was', ""n't"", 'ready', 'for', 'a', 'serious', 'commitment', '.']]"	Sad
+s04	e08	c07	u021	['Monica Geller']	Oh. So you made her walk the plank? Aye, matie?	[['Oh', '.'], ['So', 'you', 'made', 'her', 'walk', 'the', 'plank', '?'], ['Aye', ',', 'matie', '?']]	Joyful
+s04	e08	c07	u022	['Timothy Burke']	You're not wearing the patch yet.	"[['You', ""'re"", 'not', 'wearing', 'the', 'patch', 'yet', '.']]"	Neutral
+s04	e08	c07	u023	['Monica Geller']	I know.	[['I', 'know', '.']]	Neutral
+s04	e08	c09	u002	['Rachel Green']	Oh, he sees her!	[['Oh', ',', 'he', 'sees', 'her', '!']]	Joyful
+s04	e08	c09	u003	['Monica Geller']	Oh, he's catching up to her!	"[['Oh', ',', 'he', ""'s"", 'catching', 'up', 'to', 'her', '!']]"	Joyful
+s04	e08	c09	u004	['Phoebe Buffay']	Oh, she sees him! Oh, they're hugging!	"[['Oh', ',', 'she', 'sees', 'him', '!'], ['Oh', ',', 'they', ""'re"", 'hugging', '!']]"	Joyful
+s04	e08	c09	u005	['Ross Geller']	He's taking her purse!	"[['He', ""'s"", 'taking', 'her', 'purse', '!']]"	Scared
+s04	e08	c09	u006	['Joey Tribbiani']	Uhh, that's not them. I'm gonna go call the police.	"[['Uhh', ',', 'that', ""'s"", 'not', 'them', '.'], ['I', ""'m"", 'gon', 'na', 'go', 'call', 'the', 'police', '.']]"	Scared
+s04	e08	c09	u007	['Phoebe Buffay']	Oh, there they are!	[['Oh', ',', 'there', 'they', 'are', '!']]	Joyful
+s04	e08	c09	u009	['Phoebe Buffay']	All right, get a room.	[['All', 'right', ',', 'get', 'a', 'room', '.']]	Neutral

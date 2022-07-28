@@ -1,0 +1,108 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e20	c04	u002	['Monica Geller']	Oh my God! Ohh! Look at this one! It's so beautiful!	"[['Oh', 'my', 'God', '!'], ['Ohh', '!'], ['Look', 'at', 'this', 'one', '!'], ['It', ""'s"", 'so', 'beautiful', '!']]"	Joyful
+s04	e20	c04	u003	['Phoebe Buffay']	Yeah, but y'know, about have of these are gonna end up getting divorced.	"[['Yeah', ',', 'but', ""y'know"", ',', 'about', 'have', 'of', 'these', 'are', 'gon', 'na', 'end', 'up', 'getting', 'divorced', '.']]"	Sad
+s04	e20	c04	u004	['The Saleslady']	May I help you ladies?	[['May', 'I', 'help', 'you', 'ladies', '?']]	Joyful
+s04	e20	c04	u005	['Monica Geller']	Oh, yes, umm, I'm here to pick up a dress that you have on hold.	"[['Oh', ',', 'yes', ',', 'umm', ',', 'I', ""'m"", 'here', 'to', 'pick', 'up', 'a', 'dress', 'that', 'you', 'have', 'on', 'hold', '.']]"	Scared
+s04	e20	c04	u006	['The Saleslady']	Yes, what's the name, please?	"[['Yes', ',', 'what', ""'s"", 'the', 'name', ',', 'please', '?']]"	Neutral
+s04	e20	c04	u007	['Monica Geller']	Emily Waltham.	[['Emily', 'Waltham', '.']]	Neutral
+s04	e20	c04	u008	['The Saleslady']	Yes! I have it right here. Would you like to try it on Ms. Waltham?	[['Yes', '!'], ['I', 'have', 'it', 'right', 'here', '.'], ['Would', 'you', 'like', 'to', 'try', 'it', 'on', 'Ms.', 'Waltham', '?']]	Joyful
+s04	e20	c04	u009	['Monica Geller']	Okay.	[['Okay', '.']]	Powerful
+s04	e20	c04	u011	['Phoebe Buffay']	You're the most beautiful bride I've ever seen.	"[['You', ""'re"", 'the', 'most', 'beautiful', 'bride', 'I', ""'ve"", 'ever', 'seen', '.']]"	Peaceful
+s04	e20	c04	u012	['Monica Geller']	I am, aren't I?	"[['I', 'am', ',', 'are', ""n't"", 'I', '?']]"	Powerful
+s04	e20	c04	u013	['The Saleslady']	Ms. Waltham?	[['Ms.', 'Waltham', '?']]	Neutral
+s04	e20	c04	u014	['Monica Geller']	Yes?	[['Yes', '?']]	Neutral
+s04	e20	c04	u015	['The Saleslady']	We're closing.	"[['We', ""'re"", 'closing', '.']]"	Peaceful
+s04	e20	c04	u016	['Monica Geller']	All right.	[['All', 'right', '.']]	Joyful
+s04	e20	c04	u017	['The Saleslady']	And could I get my ring back?	[['And', 'could', 'I', 'get', 'my', 'ring', 'back', '?']]	Neutral
+s04	e20	c06	u002	['Monica Geller']	Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.	[['Does', 'she', 'use', 'the', 'cups', '?'], ['Yes', '!'], ['I', 'believe', 'she', 'does', '.'], ['Does', 'she', 'use', 'the', 'plates', '?'], ['Yes', '!'], ['I', 'believe', 'she', 'does', '.']]	Powerful
+s04	e20	c06	u004	['Monica Geller']	Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!	[['Oh', '.'], ['Thank', 'you', '.'], ['Ohhh', ',', 'thank', 'you', 'very', 'much', '.'], ['Oh', ',', 'thank', 'you', 'for', 'coming', '.'], ['Uh', ',', 'just', 'a', 'second', '!']]	Joyful
+s04	e20	c06	u005	['Phoebe Buffay']	No-no, let me in!	[['No', '-', 'no', ',', 'let', 'me', 'in', '!']]	Joyful
+s04	e20	c06	u006	['Monica Geller']	Phoebe?	[['Phoebe', '?']]	Scared
+s04	e20	c06	u007	['Phoebe Buffay']	Yeah!	[['Yeah', '!']]	Neutral
+s04	e20	c06	u008	['Monica Geller']	Can you just hold on for one minute?	[['Can', 'you', 'just', 'hold', 'on', 'for', 'one', 'minute', '?']]	Scared
+s04	e20	c06	u009	['Phoebe Buffay']	No, you have to let me in right now!!	[['No', ',', 'you', 'have', 'to', 'let', 'me', 'in', 'right', 'now', '!!']]	Mad
+s04	e20	c06	u010	['Monica Geller']	Are you alone?	[['Are', 'you', 'alone', '?']]	Scared
+s04	e20	c06	u011	['Phoebe Buffay']	Yes!	[['Yes', '!']]	Peaceful
+s04	e20	c06	u012	['Monica Geller']	All right.	[['All', 'right', '.']]	Peaceful
+s04	e20	c08	u002	['Joshua Burgin']	Hey, Rachel.	[['Hey', ',', 'Rachel', '.']]	Neutral
+s04	e20	c08	u003	['Rachel Green']	Hi!	[['Hi', '!']]	Neutral
+s04	e20	c08	u004	['Joshua Burgin']	What's up? You're voice sounded all squeaky on the phone.	"[['What', ""'s"", 'up', '?'], ['You', ""'re"", 'voice', 'sounded', 'all', 'squeaky', 'on', 'the', 'phone', '.']]"	Peaceful
+s04	e20	c08	u005	['Rachel Green']	Ohh, nothing, I just wanted to see you. See you and hug you. See you.	[['Ohh', ',', 'nothing', ',', 'I', 'just', 'wanted', 'to', 'see', 'you', '.'], ['See', 'you', 'and', 'hug', 'you', '.'], ['See', 'you', '.']]	Peaceful
+s04	e20	c08	u006	['Joshua Burgin']	Great!	[['Great', '!']]	Powerful
+s04	e20	c08	u007	['Rachel Green']	Yeah! Sit!	[['Yeah', '!'], ['Sit', '!']]	Peaceful
+s04	e20	c08	u008	['Joshua Burgin']	You okay?	[['You', 'okay', '?']]	Powerful
+s04	e20	c08	u009	['Rachel Green']	I'm more than okay, I am really, really happy! Wanna know why?	"[['I', ""'m"", 'more', 'than', 'okay', ',', 'I', 'am', 'really', ',', 'really', 'happy', '!'], ['Wan', 'na', 'know', 'why', '?']]"	Powerful
+s04	e20	c08	u010	['Joshua Burgin']	Do I?	[['Do', 'I', '?']]	Peaceful
+s04	e20	c08	u011	['Rachel Green']	'Cause I am really happy about us. I think we are, I think we are so on the right track! Y'know? I mean, I think we are working, I think we are clicking. Y'know?	"[[""'"", 'Cause', 'I', 'am', 'really', 'happy', 'about', 'us', '.'], ['I', 'think', 'we', 'are', ',', 'I', 'think', 'we', 'are', 'so', 'on', 'the', 'right', 'track', '!'], [""Y'know"", '?'], ['I', 'mean', ',', 'I', 'think', 'we', 'are', 'working', ',', 'I', 'think', 'we', 'are', 'clicking', '.'], [""Y'know"", '?']]"	Scared
+s04	e20	c08	u012	['Joshua Burgin']	Yeah, sure-sure, yeah, we're-we're-we're-we're-we're clicking.	"[['Yeah', ',', 'sure', '-', 'sure', ',', 'yeah', ',', 'we', ""'re"", '-', 'we', ""'re"", '-', 'we', ""'re"", '-', 'we', ""'re"", '-', 'we', ""'re"", 'clicking', '.']]"	Peaceful
+s04	e20	c08	u013	['Rachel Green']	Yeah-yeah, y'know if-if there was just like one little area where I-that I think we need-we would need to work on; I-I would think it was we're just not crazy enough!	"[['Yeah', '-', 'yeah', ',', ""y'know"", 'if', '-', 'if', 'there', 'was', 'just', 'like', 'one', 'little', 'area', 'where', 'I', '-', 'that', 'I', 'think', 'we', 'need', '-', 'we', 'would', 'need', 'to', 'work', 'on', ';', 'I', '-', 'I', 'would', 'think', 'it', 'was', 'we', ""'re"", 'just', 'not', 'crazy', 'enough', '!']]"	Mad
+s04	e20	c08	u014	['Joshua Burgin']	I-I gotta say, I-I-I-I'm not too sure I agree with that.	"[['I', '-', 'I', 'got', 'ta', 'say', ',', 'I-I-I-I', ""'m"", 'not', 'too', 'sure', 'I', 'agree', 'with', 'that', '.']]"	Scared
+s04	e20	c08	u015	['Rachel Green']	Well, yeah, right, y'know what? Yeah, you're right, I mean, we no, we have our fun. Yeah! But if ......I mean, I mean like craaaazy! Y'know? Okay, all right. This is gonna, this is gonna sound y'know, a little umm, hasty, but uh, just go with it. Umm. Ugh. What if we got married?	"[['Well', ',', 'yeah', ',', 'right', ',', ""y'know"", 'what', '?'], ['Yeah', ',', 'you', ""'re"", 'right', ',', 'I', 'mean', ',', 'we', 'no', ',', 'we', 'have', 'our', 'fun', '.'], ['Yeah', '!'], ['But', 'if', '......'], ['I', 'mean', ',', 'I', 'mean', 'like', 'craaaazy', '!'], [""Y'know"", '?'], ['Okay', ',', 'all', 'right', '.'], ['This', 'is', 'gon', 'na', ',', 'this', 'is', 'gon', 'na', 'sound', ""y'know"", ',', 'a', 'little', 'umm', ',', 'hasty', ',', 'but', 'uh', ',', 'just', 'go', 'with', 'it', '.'], ['Umm', '.'], ['Ugh', '.'], ['What', 'if', 'we', 'got', 'married', '?']]"	Joyful
+s04	e20	c08	u016	['Joshua Burgin']	What?!	[['What', '?!']]	Powerful
+s04	e20	c08	u017	['Rachel Green']	"Oh, I know, I know, it's-it's so, it's so totally like, ""Whoa! Can we do this?"" Y'know, I mean, but I mean it just feels right! Don't you think? It does! I mean, it just feels right, don't you think?"	"[['Oh', ',', 'I', 'know', ',', 'I', 'know', ',', 'it', ""'s"", '-', 'it', ""'s"", 'so', ',', 'it', ""'s"", 'so', 'totally', 'like', ',', '""', 'Whoa', '!'], ['Can', 'we', 'do', 'this', '?', '""'], [""Y'know"", ',', 'I', 'mean', ',', 'but', 'I', 'mean', 'it', 'just', 'feels', 'right', '!'], ['Do', ""n't"", 'you', 'think', '?'], ['It', 'does', '!'], ['I', 'mean', ',', 'it', 'just', 'feels', 'right', ',', 'do', ""n't"", 'you', 'think', '?']]"	Joyful
+s04	e20	c08	u018	['Joshua Burgin']	"Wow! Uhh, Rachel uhh, you're a real special lady, but my divorce isn't final yet and, and, and we've been on four days, so I'm thinking ""No, but thanks."""	"[['Wow', '!'], ['Uhh', ',', 'Rachel', 'uhh', ',', 'you', ""'re"", 'a', 'real', 'special', 'lady', ',', 'but', 'my', 'divorce', 'is', ""n't"", 'final', 'yet', 'and', ',', 'and', ',', 'and', 'we', ""'ve"", 'been', 'on', 'four', 'days', ',', 'so', 'I', ""'m"", 'thinking', '""', 'No', ',', 'but', 'thanks', '.', '""']]"	Powerful
+s04	e20	c08	u019	['Gunther']	YOU IDIOT!!!!!	[['YOU', 'IDIOT', '!!!!!']]	Mad
+s04	e20	c09	u002	['Sleep Clinic Worker']	Your name, please?	[['Your', 'name', ',', 'please', '?']]	Peaceful
+s04	e20	c09	u003	['Joey Tribbiani']	Joey Tribbiani.	[['Joey', 'Tribbiani', '.']]	Joyful
+s04	e20	c09	u004	['Sleep Clinic Worker']	Um-hmm, and did you stay up all night in preparation for your sleep study. Uh, sir?	[['Um', '-', 'hmm', ',', 'and', 'did', 'you', 'stay', 'up', 'all', 'night', 'in', 'preparation', 'for', 'your', 'sleep', 'study', '.'], ['Uh', ',', 'sir', '?']]	Powerful
+s04	e20	c09	u005	['Chandler Bing']	Yes he did.	[['Yes', 'he', 'did', '.']]	Neutral
+s04	e20	c09	u006	['Sleep Clinic Worker']	Alll right, we'll call you in a few minutes.	"[['Alll', 'right', ',', 'we', ""'ll"", 'call', 'you', 'in', 'a', 'few', 'minutes', '.']]"	Powerful
+s04	e20	c09	u008	['Chandler Bing']	Hey, check out that girl! She is really hot!	[['Hey', ',', 'check', 'out', 'that', 'girl', '!'], ['She', 'is', 'really', 'hot', '!']]	Powerful
+s04	e20	c09	u009	['Joey Tribbiani']	Yeah, she is. Wow! How you doin'?	"[['Yeah', ',', 'she', 'is', '.'], ['Wow', '!'], ['How', 'you', 'doin', ""'"", '?']]"	Peaceful
+s04	e20	c09	u011	['Joey Tribbiani']	What?!	[['What', '?!']]	Neutral
+s04	e20	c09	u012	['Chandler Bing']	You're coming on to the entire room! I'm Chandler.	"[['You', ""'re"", 'coming', 'on', 'to', 'the', 'entire', 'room', '!'], ['I', ""'m"", 'Chandler', '.']]"	Peaceful
+s04	e20	c09	u013	['Woman']	I'm Marjorie.	"[['I', ""'m"", 'Marjorie', '.']]"	Peaceful
+s04	e20	c09	u014	['Chandler Bing']	Hi.	[['Hi', '.']]	Peaceful
+s04	e20	c09	u015	['Marjorie']	Hi.	[['Hi', '.']]	Peaceful
+s04	e20	c09	u016	['Chandler Bing']	You mind if I...	[['You', 'mind', 'if', 'I', '...']]	Peaceful
+s04	e20	c09	u017	['Marjorie']	No, please.	[['No', ',', 'please', '.']]	Peaceful
+s04	e20	c09	u019	['Chandler Bing']	So uh, what are you in for?	[['So', 'uh', ',', 'what', 'are', 'you', 'in', 'for', '?']]	Peaceful
+s04	e20	c09	u020	['Marjorie']	I talk in my sleep.	[['I', 'talk', 'in', 'my', 'sleep', '.']]	Joyful
+s04	e20	c09	u021	['Chandler Bing']	What a coincidence, I listen in my sleep.	[['What', 'a', 'coincidence', ',', 'I', 'listen', 'in', 'my', 'sleep', '.']]	Peaceful
+s04	e20	c09	u022	['Joey Tribbiani']	So why don't you give me your number?	"[['So', 'why', 'do', ""n't"", 'you', 'give', 'me', 'your', 'number', '?']]"	Sad
+s04	e20	c10	u002	['Monica Geller']	Okay, ready?	[['Okay', ',', 'ready', '?']]	Neutral
+s04	e20	c10	u003	['Phoebe Buffay']	Yeah.	[['Yeah', '.']]	Neutral
+s04	e20	c10	u004	['Monica Geller']	Okay.	[['Okay', '.']]	Neutral
+s04	e20	c10	u006	['Phoebe Buffay']	I got it! Mine!	[['I', 'got', 'it', '!'], ['Mine', '!']]	Joyful
+s04	e20	c10	u007	['Monica Geller']	Congratulations!	[['Congratulations', '!']]	Joyful
+s04	e20	c10	u008	['Phoebe Buffay']	Thank you!	[['Thank', 'you', '!']]	Joyful
+s04	e20	c10	u009	['Monica Geller']	Okay! My turn! My turn!	[['Okay', '!'], ['My', 'turn', '!'], ['My', 'turn', '!']]	Neutral
+s04	e20	c10	u010	['Phoebe Buffay']	Okay! Okay, ready?	[['Okay', '!'], ['Okay', ',', 'ready', '?']]	Neutral
+s04	e20	c10	u011	['Monica Geller']	Yeah.	[['Yeah', '.']]	Neutral
+s04	e20	c10	u012	['Phoebe Buffay']	Okay.	[['Okay', '.']]	Neutral
+s04	e20	c10	u013	['Monica Geller']	That was a terrible throw!!	[['That', 'was', 'a', 'terrible', 'throw', '!!']]	Sad
+s04	e20	c10	u014	['Phoebe Buffay']	I'm not gonna right to you! That's not real!	"[['I', ""'m"", 'not', 'gon', 'na', 'right', 'to', 'you', '!'], ['That', ""'s"", 'not', 'real', '!']]"	Neutral
+s04	e20	c10	u015	['Monica Geller']	Look at me! My big concern is what's real?! Oh my God. We're really sad, aren't we?	"[['Look', 'at', 'me', '!'], ['My', 'big', 'concern', 'is', 'what', ""'s"", 'real', '?!'], ['Oh', 'my', 'God', '.'], ['We', ""'re"", 'really', 'sad', ',', 'are', ""n't"", 'we', '?']]"	Sad
+s04	e20	c10	u016	['Phoebe Buffay']	Yeah, I think we are.	[['Yeah', ',', 'I', 'think', 'we', 'are', '.']]	Sad
+s04	e20	c10	u017	['Monica Geller']	This isn't even my dress.	"[['This', 'is', ""n't"", 'even', 'my', 'dress', '.']]"	Neutral
+s04	e20	c10	u018	['Phoebe Buffay']	"Well, at least you didn't rent yours from a store called, ""It's Not Too Late."""	"[['Well', ',', 'at', 'least', 'you', 'did', ""n't"", 'rent', 'yours', 'from', 'a', 'store', 'called', ',', '""', 'It', ""'s"", 'Not', 'Too', 'Late', '.', '""']]"	Peaceful
+s04	e20	c10	u019	['Monica Geller']	I'm changing out of this.	"[['I', ""'m"", 'changing', 'out', 'of', 'this', '.']]"	Neutral
+s04	e20	c10	u020	['Phoebe Buffay']	Me too.	[['Me', 'too', '.']]	Neutral
+s04	e20	c10	u021	['Monica Geller']	In like a half-hour?	[['In', 'like', 'a', 'half', '-', 'hour', '?']]	Neutral
+s04	e20	c10	u022	['Phoebe Buffay']	Me too.	[['Me', 'too', '.']]	Neutral
+s04	e20	c10	u023	['Monica Geller']	Okay, throw it straight this time.	[['Okay', ',', 'throw', 'it', 'straight', 'this', 'time', '.']]	Neutral
+s04	e20	c10	u024	['Phoebe Buffay']	Okay.	[['Okay', '.']]	Neutral
+s04	e20	c10	u026	['Monica Geller']	I'm getting married next!!	"[['I', ""'m"", 'getting', 'married', 'next', '!!']]"	Joyful
+s04	e20	c10	u027	['Phoebe Buffay']	Yay!	[['Yay', '!']]	Joyful
+s04	e20	c11	u002	['Phoebe Buffay']	I hate my regular clothes now! Y'know? I look down and-and I know that this isn't gonna be the most special day of my life.	"[['I', 'hate', 'my', 'regular', 'clothes', 'now', '!'], [""Y'know"", '?'], ['I', 'look', 'down', 'and', '-', 'and', 'I', 'know', 'that', 'this', 'is', ""n't"", 'gon', 'na', 'be', 'the', 'most', 'special', 'day', 'of', 'my', 'life', '.']]"	Peaceful
+s04	e20	c11	u003	['Monica Geller']	Yeah. I mean it was kinda fun for a while, but didn't you start feeling silly?	"[['Yeah', '.'], ['I', 'mean', 'it', 'was', 'kinda', 'fun', 'for', 'a', 'while', ',', 'but', 'did', ""n't"", 'you', 'start', 'feeling', 'silly', '?']]"	Powerful
+s04	e20	c11	u004	['Phoebe Buffay']	I guess.	[['I', 'guess', '.']]	Sad
+s04	e20	c11	u006	['Phoebe Buffay']	Oh my God!	[['Oh', 'my', 'God', '!']]	Powerful
+s04	e20	c11	u007	['Monica Geller']	Oh God.	[['Oh', 'God', '.']]	Powerful
+s04	e20	c11	u008	['Phoebe Buffay']	Oh, you're such a cheater!	"[['Oh', ',', 'you', ""'re"", 'such', 'a', 'cheater', '!']]"	Powerful
+s04	e20	c11	u009	['Chandler Bing']	Hello! Little ones.	[['Hello', '!'], ['Little', 'ones', '.']]	Powerful
+s04	e20	c11	u010	['Monica Geller']	Hey!	[['Hey', '!']]	Powerful
+s04	e20	c11	u011	['Phoebe Buffay']	Hey!	[['Hey', '!']]	Peaceful
+s04	e20	c11	u012	['Monica Geller']	So, is Joey gonna stop snoring?	[['So', ',', 'is', 'Joey', 'gon', 'na', 'stop', 'snoring', '?']]	Peaceful
+s04	e20	c11	u013	['Chandler Bing']	Yep! And! A beautiful woman agreed to go out with me. Joey wanted to ask her out, but uh, she picked me.	[['Yep', '!'], ['And', '!'], ['A', 'beautiful', 'woman', 'agreed', 'to', 'go', 'out', 'with', 'me', '.'], ['Joey', 'wanted', 'to', 'ask', 'her', 'out', ',', 'but', 'uh', ',', 'she', 'picked', 'me', '.']]	Joyful
+s04	e20	c11	u014	['Phoebe Buffay']	Oh, how'd that happen?	"[['Oh', ',', 'how', ""'d"", 'that', 'happen', '?']]"	Powerful
+s04	e20	c11	u015	['Chandler Bing']	Because I'm cooler.	"[['Because', 'I', ""'m"", 'cooler', '.']]"	Neutral
+s04	e20	c11	u016	['Monica Geller']	No, seriously.	[['No', ',', 'seriously', '.']]	Sad
+s04	e20	c11	u017	['Chandler Bing']	Well she's, she's the kinda girl-Joey was unconscious.	"[['Well', 'she', ""'s"", ',', 'she', ""'s"", 'the', 'kinda', 'girl', '-', 'Joey', 'was', 'unconscious', '.']]"	Peaceful
+s04	e20	c11	u019	['Joey Tribbiani']	Hey you guys! What's happening?	"[['Hey', 'you', 'guys', '!'], ['What', ""'s"", 'happening', '?']]"	Powerful
+s04	e20	c11	u020	['Monica Geller']	Oh my God!	[['Oh', 'my', 'God', '!']]	Peaceful
+s04	e20	c11	u021	['Phoebe Buffay']	What is that?	[['What', 'is', 'that', '?']]	Peaceful
+s04	e20	c11	u022	['Joey Tribbiani']	Oh, they gave it to me at the sleep clinic, and it's gonna help me not to snore.	"[['Oh', ',', 'they', 'gave', 'it', 'to', 'me', 'at', 'the', 'sleep', 'clinic', ',', 'and', 'it', ""'s"", 'gon', 'na', 'help', 'me', 'not', 'to', 'snore', '.']]"	Peaceful
+s04	e20	c11	u023	['Monica Geller']	Well, are you asleep right now, Joe? 'Cause I don't think you have to wear it unless you are!	"[['Well', ',', 'are', 'you', 'asleep', 'right', 'now', ',', 'Joe', '?'], [""'"", 'Cause', 'I', 'do', ""n't"", 'think', 'you', 'have', 'to', 'wear', 'it', 'unless', 'you', 'are', '!']]"	Peaceful
+s04	e20	c11	u024	['Joey Tribbiani']	I know I don't have too! It tastes good.	"[['I', 'know', 'I', 'do', ""n't"", 'have', 'too', '!'], ['It', 'tastes', 'good', '.']]"	Peaceful
+s04	e20	c11	u025	['Chandler Bing']	Plus, you look cool.	[['Plus', ',', 'you', 'look', 'cool', '.']]	Joyful

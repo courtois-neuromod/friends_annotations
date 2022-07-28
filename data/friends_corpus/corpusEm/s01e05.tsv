@@ -1,0 +1,157 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s01	e05	c01	u001	['Monica Geller']	Would you let it go? It's not that big a deal.	"[['Would', 'you', 'let', 'it', 'go', '?'], ['It', ""'s"", 'not', 'that', 'big', 'a', 'deal', '.']]"	Mad
+s01	e05	c01	u002	['Ross Geller']	Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?	"[['Not', 'that', 'big', 'a', 'deal', '?'], ['It', ""'s"", 'amazing', '.'], ['Ok', ',', 'you', 'just', 'reach', 'in', 'there', ',', 'there', ""'s"", 'one', 'little', 'maneuver', ',', 'and', 'bam', ',', 'a', 'bra', 'right', 'out', 'the', 'sleeve', '.'], ['All', 'right', ',', 'as', 'far', 'as', 'I', ""'m"", 'concerned', ',', 'there', 'is', 'nothing', 'a', 'guy', 'can', 'do', 'that', 'even', 'comes', 'close', '.'], ['Am', 'I', 'right', '?']]"	Mad
+s01	e05	c01	u003	['Rachel Green']	Come on! You guys can pee standing up.	[['Come', 'on', '!'], ['You', 'guys', 'can', 'pee', 'standing', 'up', '.']]	Mad
+s01	e05	c01	u004	['Chandler Bing']	We can? All right, I'm tryin' that.	"[['We', 'can', '?'], ['All', 'right', ',', 'I', ""'m"", 'tryin', ""'"", 'that', '.']]"	Peaceful
+s01	e05	c01	u005	['Joey Tribbiani']	Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.	[['Ok', ',', 'you', 'know', 'what', 'blows', 'my', 'mind', '?'], ['Women', 'can', 'see', 'breasts', 'any', 'time', 'they', 'want', '.'], ['You', 'just', 'look', 'down', 'and', 'there', 'they', 'are', '.'], ['How', 'you', 'get', 'any', 'work', 'done', 'is', 'beyond', 'me', '.']]	Neutral
+s01	e05	c01	u006	['Phoebe Buffay']	Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.	"[['Oh', ',', 'ok', ',', 'you', 'know', 'what', 'I', 'do', ""n't"", 'get', '?'], ['The', 'way', 'guys', 'can', 'do', 'so', 'many', 'mean', 'things', ',', 'and', 'then', 'not', 'even', 'care', '.']]"	Mad
+s01	e05	c01	u008	['Ross Geller']	Multiple orgasms!	[['Multiple', 'orgasms', '!']]	Neutral
+s01	e05	c03	u001	['Joey Tribbiani']	Monica, I'm tellin' you, this guy is perfect for you.	"[['Monica', ',', 'I', ""'m"", 'tellin', ""'"", 'you', ',', 'this', 'guy', 'is', 'perfect', 'for', 'you', '.']]"	Joyful
+s01	e05	c03	u002	['Monica Geller']	Forget it. Not after your cousin who could belch the alphabet.	[['Forget', 'it', '.'], ['Not', 'after', 'your', 'cousin', 'who', 'could', 'belch', 'the', 'alphabet', '.']]	Mad
+s01	e05	c03	u003	['Joey Tribbiani']	Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...	"[['Come', 'on', '.'], ['This', 'guy', ""'s"", 'great', '.'], ['His', 'name', ""'s"", 'Bob', '.'], ['He', ""'s"", 'Angela', ""'s"", '...'], ['brother', '.'], ['He', ""'s"", 'smart', ',', 'he', ""'s"", 'sophisticated', ',', 'and', 'he', 'has', 'a', 'real', 'job', '.'], ['Me', ',', 'I', 'go', 'on', 'three', 'auditions', 'a', 'month', 'and', 'call', 'myself', 'an', 'actor', ',', 'but', 'Bob', 'is', '...']]"	Joyful
+s01	e05	c03	u004	['Monica Geller']	Oh, god help us.	[['Oh', ',', 'god', 'help', 'us', '.']]	Scared
+s01	e05	c03	u005	['Joey Tribbiani']	What?	[['What', '?']]	Neutral
+s01	e05	c03	u006	['Monica Geller']	Ugly Naked Guy's laying kitchen tile. Eww!	"[['Ugly', 'Naked', 'Guy', ""'s"", 'laying', 'kitchen', 'tile', '.'], ['Eww', '!']]"	Mad
+s01	e05	c03	u007	['Joey Tribbiani']	Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.	"[['Eww', '!'], ['Look', ',', 'I', ""'m"", 'asking', 'a', 'favor', 'here', '.'], ['If', 'I', 'do', 'this', 'for', 'her', 'brother', ',', 'maybe', 'Angela', 'will', 'come', 'back', 'to', 'me', '.']]"	Sad
+s01	e05	c03	u008	['Monica Geller']	What's going on here? You go out with tons of girls.	"[['What', ""'s"", 'going', 'on', 'here', '?'], ['You', 'go', 'out', 'with', 'tons', 'of', 'girls', '.']]"	Neutral
+s01	e05	c03	u009	['Joey Tribbiani']	I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?	[['I', 'know', ',', 'but', ',', 'I', 'made', 'a', 'huge', 'mistake', '.'], ['I', 'never', 'should', 'have', 'broken', 'up', 'with', 'her', '.'], ['Will', 'you', 'help', 'me', '?'], ['Please', '?']]	Sad
+s01	e05	c04	u001	['Ross Geller']	Ok, bye. Well, Monica's not coming, it's just gonna be me and Rachel.	"[['Ok', ',', 'bye', '.'], ['Well', ',', 'Monica', ""'s"", 'not', 'coming', ',', 'it', ""'s"", 'just', 'gon', 'na', 'be', 'me', 'and', 'Rachel', '.']]"	Neutral
+s01	e05	c04	u002	['Chandler Bing']	Oh. Well, hold on camper, are you sure you've thought this thing through?	"[['Oh', '.'], ['Well', ',', 'hold', 'on', 'camper', ',', 'are', 'you', 'sure', 'you', ""'ve"", 'thought', 'this', 'thing', 'through', '?']]"	Neutral
+s01	e05	c04	u003	['Ross Geller']	It's laundry. The thinking through is minimal.	"[['It', ""'s"", 'laundry', '.'], ['The', 'thinking', 'through', 'is', 'minimal', '.']]"	Neutral
+s01	e05	c04	u004	['Chandler Bing']	It's just you and Rachel, just the two of you? This is a date. You're going on a date.	"[['It', ""'s"", 'just', 'you', 'and', 'Rachel', ',', 'just', 'the', 'two', 'of', 'you', '?'], ['This', 'is', 'a', 'date', '.'], ['You', ""'re"", 'going', 'on', 'a', 'date', '.']]"	Joyful
+s01	e05	c04	u005	['Ross Geller']	Nuh-uh.	[['Nuh', '-', 'uh', '.']]	Neutral
+s01	e05	c04	u006	['Chandler Bing']	Yuh-huh.	[['Yuh', '-', 'huh', '.']]	Neutral
+s01	e05	c04	u007	['Ross Geller']	So what're you saying here? I should shave again, pick up some wine, what?	"[['So', 'what', ""'re"", 'you', 'saying', 'here', '?'], ['I', 'should', 'shave', 'again', ',', 'pick', 'up', 'some', 'wine', ',', 'what', '?']]"	Scared
+s01	e05	c04	u008	['Chandler Bing']	Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwearyou want it to be dirty?	"[['Well', ',', 'you', 'may', 'wan', 'na', 'rethink', 'the', 'dirty', 'underwear', '.'], ['This', 'is', 'basically', 'the', 'first', 'time', 'she', ""'s"", 'gon', 'na', 'see', 'your', 'underwearyou', 'want', 'it', 'to', 'be', 'dirty', '?']]"	Joyful
+s01	e05	c04	u009	['Ross Geller']	No.	[['No', '.']]	Neutral
+s01	e05	c04	u010	['Chandler Bing']	Oh, and uh, the fabric softener?	[['Oh', ',', 'and', 'uh', ',', 'the', 'fabric', 'softener', '?']]	Neutral
+s01	e05	c04	u011	['Ross Geller']	Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.	"[['Ok', ',', 'ok', ',', 'now', 'what', 'is', 'wrong', 'with', 'my', 'Snuggles', '?'], ['What', ',', 'it', 'says', 'I', ""'m"", 'a', 'sensitive', ',', 'warm', 'kinda', 'guy', ',', 'you', 'know', ',', 'like', 'a', 'warm', ',', 'fuzzy', 'bear', '.'], ['Ok', ',', 'I', 'can', 'pick', 'something', 'else', 'up', 'on', 'the', 'way', '.']]"	Peaceful
+s01	e05	c04	u012	['Chandler Bing']	There you go.	[['There', 'you', 'go', '.']]	Peaceful
+s01	e05	c05	u001	['Monica Geller']	Thank you. So what does this Bob guy look like? Is he tall? Short?	[['Thank', 'you', '.'], ['So', 'what', 'does', 'this', 'Bob', 'guy', 'look', 'like', '?'], ['Is', 'he', 'tall', '?'], ['Short', '?']]	Joyful
+s01	e05	c05	u002	['Joey Tribbiani']	Yep.	[['Yep', '.']]	Neutral
+s01	e05	c05	u003	['Monica Geller']	Which?	[['Which', '?']]	Neutral
+s01	e05	c05	u004	['Joey Tribbiani']	Which what?	[['Which', 'what', '?']]	Neutral
+s01	e05	c05	u005	['Monica Geller']	You've never met Bob, have you?	"[['You', ""'ve"", 'never', 'met', 'Bob', ',', 'have', 'you', '?']]"	Mad
+s01	e05	c05	u006	['Joey Tribbiani']	No, but he's...	"[['No', ',', 'but', 'he', ""'s"", '...']]"	Neutral
+s01	e05	c05	u007	['Monica Geller']	Oh my god, Joey, for all we know this guy could be horribly...	[['Oh', 'my', 'god', ',', 'Joey', ',', 'for', 'all', 'we', 'know', 'this', 'guy', 'could', 'be', 'horribly', '...']]	Scared
+s01	e05	c05	u009	['Angela Delveccio']	Hey, Joey.	[['Hey', ',', 'Joey', '.']]	Neutral
+s01	e05	c05	u010	['Monica Geller']	...horribly attractive. I'll be shutting up now.	"[['...'], ['horribly', 'attractive', '.'], ['I', ""'ll"", 'be', 'shutting', 'up', 'now', '.']]"	Sad
+s01	e05	c06	u001	['Chandler Bing']	Where are they? Where are they?	[['Where', 'are', 'they', '?'], ['Where', 'are', 'they', '?']]	Scared
+s01	e05	c06	u002	['Phoebe Buffay']	This is nice. We never do anything just the two of us.	[['This', 'is', 'nice', '.'], ['We', 'never', 'do', 'anything', 'just', 'the', 'two', 'of', 'us', '.']]	Joyful
+s01	e05	c06	u003	['Chandler Bing']	It's great. Maybe tomorrow we can rent a car and run over some puppies.	"[['It', ""'s"", 'great', '.'], ['Maybe', 'tomorrow', 'we', 'can', 'rent', 'a', 'car', 'and', 'run', 'over', 'some', 'puppies', '.']]"	Joyful
+s01	e05	c06	u004	['Phoebe Buffay']	Eww, I don't wanna do that.	"[['Eww', ',', 'I', 'do', ""n't"", 'wan', 'na', 'do', 'that', '.']]"	Mad
+s01	e05	c06	u006	['Chandler Bing']	Here we go.	[['Here', 'we', 'go', '.']]	Neutral
+s01	e05	c06	u007	['Phoebe Buffay']	Ok, have a good break-up.	[['Ok', ',', 'have', 'a', 'good', 'break', '-', 'up', '.']]	Neutral
+s01	e05	c06	u008	['Chandler Bing']	Hey, Janice.	[['Hey', ',', 'Janice', '.']]	Neutral
+s01	e05	c06	u009	['Janice Litman Goralnik']	Oh, my god, I am so glad you called me. I had the most supremely awful day.	[['Oh', ',', 'my', 'god', ',', 'I', 'am', 'so', 'glad', 'you', 'called', 'me', '.'], ['I', 'had', 'the', 'most', 'supremely', 'awful', 'day', '.']]	Sad
+s01	e05	c06	u010	['Chandler Bing']	Hey, that's not good. Can I get an espresso and a latte over here, please?	"[['Hey', ',', 'that', ""'s"", 'not', 'good', '.'], ['Can', 'I', 'get', 'an', 'espresso', 'and', 'a', 'latte', 'over', 'here', ',', 'please', '?']]"	Neutral
+s01	e05	c06	u011	['Janice Litman Goralnik']	We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping... ... and I got you, I'm looking, I'm looking, I'm looking, I got you...	"[['We', 'got', 'the', 'proofs', 'back', 'from', 'that', 'photo', 'shoot', ',', 'you', 'know', ',', 'the', 'one', 'with', 'the', 'little', 'vegetables', '.'], ['Anyway', ',', 'they', 'pretty', 'much', 'sucked', ',', 'so', ',', 'I', 'blew', 'off', 'the', 'rest', 'of', 'the', 'day', ',', 'and', 'I', 'went', 'shopping', '...'], ['...'], ['and', 'I', 'got', 'you', ',', 'I', ""'m"", 'looking', ',', 'I', ""'m"", 'looking', ',', 'I', ""'m"", 'looking', ',', 'I', 'got', 'you', '...']]"	Neutral
+s01	e05	c06	u013	['Chandler Bing']	What?	[['What', '?']]	Neutral
+s01	e05	c06	u014	['Janice Litman Goralnik']	What?	[['What', '?']]	Neutral
+s01	e05	c06	u015	['Chandler Bing']	What... did you get me there?	[['What', '...'], ['did', 'you', 'get', 'me', 'there', '?']]	Neutral
+s01	e05	c06	u016	['Janice Litman Goralnik']	I got you...these.	[['I', 'got', 'you', '...'], ['these', '.']]	Neutral
+s01	e05	c06	u017	['Chandler Bing']	Bullwinkle socks. That's so sweet.	"[['Bullwinkle', 'socks', '.'], ['That', ""'s"", 'so', 'sweet', '.']]"	Joyful
+s01	e05	c06	u018	['Janice Litman Goralnik']	Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.	[['Well', ',', 'I', 'knew', 'you', 'had', 'the', 'Rockys', ',', 'and', 'so', 'I', 'figured', ',', 'you', 'know', ',', 'you', 'can', 'wear', 'Bullwinkle', 'and', 'Bullwinkle', ',', 'or', 'you', 'can', 'wear', 'Rocky', 'and', 'Rocky', ',', 'or', ',', 'you', 'can', 'mix', 'and', 'match', ',', 'moose', 'and', 'squirrel', '.'], ['Whatever', 'you', 'want', '.']]	Neutral
+s01	e05	c06	u019	['Chandler Bing']	That's great.	"[['That', ""'s"", 'great', '.']]"	Joyful
+s01	e05	c06	u021	['Chandler Bing']	Well, I'm gonna get another espresso. Can I get you another latte?	"[['Well', ',', 'I', ""'m"", 'gon', 'na', 'get', 'another', 'espresso', '.'], ['Can', 'I', 'get', 'you', 'another', 'latte', '?']]"	Neutral
+s01	e05	c06	u022	['Janice Litman Goralnik']	No, no, I'm still working on mine.	"[['No', ',', 'no', ',', 'I', ""'m"", 'still', 'working', 'on', 'mine', '.']]"	Neutral
+s01	e05	c06	u024	['Chandler Bing']	That's it?	"[['That', ""'s"", 'it', '?']]"	Neutral
+s01	e05	c06	u025	['Phoebe Buffay']	Yeah, it was really hard.	[['Yeah', ',', 'it', 'was', 'really', 'hard', '.']]	Neutral
+s01	e05	c06	u026	['Chandler Bing']	Oh, yeah, that hug looked pretty brutal.	[['Oh', ',', 'yeah', ',', 'that', 'hug', 'looked', 'pretty', 'brutal', '.']]	Neutral
+s01	e05	c06	u027	['Phoebe Buffay']	Ok, you weren't there.	"[['Ok', ',', 'you', 'were', ""n't"", 'there', '.']]"	Neutral
+s01	e05	c08	u001	['Monica Geller']	He is so cute. So, where did you guys grow up?	[['He', 'is', 'so', 'cute', '.'], ['So', ',', 'where', 'did', 'you', 'guys', 'grow', 'up', '?']]	Joyful
+s01	e05	c08	u002	['Angela Delveccio']	Brooklyn Heights.	[['Brooklyn', 'Heights', '.']]	Neutral
+s01	e05	c08	u003	['Bob']	Cleveland.	[['Cleveland', '.']]	Neutral
+s01	e05	c08	u004	['Monica Geller']	How, how did that happen?	[['How', ',', 'how', 'did', 'that', 'happen', '?']]	Neutral
+s01	e05	c08	u005	['Joey Tribbiani']	Oh my god.	[['Oh', 'my', 'god', '.']]	Scared
+s01	e05	c08	u006	['Monica Geller']	What?	[['What', '?']]	Neutral
+s01	e05	c08	u007	['Joey Tribbiani']	I suddenly had the feeling that I was falling. But I'm not.	"[['I', 'suddenly', 'had', 'the', 'feeling', 'that', 'I', 'was', 'falling', '.'], ['But', 'I', ""'m"", 'not', '.']]"	Scared
+s01	e05	c09	u001	['Joey Tribbiani']	So, you and Angela, huh?	[['So', ',', 'you', 'and', 'Angela', ',', 'huh', '?']]	Joyful
+s01	e05	c09	u002	['Bob']	Yep. Pretty much.	[['Yep', '.'], ['Pretty', 'much', '.']]	Joyful
+s01	e05	c09	u003	['Joey Tribbiani']	You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel.	"[['You', ""'re"", 'a', 'lucky', 'man', '.'], ['You', 'know', 'what', 'I', 'miss', 'the', 'most', 'about', 'her', '?'], ['That', 'cute', 'nibbly', 'noise', 'when', 'she', 'eats', '.'], ['Like', 'a', 'happy', 'little', 'squirrel', ',', 'or', 'a', 'weasel', '.']]"	Joyful
+s01	e05	c09	u004	['Bob']	Huh, I never really noticed.	[['Huh', ',', 'I', 'never', 'really', 'noticed', '.']]	Neutral
+s01	e05	c09	u005	['Joey Tribbiani']	Oh, yeah, yeah, listen for it.	[['Oh', ',', 'yeah', ',', 'yeah', ',', 'listen', 'for', 'it', '.']]	Joyful
+s01	e05	c09	u006	['Bob']	Monica, Monica is great.	[['Monica', ',', 'Monica', 'is', 'great', '.']]	Joyful
+s01	e05	c09	u007	['Joey Tribbiani']	Yeah, but it's not gonna last. She's too much for me in bed. Sexually.	"[['Yeah', ',', 'but', 'it', ""'s"", 'not', 'gon', 'na', 'last', '.'], ['She', ""'s"", 'too', 'much', 'for', 'me', 'in', 'bed', '.'], ['Sexually', '.']]"	Joyful
+s01	e05	c10	u001	['Monica Geller']	I've gotta tell you, Bob is terrific.	"[['I', ""'ve"", 'got', 'ta', 'tell', 'you', ',', 'Bob', 'is', 'terrific', '.']]"	Joyful
+s01	e05	c10	u002	['Angela Delveccio']	Yeah, isn't he?	"[['Yeah', ',', 'is', ""n't"", 'he', '?']]"	Neutral
+s01	e05	c10	u003	['Monica Geller']	It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.	[['It', 'is', 'so', 'great', 'to', 'meet', 'a', 'guy', 'who', 'is', 'smart', 'and', 'funny', ',', 'and', 'has', 'an', 'emotional', 'age', 'beyond', ',', 'like', 'eight', '.']]	Joyful
+s01	e05	c10	u004	['Angela Delveccio']	You know what else? He's unbelievable in bed.	"[['You', 'know', 'what', 'else', '?'], ['He', ""'s"", 'unbelievable', 'in', 'bed', '.']]"	Joyful
+s01	e05	c10	u005	['Monica Geller']	Wow. My brother never even told me when he lost his virginity.	[['Wow', '.'], ['My', 'brother', 'never', 'even', 'told', 'me', 'when', 'he', 'lost', 'his', 'virginity', '.']]	Joyful
+s01	e05	c10	u006	['Angela Delveccio']	Huh. That's nice.	"[['Huh', '.'], ['That', ""'s"", 'nice', '.']]"	Neutral
+s01	e05	c12	u001	['Rachel Green']	Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.	"[['Ok', ',', 'I', 'know', 'this', 'is', 'gon', 'na', 'sound', 'really', 'stupid', ',', 'but', 'I', 'feel', 'that', 'if', 'I', 'can', 'do', 'this', ',', 'you', 'know', ',', 'if', 'I', 'can', 'actually', 'do', 'my', 'own', 'laundry', ',', 'there', 'is', ""n't"", 'anything', 'I', 'ca', ""n't"", 'do', '.']]"	Powerful
+s01	e05	c12	u002	['Ross Geller']	That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.	"[['That', 'does', 'not', 'sound', 'stupid', 'to', 'me', '.'], ['You', 'know', ',', 'it', ""'s"", 'like', 'the', 'first', 'time', 'I', 'had', 'to', 'make', 'dinner', 'for', 'myself', ',', 'after', 'Carol', 'left', 'me', '?'], ['I', ""'m"", 'sorry', ',', 'that', ""'s"", 'all', 'the', 'time', 'we', 'have', '.'], ['Next', 'on', 'Ross', '...'], ['Uh-oh', '.']]"	Scared
+s01	e05	c12	u003	['Rachel Green']	What uh-oh?	[['What', 'uh-oh', '?']]	Scared
+s01	e05	c12	u004	['Ross Geller']	Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.	"[['Uh-oh', ',', 'uh-oh', ',', 'the', 'laundry', ""'s"", 'done', '.'], ['It', ""'s"", ',', 'uh', ',', 'it', ""'s"", 'a', 'song', '.'], ['The', 'laundry', 'song', 'that', 'we', 'sing', '.'], ['Uh-oh', 'the', 'laundry', ""'s"", 'done', ',', 'uh-oh', ',', 'uh-oh', '.']]"	Scared
+s01	e05	c12	u005	['Rachel Green']	Ross, what's the matter?	"[['Ross', ',', 'what', ""'s"", 'the', 'matter', '?']]"	Scared
+s01	e05	c12	u006	['Ross Geller']	Nothing, nothing. Lee-lo, the laundry's done.	"[['Nothing', ',', 'nothing', '.'], ['Lee', '-', 'lo', ',', 'the', 'laundry', ""'s"", 'done', '.']]"	Mad
+s01	e05	c12	u007	['Rachel Green']	Come on, show me.	[['Come', 'on', ',', 'show', 'me', '.']]	Scared
+s01	e05	c12	u008	['Ross Geller']	All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.	"[['All', 'right', ',', 'all', 'right', ',', 'it', ""'s"", 'just', 'that', 'you', 'left', 'a', 'red', 'sock', 'in', 'with', 'all', 'your', 'whites', ',', 'and', 'now', ',', 'everything', ""'s"", 'kinda', 'pink', '.']]"	Sad
+s01	e05	c12	u009	['Rachel Green']	Oh, everything's pink.	"[['Oh', ',', 'everything', ""'s"", 'pink', '.']]"	Sad
+s01	e05	c12	u010	['Ross Geller']	Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.	"[['Yeah', ',', 'uh', ',', 'except', 'for', 'the', 'red', 'sock', ',', 'which', 'is', 'still', 'red', '.'], ['I', ""'m"", 'sorry', ',', 'please', 'do', ""n't"", 'be', 'upset', ',', 'it', 'could', 'happen', 'to', 'anyone', '.']]"	Sad
+s01	e05	c12	u011	['Rachel Green']	Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!	"[['Except', 'it', 'did', ""n't"", '.'], ['It', 'happened', 'to', 'me', '.'], ['Oh', ',', 'god', ',', 'I', ""'m"", 'gon', 'na', 'look', 'like', 'a', 'big', 'marshmallow', 'peep', '.'], ['What', 'am', 'I', 'doing', '?'], ['What', 'am', 'I', 'doing', '?'], ['My', 'father', ""'s"", 'right', '.'], ['I', 'ca', ""n't"", 'live', 'on', 'my', 'own', '!'], ['I', 'ca', ""n't"", 'even', 'do', 'laundry', '!']]"	Sad
+s01	e05	c13	u001	['Monica Geller']	Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?	"[['Something', 'went', 'wrong', 'with', 'Underdog', ',', 'and', 'they', 'could', ""n't"", 'get', 'his', 'head', 'to', 'inflate', '.'], ['So', 'anyway', ',', 'um', ',', 'his', 'head', 'is', 'like', 'flopping', 'down', 'Broadway', ',', 'right', ',', 'and', 'I', ""'m"", 'just', 'thinking', '...'], ['how', 'inappropriate', 'this', 'is', '.'], ['Um', ',', 'I', ""'ve"", 'got', 'something', 'in', 'my', 'eye', ',', 'uh', ',', 'Joey', ',', 'could', 'we', 'check', 'it', 'in', 'the', 'light', ',', 'please', '?']]"	Scared
+s01	e05	c13	u003	['Monica Geller']	Oh my god.	[['Oh', 'my', 'god', '.']]	Scared
+s01	e05	c13	u004	['Joey Tribbiani']	What?	[['What', '?']]	Neutral
+s01	e05	c13	u005	['Monica Geller']	Hello! Were we at the same table? It's like... cocktails in Appalachia.	"[['Hello', '!'], ['Were', 'we', 'at', 'the', 'same', 'table', '?'], ['It', ""'s"", 'like', '...'], ['cocktails', 'in', 'Appalachia', '.']]"	Neutral
+s01	e05	c13	u006	['Joey Tribbiani']	Come on, they're close.	"[['Come', 'on', ',', 'they', ""'re"", 'close', '.']]"	Neutral
+s01	e05	c13	u007	['Monica Geller']	Close? She's got her tongue in his ear.	"[['Close', '?'], ['She', ""'s"", 'got', 'her', 'tongue', 'in', 'his', 'ear', '.']]"	Powerful
+s01	e05	c13	u008	['Joey Tribbiani']	Oh, like you've never gotten a little rambunctious with Ross.	"[['Oh', ',', 'like', 'you', ""'ve"", 'never', 'gotten', 'a', 'little', 'rambunctious', 'with', 'Ross', '.']]"	Peaceful
+s01	e05	c13	u009	['Monica Geller']	Joey, this is sick, it's disgusting, it's, it'snot really true, is it?	"[['Joey', ',', 'this', 'is', 'sick', ',', 'it', ""'s"", 'disgusting', ',', 'it', ""'s"", ',', ""it'snot"", 'really', 'true', ',', 'is', 'it', '?']]"	Sad
+s01	e05	c13	u010	['Joey Tribbiani']	Well, who's to say what's true? I mean...	"[['Well', ',', 'who', ""'s"", 'to', 'say', 'what', ""'s"", 'true', '?'], ['I', 'mean', '...']]"	Neutral
+s01	e05	c13	u011	['Monica Geller']	Oh my god, what were you thinking?	[['Oh', 'my', 'god', ',', 'what', 'were', 'you', 'thinking', '?']]	Mad
+s01	e05	c13	u012	['Joey Tribbiani']	All right, look, I'm not proud of this, ok? Well, maybe I am a little.	"[['All', 'right', ',', 'look', ',', 'I', ""'m"", 'not', 'proud', 'of', 'this', ',', 'ok', '?'], ['Well', ',', 'maybe', 'I', 'am', 'a', 'little', '.']]"	Neutral
+s01	e05	c13	u013	['Monica Geller']	Oh!	[['Oh', '!']]	Neutral
+s01	e05	c13	u014	['Joey Tribbiani']	Ow!	[['Ow', '!']]	Joyful
+s01	e05	c13	u015	['Monica Geller']	I'm outta here.	"[['I', ""'m"", 'outta', 'here', '.']]"	Neutral
+s01	e05	c13	u016	['Joey Tribbiani']	Wait, wait, wait. You want him, I want her. He likes you.	[['Wait', ',', 'wait', ',', 'wait', '.'], ['You', 'want', 'him', ',', 'I', 'want', 'her', '.'], ['He', 'likes', 'you', '.']]	Neutral
+s01	e05	c13	u017	['Monica Geller']	Really?	[['Really', '?']]	Neutral
+s01	e05	c13	u018	['Joey Tribbiani']	Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.	"[['Yeah', '.'], ['I', ""'m"", 'thinking', ',', 'if', 'we', 'put', 'our', 'heads', 'together', ',', 'between', 'the', 'two', 'of', 'us', ',', 'we', 'can', 'break', 'them', 'up', '.']]"	Peaceful
+s01	e05	c13	u020	['Monica Geller']	I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.	"[['I', ""'m"", 'so', 'sorry', ',', 'I', 'ca', ""n't"", 'believe', 'I', 'did', 'this', ',', 'but', 'I', 'could', ""n't"", 'stop', 'laughing', 'at', 'your', 'Norman', 'Mailer', 'story', '.']]"	Scared
+s01	e05	c13	u022	['Joey Tribbiani']	Uh, waiter, one more plate of chicken wings over here.	[['Uh', ',', 'waiter', ',', 'one', 'more', 'plate', 'of', 'chicken', 'wings', 'over', 'here', '.']]	Neutral
+s01	e05	c14	u001	['Chandler Bing']	Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.	"[['Here', ""'s"", 'the', 'thing', ',', 'Janice', '.'], ['You', 'know', ',', 'I', 'mean', ',', 'it', ""'s"", 'like', 'we', ""'re"", 'different', '.'], ['I', ""'m"", 'like', 'the', 'bing', ',', 'bing', ',', 'bing', '.'], ['You', ""'re"", 'like', 'the', 'boom', ',', 'boom', ',', '...'], ['boom', '.']]"	Joyful
+s01	e05	c14	u002	['Janice Litman Goralnik']	Ow!	[['Ow', '!']]	Sad
+s01	e05	c14	u003	['Chandler Bing']	Oh, my god, I'm so sorry. Are you ok?	"[['Oh', ',', 'my', 'god', ',', 'I', ""'m"", 'so', 'sorry', '.'], ['Are', 'you', 'ok', '?']]"	Scared
+s01	e05	c14	u004	['Janice Litman Goralnik']	Ow. Um, it's just my lens. It's just my lens. I'll be right back.	"[['Ow', '.'], ['Um', ',', 'it', ""'s"", 'just', 'my', 'lens', '.'], ['It', ""'s"", 'just', 'my', 'lens', '.'], ['I', ""'ll"", 'be', 'right', 'back', '.']]"	Mad
+s01	e05	c14	u006	['Chandler Bing']	I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.	[['I', 'hit', 'her', 'in', 'the', 'eye', '!'], ['I', 'hit', 'her', 'in', 'the', 'eye', '!'], ['This', 'is', 'the', 'worst', 'break', '-', 'up', 'in', 'the', 'history', 'of', 'the', 'world', '.']]	Joyful
+s01	e05	c14	u007	['Phoebe Buffay']	Oh my god. How many of those have you had?	[['Oh', 'my', 'god', '.'], ['How', 'many', 'of', 'those', 'have', 'you', 'had', '?']]	Scared
+s01	e05	c14	u008	['Chandler Bing']	Oh, I don't know, a million?	"[['Oh', ',', 'I', 'do', ""n't"", 'know', ',', 'a', 'million', '?']]"	Scared
+s01	e05	c14	u009	['Phoebe Buffay']	Chandler, easy, easy. Go to your happy place. La la la la la la la.	[['Chandler', ',', 'easy', ',', 'easy', '.'], ['Go', 'to', 'your', 'happy', 'place', '.'], ['La', 'la', 'la', 'la', 'la', 'la', 'la', '.']]	Joyful
+s01	e05	c14	u010	['Chandler Bing']	I'm fine.	"[['I', ""'m"", 'fine', '.']]"	Neutral
+s01	e05	c14	u011	['Phoebe Buffay']	All right.	[['All', 'right', '.']]	Neutral
+s01	e05	c14	u013	['Chandler Bing']	I'm not fine. Here she comes.	"[['I', ""'m"", 'not', 'fine', '.'], ['Here', 'she', 'comes', '.']]"	Scared
+s01	e05	c14	u014	['Phoebe Buffay']	Wait here. Breathe.	[['Wait', 'here', '.'], ['Breathe', '.']]	Neutral
+s01	e05	c14	u016	['Chandler Bing']	How do you do that?	[['How', 'do', 'you', 'do', 'that', '?']]	Scared
+s01	e05	c14	u017	['Phoebe Buffay']	It's like a gift.	"[['It', ""'s"", 'like', 'a', 'gift', '.']]"	Joyful
+s01	e05	c14	u018	['Chandler Bing']	We should always always break up together.	[['We', 'should', 'always', 'always', 'break', 'up', 'together', '.']]	Joyful
+s01	e05	c14	u019	['Phoebe Buffay']	Oh, I'd like that.	"[['Oh', ',', 'I', ""'d"", 'like', 'that', '.']]"	Joyful
+s01	e05	c15	u001	['Ross Geller']	You got the clothes clean. Now that's the important part.	"[['You', 'got', 'the', 'clothes', 'clean', '.'], ['Now', 'that', ""'s"", 'the', 'important', 'part', '.']]"	Neutral
+s01	e05	c15	u002	['Rachel Green']	Oh, I guess. Except everything looks like jammies now.	[['Oh', ',', 'I', 'guess', '.'], ['Except', 'everything', 'looks', 'like', 'jammies', 'now', '.']]	Neutral
+s01	e05	c15	u004	['Rachel Green']	Whoa, I'm sorry. Excuse me. We had this cart.	"[['Whoa', ',', 'I', ""'m"", 'sorry', '.'], ['Excuse', 'me', '.'], ['We', 'had', 'this', 'cart', '.']]"	Mad
+s01	e05	c15	u005	['Woman']	Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.	[['Yeah', ',', 'well', ',', 'I', 'had', 'a', '24', '-', 'inch', 'waist', '.'], ['You', 'lose', 'things', '.'], ['Now', 'come', 'on', ',', 'get', 'outta', 'my', 'way', '.']]	Mad
+s01	e05	c15	u007	['Rachel Green']	I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.	"[['I', ""'m"", 'sorry', ',', 'you', 'know', ',', 'maybe', 'I', 'was', ""n't"", 'being', 'clear', '.'], ['Uh', ',', 'this', 'is', 'our', 'cart', '.']]"	Mad
+s01	e05	c15	u008	['Woman']	Hey, hey, hey there aren't any clothes in it.	"[['Hey', ',', 'hey', ',', 'hey', 'there', 'are', ""n't"", 'any', 'clothes', 'in', 'it', '.']]"	Mad
+s01	e05	c15	u009	['Rachel Green']	Hey, hey, hey, hey, quit making up rules!	[['Hey', ',', 'hey', ',', 'hey', ',', 'hey', ',', 'quit', 'making', 'up', 'rules', '!']]	Mad
+s01	e05	c15	u010	['Woman']	Let go!	[['Let', 'go', '!']]	Mad
+s01	e05	c15	u012	['Rachel Green']	All right, listen, missy. If you want this cart, you're gonna have to take me with it!	"[['All', 'right', ',', 'listen', ',', 'missy', '.'], ['If', 'you', 'want', 'this', 'cart', ',', 'you', ""'re"", 'gon', 'na', 'have', 'to', 'take', 'me', 'with', 'it', '!']]"	Mad
+s01	e05	c15	u014	['Rachel Green']	Yes! Did you see that?	[['Yes', '!'], ['Did', 'you', 'see', 'that', '?']]	Joyful
+s01	e05	c15	u015	['Ross Geller']	You were incredible! Brand new woman, ladies and gentlemen.	[['You', 'were', 'incredible', '!'], ['Brand', 'new', 'woman', ',', 'ladies', 'and', 'gentlemen', '.']]	Joyful
+s01	e05	c15	u016	['Rachel Green']	I could not have done this without you.	[['I', 'could', 'not', 'have', 'done', 'this', 'without', 'you', '.']]	Joyful
+s01	e05	c15	u018	['Ross Geller']	Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.	"[['Ok', ',', 'um', ',', 'uh', ',', 'more', 'clothes', 'in', 'the', 'dryer', '?'], ['I', ""'m"", 'fine', ',', 'I', ""'m"", 'fine', '.']]"	Peaceful
+s01	e05	c15	u019	['Rachel Green']	Are you sure?	[['Are', 'you', 'sure', '?']]	Neutral
+s01	e05	c15	u020	['Ross Geller']	No.	[['No', '.']]	Mad
+s01	e05	c16	u001	['Rachel Green']	Oh, are you sure you're ok?	"[['Oh', ',', 'are', 'you', 'sure', 'you', ""'re"", 'ok', '?']]"	Neutral
+s01	e05	c16	u002	['Ross Geller']	Yeah.	[['Yeah', '.']]	Neutral
+s01	e05	c16	u003	['Rachel Green']	Does it still hurt?	[['Does', 'it', 'still', 'hurt', '?']]	Scared
+s01	e05	c16	u004	['Ross Geller']	Yeah.	[['Yeah', '.']]	Joyful
+s01	e05	c16	u005	['Phoebe Buffay']	What a neat idea. All your clothes match. I'm gonna do this.	"[['What', 'a', 'neat', 'idea', '.'], ['All', 'your', 'clothes', 'match', '.'], ['I', ""'m"", 'gon', 'na', 'do', 'this', '.']]"	Joyful
+s01	e05	c16	u007	['Monica Geller']	Hi.	[['Hi', '.']]	Neutral
+s01	e05	c16	u008	['Phoebe Buffay']	Hey, how'd it go?	"[['Hey', ',', 'how', ""'d"", 'it', 'go', '?']]"	Neutral
+s01	e05	c16	u009	['Joey Tribbiani']	Excellent.	[['Excellent', '.']]	Joyful
+s01	e05	c16	u010	['Monica Geller']	We ripped that couple apart, and kept the pieces for ourselves.	[['We', 'ripped', 'that', 'couple', 'apart', ',', 'and', 'kept', 'the', 'pieces', 'for', 'ourselves', '.']]	Neutral
+s01	e05	c16	u011	['Ross Geller']	What a beautiful story. Hey, I'm fine by the way.	"[['What', 'a', 'beautiful', 'story', '.'], ['Hey', ',', 'I', ""'m"", 'fine', 'by', 'the', 'way', '.']]"	Mad
+s01	e05	c16	u012	['Monica Geller']	Oh, I'm sorry.	"[['Oh', ',', 'I', ""'m"", 'sorry', '.']]"	Sad
+s01	e05	c16	u013	['Rachel Green']	Where's Chandler?	"[['Where', ""'s"", 'Chandler', '?']]"	Neutral
+s01	e05	c16	u014	['Phoebe Buffay']	Oh, he needed some time to grieve.	[['Oh', ',', 'he', 'needed', 'some', 'time', 'to', 'grieve', '.']]	Neutral
+s01	e05	c16	u016	['Chandler Bing']	I'm free! I'm free!	"[['I', ""'m"", 'free', '!'], ['I', ""'m"", 'free', '!']]"	Joyful
+s01	e05	c16	u017	['Phoebe Buffay']	That oughta do it.	[['That', 'oughta', 'do', 'it', '.']]	Neutral

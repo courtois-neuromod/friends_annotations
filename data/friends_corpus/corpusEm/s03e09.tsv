@@ -1,0 +1,21 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s03	e09	c01	u002	['The Guys']	Yes! Yes! Yes! Yes! Awww!	[['Yes', '!'], ['Yes', '!'], ['Yes', '!'], ['Yes', '!'], ['Awww', '!']]	Joyful
+s03	e09	c01	u003	['Phoebe Buffay']	Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.	"[['Hey', ',', 'it', ""'s"", 'your', 'Thanksgiving', 'too', ',', ""y'know"", ',', 'instead', 'of', 'watching', 'football', ',', 'you', 'could', 'help', '.']]"	Neutral
+s03	e09	c01	u004	['The Guys']	We will.	[['We', 'will', '.']]	Peaceful
+s03	e09	c01	u005	['Monica Geller']	Okay, Rachel, you wanna put the marshmellows in concentric circles.	[['Okay', ',', 'Rachel', ',', 'you', 'wan', 'na', 'put', 'the', 'marshmellows', 'in', 'concentric', 'circles', '.']]	Neutral
+s03	e09	c01	u006	['Rachel Green']	No Mon, you want to put them in concentric circles. I want to do this.	[['No', 'Mon', ',', 'you', 'want', 'to', 'put', 'them', 'in', 'concentric', 'circles', '.'], ['I', 'want', 'to', 'do', 'this', '.']]	Neutral
+s03	e09	c01	u008	['Monica Geller']	Every year.	[['Every', 'year', '.']]	Neutral
+s03	e09	c05	u002	['Rachel Green']	We should defiantly play football more often. Maybe there's a like league we could join or something.	"[['We', 'should', 'defiantly', 'play', 'football', 'more', 'often', '.'], ['Maybe', 'there', ""'s"", 'a', 'like', 'league', 'we', 'could', 'join', 'or', 'something', '.']]"	Joyful
+s03	e09	c05	u003	['Phoebe Buffay']	Isn't there a national football league.	"[['Is', ""n't"", 'there', 'a', 'national', 'football', 'league', '.']]"	Neutral
+s03	e09	c05	u004	['Chandler Bing']	Yes. Yes, there is, they play on Sundays and Monday nights.	[['Yes', '.'], ['Yes', ',', 'there', 'is', ',', 'they', 'play', 'on', 'Sundays', 'and', 'Monday', 'nights', '.']]	Neutral
+s03	e09	c05	u005	['Rachel Green']	Oh shoot! I work Monday nights.	[['Oh', 'shoot', '!'], ['I', 'work', 'Monday', 'nights', '.']]	Sad
+s03	e09	c05	u006	['Phoebe Buffay']	Umm, this stuffing is amazing. Do you think we should bring them some?	[['Umm', ',', 'this', 'stuffing', 'is', 'amazing', '.'], ['Do', 'you', 'think', 'we', 'should', 'bring', 'them', 'some', '?']]	Joyful
+s03	e09	c05	u007	['Joey Tribbiani']	When they're hungry enough, they'll come in.	"[['When', 'they', ""'re"", 'hungry', 'enough', ',', 'they', ""'ll"", 'come', 'in.']]"	Neutral
+s03	e09	c06	u002	['Monica Geller']	Let go!	[['Let', 'go', '!']]	Mad
+s03	e09	c06	u003	['Ross Geller']	No! You let go!	[['No', '!'], ['You', 'let', 'go', '!']]	Mad
+s03	e09	c06	u004	['Monica Geller']	No!	[['No', '!']]	Mad
+s03	e09	c06	u005	['Ross Geller']	How come it's always us left in the field holding the ball?	"[['How', 'come', 'it', ""'s"", 'always', 'us', 'left', 'in', 'the', 'field', 'holding', 'the', 'ball', '?']]"	Neutral
+s03	e09	c06	u006	['Monica Geller']	I don't know. I guess the other people just don't care enough.	"[['I', 'do', ""n't"", 'know', '.'], ['I', 'guess', 'the', 'other', 'people', 'just', 'do', ""n't"", 'care', 'enough', '.']]"	Mad
+s03	e09	c06	u008	['Ross Geller']	Hey! It's starting to snow.	"[['Hey', '!'], ['It', ""'s"", 'starting', 'to', 'snow', '.']]"	Joyful
+s03	e09	c06	u010	['Ross Geller']	Gimme the this!	[['Gim', 'me', 'the', 'this', '!']]	Mad
+s03	e09	c06	u011	['Monica Geller']	Let go!	[['Let', 'go', '!']]	Mad

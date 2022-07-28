@@ -1,0 +1,43 @@
+season	episode	scene	utterance	speaker	transcript	tokens	emotion
+s04	e16	c01	u002	['Monica Geller']	What is it hon?	[['What', 'is', 'it', 'hon', '?']]	Scared
+s04	e16	c01	u003	['Phoebe Buffay']	I-I can't find anything that I want to eat! Everything I eat makes me nauseous! I'm telling you, being pregnant is no piece of cake-ooh! Cake! No.	"[['I', '-', 'I', 'ca', ""n't"", 'find', 'anything', 'that', 'I', 'want', 'to', 'eat', '!'], ['Everything', 'I', 'eat', 'makes', 'me', 'nauseous', '!'], ['I', ""'m"", 'telling', 'you', ',', 'being', 'pregnant', 'is', 'no', 'piece', 'of', 'cake', '-', 'ooh', '!'], ['Cake', '!'], ['No', '.']]"	Joyful
+s04	e16	c01	u004	['Monica Geller']	Aww, honey I'm sorry.	"[['Aww', ',', 'honey', 'I', ""'m"", 'sorry', '.']]"	Sad
+s04	e16	c01	u005	['Phoebe Buffay']	God! Ooh! What is that smell? It's coming from the bathroom. Ooh!	"[['God', '!'], ['Ooh', '!'], ['What', 'is', 'that', 'smell', '?'], ['It', ""'s"", 'coming', 'from', 'the', 'bathroom', '.'], ['Ooh', '!']]"	Scared
+s04	e16	c01	u006	['Chandler Bing']	Wow! Pregnancy does give you some weird cravings.	[['Wow', '!'], ['Pregnancy', 'does', 'give', 'you', 'some', 'weird', 'cravings', '.']]	Peaceful
+s04	e16	c01	u008	['Joey Tribbiani']	Yeah?	[['Yeah', '?']]	Joyful
+s04	e16	c01	u009	['Phoebe Buffay']	It's me. It's Phoebe. Listen there's something in here I want to eat, what-what smells so good?	"[['It', ""'s"", 'me', '.'], ['It', ""'s"", 'Phoebe', '.'], ['Listen', 'there', ""'s"", 'something', 'in', 'here', 'I', 'want', 'to', 'eat', ',', 'what', '-', 'what', 'smells', 'so', 'good', '?']]"	Joyful
+s04	e16	c01	u011	['Joey Tribbiani']	Is it the shampoo? It's guava.	"[['Is', 'it', 'the', 'shampoo', '?'], ['It', ""'s"", 'guava', '.']]"	Neutral
+s04	e16	c01	u012	['Phoebe Buffay']	No!	[['No', '!']]	Peaceful
+s04	e16	c01	u013	['Joey Tribbiani']	Oh! Wait-wait! Is it my bologna sandwich?	[['Oh', '!'], ['Wait', '-', 'wait', '!'], ['Is', 'it', 'my', 'bologna', 'sandwich', '?']]	Joyful
+s04	e16	c01	u014	['Phoebe Buffay']	Yes. Yes. Yes. I can't believe it! The baby wants bologna! Maybe he wants me to eat meat? I can't eat meat!	"[['Yes', '.'], ['Yes', '.'], ['Yes', '.'], ['I', 'ca', ""n't"", 'believe', 'it', '!'], ['The', 'baby', 'wants', 'bologna', '!'], ['Maybe', 'he', 'wants', 'me', 'to', 'eat', 'meat', '?'], ['I', 'ca', ""n't"", 'eat', 'meat', '!']]"	Joyful
+s04	e16	c01	u015	['Joey Tribbiani']	Oh, wait-wait! Maybe it's a pickle?!	"[['Oh', ',', 'wait', '-', 'wait', '!'], ['Maybe', 'it', ""'s"", 'a', 'pickle', '?!']]"	Joyful
+s04	e16	c03	u002	['Joshua Burgin']	Okay!	[['Okay', '!']]	Powerful
+s04	e16	c03	u003	['Rachel Green']	Oh, here's that trench-coat that you wanted.	"[['Oh', ',', 'here', ""'s"", 'that', 'trench', '-', 'coat', 'that', 'you', 'wanted', '.']]"	Powerful
+s04	e16	c03	u004	['Joshua Burgin']	Oh great! Wow! Yeah, it's comfortable.	"[['Oh', 'great', '!'], ['Wow', '!'], ['Yeah', ',', 'it', ""'s"", 'comfortable', '.']]"	Powerful
+s04	e16	c03	u005	['Rachel Green']	Yeah?	[['Yeah', '?']]	Powerful
+s04	e16	c03	u006	['Joshua Burgin']	Man, I could really flash somebody in this thing.	[['Man', ',', 'I', 'could', 'really', 'flash', 'somebody', 'in', 'this', 'thing', '.']]	Powerful
+s04	e16	c03	u007	['Rachel Green']	Oh no-no, no-no, they don't want you to put your hands in the pockets until you are out of the store.	"[['Oh', 'no', '-', 'no', ',', 'no', '-', 'no', ',', 'they', 'do', ""n't"", 'want', 'you', 'to', 'put', 'your', 'hands', 'in', 'the', 'pockets', 'until', 'you', 'are', 'out', 'of', 'the', 'store', '.']]"	Peaceful
+s04	e16	c03	u008	['Joshua Burgin']	Why not?!	[['Why', 'not', '?!']]	Joyful
+s04	e16	c03	u009	['Rachel Green']	Well, that's because of a lot of...	"[['Well', ',', 'that', ""'s"", 'because', 'of', 'a', 'lot', 'of', '...']]"	Peaceful
+s04	e16	c03	u010	['Joshua Burgin']	Y'know, they ruin it for everybody.	"[[""Y'know"", ',', 'they', 'ruin', 'it', 'for', 'everybody', '.']]"	Powerful
+s04	e16	c03	u011	['Rachel Green']	I know!	[['I', 'know', '!']]	Powerful
+s04	e16	c03	u012	['Joshua Burgin']	Y'know, I wore that cashmere sweater on a date last night.	"[[""Y'know"", ',', 'I', 'wore', 'that', 'cashmere', 'sweater', 'on', 'a', 'date', 'last', 'night', '.']]"	Sad
+s04	e16	c03	u013	['Rachel Green']	Oh?	[['Oh', '?']]	Powerful
+s04	e16	c03	u014	['Joshua Burgin']	Yeah, it was my first date since the uh, since the divorce.	[['Yeah', ',', 'it', 'was', 'my', 'first', 'date', 'since', 'the', 'uh', ',', 'since', 'the', 'divorce', '.']]	Powerful
+s04	e16	c03	u015	['Rachel Green']	Well, congratulations, so do you love her?	[['Well', ',', 'congratulations', ',', 'so', 'do', 'you', 'love', 'her', '?']]	Joyful
+s04	e16	c03	u016	['Joshua Burgin']	No, no, no, she's nice but, y'know, it just it made me realize that I'm just not, I'm just not ready to be dating, y'know?	"[['No', ',', 'no', ',', 'no', ',', 'she', ""'s"", 'nice', 'but', ',', ""y'know"", ',', 'it', 'just', 'it', 'made', 'me', 'realize', 'that', 'I', ""'m"", 'just', 'not', ',', 'I', ""'m"", 'just', 'not', 'ready', 'to', 'be', 'dating', ',', ""y'know"", '?']]"	Peaceful
+s04	e16	c03	u017	['Rachel Green']	Huh. Well, uh, that's uh, that's interesting.	"[['Huh', '.'], ['Well', ',', 'uh', ',', 'that', ""'s"", 'uh', ',', 'that', ""'s"", 'interesting', '.']]"	Peaceful
+s04	e16	c03	u018	['Joshua Burgin']	Hey-whoa-hey-hey, what was that?	[['Hey', '-', 'whoa', '-', 'hey', '-', 'hey', ',', 'what', 'was', 'that', '?']]	Powerful
+s04	e16	c03	u019	['Rachel Green']	Oh, it's just an anti-theft device.	"[['Oh', ',', 'it', ""'s"", 'just', 'an', 'anti-theft', 'device', '.']]"	Scared
+s04	e16	c03	u020	['Joshua Burgin']	Then uh, what's-what's this?	"[['Then', 'uh', ',', 'what', ""'s"", '-', 'what', ""'s"", 'this', '?']]"	Joyful
+s04	e16	c03	u021	['Rachel Green']	You need that, you need that too 'cause obviously, a thief could just tear this up.	"[['You', 'need', 'that', ',', 'you', 'need', 'that', 'too', ""'cause"", 'obviously', ',', 'a', 'thief', 'could', 'just', 'tear', 'this', 'up', '.']]"	Scared
+s04	e16	c07	u002	['Joey Tribbiani']	Oooh, what you got there?	[['Oooh', ',', 'what', 'you', 'got', 'there', '?']]	Neutral
+s04	e16	c07	u003	['Phoebe Buffay']	Pastrami.	[['Pastrami', '.']]	Neutral
+s04	e16	c07	u004	['Joey Tribbiani']	Oh-ho-ho, yeah! Hey! Y'know what goes good with that?	"[['Oh', '-', 'ho', '-', 'ho', ',', 'yeah', '!'], ['Hey', '!'], [""Y'know"", 'what', 'goes', 'good', 'with', 'that', '?']]"	Neutral
+s04	e16	c07	u005	['Phoebe Buffay']	Hm-mm, corn beef.	[['Hm', '-', 'mm', ',', 'corn', 'beef', '.']]	Neutral
+s04	e16	c07	u006	['Joey Tribbiani']	Ooh, I was gonna say bologna, but that's much better. How about a little of that smoked turkey?	"[['Ooh', ',', 'I', 'was', 'gon', 'na', 'say', 'bologna', ',', 'but', 'that', ""'s"", 'much', 'better', '.'], ['How', 'about', 'a', 'little', 'of', 'that', 'smoked', 'turkey', '?']]"	Neutral
+s04	e16	c07	u007	['Phoebe Buffay']	Okay.	[['Okay', '.']]	Neutral
+s04	e16	c07	u008	['Joey Tribbiani']	Oh mama! Uh when-when is the baby due?	[['Oh', 'mama', '!'], ['Uh', 'when', '-', 'when', 'is', 'the', 'baby', 'due', '?']]	Joyful
+s04	e16	c07	u009	['Phoebe Buffay']	Six months.	[['Six', 'months', '.']]	Neutral
+s04	e16	c07	u010	['Joey Tribbiani']	Ugh. Now if a cow should die of natural causes, I can have one of those right?	[['Ugh', '.'], ['Now', 'if', 'a', 'cow', 'should', 'die', 'of', 'natural', 'causes', ',', 'I', 'can', 'have', 'one', 'of', 'those', 'right', '?']]	Neutral
+s04	e16	c07	u011	['Phoebe Buffay']	Not if I get there first.	[['Not', 'if', 'I', 'get', 'there', 'first', '.']]	Neutral
