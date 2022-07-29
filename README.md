@@ -17,14 +17,26 @@ Output: .tsv files containing three columns: segment onset (in s), duration (s),
 
 **CAPTIONS**
 
-pending: captions realigned with the timing of the C-Neuromod runs (half episodes), with timestamps for each word
+pending: captions realigned with the timing of the C-Neuromod runs (half episodes), with timestamps for each word. 
+
+
+**Google speech to text**
+Google speech to text uses mono audio files to generate timestamps of the words recognized in said audios. The tool's performance is only as good as to how simple the audio is: having other sounds and noise makes accuracy drop. All code and necessary information can be found on the corpusdev branch in src/google_speech_to_text
+
+Input: .wav mono audio files (half episodes)\
+Output: .tsv files containing three columns: word, start_time (in s), end_time (in s). The output is found on the corpusdev branch in annotation_results/textAligned/google_speech_to_text
+
+
+
+**Martin's code**
+Martin Jammes, an ex lab member, came up with code that takes audio files and with the help of google speech to text, gives timestamps of the words present in the appropriate captions file, words matched with the audio files. The code has trouble with said matching because the friends episode shown to subjects have cuts (removing the intro song + seperating and part a and b). The plan for said tool is to use the Martin's output on uncut audio files and then make changes to the timestamps with information on the cuts made to videos. See src/martin_code/readme.txt on the corpusdev branch for information on the progress made. 
 
 
 
 **FRIENDS_CORPUS**
 
 pending: annotated utterances from the <a href="https://convokit.cornell.edu/documentation/friends.html">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
-
+At the moment, only the extraction of the data from the raw data has been done. Relevant information can be found on the corpusdev branch in  data/friends_corpus/readme.txt
 
 
 **MELD**
