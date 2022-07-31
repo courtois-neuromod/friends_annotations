@@ -1,0 +1,2546 @@
+89.8: How'd
+89.9: someone
+90.0: get
+90.1: your
+90.2: credit
+91.9: card
+92.1: number?
+
+92.2: I
+92.4: have
+92.6: no
+92.8: idea.
+93.0: Look
+93.2: how
+93.4: much
+93.6: they
+93.8: spent!
+
+95.8: Calm
+96.1: down.
+96.7: You
+97.2: only
+97.4: have
+97.6: to
+97.6: pay
+97.8: for
+97.9: the
+98.0: stuff
+98.2: you
+98.4: bought.
+
+98.8: Still,
+98.9: it's
+98.9: just
+99.0: such
+99.0: reckless
+99.1: spending.
+
+102.2: When
+102.4: somebody
+102.8: steals
+103.4: your
+103.6: credit
+103.8: card...
+
+103.7: ...they've
+105.7: kind
+107.7: of
+109.7: already
+111.7: thrown
+113.7: caution
+115.7: to
+117.7: the
+119.7: wind.
+
+110.0: Wow,
+112.0: what
+114.0: a
+116.0: geek.
+118.0: They
+120.0: spent
+122.0: $69.95
+124.0: on
+126.0: a
+128.0: Wonder
+130.0: Mop.
+
+116.5: That's
+116.7: me.
+
+120.4: Oh!
+120.6: Oh,
+120.8: the
+121.0: yuck.
+
+123.3: He's
+123.5: doing
+123.7: it
+123.9: again!
+
+124.9: Marcel,
+125.1: stop
+125.3: humping
+125.5: the
+125.7: lamp!
+
+127.4: Stop
+127.6: humping!
+127.8: Now,
+128.0: Marcel,
+128.2: come
+128.4: back!
+
+129.9: Come
+130.1: here,
+130.3: Marcel!
+
+131.2: Oh,
+131.4: no,
+131.6: no!
+131.8: Not
+132.0: in
+132.2: my
+132.4: room!
+132.6: I'll
+132.8: get
+133.0: him.
+
+133.6: You've
+133.8: got
+134.0: to
+134.2: do
+134.4: something
+134.6: about
+134.8: the
+135.0: humping.
+
+136.8: What?
+137.0: It's
+137.2: just
+137.4: a
+137.6: phase.
+
+139.2: Well,
+139.4: that's
+139.6: what
+139.8: we
+140.0: said
+140.2: about
+140.4: Joey.
+
+144.2: Hey,
+146.2: would
+148.2: you
+150.2: all
+152.2: relax?
+154.2: It's
+156.2: not
+158.2: that
+160.2: big
+162.2: a
+164.2: deal.
+
+147.8: Marcel,
+148.0: stop
+148.2: it!
+148.4: Marcel!
+148.6: Bad
+148.8: monkey!
+
+150.3: Ugh!
+
+152.2: Let's
+152.4: just
+152.6: say
+152.8: my
+153.0: Curious
+153.2: George
+153.4: doll
+153.6: is
+153.8: no
+154.0: longer
+154.2: curious.
+
+207.0: Ugh,
+208.2: Monica,
+209.3: you
+209.5: are
+209.7: not
+209.9: still
+210.1: going
+210.3: over
+210.5: that
+210.7: thing.
+
+210.8: This
+211.0: woman's
+211.2: living
+211.4: my
+211.6: life.
+211.8: What?
+
+214.1: She's
+214.3: living
+214.5: my
+214.7: life,
+214.9: and
+215.1: she's
+215.3: doing
+215.5: it
+215.7: better
+215.9: than
+216.1: me.
+
+218.2: Look
+218.4: at
+218.6: this.
+218.8: Look.
+
+220.4: She
+220.6: buys
+220.8: tickets
+221.0: to
+221.2: plays
+221.4: I
+221.6: want
+221.8: to
+222.0: see.
+
+223.2: She
+223.4: shops
+223.6: at
+223.8: stores
+224.0: that
+224.2: I'm
+224.4: intimidated
+224.6: by
+224.8: the
+225.0: salespeople.
+
+227.6: She
+227.8: spent
+228.0: $300
+228.2: on
+228.4: art
+228.6: supplies.
+
+229.5: You're
+229.7: not
+229.9: an
+230.1: artist.
+
+231.0: Yeah,
+231.2: well,
+231.4: I
+231.6: might
+231.8: be
+232.0: if
+232.2: I
+232.4: had
+232.6: the
+232.8: supplies.
+
+234.8: I
+235.0: mean,
+235.2: I
+235.4: could
+235.6: do
+235.8: all
+236.0: this
+236.2: stuff.
+236.4: Only
+236.6: I
+236.8: don't.
+
+239.6: Oh,
+239.8: Monica,
+240.0: come
+240.2: on.
+240.4: You
+240.6: do
+240.8: cool
+241.0: things.
+
+242.2: Oh,
+242.4: really?
+242.6: Let's
+242.8: compare,
+243.0: shall
+243.2: we?
+
+244.6: Oh,
+244.8: it's
+245.0: so
+245.2: late
+245.4: for
+245.6: "shall
+245.8: we?"
+
+248.7: Do
+248.9: I
+249.1: go
+249.3: horseback
+249.5: riding
+249.7: in
+249.9: the
+250.1: park,
+250.3: hmm?
+
+251.3: Do
+251.5: I
+251.7: take
+251.9: classes
+252.1: at
+252.3: The
+252.5: New
+252.7: School?
+
+253.4: No.
+253.6: No.
+
+256.0: This
+256.2: is
+256.4: so
+256.6: unfair.
+
+257.5: She's
+257.7: got
+257.9: everything
+258.1: I
+258.3: want,
+258.5: and
+258.7: she
+258.9: doesn't
+259.1: have
+259.3: my
+259.5: mother.
+
+269.3: How
+269.5: about
+269.7: Joey
+269.9: Paponi?
+
+271.7: No,
+271.8: still
+271.8: too
+271.9: ethnic.
+272.0: My
+272.0: agent
+272.1: thinks
+272.2: I
+272.3: should
+272.3: have
+272.4: a
+273.4: name
+274.5: that's
+275.5: more
+275.7: neutral.
+
+276.1: Joey
+276.3: Switzerland?
+
+282.8: Plus
+283.0: I
+283.2: think
+283.4: it
+283.6: should
+283.8: be
+284.0: Joe.
+284.2: Joey
+284.4: makes
+284.6: me
+284.8: sound
+285.0: like
+285.2: I'm...
+
+287.3: ...this
+287.5: big.
+
+288.7: Which
+288.9: I'm
+289.1: not!
+
+292.5: Joe,
+292.7: Joe,
+292.9: Joe...
+293.1: Stalin?
+
+297.4: Stalin.
+
+300.1: Do
+300.3: I
+300.5: know
+300.7: that
+300.9: name?
+301.1: That
+301.3: sounds
+301.5: familiar.
+
+302.8: Well,
+303.0: it
+303.2: does
+303.4: not
+303.6: ring
+303.8: a
+304.0: bell
+304.2: with
+304.4: me.
+304.6: Huh.
+
+306.5: Joe
+306.7: Stalin.
+
+312.0: You
+312.2: know,
+312.4: that's
+312.6: pretty
+312.8: good.
+
+314.5: You
+314.7: might
+314.9: want
+315.1: to
+315.3: try
+315.5: Joseph.
+315.7: Ah!
+
+322.9: Joseph
+323.1: Stalin!
+
+326.0: I
+326.2: think
+326.4: you'd
+326.6: remember
+326.8: that!
+327.0: Oh,
+327.2: yes!
+
+330.0: Bye
+330.2: Bye
+330.4: Birdie,
+330.6: starring
+330.8: Joseph
+331.0: Stalin.
+
+332.9: Joseph
+333.1: Stalin
+333.3: is
+333.5: the
+333.7: Fiddler
+333.9: on
+334.1: the
+334.3: Roof.
+
+344.8: Hey.
+345.0: Hey.
+
+346.2: Hi.
+
+349.6: Hi.
+349.8: Uh,
+350.0: yes,
+350.2: this
+350.4: is
+350.6: Monica
+350.8: Geller.
+
+352.0: Um,
+354.0: I'm
+356.0: taking
+358.0: classes
+360.0: with
+362.0: you,
+364.0: and
+366.0: I
+368.0: was
+370.0: wondering
+372.0: what
+374.0: they
+376.0: were.
+
+358.5: What
+358.7: are
+358.9: you
+359.1: doing?
+
+360.3: All
+360.5: right,
+360.7: great.
+
+361.8: Great.
+362.5: Thanks
+363.1: a
+363.3: lot.
+
+363.9: I'm
+364.1: going
+364.3: to
+364.5: tap
+364.7: class.
+
+365.9: So
+366.1: you
+366.3: can
+366.5: dance
+366.7: with
+366.9: the
+367.1: woman
+367.3: that
+367.5: stole
+367.7: your
+367.9: card?
+
+369.4: She's
+369.6: got
+369.8: my
+370.0: life.
+370.2: I
+370.4: want
+370.6: to
+370.8: see
+371.0: who
+371.2: she
+371.4: is.
+
+371.9: Go
+372.1: to
+372.3: the
+372.5: post
+372.7: office!
+372.9: I'm
+373.1: sure
+373.3: her
+373.5: picture's
+373.7: up!
+
+376.2: Honey,
+376.4: you're
+376.6: kind
+376.8: of
+377.0: losing
+377.2: it
+377.4: here.
+
+378.4: This
+378.6: is
+378.8: really
+379.0: becoming
+379.2: a
+379.4: weird
+379.6: obsession.
+
+381.4: This
+381.5: is
+381.6: madness,
+381.7: I
+381.8: tell
+381.9: you.
+
+383.4: For
+383.6: the
+383.8: love
+384.0: of
+384.2: God,
+384.4: Monica,
+384.6: don't
+384.8: do
+385.0: it!
+
+389.1: Thank
+389.3: you.
+
+398.4: What
+398.6: do
+398.8: you
+399.0: think?
+
+400.2: Lots
+400.4: of
+400.6: things.
+
+403.2: Which
+403.4: one
+403.6: do
+403.8: you
+404.0: think
+404.2: she
+404.4: is?
+
+405.3: May
+405.5: I
+405.7: help
+405.9: you?
+406.1: Oh,
+406.3: no,
+406.5: thanks.
+
+407.1: We're
+407.3: just
+407.5: here
+407.7: to
+407.9: observe.
+
+409.0: You
+409.2: don't
+409.4: observe
+409.6: a
+409.8: dance
+410.0: class.
+410.2: You
+410.4: dance
+410.6: a
+410.8: dance
+411.0: class!
+
+413.0: Spare
+413.2: shoes
+413.4: are
+413.6: over
+413.8: there.
+
+417.7: What
+417.9: does
+418.1: she
+418.3: mean?
+
+419.2: I
+419.4: think
+419.6: she
+419.8: means,
+420.0: "You
+420.2: dance...
+
+421.2: ...a
+421.4: dance
+421.6: class!"
+
+423.1: Come
+423.3: on,
+423.5: come
+423.7: on,
+423.9: come
+424.1: on!
+
+425.1: Really?
+
+427.0: Hey,
+427.2: do
+427.4: you
+427.6: see
+427.8: anybody
+428.0: you
+428.2: think
+428.4: could
+428.6: be
+428.8: me?
+
+429.9: People,
+430.1: last
+430.3: time
+430.5: there
+430.7: were
+430.9: yogurt
+431.1: containers
+431.3: lying
+431.5: around
+431.7: after
+431.9: class.
+
+434.7: Let's
+434.9: not
+435.1: have
+435.3: that
+435.5: happen
+435.7: again!
+
+437.3: She
+437.5: could
+437.7: be
+437.9: you.
+
+443.7: Let's
+443.9: get
+444.1: started.
+
+445.6: Five,
+445.8: six.
+446.0: Five,
+446.2: six,
+446.4: seven,
+446.6: eight.
+
+454.4: Okay,
+454.6: I'm
+454.8: not
+455.0: getting
+455.2: this!
+
+456.4: I'm
+456.6: totally
+456.8: getting
+457.0: it!
+
+463.6: Do
+463.8: you
+464.0: ever
+464.2: just
+464.4: feel
+464.6: like
+464.8: you're
+465.0: so
+465.2: unbelievably
+465.4: uncoordinated?
+
+475.2: What?
+475.4: You
+475.6: just
+475.8: click
+476.0: when
+476.2: they
+476.4: click.
+
+479.3: All
+479.5: right.
+479.7: Now
+479.9: everyone
+480.1: grab
+480.3: a
+480.5: partner.
+
+481.9: Oh!
+482.1: Oh.
+
+483.6: All
+483.8: right.
+484.0: And
+484.2: my
+484.4: dead
+484.6: mother
+484.8: said
+485.0: you
+485.2: are
+485.4: it!
+485.6: I'm
+485.8: with
+486.0: Rachel.
+
+489.0: Great,
+489.2: it's
+489.4: gym
+489.6: class
+489.8: all
+490.0: over
+490.2: again.
+
+491.9: Aww.
+
+493.9: That's
+494.1: all
+494.3: right.
+494.5: You
+494.7: can
+494.9: come
+495.1: up
+495.3: to
+495.5: the
+495.7: front
+495.9: and
+496.1: dance
+496.3: with
+496.5: me.
+
+498.4: Why
+498.6: don't
+498.8: I
+499.0: just
+499.2: take
+499.4: off
+499.6: my
+499.8: clothes
+500.0: and
+500.2: have
+500.4: a
+500.6: nightmare?
+
+507.2: It's
+507.4: okay,
+507.6: it's
+507.8: okay!
+508.0: I'm
+508.2: here,
+508.4: I'm
+508.6: here.
+508.8: I'm
+509.0: so
+509.2: sorry
+509.4: I'm
+509.6: late.
+
+512.1: Okay,
+512.3: here
+512.5: I
+512.7: am.
+
+513.5: So
+513.7: who's
+513.9: the
+514.1: new
+514.3: tense
+514.5: girl?
+
+516.5: She's
+516.7: your
+516.9: partner.
+
+517.9: Hi,
+518.1: I'm
+518.3: Monica.
+518.5: Hi.
+
+521.1: Oh,
+521.3: ha.
+
+522.5: Monica.
+
+525.3: Hi,
+525.5: I'm
+525.7: Mon...
+
+527.0: Nana.
+
+528.2: Monana?
+528.4: Yeah.
+
+531.4: It's
+531.6: Dutch.
+
+532.7: You're
+532.9: kidding.
+533.1: I
+533.3: spent
+533.5: three
+533.7: years
+533.9: in
+534.1: Amsterdam.
+
+535.5: [SPEAKING
+535.7: IN
+535.9: DUTCH]
+
+538.9: Um,
+539.1: Pennsylvania
+539.3: Dutch.
+
+543.2: And
+543.4: we're
+543.6: dancing!
+
+544.7: Five,
+544.9: six,
+545.1: seven,
+545.3: eight.
+
+554.5: Hi.
+
+557.6: Hey.
+557.8: Hey.
+
+559.5: Where
+559.7: have
+559.9: you
+560.1: been?
+560.3: I
+560.5: just
+560.7: got
+560.9: back
+561.1: from
+561.3: the
+561.5: vet.
+
+562.9: She's
+563.1: not
+563.3: gonna
+563.5: make
+563.7: you
+563.9: wear
+564.1: a
+564.3: big
+564.5: plastic
+564.7: cone,
+564.9: is
+565.1: she?
+
+569.6: She
+569.8: says
+570.0: Marcel's
+570.2: humping
+570.4: thing
+570.6: is
+570.8: not
+571.0: a
+571.2: phase.
+
+572.8: Apparently,
+573.0: he's
+573.2: reached
+573.4: sexual
+573.6: maturity.
+
+576.9: Hey,
+577.1: he
+577.3: beat
+577.5: you!
+
+582.9: She
+583.1: says,
+583.3: as
+583.5: time
+583.7: goes
+583.9: on,
+584.1: he'll
+584.3: start
+584.5: getting
+584.7: aggressive
+584.9: and
+585.1: violent.
+
+588.1: What
+588.3: does
+588.5: this
+588.7: mean?
+
+591.9: I
+592.1: have
+592.3: to
+592.5: give
+592.7: him
+592.9: up.
+
+610.5: I
+610.7: can't
+610.9: believe
+611.1: it.
+611.3: This
+611.5: sucks!
+
+613.8: You
+615.8: just
+617.8: got
+619.8: him.
+621.8: How
+623.8: could
+625.8: he
+627.8: be
+629.8: an
+631.8: adult
+633.8: already?
+
+617.4: I
+617.6: know,
+617.8: I
+618.0: know.
+618.2: One
+618.4: day
+618.6: he's
+618.8: this
+619.0: little
+619.2: thing...
+
+620.9: ...and
+621.1: before
+621.3: you
+621.5: know
+621.7: it,
+621.9: he's
+622.1: this
+622.3: little
+622.5: thing...
+
+623.6: ...I
+623.8: can't
+624.0: get
+624.2: off
+624.4: my
+624.6: leg.
+
+627.6: Isn't
+627.6: there
+627.7: any
+627.8: way
+627.8: you
+628.0: can
+628.2: keep
+628.4: him?
+
+629.6: No.
+629.8: No.
+
+630.8: The
+631.0: vet
+631.2: said
+631.4: that
+631.6: unless
+631.8: he's
+632.0: in
+632.2: a
+632.4: place
+632.6: where
+632.8: he
+633.0: has
+633.2: regular
+633.4: access...
+
+634.8: ...to
+635.0: some
+635.2: monkey
+635.4: loving...
+
+640.1: ...he's
+640.3: just
+640.5: gonna
+640.7: get
+640.9: vicious.
+
+642.3: I
+642.5: just
+642.7: gotta
+642.9: get
+643.1: him
+643.3: into
+643.5: a
+643.7: zoo.
+
+647.0: How
+647.2: do
+647.4: you
+647.6: get
+647.8: a
+648.0: monkey
+648.2: into
+648.4: a
+648.6: zoo?
+648.8: I
+649.0: know
+649.2: that
+649.4: one!
+
+654.3: No,
+654.5: that's
+654.7: popes
+654.9: into
+655.1: a
+655.3: Volkswagen.
+
+658.8: We're
+659.0: applying
+659.2: to
+659.4: a
+659.6: lot
+659.8: of
+660.0: them.
+660.2: Our
+660.4: first
+660.6: choice
+660.8: would
+661.0: be
+661.2: a
+661.4: state
+661.6: zoo.
+
+663.4: You
+663.6: know,
+663.8: like,
+664.0: uh,
+664.2: San
+664.4: Diego.
+
+666.7: Right?
+
+668.5: But
+668.7: that
+668.9: may
+669.1: just
+669.3: be
+669.5: a
+669.7: pipe
+669.9: dream
+670.1: because
+670.3: he's
+670.5: out-of-state.
+
+675.1: My
+675.3: vet
+675.5: knows
+675.7: someone
+675.9: at
+676.1: Miami,
+676.3: so
+676.5: that's
+676.7: a
+676.9: possibility.
+
+679.6: But
+679.8: that's
+680.0: two
+680.2: blocks
+680.4: from
+680.6: the
+680.8: beach.
+681.0: It's
+681.2: a
+681.4: total
+681.6: party
+681.8: zoo.
+
+687.9: Hey.
+
+689.1: Hi.
+689.3: We
+689.5: found
+689.7: the
+689.9: girl!
+
+691.1: What?
+691.3: Did
+691.5: you
+691.7: call
+691.9: the
+692.1: cops?
+
+692.9: Nope.
+693.1: We
+693.3: took
+693.5: her
+693.7: to
+693.9: lunch.
+
+694.6: Ah.
+694.8: Your
+695.0: own
+695.2: brand
+695.4: of
+695.6: vigilante
+695.8: justice.
+
+699.1: Are
+699.3: you
+699.5: insane?
+699.7: This
+699.9: woman
+700.1: stole
+700.3: from
+700.5: you!
+
+701.9: She
+702.1: stole!
+702.3: She's
+702.5: a
+702.7: stealer!
+
+705.2: After
+705.4: you're
+705.6: with
+705.8: this
+706.0: woman
+706.2: for
+706.4: 10
+706.6: minutes,
+706.8: you
+707.0: forget
+707.2: all
+707.4: that.
+
+710.4: I
+710.6: mean,
+710.8: she's
+711.0: this
+711.2: astounding
+711.4: person...
+
+713.0: ...with
+713.2: this
+713.4: amazing
+713.6: spirit!
+
+715.4: Yeah,
+715.6: which
+715.8: she
+716.0: probably
+716.2: stole
+716.4: from
+716.6: some
+716.8: cheerleader!
+
+720.8: Take
+721.0: off
+721.2: their
+721.4: hats.
+721.6: Popes
+721.8: in
+722.0: a
+722.2: Volkswagen!
+
+723.3: Mm-hm.
+
+726.5: I
+726.7: love
+726.9: that
+727.1: joke.
+
+731.8: No
+732.0: way!
+732.2: No
+732.4: way
+732.6: did
+732.8: you
+733.0: do
+733.2: this!
+733.4: Monana
+733.6: was
+733.8: very
+734.0: brave.
+
+737.7: It
+737.9: was
+738.1: so
+738.3: wild.
+
+739.1: We
+739.3: told
+739.5: them
+739.7: we
+739.9: were
+740.1: the
+740.3: Gunnersons
+740.5: in
+740.7: room
+740.9: 615...
+
+742.2: ...only
+743.0: to
+743.2: find
+743.4: out
+743.6: the
+743.8: Boston
+744.0: Celtics
+744.2: had
+744.4: the
+744.6: entire
+744.8: sixth
+745.0: floor!
+
+746.2: So
+746.4: when
+746.6: they
+746.8: caught
+747.0: on
+747.2: to
+747.4: the
+747.6: fact
+747.8: that
+748.0: we're
+748.2: short
+748.4: and
+748.6: have
+748.8: breasts...
+
+750.2: They
+750.4: threw
+750.6: us
+750.8: out.
+751.0: I
+751.2: was
+751.4: thrown
+751.6: out
+751.8: of
+752.0: a
+752.2: hotel!
+752.4: Me!
+
+754.1: Go,
+754.3: Monana!
+
+758.2: Well,
+758.4: you
+758.6: ladies
+758.8: are
+759.0: not
+759.2: the
+759.4: only
+759.6: ones
+759.8: living
+760.0: the
+760.2: dream.
+
+762.1: I
+762.3: get
+762.5: to
+762.7: go
+762.9: pour
+763.1: coffee
+763.3: for
+763.5: people
+763.7: I
+763.9: don't
+764.1: know.
+764.3: Don't
+764.5: wait
+764.7: up.
+
+768.4: Oh,
+768.6: by
+768.8: the
+769.0: way...
+
+770.5: ...tomorrow
+770.7: we're
+770.9: auditioning
+771.1: for
+771.3: a
+771.5: Broadway
+771.7: show.
+
+775.2: Excuse
+775.4: me?
+
+776.4: There's
+776.6: an
+776.8: open
+777.0: call
+777.2: for
+777.4: Cats.
+
+778.3: I'm
+778.3: thinking
+778.4: we
+778.6: go
+778.8: down
+779.0: there,
+779.2: sing
+779.4: "Memories"...
+
+781.3: ...and
+781.5: make
+781.7: complete
+781.9: fools
+782.1: of
+782.3: ourselves.
+782.5: What
+782.7: do
+782.9: you
+783.1: say?
+
+785.1: No,
+785.3: no,
+785.5: no.
+
+787.6: Remember
+787.8: who
+788.0: you're
+788.2: dealing
+788.4: with
+788.6: here.
+788.8: Ha.
+
+790.4: I'm
+792.4: not
+794.4: like
+796.4: you.
+798.4: I
+800.4: can't
+802.4: even
+804.4: stand
+806.4: in
+808.4: front
+810.4: of
+812.4: a
+814.4: tap
+816.4: class.
+
+793.8: That's
+794.0: because
+794.2: of
+794.4: your
+794.6: Amish
+794.8: background.
+
+798.1: What?
+798.3: Well,
+798.5: you're
+798.7: Pennsylvania
+798.9: Dutch,
+799.1: right?
+
+801.0: Right.
+
+802.3: Till
+802.5: I
+802.7: bought
+802.9: a
+803.1: blow
+803.3: dryer.
+803.5: Then
+803.7: I
+803.9: was
+804.1: shunned.
+
+807.6: I
+807.8: was
+808.0: just
+808.2: like
+808.4: you.
+
+809.2: And
+809.3: then
+809.5: one
+809.6: day,
+809.7: I
+810.5: saw
+811.2: a
+811.4: movie
+811.6: that
+811.8: changed
+812.0: my
+812.2: life.
+
+813.8: Did
+814.0: you
+814.2: ever
+814.4: see
+814.6: Dead
+814.8: Poets
+815.0: Society?
+815.2: Uh-huh.
+
+816.4: I
+817.5: thought
+817.7: that
+817.9: movie
+818.1: was
+818.3: so
+818.5: incredibly...
+
+820.3: ...boring!
+
+821.9: I
+823.9: mean,
+825.9: that
+827.9: thing
+829.9: at
+831.9: the
+833.9: end
+835.9: where
+837.9: the
+839.9: kid...
+
+824.2: ...kills
+824.3: himself
+824.5: because
+824.6: he
+824.7: can't
+824.8: be
+825.0: in
+825.1: the
+825.3: play?
+
+827.6: What
+827.8: was
+828.0: that?
+
+829.1: It's
+829.3: like,
+829.5: "Kid,
+829.7: wait
+829.9: a
+830.1: year.
+830.3: Leave
+830.5: home,
+830.7: do
+830.9: some
+831.1: community
+831.3: theater!"
+
+835.9: I
+836.1: walked
+836.3: out
+836.5: of
+836.7: there,
+836.9: and
+837.1: I
+837.3: thought:
+
+837.9: "Now,
+838.1: that's
+838.3: two
+838.5: hours
+838.7: of
+838.9: my
+839.1: life
+839.3: that
+839.5: I'm
+839.7: never
+839.9: getting
+840.1: back!"
+
+842.5: And
+842.7: that
+842.9: scared
+843.1: me
+843.3: more
+843.5: than
+843.7: all
+843.9: the
+844.1: other
+844.3: crap
+844.5: I
+844.7: was
+844.9: afraid
+845.1: to
+845.3: do.
+
+846.9: Wow.
+
+848.2: Then
+848.4: I
+848.6: would
+848.8: definitely
+849.0: not
+849.2: recommend
+849.4: Mrs.
+849.6: Doubtfire.
+
+850.6: [LAUGHING]
+
+858.3: Oh,
+858.5: God.
+
+861.5: We
+861.7: didn't
+861.9: get
+862.1: into
+862.3: Scranton.
+
+865.8: That
+866.0: was
+866.2: our
+866.4: safety
+866.6: zoo.
+
+869.4: They
+869.6: take,
+869.8: like,
+870.0: dogs
+870.2: and
+870.4: cows.
+
+874.9: See?
+
+876.4: I
+876.6: don't
+876.8: know
+877.0: who
+877.2: this
+877.4: is
+877.6: harder
+877.8: on,
+878.0: me
+878.2: or
+878.4: him.
+
+880.7: I'd
+880.9: say
+881.1: that
+881.3: chair's
+881.5: taking
+881.7: the
+881.9: brunt
+882.1: of
+882.3: it.
+
+885.6: Marcel.
+885.8: Marcel.
+
+887.7: Marcel,
+887.9: no.
+
+890.6: Good
+890.8: boy!
+
+892.4: See?
+892.6: How
+892.8: can
+893.0: nobody
+893.2: want
+893.4: him?
+
+894.6: Somebody
+894.8: will.
+
+899.5: You
+899.7: know
+899.9: there
+900.1: already
+900.3: is
+900.5: a
+900.7: Joseph
+900.9: Stalin?
+
+907.4: You're
+907.6: kidding!
+
+909.9: Apparently,
+910.1: he
+910.3: was
+910.5: this
+910.7: Russian
+910.9: dictator
+911.1: who
+911.3: slaughtered
+911.5: all
+911.7: these
+911.9: people!
+
+915.9: You'd
+916.1: think
+916.3: you
+916.5: would've
+916.7: known
+916.9: that!
+917.1: You'd
+917.3: think
+917.5: I
+917.7: would've.
+
+922.0: Phoebe,
+922.2: what
+922.4: do
+922.6: you
+922.8: think
+923.0: a
+923.2: good
+923.4: stage
+923.6: name
+923.8: for
+924.0: me
+924.2: would
+924.4: be?
+
+926.5: [CLEARS
+926.7: THROAT]
+
+928.0: Flame
+928.2: Boy!
+
+937.1: Where
+937.3: exactly
+937.5: is
+937.7: your
+937.9: zoo?
+
+939.0: Well,
+939.2: it's
+939.4: technically
+939.6: not
+939.8: a
+940.0: zoo
+940.2: per
+940.4: se.
+
+941.9: It's,
+942.1: uh,
+942.3: more
+942.5: of
+942.7: an
+942.9: interactive
+943.1: wildlife
+943.3: experience.
+
+945.6: Let
+946.1: me
+946.7: ask
+947.2: you
+947.4: some
+947.6: questions
+947.8: about...
+948.0: Is
+948.2: it,
+948.4: uh,
+948.6: Marcel?
+
+948.8: Yes.
+949.0: Yes.
+949.2: Uh...
+
+950.2: Does
+950.4: he,
+950.6: uh,
+950.8: fight
+951.0: with
+951.2: other
+951.4: animals?
+
+953.2: No,
+953.4: no.
+953.6: He's
+953.8: very
+954.0: docile.
+
+955.4: Hmm.
+955.6: Even
+955.8: if
+956.0: he
+956.2: were
+956.4: cornered?
+
+961.7: Well,
+961.9: I
+962.1: don't
+962.3: know.
+962.5: Why?
+
+964.4: Um,
+964.6: how
+964.8: is
+965.0: he
+965.2: at
+965.4: handling
+965.6: small
+965.8: objects?
+
+968.7: He
+968.9: can
+969.1: hold
+969.3: a
+969.5: banana,
+969.7: if
+969.9: that's
+970.1: what
+970.3: you
+970.5: mean.
+
+972.6: What
+972.8: about
+973.0: a
+973.2: hammer
+973.4: or
+973.6: a
+973.8: small
+974.0: blade?
+
+978.5: [STAMMERS]
+978.7: Why
+978.9: would
+979.1: he
+979.3: need
+979.5: a
+979.7: blade?
+
+982.1: If
+982.3: he's
+982.5: up
+982.7: against
+982.9: a
+983.1: jungle
+983.3: cat
+983.5: or
+983.7: an
+983.9: animal
+984.1: with
+984.3: horns...
+
+985.3: ...you
+985.5: got
+985.7: to
+985.9: give
+986.1: the
+986.3: little
+986.5: guy
+986.7: something.
+
+987.6: Otherwise,
+987.8: it's
+988.0: just
+988.2: cruel!
+
+992.6: [PANTING]
+992.8: He
+993.0: got
+993.2: into
+993.4: San
+993.6: Diego!
+
+995.2: What?
+995.4: Yeah.
+
+996.5: We
+996.7: were
+996.9: coming
+997.1: back
+997.3: from
+997.5: our
+997.7: walk,
+997.9: and
+998.1: the
+998.3: phone
+998.5: was
+998.7: ringing...
+
+999.9: He's
+1000.1: in!
+1000.3: He's
+1000.5: in?
+1000.7: Ah!
+
+1001.7: Did
+1001.9: you
+1002.1: hear
+1002.3: that,
+1002.5: Marcel?
+
+1003.7: San
+1003.9: Diego!
+1004.1: San
+1004.3: Diego!
+1004.5: Yeah!
+
+1006.7: You're
+1006.9: making
+1007.1: a
+1007.3: mistake.
+1007.5: San
+1007.7: Diego's
+1007.9: well
+1008.1: and
+1008.3: good...
+
+1010.0: ...but
+1010.2: if
+1010.4: you
+1010.6: give
+1010.8: him
+1011.0: to
+1011.2: me,
+1011.4: I'll
+1011.6: start
+1011.8: him
+1012.0: against
+1012.2: a
+1012.4: blind
+1012.6: rabbit...
+
+1013.5: ...and
+1013.7: give
+1013.9: you
+1014.1: 20
+1014.3: percent
+1014.5: of
+1014.7: the
+1014.9: gate.
+
+1033.7: Yo-ho!
+
+1036.8: Where
+1037.0: have
+1037.2: you
+1037.4: been?
+
+1038.6: Monica
+1038.8: and
+1039.0: I
+1039.2: just
+1039.4: crashed
+1039.6: an
+1039.8: embassy
+1040.0: party.
+
+1042.1: Are
+1042.3: you
+1042.5: drunk?
+
+1043.7: No!
+
+1050.0: I'm
+1050.2: lying.
+
+1051.5: I
+1051.7: am
+1051.9: so
+1052.1: drunk!
+
+1053.9: Oh,
+1054.1: God!
+
+1055.4: Ugh.
+1055.6: Great.
+1055.8: You
+1056.0: know
+1056.2: what?
+1056.4: You
+1056.6: could
+1056.8: have
+1057.0: called.
+
+1058.2: I've
+1058.4: been
+1058.6: up
+1058.8: here.
+1059.0: I've
+1059.2: been
+1059.4: worried...
+
+1060.3: Monica.
+
+1061.8: Monica?
+
+1066.8: Water
+1067.0: rules!
+
+1072.1: Yes.
+1072.3: Yes,
+1072.5: it
+1072.7: does.
+
+1074.2: The
+1075.3: restaurant
+1075.9: called.
+1076.7: They
+1076.9: want
+1077.1: to
+1077.2: know
+1077.3: if
+1077.4: you're
+1077.6: showing
+1077.9: up.
+
+1078.8: Nope!
+
+1080.4: I'm
+1080.6: going
+1080.8: to
+1081.0: the
+1081.2: Big
+1081.4: Apple
+1081.6: Circus
+1081.8: today.
+
+1082.9: What
+1083.9: are
+1084.0: you
+1084.0: doing?
+1084.2: You're
+1084.6: gonna
+1084.9: lose
+1085.0: your
+1085.2: job.
+1085.3: This
+1085.8: is
+1085.9: not
+1086.1: you!
+
+1087.1: No,
+1087.5: it
+1087.9: is
+1088.3: me!
+
+1089.0: I'm
+1089.2: not
+1089.5: just
+1089.8: the
+1090.0: person
+1090.2: who
+1090.4: needs
+1090.6: to
+1090.8: fluff
+1091.0: the
+1091.2: pillows...
+
+1092.5: ...and
+1094.5: pay
+1096.5: the
+1098.5: bills
+1100.5: as
+1102.5: soon
+1104.5: as
+1106.5: they
+1108.5: come
+1110.5: in!
+
+1094.9: You
+1095.3: know,
+1095.7: when
+1096.1: I'm
+1096.6: with
+1097.0: her,
+1097.4: I'm
+1097.8: so
+1098.0: much
+1098.3: more
+1098.5: than
+1098.8: that!
+
+1099.8: I'm...
+
+1102.4: I'm
+1102.6: Monana!
+
+1105.4: [PHONE
+1105.6: RINGING]
+
+1110.4: Ahem,
+1110.5: hello?
+
+1112.6: Yes,
+1113.1: she
+1113.3: is.
+1113.4: Hold
+1113.7: on
+1113.7: a
+1113.8: second,
+1114.1: please.
+
+1114.9: Ahem,
+1114.9: Monana,
+1115.7: it's
+1116.5: for
+1116.7: you.
+
+1117.9: The
+1118.2: credit
+1118.7: card
+1119.0: people.
+
+1120.6: Hello?
+
+1124.0: Yes?
+
+1127.0: Oh,
+1127.4: my
+1127.5: God!
+
+1130.0: Thanks.
+
+1132.4: What?
+
+1134.0: They've
+1134.5: arrested
+1134.7: Monica.
+
+1147.1: Hi.
+1147.3: Hey.
+
+1149.6: How
+1150.0: are
+1150.2: you?
+
+1151.3: I'm
+1151.3: not
+1151.3: too
+1151.3: bad.
+1151.3: Fortunately,
+1152.3: blue's
+1153.3: my
+1153.5: color.
+
+1155.2: How
+1155.6: did
+1155.9: you
+1156.0: know
+1156.1: I
+1156.2: was
+1156.4: here?
+
+1158.7: Because...
+
+1161.3: ...I'm
+1161.8: Monica
+1162.1: Geller.
+
+1163.8: It
+1164.3: was
+1164.4: my
+1164.6: credit
+1164.9: card
+1165.2: you
+1165.3: were
+1165.4: using.
+
+1166.8: That
+1166.9: I
+1167.7: was
+1167.9: not
+1168.2: expecting.
+
+1169.4: I
+1171.4: want
+1173.4: you
+1175.4: to
+1177.4: know,
+1179.4: I
+1181.4: didn't
+1183.4: turn
+1185.4: you
+1187.4: in.
+
+1172.2: Oh.
+
+1174.0: Thanks.
+1174.0: No,
+1175.3: thank
+1176.1: you.
+
+1177.2: You
+1177.2: have
+1177.2: given
+1178.3: me
+1178.4: so
+1178.7: much.
+
+1179.8: If
+1180.4: it
+1180.5: wasn't
+1180.7: for
+1180.8: you,
+1181.2: I'd
+1181.5: never
+1181.7: have
+1181.9: gotten...
+
+1182.0: ...to
+1182.3: sing
+1182.6: "Memories"
+1182.8: at
+1183.1: the
+1183.4: Winter
+1183.9: Garden
+1184.3: Theater.
+
+1184.7: Actually,
+1185.9: you
+1186.0: only
+1186.2: got
+1186.4: to
+1186.6: sing
+1186.8: "Memo..."
+
+1189.4: I
+1189.5: can't
+1189.5: believe
+1189.7: you're
+1189.9: in
+1190.0: here.
+1190.2: What
+1190.4: am
+1190.6: I
+1190.8: gonna
+1191.0: do
+1191.2: without
+1191.4: you?
+
+1193.6: Who's
+1194.0: gonna
+1194.4: crash
+1194.9: the
+1195.0: embassy
+1195.4: parties
+1195.8: with
+1196.0: me?
+
+1196.0: Who's
+1196.5: gonna
+1197.0: take
+1197.1: me
+1197.2: to
+1197.3: the
+1197.4: Big
+1197.5: Apple
+1197.7: Circus?
+
+1199.1: Monica,
+1199.8: I
+1201.0: started
+1201.5: my
+1201.6: day
+1201.8: by
+1202.0: peeing
+1202.6: in
+1202.6: front
+1202.8: of
+1202.9: 25
+1203.4: other
+1203.6: women...
+
+1203.7: ...and
+1205.7: you're
+1207.7: worried
+1209.7: about
+1211.7: who
+1213.7: will
+1215.7: take
+1217.7: you
+1219.7: to
+1221.7: the
+1223.7: Big
+1225.7: Apple
+1227.7: Circus?
+
+1209.2: Well,
+1209.2: not
+1209.2: worried,
+1209.6: you
+1210.1: know,
+1210.5: just
+1211.9: wondering.
+
+1212.8: There's
+1213.5: nothing
+1214.2: to
+1214.4: wonder
+1214.6: about.
+
+1215.7: You'll
+1216.3: go
+1216.4: back
+1216.6: to
+1216.7: being
+1217.1: who
+1217.4: you
+1217.8: were
+1218.0: because
+1218.2: that's
+1218.4: who
+1218.6: you
+1218.8: are.
+
+1220.0: Not
+1220.2: necessarily.
+1220.4: Yes,
+1220.6: necessarily.
+
+1222.8: I
+1223.3: don't
+1223.5: know
+1223.5: what
+1223.7: it
+1223.9: is.
+1224.0: Maybe
+1224.3: it's
+1224.5: the
+1224.6: Amish
+1225.0: thing.
+
+1228.7: Um,
+1230.7: I'm
+1232.7: not
+1234.7: actually
+1236.7: Amish.
+
+1231.6: Really?
+1232.4: Then
+1233.5: why
+1233.5: are
+1233.6: you
+1233.8: like
+1234.0: that?
+
+1250.4: You
+1250.6: by
+1250.8: the
+1251.0: door,
+1251.2: in
+1251.4: or
+1251.6: out?
+
+1254.0: In!
+
+1260.7: You
+1260.9: in
+1261.1: the
+1261.3: back,
+1261.5: you're
+1261.7: getting
+1261.9: it
+1262.1: wrong!
+
+1263.0: At
+1263.2: least
+1263.4: I'm
+1263.6: doing
+1263.8: it!
+
+1279.5: This
+1279.7: is
+1279.9: the
+1280.1: final
+1280.3: boarding
+1280.5: call
+1280.7: for
+1280.9: Flight
+1281.1: 67
+1281.3: to
+1281.5: San
+1281.7: Diego...
+
+1283.6: ...boarding
+1283.8: at
+1284.0: Gate
+1284.2: 42A.
+
+1286.4: Okay,
+1287.0: goodbye,
+1287.5: little
+1287.7: monkey
+1288.0: guy.
+
+1288.7: I
+1289.1: wrote
+1289.8: you
+1289.9: this
+1290.0: poem.
+1290.2: Aw.
+
+1292.1: Okay,
+1292.6: but
+1292.8: don't
+1293.0: eat
+1293.2: it
+1293.3: till
+1293.4: you
+1293.5: get
+1293.7: on
+1293.8: the
+1293.9: plane.
+
+1295.0: Thank
+1295.2: you,
+1295.4: Aunt
+1295.6: Phoebe.
+1295.8: Aww.
+
+1301.0: Okay,
+1301.5: bye,
+1302.1: champ.
+
+1304.3: There's
+1304.4: gonna
+1304.6: be
+1304.7: a
+1304.8: lot
+1304.9: of
+1305.0: babes
+1305.4: in
+1305.5: San
+1305.8: Diego...
+
+1306.5: ...but
+1306.5: remember,
+1307.4: there's
+1308.0: also
+1308.2: a
+1308.3: lot
+1308.6: to
+1308.8: learn.
+
+1316.1: I
+1316.4: don't
+1316.5: know
+1316.6: what
+1316.7: to
+1316.9: say,
+1317.1: Ross.
+1317.4: Uh,
+1317.7: it's
+1318.3: a
+1318.4: monkey.
+
+1319.7: Just
+1321.7: say
+1323.7: what
+1325.7: you
+1327.7: feel,
+1329.7: Joey.
+
+1324.2: Marcel,
+1324.9: I'm
+1325.0: hungry.
+
+1326.8: That
+1327.0: was
+1327.2: good.
+
+1331.0: Marcel,
+1331.7: this
+1331.9: is
+1332.1: for
+1332.3: you.
+1332.5: Oh.
+
+1333.6: It's,
+1333.9: uh,
+1334.2: just,
+1335.8: you
+1335.9: know,
+1336.0: something
+1336.3: to,
+1336.5: um...
+
+1338.2: ...do
+1338.7: on
+1338.9: the
+1339.0: plane.
+
+1342.9: If
+1343.5: you
+1343.7: don't
+1344.1: mind,
+1344.2: I'd
+1344.6: like
+1345.0: a
+1345.1: moment,
+1345.2: just
+1345.5: me
+1345.7: and
+1345.8: him.
+
+1346.3: Sure.
+1346.5: Of
+1346.7: course.
+1346.9: Absolutely.
+
+1350.2: Oh.
+
+1354.2: Marcel,
+1354.4: come
+1354.6: here.
+1354.8: Come
+1355.0: here.
+
+1357.1: Come
+1357.3: here.
+
+1359.0: Well,
+1359.2: buddy...
+
+1362.6: ...this
+1363.0: is
+1363.2: it.
+
+1364.2: There's
+1364.3: just
+1364.3: a
+1364.4: couple
+1365.2: of
+1365.3: things
+1365.4: I
+1365.5: wanted
+1365.6: to
+1365.9: say.
+
+1368.8: I'm
+1369.2: really
+1369.5: gonna
+1369.8: miss
+1369.8: you.
+
+1371.5: You
+1371.8: know?
+1372.2: And
+1372.5: I'm
+1372.9: never
+1373.2: gonna
+1373.4: forget
+1373.8: about
+1374.0: you.
+
+1374.8: You've
+1375.1: been
+1375.3: more
+1375.5: than
+1375.6: just
+1375.8: a
+1376.0: pet
+1376.2: to
+1376.4: me.
+
+1379.7: You've
+1379.9: been
+1380.1: more
+1380.3: like
+1380.5: a...
+
+1381.4: Okay.
+1381.6: Marcel,
+1381.8: would
+1382.0: you...?
+
+1384.3: Marcel,
+1384.7: would
+1385.1: you
+1385.3: leave
+1385.5: my
+1385.7: leg
+1385.9: alone?
+
+1386.7: Would
+1386.9: you
+1387.1: just
+1387.3: stop
+1387.5: humping
+1387.7: me
+1387.9: for
+1388.1: two
+1388.3: seconds?
+1388.5: Marc...
+1388.7: Would
+1388.9: you...?
+
+1390.5: Okay,
+1391.0: would
+1391.2: you
+1391.4: just
+1391.6: take
+1391.8: him
+1392.0: away?
+1392.2: Just
+1392.4: take
+1392.6: him.
+
+1416.3: O!
+1416.5: That
+1416.7: I
+1416.9: were
+1417.1: a
+1417.3: glove
+1419.1: upon
+1419.3: that
+1419.6: hand...
+
+1420.3: ...that
+1420.5: I
+1420.7: might
+1421.1: touch
+1421.8: thy
+1422.4: cheek.
+
+1424.2: That's
+1426.2: fine.
+1428.2: Thank
+1430.2: you.
+
+1426.8: Next.
+
+1432.5: Hi.
+1434.5: Uh,
+1436.5: I'll
+1438.5: be
+1440.5: reading
+1442.5: for
+1444.5: the
+1446.5: role
+1448.5: of
+1450.5: Mercutio.
+
+1435.5: Name?
+1437.5: Holden
+1439.5: McGroin.
+

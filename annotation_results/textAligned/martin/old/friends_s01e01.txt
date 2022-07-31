@@ -1,0 +1,1022 @@
+24.2, []: [CAR
+24.4, []: HORNS
+24.6, []: HONKING]
+
+26.3, []: There's
+26.5, []: nothing
+26.7, []: to
+26.9, []: tell.
+27.1, []: It's
+27.3, []: just
+27.5, []: some
+27.7, []: guy
+27.9, []: I
+28.1, []: work
+28.3, []: with.
+
+29.3, []: Come
+29.5, []: on.
+29.7, []: You're
+29.9, []: going
+30.1, []: out
+30.3, []: with
+30.5, []: a
+30.7, []: guy.
+
+31.6, []: There's
+31.8, []: gotta
+32.0, []: be
+32.2, []: something
+32.4, []: wrong
+32.6, []: with
+32.8, []: him.
+
+34.4, []: So
+34.6, []: does
+34.8, []: he
+35.0, []: have
+35.2, []: a
+35.4, []: hump
+35.6, []: and
+35.8, []: a
+36.0, []: hair
+36.2, []: piece?
+
+38.7, []: Wait.
+38.9, []: Does
+39.1, []: he
+39.3, []: eat
+39.5, []: chalk?
+
+41.4, []: I
+41.6, []: don't
+41.8, []: want
+42.0, []: her
+42.2, []: to
+42.4, []: go
+42.6, []: through
+42.8, []: what
+43.0, []: I
+43.2, []: went
+43.4, []: through
+43.6, []: with
+43.8, []: Carl.
+44.0, []: Oh.
+
+44.8, []: Okay,
+45.0, []: everybody
+45.2, []: relax.
+45.4, []: This
+45.6, []: is
+45.8, []: not
+46.0, []: even
+46.2, []: a
+46.4, []: date.
+
+47.8, []: It's
+48.0, []: just
+48.2, []: two
+48.4, []: people
+48.6, []: going
+48.8, []: out
+49.0, []: to
+49.2, []: dinner
+49.4, []: and
+49.6, []: not
+49.8, []: having
+50.0, []: sex.
+
+51.0, []: Sounds
+51.2, []: like
+51.4, []: a
+51.6, []: date
+51.8, []: to
+52.0, []: me.
+
+55.4, []: I'm
+55.6, []: back
+55.8, []: in
+56.0, []: high
+56.2, []: school,
+56.4, []: in
+56.6, []: the
+56.8, []: middle
+57.0, []: of
+57.2, []: the
+57.4, []: cafeteria...
+
+58.4, []: ...and
+58.6, []: I
+58.8, []: realize
+59.0, []: I'm
+59.2, []: totally
+59.4, []: naked.
+
+62.0, []: Oh,
+62.2, []: yeah.
+62.4, []: I've
+62.6, []: had
+62.8, []: that
+63.0, []: dream.
+
+63.7, []: Then
+63.9, []: I
+64.1, []: look
+64.3, []: down
+64.5, []: and
+64.7, []: I
+64.9, []: realize
+65.1, []: there
+65.3, []: is
+65.5, []: a
+65.7, []: phone...
+
+68.4, []: ...there.
+
+71.3, []: Instead
+71.5, []: of...
+71.7, []: That's
+71.9, []: right!
+
+73.4, MONICA: No.
+
+75.1, MONICA: All
+75.3, MONICA: of
+75.5, MONICA: a
+75.7, MONICA: sudden,
+75.9, MONICA: the
+76.1, MONICA: phone
+76.3, MONICA: starts
+76.5, MONICA: to
+76.7, MONICA: ring.
+
+79.4, MONICA: And
+79.6, MONICA: it
+79.8, MONICA: turns
+80.0, MONICA: out
+80.2, MONICA: it's
+80.4, MONICA: my
+80.6, MONICA: mother.
+
+82.9, MONICA: Which
+83.4, MONICA: is
+83.9, MONICA: very,
+84.3, MONICA: very
+84.8, MONICA: weird
+85.3, MONICA: because
+85.8, MONICA: she
+86.2, MONICA: never
+86.7, MONICA: calls
+87.2, MONICA: me.
+
+92.2, MONICA: Hi.
+
+95.1, MONICA: This
+95.3, MONICA: guy
+95.5, MONICA: says
+95.7, MONICA: "hello,"
+95.9, MONICA: I
+96.1, MONICA: wanna
+96.3, MONICA: kill
+96.5, MONICA: myself.
+
+98.6, MONICA: Are
+98.8, MONICA: you
+99.0, MONICA: okay,
+99.2, MONICA: sweetie?
+
+100.0, MONICA: I
+100.2, MONICA: feel
+100.4, MONICA: like
+100.6, MONICA: someone
+100.8, MONICA: grabbed
+101.0, MONICA: my
+101.2, MONICA: small
+101.4, MONICA: intestine,
+101.6, MONICA: pulled
+101.8, MONICA: it
+102.0, MONICA: out
+102.2, MONICA: of
+102.4, MONICA: my
+102.6, MONICA: mouth...
+
+104.8, MONICA: ...and
+105.0, MONICA: tied
+105.2, MONICA: it
+105.4, MONICA: around
+105.6, MONICA: my
+105.8, MONICA: neck.
+106.0, MONICA: Cookie?
+
+109.7, MONICA: Carol
+109.9, MONICA: moved
+110.1, MONICA: her
+110.3, MONICA: stuff
+110.5, MONICA: out
+110.7, MONICA: today.
+
+111.4, PHOEBE & JOEY: Oh.
+
+112.6, PHOEBE & JOEY: Let
+112.8, PHOEBE & JOEY: me
+113.0, PHOEBE & JOEY: get
+113.2, PHOEBE & JOEY: you
+113.4, PHOEBE & JOEY: some
+113.6, PHOEBE & JOEY: coffee.
+113.8, PHOEBE & JOEY: Thanks.
+
+117.4, PHOEBE & JOEY: Ew.
+117.6, PHOEBE & JOEY: Unh.
+
+119.3, PHOEBE & JOEY: No.
+119.5, PHOEBE & JOEY: No,
+119.7, PHOEBE & JOEY: don't!
+119.9, PHOEBE & JOEY: Stop
+120.1, PHOEBE & JOEY: cleansing
+120.3, PHOEBE & JOEY: my
+120.5, PHOEBE & JOEY: aura.
+
+123.6, PHOEBE & JOEY: Just
+123.8, PHOEBE & JOEY: leave
+124.0, PHOEBE & JOEY: my
+124.2, PHOEBE & JOEY: aura
+124.4, PHOEBE & JOEY: alone,
+124.6, PHOEBE & JOEY: okay?
+
+128.1, PHOEBE & JOEY: I'll
+128.3, PHOEBE & JOEY: be
+128.5, PHOEBE & JOEY: fine.
+128.7, PHOEBE & JOEY: All
+128.9, PHOEBE & JOEY: right?
+129.1, PHOEBE & JOEY: Really.
+129.3, PHOEBE & JOEY: I
+129.5, PHOEBE & JOEY: hope
+129.7, PHOEBE & JOEY: she'll
+129.9, PHOEBE & JOEY: be
+130.1, PHOEBE & JOEY: very
+130.3, PHOEBE & JOEY: happy.
+
+131.2, PHOEBE & JOEY: No,
+131.4, PHOEBE & JOEY: you
+131.6, PHOEBE & JOEY: don't.
+131.8, PHOEBE & JOEY: No,
+132.0, PHOEBE & JOEY: I
+132.2, PHOEBE & JOEY: don't.
+
+132.7, PHOEBE & JOEY: To
+132.9, PHOEBE & JOEY: hell
+133.2, PHOEBE & JOEY: with
+133.4, PHOEBE & JOEY: her.
+133.7, PHOEBE & JOEY: She
+133.9, PHOEBE & JOEY: left
+134.1, PHOEBE & JOEY: me!
+
+135.5, PHOEBE & JOEY: And
+135.7, PHOEBE & JOEY: you
+135.9, PHOEBE & JOEY: never
+136.1, PHOEBE & JOEY: knew
+136.3, PHOEBE & JOEY: she
+136.5, PHOEBE & JOEY: was
+136.7, PHOEBE & JOEY: a
+136.9, PHOEBE & JOEY: lesbian.
+
+141.5, PHOEBE & JOEY: No!
+141.7, PHOEBE & JOEY: Okay?
+
+143.9, PHOEBE & JOEY: Why
+144.1, PHOEBE & JOEY: does
+144.3, PHOEBE & JOEY: everyone
+144.5, PHOEBE & JOEY: keep
+144.7, PHOEBE & JOEY: fixating
+144.9, PHOEBE & JOEY: on
+145.1, PHOEBE & JOEY: that?
+
+148.3, PHOEBE & JOEY: She
+148.5, PHOEBE & JOEY: didn't
+148.7, PHOEBE & JOEY: know.
+148.9, PHOEBE & JOEY: How
+149.1, PHOEBE & JOEY: should
+149.3, PHOEBE & JOEY: I
+149.5, PHOEBE & JOEY: know?
+
+152.9, PHOEBE & JOEY: Sometimes
+153.1, PHOEBE & JOEY: I
+153.3, PHOEBE & JOEY: wish
+153.5, PHOEBE & JOEY: I
+153.7, PHOEBE & JOEY: was
+153.9, PHOEBE & JOEY: a
+154.1, PHOEBE & JOEY: lesbian.
+
+157.2, PHOEBE & JOEY: Did
+157.4, PHOEBE & JOEY: I
+157.6, PHOEBE & JOEY: say
+157.8, PHOEBE & JOEY: that
+158.0, PHOEBE & JOEY: out
+158.2, PHOEBE & JOEY: loud?
+
+161.1, PHOEBE & JOEY: All
+161.3, PHOEBE & JOEY: right,
+161.5, PHOEBE & JOEY: Ross.
+161.7, PHOEBE & JOEY: Look,
+161.9, PHOEBE & JOEY: you're
+162.1, PHOEBE & JOEY: feeling
+162.3, PHOEBE & JOEY: a
+162.5, PHOEBE & JOEY: lot
+162.7, PHOEBE & JOEY: of
+162.9, PHOEBE & JOEY: pain
+163.1, PHOEBE & JOEY: right
+163.3, PHOEBE & JOEY: now.
+
+165.4, PHOEBE & JOEY: You're
+165.6, PHOEBE & JOEY: angry.
+165.8, PHOEBE & JOEY: You're
+166.0, PHOEBE & JOEY: hurting.
+
+24.2, []: [CAR
+24.4, []: HORNS
+24.6, []: HONKING]
+
+26.3, []: There's
+26.5, []: nothing
+26.7, []: to
+26.9, []: tell.
+27.1, []: It's
+27.3, []: just
+27.5, []: some
+27.7, []: guy
+27.9, []: I
+28.1, []: work
+28.3, []: with.
+
+29.3, []: Come
+29.5, []: on.
+29.7, []: You're
+29.9, []: going
+30.1, []: out
+30.3, []: with
+30.5, []: a
+30.7, []: guy.
+
+31.6, []: There's
+31.8, []: gotta
+32.0, []: be
+32.2, []: something
+32.4, []: wrong
+32.6, []: with
+32.8, []: him.
+
+34.4, []: So
+34.6, []: does
+34.8, []: he
+35.0, []: have
+35.2, []: a
+35.4, []: hump
+35.6, []: and
+35.8, []: a
+36.0, []: hair
+36.2, []: piece?
+
+38.7, []: Wait.
+38.9, []: Does
+39.1, []: he
+39.3, []: eat
+39.5, []: chalk?
+
+41.4, []: I
+41.6, []: don't
+41.8, []: want
+42.0, []: her
+42.2, []: to
+42.4, []: go
+42.6, []: through
+42.8, []: what
+43.0, []: I
+43.2, []: went
+43.4, []: through
+43.6, []: with
+43.8, []: Carl.
+44.0, []: Oh.
+
+44.8, []: Okay,
+45.0, []: everybody
+45.2, []: relax.
+45.4, []: This
+45.6, []: is
+45.8, []: not
+46.0, []: even
+46.2, []: a
+46.4, []: date.
+
+47.8, []: It's
+48.0, []: just
+48.2, []: two
+48.4, []: people
+48.6, []: going
+48.8, []: out
+49.0, []: to
+49.2, []: dinner
+49.4, []: and
+49.6, []: not
+49.8, []: having
+50.0, []: sex.
+
+51.0, []: Sounds
+51.2, []: like
+51.4, []: a
+51.6, []: date
+51.8, []: to
+52.0, []: me.
+
+55.4, []: I'm
+55.6, []: back
+55.8, []: in
+56.0, []: high
+56.2, []: school,
+56.4, []: in
+56.6, []: the
+56.8, []: middle
+57.0, []: of
+57.2, []: the
+57.4, []: cafeteria...
+
+58.4, []: ...and
+58.6, []: I
+58.8, []: realize
+59.0, []: I'm
+59.2, []: totally
+59.4, []: naked.
+
+62.0, []: Oh,
+62.2, []: yeah.
+62.4, []: I've
+62.6, []: had
+62.8, []: that
+63.0, []: dream.
+
+63.7, []: Then
+63.9, []: I
+64.1, []: look
+64.3, []: down
+64.5, []: and
+64.7, []: I
+64.9, []: realize
+65.1, []: there
+65.3, []: is
+65.5, []: a
+65.7, []: phone...
+
+68.4, []: ...there.
+
+71.3, []: Instead
+71.5, []: of...
+71.7, []: That's
+71.9, []: right!
+
+73.4, MONICA: No.
+
+75.1, MONICA: All
+75.3, MONICA: of
+75.5, MONICA: a
+75.7, MONICA: sudden,
+75.9, MONICA: the
+76.1, MONICA: phone
+76.3, MONICA: starts
+76.5, MONICA: to
+76.7, MONICA: ring.
+
+79.4, MONICA: And
+79.6, MONICA: it
+79.8, MONICA: turns
+80.0, MONICA: out
+80.2, MONICA: it's
+80.4, MONICA: my
+80.6, MONICA: mother.
+
+82.9, MONICA: Which
+83.4, MONICA: is
+83.9, MONICA: very,
+84.3, MONICA: very
+84.8, MONICA: weird
+85.3, MONICA: because
+85.8, MONICA: she
+86.2, MONICA: never
+86.7, MONICA: calls
+87.2, MONICA: me.
+
+92.2, MONICA: Hi.
+
+95.1, MONICA: This
+95.3, MONICA: guy
+95.5, MONICA: says
+95.7, MONICA: "hello,"
+95.9, MONICA: I
+96.1, MONICA: wanna
+96.3, MONICA: kill
+96.5, MONICA: myself.
+
+98.6, MONICA: Are
+98.8, MONICA: you
+99.0, MONICA: okay,
+99.2, MONICA: sweetie?
+
+100.0, MONICA: I
+100.2, MONICA: feel
+100.4, MONICA: like
+100.6, MONICA: someone
+100.8, MONICA: grabbed
+101.0, MONICA: my
+101.2, MONICA: small
+101.4, MONICA: intestine,
+101.6, MONICA: pulled
+101.8, MONICA: it
+102.0, MONICA: out
+102.2, MONICA: of
+102.4, MONICA: my
+102.6, MONICA: mouth...
+
+104.8, MONICA: ...and
+105.0, MONICA: tied
+105.2, MONICA: it
+105.4, MONICA: around
+105.6, MONICA: my
+105.8, MONICA: neck.
+106.0, MONICA: Cookie?
+
+109.7, MONICA: Carol
+109.9, MONICA: moved
+110.1, MONICA: her
+110.3, MONICA: stuff
+110.5, MONICA: out
+110.7, MONICA: today.
+
+111.4, PHOEBE & JOEY: Oh.
+
+112.6, PHOEBE & JOEY: Let
+112.8, PHOEBE & JOEY: me
+113.0, PHOEBE & JOEY: get
+113.2, PHOEBE & JOEY: you
+113.4, PHOEBE & JOEY: some
+113.6, PHOEBE & JOEY: coffee.
+113.8, PHOEBE & JOEY: Thanks.
+
+117.4, PHOEBE & JOEY: Ew.
+117.6, PHOEBE & JOEY: Unh.
+
+119.3, PHOEBE & JOEY: No.
+119.5, PHOEBE & JOEY: No,
+119.7, PHOEBE & JOEY: don't!
+119.9, PHOEBE & JOEY: Stop
+120.1, PHOEBE & JOEY: cleansing
+120.3, PHOEBE & JOEY: my
+120.5, PHOEBE & JOEY: aura.
+
+123.6, PHOEBE & JOEY: Just
+123.8, PHOEBE & JOEY: leave
+124.0, PHOEBE & JOEY: my
+124.2, PHOEBE & JOEY: aura
+124.4, PHOEBE & JOEY: alone,
+124.6, PHOEBE & JOEY: okay?
+
+128.1, PHOEBE & JOEY: I'll
+128.3, PHOEBE & JOEY: be
+128.5, PHOEBE & JOEY: fine.
+128.7, PHOEBE & JOEY: All
+128.9, PHOEBE & JOEY: right?
+129.1, PHOEBE & JOEY: Really.
+129.3, PHOEBE & JOEY: I
+129.5, PHOEBE & JOEY: hope
+129.7, PHOEBE & JOEY: she'll
+129.9, PHOEBE & JOEY: be
+130.1, PHOEBE & JOEY: very
+130.3, PHOEBE & JOEY: happy.
+
+131.2, PHOEBE & JOEY: No,
+131.4, PHOEBE & JOEY: you
+131.6, PHOEBE & JOEY: don't.
+131.8, PHOEBE & JOEY: No,
+132.0, PHOEBE & JOEY: I
+132.2, PHOEBE & JOEY: don't.
+
+132.7, PHOEBE & JOEY: To
+132.9, PHOEBE & JOEY: hell
+133.2, PHOEBE & JOEY: with
+133.4, PHOEBE & JOEY: her.
+133.7, PHOEBE & JOEY: She
+133.9, PHOEBE & JOEY: left
+134.1, PHOEBE & JOEY: me!
+
+135.5, PHOEBE & JOEY: And
+135.7, PHOEBE & JOEY: you
+135.9, PHOEBE & JOEY: never
+136.1, PHOEBE & JOEY: knew
+136.3, PHOEBE & JOEY: she
+136.5, PHOEBE & JOEY: was
+136.7, PHOEBE & JOEY: a
+136.9, PHOEBE & JOEY: lesbian.
+
+141.5, PHOEBE & JOEY: No!
+141.7, PHOEBE & JOEY: Okay?
+
+143.9, PHOEBE & JOEY: Why
+144.1, PHOEBE & JOEY: does
+144.3, PHOEBE & JOEY: everyone
+144.5, PHOEBE & JOEY: keep
+144.7, PHOEBE & JOEY: fixating
+144.9, PHOEBE & JOEY: on
+145.1, PHOEBE & JOEY: that?
+
+148.3, PHOEBE & JOEY: She
+148.5, PHOEBE & JOEY: didn't
+148.7, PHOEBE & JOEY: know.
+148.9, PHOEBE & JOEY: How
+149.1, PHOEBE & JOEY: should
+149.3, PHOEBE & JOEY: I
+149.5, PHOEBE & JOEY: know?
+
+152.9, PHOEBE & JOEY: Sometimes
+153.1, PHOEBE & JOEY: I
+153.3, PHOEBE & JOEY: wish
+153.5, PHOEBE & JOEY: I
+153.7, PHOEBE & JOEY: was
+153.9, PHOEBE & JOEY: a
+154.1, PHOEBE & JOEY: lesbian.
+
+157.2, PHOEBE & JOEY: Did
+157.4, PHOEBE & JOEY: I
+157.6, PHOEBE & JOEY: say
+157.8, PHOEBE & JOEY: that
+158.0, PHOEBE & JOEY: out
+158.2, PHOEBE & JOEY: loud?
+
+161.1, PHOEBE & JOEY: All
+161.3, PHOEBE & JOEY: right,
+161.5, PHOEBE & JOEY: Ross.
+161.7, PHOEBE & JOEY: Look,
+161.9, PHOEBE & JOEY: you're
+162.1, PHOEBE & JOEY: feeling
+162.3, PHOEBE & JOEY: a
+162.5, PHOEBE & JOEY: lot
+162.7, PHOEBE & JOEY: of
+162.9, PHOEBE & JOEY: pain
+163.1, PHOEBE & JOEY: right
+163.3, PHOEBE & JOEY: now.
+
+165.4, PHOEBE & JOEY: You're
+165.6, PHOEBE & JOEY: angry.
+165.8, PHOEBE & JOEY: You're
+166.0, PHOEBE & JOEY: hurting.
+
+168.1, PHOEBE & JOEY: Can
+168.3, PHOEBE & JOEY: I
+168.5, PHOEBE & JOEY: tell
+168.7, PHOEBE & JOEY: you
+168.9, PHOEBE & JOEY: what
+169.1, PHOEBE & JOEY: the
+169.3, PHOEBE & JOEY: answer
+169.5, PHOEBE & JOEY: is?
+
+170.5, PHOEBE & JOEY: Strip
+170.7, PHOEBE & JOEY: joints!
+
+173.9, PHOEBE & JOEY: Come
+174.1, PHOEBE & JOEY: on,
+174.3, PHOEBE & JOEY: you're
+174.5, PHOEBE & JOEY: single.
+174.7, PHOEBE & JOEY: Have
+174.9, PHOEBE & JOEY: some
+175.1, PHOEBE & JOEY: hormones.
+
+176.5, PHOEBE & JOEY: See,
+176.7, PHOEBE & JOEY: but
+176.9, PHOEBE & JOEY: I
+177.1, PHOEBE & JOEY: don't
+177.3, PHOEBE & JOEY: want
+177.5, PHOEBE & JOEY: to
+177.7, PHOEBE & JOEY: be
+177.9, PHOEBE & JOEY: single,
+178.1, PHOEBE & JOEY: okay?
+
+179.0, PHOEBE & JOEY: I
+179.2, PHOEBE & JOEY: just
+179.4, PHOEBE & JOEY: wanna
+179.6, PHOEBE & JOEY: be
+179.8, PHOEBE & JOEY: married
+180.0, PHOEBE & JOEY: again.
+
+186.3, PHOEBE & JOEY: And
+186.5, PHOEBE & JOEY: I
+186.7, PHOEBE & JOEY: just
+186.9, PHOEBE & JOEY: want
+187.1, PHOEBE & JOEY: a
+187.3, PHOEBE & JOEY: million
+187.5, PHOEBE & JOEY: dollars!
+
+190.5, PHOEBE & JOEY: Rachel?
+
+191.8, PHOEBE & JOEY: Oh,
+192.0, PHOEBE & JOEY: God,
+192.2, PHOEBE & JOEY: Monica!
+192.4, PHOEBE & JOEY: Hi!
+192.6, PHOEBE & JOEY: Thank
+192.8, PHOEBE & JOEY: God!
+
+194.7, PHOEBE & JOEY: I
+194.9, PHOEBE & JOEY: went
+195.1, PHOEBE & JOEY: to
+195.3, PHOEBE & JOEY: your
+195.5, PHOEBE & JOEY: building
+195.7, PHOEBE & JOEY: and
+195.9, PHOEBE & JOEY: this
+196.1, PHOEBE & JOEY: guy
+196.3, PHOEBE & JOEY: with
+196.5, PHOEBE & JOEY: a
+196.7, PHOEBE & JOEY: hammer
+196.9, PHOEBE & JOEY: said...
+
+198.0, PHOEBE & JOEY: ...that
+198.2, PHOEBE & JOEY: you
+198.4, PHOEBE & JOEY: might
+198.6, PHOEBE & JOEY: be
+198.8, PHOEBE & JOEY: here,
+199.0, PHOEBE & JOEY: and
+199.2, PHOEBE & JOEY: you
+199.4, PHOEBE & JOEY: are.
+
+200.5, PHOEBE & JOEY: Can
+200.7, PHOEBE & JOEY: I
+200.9, PHOEBE & JOEY: get
+201.1, PHOEBE & JOEY: you
+201.3, PHOEBE & JOEY: some
+201.5, PHOEBE & JOEY: coffee?
+201.7, PHOEBE & JOEY: Decaf.
+
+204.6, PHOEBE & JOEY: Okay,
+204.8, PHOEBE & JOEY: everybody,
+205.0, PHOEBE & JOEY: this
+205.2, PHOEBE & JOEY: is
+205.4, PHOEBE & JOEY: Rachel,
+205.6, PHOEBE & JOEY: another
+205.8, PHOEBE & JOEY: Lincoln
+206.0, PHOEBE & JOEY: High
+206.2, PHOEBE & JOEY: survivor.
+
+208.8, PHOEBE & JOEY: This
+209.0, PHOEBE & JOEY: is
+209.2, PHOEBE & JOEY: everybody.
+209.4, PHOEBE & JOEY: This
+209.6, PHOEBE & JOEY: is
+209.8, PHOEBE & JOEY: Chandler
+210.0, PHOEBE & JOEY: and
+210.2, PHOEBE & JOEY: Phoebe...
+
+211.4, PHOEBE & JOEY: ...and
+211.6, PHOEBE & JOEY: Joey.
+211.8, PHOEBE & JOEY: And
+212.0, PHOEBE & JOEY: remember
+212.2, PHOEBE & JOEY: my
+212.4, PHOEBE & JOEY: brother,
+212.6, PHOEBE & JOEY: Ross?
+
+213.9, PHOEBE & JOEY: Sure!
+214.1, PHOEBE & JOEY: Hey.
+
+215.2, PHOEBE & JOEY: Hi.
+215.4, PHOEBE & JOEY: Oh,
+215.6, PHOEBE & JOEY: God.
+
+223.3, PHOEBE & JOEY: [SIGHS]
+
+224.9, PHOEBE & JOEY: So
+225.1, PHOEBE & JOEY: you
+225.3, PHOEBE & JOEY: wanna
+225.5, PHOEBE & JOEY: tell
+225.7, PHOEBE & JOEY: us
+225.9, PHOEBE & JOEY: now,
+226.1, PHOEBE & JOEY: or
+226.3, PHOEBE & JOEY: are
+226.5, PHOEBE & JOEY: we
+226.7, PHOEBE & JOEY: waiting
+226.9, PHOEBE & JOEY: for
+227.1, PHOEBE & JOEY: four
+227.3, PHOEBE & JOEY: wet
+227.5, PHOEBE & JOEY: bridesmaids?
+
+230.7, PHOEBE & JOEY: Oh,
+230.8, PHOEBE & JOEY: God!
+231.0, PHOEBE & JOEY: Well,
+231.1, PHOEBE & JOEY: it
+231.3, PHOEBE & JOEY: started
+231.4, PHOEBE & JOEY: about
+231.6, PHOEBE & JOEY: a
+231.8, PHOEBE & JOEY: half-hour
+232.0, PHOEBE & JOEY: before
+232.2, PHOEBE & JOEY: the
+232.4, PHOEBE & JOEY: wedding.
+
+236.1, PHOEBE & JOEY: I
+236.2, PHOEBE & JOEY: was
+236.2, PHOEBE & JOEY: in
+236.3, PHOEBE & JOEY: this
+236.3, PHOEBE & JOEY: room
+236.4, PHOEBE & JOEY: with
+236.4, PHOEBE & JOEY: all
+236.5, PHOEBE & JOEY: the
+236.7, PHOEBE & JOEY: presents...
+
+238.4, PHOEBE & JOEY: ...and
+238.6, PHOEBE & JOEY: I
+238.8, PHOEBE & JOEY: was
+239.0, PHOEBE & JOEY: looking
+239.2, PHOEBE & JOEY: at
+239.4, PHOEBE & JOEY: this
+239.6, PHOEBE & JOEY: gravy
+239.8, PHOEBE & JOEY: boat.
+
+240.5, PHOEBE & JOEY: This
+240.7, PHOEBE & JOEY: really
+240.9, PHOEBE & JOEY: gorgeous
+241.1, PHOEBE & JOEY: Limoges
+241.3, PHOEBE & JOEY: gravy
+241.5, PHOEBE & JOEY: boat.
+
+244.1, PHOEBE & JOEY: When
+244.3, PHOEBE & JOEY: all
+244.5, PHOEBE & JOEY: of
+244.7, PHOEBE & JOEY: a
+244.9, PHOEBE & JOEY: sudden...
+245.1, PHOEBE & JOEY: Sweet
+245.3, PHOEBE & JOEY: 'N
+245.5, PHOEBE & JOEY: Low?
+
+246.1, PHOEBE & JOEY: I
+246.3, PHOEBE & JOEY: realized...
+
+248.4, PHOEBE & JOEY: ...I
+248.6, PHOEBE & JOEY: was
+248.8, PHOEBE & JOEY: more
+249.0, PHOEBE & JOEY: turned
+249.2, PHOEBE & JOEY: on
+249.4, PHOEBE & JOEY: by
+249.6, PHOEBE & JOEY: this
+249.8, PHOEBE & JOEY: gravy
+250.0, PHOEBE & JOEY: boat
+250.2, PHOEBE & JOEY: than
+250.4, PHOEBE & JOEY: by
+250.6, PHOEBE & JOEY: Barry.
+
+252.4, Then I got really freaked out, and that's when it hit me:: Then
+252.6, Then I got really freaked out, and that's when it hit me:: I
+252.8, Then I got really freaked out, and that's when it hit me:: got
+253.0, Then I got really freaked out, and that's when it hit me:: really
+253.2, Then I got really freaked out, and that's when it hit me:: freaked
+253.4, Then I got really freaked out, and that's when it hit me:: out,
+253.6, Then I got really freaked out, and that's when it hit me:: and
+253.8, Then I got really freaked out, and that's when it hit me:: that's
+254.0, Then I got really freaked out, and that's when it hit me:: when
+254.2, Then I got really freaked out, and that's when it hit me:: it
+254.4, Then I got really freaked out, and that's when it hit me:: hit
+254.6, Then I got really freaked out, and that's when it hit me:: me:
+
+255.7, Then I got really freaked out, and that's when it hit me:: How
+255.9, Then I got really freaked out, and that's when it hit me:: much
+256.1, Then I got really freaked out, and that's when it hit me:: Barry
+256.3, Then I got really freaked out, and that's when it hit me:: looks
+256.5, Then I got really freaked out, and that's when it hit me:: like
+256.7, Then I got really freaked out, and that's when it hit me:: Mr.
+256.9, Then I got really freaked out, and that's when it hit me:: Potato
+257.1, Then I got really freaked out, and that's when it hit me:: Head.
+
+258.9, Then I got really freaked out, and that's when it hit me:: You
+259.1, Then I got really freaked out, and that's when it hit me:: know,
+259.3, Then I got really freaked out, and that's when it hit me:: I
+259.5, Then I got really freaked out, and that's when it hit me:: mean,
+259.7, Then I got really freaked out, and that's when it hit me:: I
+259.9, Then I got really freaked out, and that's when it hit me:: always
+260.1, Then I got really freaked out, and that's when it hit me:: knew
+260.3, Then I got really freaked out, and that's when it hit me:: he
+260.5, Then I got really freaked out, and that's when it hit me:: looked
+260.7, Then I got really freaked out, and that's when it hit me:: familiar,
+260.9, Then I got really freaked out, and that's when it hit me:: but...
+
+264.3, Anyway, I just had to get out of there, and I started wondering:: Anyway,
+264.5, Anyway, I just had to get out of there, and I started wondering:: I
+264.7, Anyway, I just had to get out of there, and I started wondering:: just
+264.9, Anyway, I just had to get out of there, and I started wondering:: had
+265.1, Anyway, I just had to get out of there, and I started wondering:: to
+265.3, Anyway, I just had to get out of there, and I started wondering:: get
+265.5, Anyway, I just had to get out of there, and I started wondering:: out
+265.7, Anyway, I just had to get out of there, and I started wondering:: of
+265.9, Anyway, I just had to get out of there, and I started wondering:: there,
+266.1, Anyway, I just had to get out of there, and I started wondering:: and
+266.3, Anyway, I just had to get out of there, and I started wondering:: I
+266.5, Anyway, I just had to get out of there, and I started wondering:: started
+266.7, Anyway, I just had to get out of there, and I started wondering:: wondering:
+
+267.9, Anyway, I just had to get out of there, and I started wondering:: "Why
+268.1, Anyway, I just had to get out of there, and I started wondering:: am
+268.3, Anyway, I just had to get out of there, and I started wondering:: I
+268.5, Anyway, I just had to get out of there, and I started wondering:: doing
+268.7, Anyway, I just had to get out of there, and I started wondering:: this?"
+268.9, Anyway, I just had to get out of there, and I started wondering:: And
+269.1, Anyway, I just had to get out of there, and I started wondering:: "Who
+269.3, Anyway, I just had to get out of there, and I started wondering:: am
+269.5, Anyway, I just had to get out of there, and I started wondering:: I
+269.7, Anyway, I just had to get out of there, and I started wondering:: doing
+269.9, Anyway, I just had to get out of there, and I started wondering:: this
+270.1, Anyway, I just had to get out of there, and I started wondering:: for?"
+
+271.6, Anyway, I just had to get out of there, and I started wondering:: Anyway,
+271.8, Anyway, I just had to get out of there, and I started wondering:: I
+272.0, Anyway, I just had to get out of there, and I started wondering:: just
+272.2, Anyway, I just had to get out of there, and I started wondering:: didn't
+272.4, Anyway, I just had to get out of there, and I started wondering:: know
+272.6, Anyway, I just had to get out of there, and I started wondering:: where
+272.8, Anyway, I just had to get out of there, and I started wondering:: to
+273.0, Anyway, I just had to get out of there, and I started wondering:: go,
+273.2, Anyway, I just had to get out of there, and I started wondering:: and
+273.4, Anyway, I just had to get out of there, and I started wondering:: I
+273.6, Anyway, I just had to get out of there, and I started wondering:: know
+273.8, Anyway, I just had to get out of there, and I started wondering:: you
+274.0, Anyway, I just had to get out of there, and I started wondering:: and
+274.2, Anyway, I just had to get out of there, and I started wondering:: I
+274.4, Anyway, I just had to get out of there, and I started wondering:: have
+274.6, Anyway, I just had to get out of there, and I started wondering:: drifted
+274.8, Anyway, I just had to get out of there, and I started wondering:: apart...
+
+276.2, Anyway, I just had to get out of there, and I started wondering:: ...but
+276.4, Anyway, I just had to get out of there, and I started wondering:: you're
+276.6, Anyway, I just had to get out of there, and I started wondering:: the
+276.8, Anyway, I just had to get out of there, and I started wondering:: only
+277.0, Anyway, I just had to get out of there, and I started wondering:: person
+277.2, Anyway, I just had to get out of there, and I started wondering:: I
+277.4, Anyway, I just had to get out of there, and I started wondering:: know
+277.6, Anyway, I just had to get out of there, and I started wondering:: in
+277.8, Anyway, I just had to get out of there, and I started wondering:: the
+278.0, Anyway, I just had to get out of there, and I started wondering:: city.
+
+279.3, Anyway, I just had to get out of there, and I started wondering:: Who
+279.5, Anyway, I just had to get out of there, and I started wondering:: wasn't
+279.7, Anyway, I just had to get out of there, and I started wondering:: invited
+279.9, Anyway, I just had to get out of there, and I started wondering:: to
+280.1, Anyway, I just had to get out of there, and I started wondering:: the
+280.3, Anyway, I just had to get out of there, and I started wondering:: wedding.
+
+281.3, Anyway, I just had to get out of there, and I started wondering:: Oh,
+281.5, Anyway, I just had to get out of there, and I started wondering:: I
+281.7, Anyway, I just had to get out of there, and I started wondering:: was
+281.9, Anyway, I just had to get out of there, and I started wondering:: kind
+282.1, Anyway, I just had to get out of there, and I started wondering:: of
+282.3, Anyway, I just had to get out of there, and I started wondering:: hoping
+282.5, Anyway, I just had to get out of there, and I started wondering:: that
+282.7, Anyway, I just had to get out of there, and I started wondering:: wouldn't
+282.9, Anyway, I just had to get out of there, and I started wondering:: be
+283.1, Anyway, I just had to get out of there, and I started wondering:: an
+283.3, Anyway, I just had to get out of there, and I started wondering:: issue.
+
+291.5, Anyway, I just had to get out of there, and I started wondering:: [SPEAKING
+291.7, Anyway, I just had to get out of there, and I started wondering:: IN
+291.9, Anyway, I just had to get out of there, and I started wondering:: SPANISH
+292.1, Anyway, I just had to get out of there, and I started wondering:: ON
+292.3, Anyway, I just had to get out of there, and I started wondering:: TV]
+
+298.4, Anyway, I just had to get out of there, and I started wondering:: I'm
+298.6, Anyway, I just had to get out of there, and I started wondering:: guessing
+298.8, Anyway, I just had to get out of there, and I started wondering:: he
+299.0, Anyway, I just had to get out of there, and I started wondering:: bought
+299.2, Anyway, I just had to get out of there, and I started wondering:: her
+299.4, Anyway, I just had to get out of there, and I started wondering:: the
+299.6, Anyway, I just had to get out of there, and I started wondering:: big
+299.8, Anyway, I just had to get out of there, and I started wondering:: pipe
+300.0, Anyway, I just had to get out of there, and I started wondering:: organ...
+
+301.1, Anyway, I just had to get out of there, and I started wondering:: ...and
+301.3, Anyway, I just had to get out of there, and I started wondering:: she's
+301.5, Anyway, I just had to get out of there, and I started wondering:: really
+301.7, Anyway, I just had to get out of there, and I started wondering:: not
+301.9, Anyway, I just had to get out of there, and I started wondering:: happy
+302.1, Anyway, I just had to get out of there, and I started wondering:: about
+302.3, Anyway, I just had to get out of there, and I started wondering:: it.
+
+304.8, Anyway, I just had to get out of there, and I started wondering:: Daddy,
+305.0, Anyway, I just had to get out of there, and I started wondering:: I
+305.2, Anyway, I just had to get out of there, and I started wondering:: just...
+305.4, Anyway, I just had to get out of there, and I started wondering:: I
+305.6, Anyway, I just had to get out of there, and I started wondering:: can't
+305.8, Anyway, I just had to get out of there, and I started wondering:: marry
+306.0, Anyway, I just had to get out of there, and I started wondering:: him.
+
+308.0, Anyway, I just had to get out of there, and I started wondering:: I'm
+308.2, Anyway, I just had to get out of there, and I started wondering:: sorry.
+
+311.3, Anyway, I just had to get out of there, and I started wondering:: I
+311.5, Anyway, I just had to get out of there, and I started wondering:: just
+311.7, Anyway, I just had to get out of there, and I started wondering:: don't
+311.9, Anyway, I just had to get out of there, and I started wondering:: love
+312.1, Anyway, I just had to get out of there, and I started wondering:: him.
+
+313.2, Anyway, I just had to get out of there, and I started wondering:: Well,
+313.4, Anyway, I just had to get out of there, and I started wondering:: it
+313.6, Anyway, I just had to get out of there, and I started wondering:: matters
+313.8, Anyway, I just had to get out of there, and I started wondering:: to
+314.0, Anyway, I just had to get out of there, and I started wondering:: me.
+

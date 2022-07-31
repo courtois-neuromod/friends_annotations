@@ -1,0 +1,1 @@
+Here is my exploration folder, containing different code and inspiration for what can be found in the rest of the repo. Said code found here is not something that is necessary but it can be useful for some
