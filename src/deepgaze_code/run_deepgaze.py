@@ -22,7 +22,7 @@ def get_arguments():
     parser = argparse.ArgumentParser(description="Processes movie frames with DeepGaze MR and export coordinates of most salient points")
     parser.add_argument('-i', '--ivid', type=str, required=True, help='path to input video files (.mvk)')
     parser.add_argument('-c', '--codir', type=str, required=True, help='path to code directory')
-    parser.add_argument('-mv', '--mv_label', action='store_true', help='if true, reduce size of image')
+    parser.add_argument('-mv', '--mv_label', type=str, required=True, help='if true, reduce size of image')
     parser.add_argument('-m', '--min', type=int, required=True, help='min distance between maxima in pixels')
     parser.add_argument('-t', '--thresh', type=float, required=True, help='minimal threshold relative to max salience')
     parser.add_argument('-o', '--odir', type=str, default='./results', help='path to output directory')
