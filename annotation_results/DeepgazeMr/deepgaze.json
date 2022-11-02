@@ -11,8 +11,7 @@
     },
     "Local Maxima in Pixels": {
       "Format": "one *_locmax_pixel_hw.npz file per .mkv file, one list of local maxima per movie frame saved as an array of lists called 'deepgaze_vals'",
-      "Content": "Each list contains three values for each local maximum identified within 20 pixels of one another whose value >80% of the maximal saliency value. Those three values are the local maximum's normalized saliency,
-      and its coordinates in pixel space (h and w) that reflect its position in the movie frame. Note that (h, w = (0, 0) corresponds the top right corner of the image (matrix indexing)."
+      "Content": "Each list contains three values for each local maximum identified within 20 pixels of one another whose value >80% of the maximal saliency value. Those three values are the local maximum's normalized saliency, and its coordinates in pixel space (h and w) that reflect its position in the movie frame. Note that (h, w = (0, 0) corresponds the top right corner of the image (matrix indexing)."
     }
   }
 }
