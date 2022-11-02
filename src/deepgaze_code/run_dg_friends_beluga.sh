@@ -33,9 +33,9 @@ cp ${FOLDER}/checkpoints/mtangemann_deepgazemr_v1/data/vgg19-dcbb9e9d.pth ~/.cac
 
 # launch job
 python -m src.deepgaze_code.run_deepgaze \
-        --ivid "${INPUT_VIDEOS}" \
-        --codir "${FOLDER}" \
-        --mv_label "friends" \
-        --min 20 \
-        --thresh 0.8 \
-        --odir "${OUTPUT_FOLDER}"
+        --ivid="${INPUT_VIDEOS}" \
+        --codir="${FOLDER}" \
+        --mv_label="friends" \
+        --min=20 \
+        --thresh=0.8 \
+        --odir="${OUTPUT_FOLDER}"
