@@ -191,7 +191,7 @@ def export_peaks(input_vid, code_path, out_path, mv_params, min_dist=20, relativ
                 vals_pix = []
                 for peak in peak_list:
                     coord_h, coord_w = peak
-                    peak_val = [norm_pred[coord_h, coord_w])
+                    peak_val = norm_pred[coord_h, coord_w]
 
                     x_norm = float(coord_w / img_w) # normalize: convert w into proportion of screen width (x coordinate)
                     # in normalized coordinates, y starts at bottom of image (flipped); also account for movie padding along height at projection
