@@ -104,7 +104,7 @@ def export_peaks(input_vid, code_path, out_path, mv_params, min_dist=20, relativ
     vid = cv2.VideoCapture(input_vid)
     all_DGvals_norm = []
     all_DGvals_pix = []
-    all_DGvals_df = pd.DataFrame(columns=['h', 'w', 'p'])
+    all_DGvals_df = pd.DataFrame(columns=['h', 'w', 'p'], dtype=int)
 
     '''
     Process broken down into chunks so model doesn't run out of memory
@@ -119,7 +119,7 @@ def export_peaks(input_vid, code_path, out_path, mv_params, min_dist=20, relativ
     img_h, img_w = mv_params['height'], mv_params['width']
     shrink = mv_params['resize']
     fps = mv_params['fps']
-    shrink_factor = mv_params['shrink_factor'] if shrink_factor in mv_params.keys() else 1
+    shrink_factor = mv_params['shrink_factor'] if 'shrink_factor' in mv_params.keys() else 1
 
     success = True
     #fram_arr = np.zeros((15, 480, 720, 3)).astype(int) # Friends (full size)
