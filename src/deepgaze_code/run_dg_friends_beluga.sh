@@ -29,16 +29,13 @@ OUTPUT_FOLDER="/home/mstlaure/scratch/friends_annotations/friends/coordinates/fu
 #source "/lustre03/project/6003287/mstlaure/.virtualenvs/deepgaze_mr/bin/activate"
 
 # to run on compute canada, checkpoints cannot be downloaded from torch.hub
-cp ${FOLDER}/checkpoints/vgg19-dcbb9e9d.pth ~/.cache/torch/hub/checkpoints
+cp ${FOLDER}/checkpoints/mtangemann_deepgazemr_v1/data/vgg19-dcbb9e9d.pth ~/.cache/torch/hub/checkpoints
 
 # launch job
 python -m src.deepgaze_code.run_deepgaze \
         --ivid "${INPUT_VIDEOS}" \
         --codir "${FOLDER}" \
-        --height 480 \
-        --width 720 \
-        --fps 29.97 \
-        --maxcount \
-        --salimap \
-        --matfile \
+        --mv_label "friends" \
+        --min 20 \
+        --thresh 0.8 \
         --odir "${OUTPUT_FOLDER}"
