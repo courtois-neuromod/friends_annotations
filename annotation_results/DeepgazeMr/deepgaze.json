@@ -1,0 +1,17 @@
+{
+  "Name": "Deepgaze MR annotations",
+  "Datasets": {
+    "Max Peak Coordinates": {
+      "Format": "one *_maxpeak_coord.tsv file per .mkv file, one row per movie frame",
+      "Content": "Each .tsv contains three columns: the h and w coordinates (in pixels) of the peak saliency from the saliency map outputed by Deepgaze MR, and the number of local maxima within 20 pixels of one another (value >80% of maximal saliency value)"
+    },
+    "Normalized Local Maxima": {
+      "Format": "one *_locmax_normalized_xy.npz file per .mkv file, one list of local maxima per movie frame saved as an array of lists called 'deepgaze_vals'",
+      "Content": "Each list contains three values for each local maximum identified within 20 pixels of one another whose value >80% of the maximal saliency value. Those three values are the local maximum's saliency (normalized within frame), and its normalized cartesian coordinates x and y. Those coordinates indicate a position on the screen where the movie was played. E.g., (x, y = (0, 0) is the screen's bottom left corner, while (x, y = (1, 1) is the screen's top right corner. These normalized positions can be compared directly with the normalized gaze positions estimated with our eyetracker. Of note, the movie occupied the screen's full width, and it was centered along the screen's height with padding above and below to respect the ratio specified in the task's session file (4/3.0 for Friends: https://github.com/courtois-neuromod/task_stimuli/tree/main/src/sessions)."
+    },
+    "Local Maxima in Pixels": {
+      "Format": "one *_locmax_pixel_hw.npz file per .mkv file, one list of local maxima per movie frame saved as an array of lists called 'deepgaze_vals'",
+      "Content": "Each list contains three values for each local maximum identified within 20 pixels of one another whose value >80% of the maximal saliency value. Those three values are the local maximum's normalized saliency, and its coordinates in pixel space (h and w) that reflect its position in the movie frame. Note that (h, w = (0, 0) corresponds the top right corner of the image (matrix indexing)."
+    }
+  }
+}
