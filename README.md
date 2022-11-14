@@ -29,10 +29,11 @@ The script to launch the extraction of peak coordinates is:
  The script takes one argument (e.g., 's1'), which is the Friends' season
 
 Input: .mkv video files (half episodes)\
+
 Output (per half episode):  
 - *_maxpeak_coord.tsv file containing three columns: h, w (peak's height and width in pixels), and p (the number of local maxima identified within that frame.
 - *_locmax_normalized_xy.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its x and y cartesian coordinates, which are normalized positions on the projection screen.
-- *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels).
+- *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels).\
 The output is found in annotation_results/DeepgazeMR
 
 
