@@ -22,7 +22,8 @@ pip install --no-index -r requirements_deepgaze.txt
 
 FOLDER="/project/rrg-pbellec/mstlaure/friends_annotations"
 season=${1} # e.g., s1, s2
-INPUT_VIDEOS="/lustre03/project/rrg-pbellec/mstlaure/deepgaze_mr/data/friends_s6/${season}/friends_*.mkv"
+half=${2} # e.g., a, b
+INPUT_VIDEOS="/lustre03/project/rrg-pbellec/mstlaure/deepgaze_mr/data/friends_s6/${season}/friends_*${half}.mkv"
 OUTPUT_FOLDER="/home/mstlaure/scratch/friends_annotations/friends/coordinates/fullsize_coord"
 
 # activate project's virtual env
