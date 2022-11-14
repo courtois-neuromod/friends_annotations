@@ -3,7 +3,7 @@
   "Datasets": {
     "Max Peak Coordinates": {
       "Format": "one *_maxpeak_coord.tsv file per .mkv file, one row per movie frame",
-      "Content": "Each .tsv contains three columns: the h and w coordinates (in pixels) of the peak saliency from the saliency map outputed by Deepgaze MR, and the number of local maxima within 20 pixels of one another (value >80% of maximal saliency value)"
+      "Content": "Each .tsv contains three columns: the h and w coordinates (in pixels) of the peak saliency from the saliency map outputed by Deepgaze MR, and the number of local maxima within 20 pixels of one another (value >80% of maximal saliency value). The number of local maxima reflects confidence in Deepgaze prediction (it reflects the number of competing points of interest in the frame)."
     },
     "Normalized Local Maxima": {
       "Format": "one *_locmax_normalized_xy.npz file per .mkv file, one list of local maxima per movie frame saved as an array of lists called 'deepgaze_vals'",
