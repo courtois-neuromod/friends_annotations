@@ -231,7 +231,7 @@ def main():
     if not os.path.exists(out_path):
         os.mkdir(out_path)
 
-    movie_list = glob.glob(input_vid)
+    movie_list = sorted(glob.glob(input_vid))
 
     for movie_path in movie_list:
         export_peaks(movie_path, code_path, out_path, mv_params, min_dist, relative_thresh)

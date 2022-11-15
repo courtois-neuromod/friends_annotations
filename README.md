@@ -25,14 +25,15 @@ The annotations included in the current dataset are the coordinates of the peak 
 of the different Friends episodes (seasons 1 to 6). They indicate likely gaze positions within each movie frame.
 
 The script to launch the extraction of peak coordinates is:
- - src/deepgaze_code/run_dg_friends_beluga.sh s1
- The script takes one argument (e.g., 's1'), which is the Friends' season
+ - src/deepgaze_code/run_dg_friends_beluga.sh s1 a
+ The script takes two arguments (e.g., 's6' 'b'), which are the Friends' season and half (a or b)
 
-Input: .mkv video files (half episodes)\
+Input: .mkv video files that correspond to half episodes shown to CNeuromod participants in the scanner\
+
 Output (per half episode):  
-- *_maxpeak_coord.tsv file containing three columns: h, w (peak's height and width in pixels), and p (the number of local maxima identified within that frame.
-- *_locmax_normalized_xy.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its x and y cartesian coordinates, which are normalized positions on the projection screen.
-- *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels).
+- *_maxpeak_coord.tsv file containing one entry per frame, and three columns: h, w (saliency peak's height and width within the movie frame, in pixels, using matrix indexing), and p (the number of local maxima identified within a specific frame).
+- *_locmax_normalized_xy.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its x and y cartesian coordinates, which are normalized positions on the entire projection screen (x, y = (0, 0) corresponds to screen's bottom left corner).
+- *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels, using matrix indexing).\
 The output is found in annotation_results/DeepgazeMR
 
 
