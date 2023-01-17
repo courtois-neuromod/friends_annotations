@@ -39,7 +39,7 @@ movie_params = {
                             'full_height': 512,
                             'width': 720
                 },
-                'hidden': {
+                'figures': {
                             'fps': 23.98,
                             'resize': True,
                             'resize_factor': 2,
