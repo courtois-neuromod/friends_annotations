@@ -1,0 +1,25 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s5e15b	1	1	0.0	37.0	37.0	end of previous	fin de scène	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s5e15b	1	2	37.0	42.0	5.0			False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s5e15b	2	3	42.0	45.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e15b	3	4	45.0	61.0	16.0			True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s5e15b	3	5	61.0	97.0	36.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s5e15b	3	6	97.0	106.0	9.0			False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s5e15b	4	7	106.0	109.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e15b	5	8	109.0	141.0	32.0			True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s5e15b	5	9	141.0	162.0	21.0			True	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e15b	5	10	162.0	166.0	4.0			False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s5e15b	5	11	166.0	195.0	29.0			False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e15b	5	12	195.0	206.0	11.0			False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s5e15b	5	13	206.0	213.0	7.0			False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e15b	6	14	213.0	216.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e15b	7	15	216.0	259.0	43.0			True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s5e15b	7	16	259.0	330.0	71.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s5e15b	7	17	330.0	335.0	5.0			False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s5e15b	8	18	335.0	382.0	47.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e15b	8	19	382.0	393.0	11.0			False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s5e15b	8	20	393.0	484.0	91.0			False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e15b	9	21	484.0	504.0	20.0			True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e15b	10	22	504.0	506.0	2.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e15b	11	23	506.0	651.0	145.0		En guise d'excuses, Chandler demande Monica en mariage.	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s5e15b	12	24	651.0	702.0	51.0			True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

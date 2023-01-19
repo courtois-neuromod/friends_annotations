@@ -1,0 +1,27 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e22b	1	1	0.0	50.0	50.0	end of previous + Ethan confides in him being in high school..		False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e22b	1	2	50.0	117.0	67.0	M freaks out that he's so young		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e22b	2	3	117.0	120.0	3.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e22b	3	4	120.0	138.0	18.0	R talks to Andrew		False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e22b	3	5	138.0	214.0	76.0	C asks Ra to tell him in detail about her last dream		False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e22b	3	6	214.0	268.0	54.0	M gets teased by guys		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e22b	3	7	268.0	270.0	2.0	M goes to her bedroom		False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e22b	3	8	270.0	324.0	54.0	Pb goes to an office worker's birthday party		False	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e22b	3	9	324.0	345.0	21.0	R comes back w M		False	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e22b	4	10	345.0	348.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e22b	5	11	348.0	406.0	58.0	C wants to prove that he can be fun		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e22b	6	12	406.0	409.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e22b	7	13	409.0	431.0	22.0	R receives a beep + specifies that the emergency is when Carol beeps 911		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e22b	7	14	431.0	450.0	19.0	Ethan finds M at the cafe		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s1e22b	7	15	450.0	510.0	60.0	R, Ra w J leave them alone to talk		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s1e22b	7	16	510.0	519.0	9.0	the guys come back and notice that they haven't finished their conversation		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s1e22b	8	17	519.0	522.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e22b	9	18	522.0	559.0	37.0	C resumes his role as boss		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e22b	10	19	559.0	564.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e22b	11	20	564.0	624.0	60.0	Ra had a dream involving R		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e22b	11	21	624.0	645.0	21.0	R gets THE beep from Carol		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e22b	12	22	645.0	649.0	4.0	R waits for the others to go to the hospital		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e22b	12	23	649.0	652.0	3.0	C is ready !		False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e22b	12	24	652.0	663.0	11.0	Ra is ready !		False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e22b	12	25	663.0	671.0	8.0	J is ready !		False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e22b	12	26	671.0	698.0	27.0	M is ready !		False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

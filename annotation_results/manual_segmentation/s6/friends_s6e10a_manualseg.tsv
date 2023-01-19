@@ -1,0 +1,31 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s6e10a	1	1	0.0	13.0	13.0			False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s6e10a	1	2	13.0	46.0	33.0			False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s6e10a	2	3	46.0	81.0	35.0	theme song	chanson thème	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s6e10a	3	4	81.0	84.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e10a	4	5	84.0	109.0	25.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s6e10a	4	6	109.0	152.0	43.0			False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s6e10a	4	7	152.0	246.0	94.0			False	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+s6e10a	4	8	246.0	308.0	62.0			False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s6e10a	5	9	308.0	312.0	4.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e10a	6	10	312.0	329.0	17.0			True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	6	11	329.0	363.0	34.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	6	12	363.0	369.0	6.0			False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s6e10a	7	13	369.0	372.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e10a	8	14	372.0	502.0	130.0			True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s6e10a	9	15	502.0	511.0	9.0			True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	16	511.0	522.0	11.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	17	522.0	535.0	13.0			False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	18	535.0	548.0	13.0			False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	19	548.0	566.0	18.0			False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	20	566.0	577.0	11.0			False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	21	577.0	580.0	3.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	22	580.0	586.0	6.0			False	False	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	9	23	586.0	597.0	11.0			False	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s6e10a	10	24	597.0	600.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e10a	11	25	600.0	654.0	54.0			True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s6e10a	12	26	654.0	662.0	8.0			True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	12	27	662.0	664.0	2.0			False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	12	28	664.0	677.0	13.0			False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e10a	12	29	677.0	681.0	4.0			False	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s6e10a	12	30	681.0	687.0	6.0			False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

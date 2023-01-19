@@ -1,0 +1,22 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s5e10b	1	1	0.0	25.0	25.0	end of previous	fin de scène	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s5e10b	2	2	25.0	28.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	3	3	28.0	61.0	33.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e10b	3	4	61.0	95.0	34.0			False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e10b	4	5	95.0	99.0	4.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	5	6	99.0	139.0	40.0			True	False	False	True	False	False	False	False	False	True	True	False	True	False	False	False	True	False	False	False	False	False	False
+s5e10b	5	7	139.0	210.0	71.0			False	True	True	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s5e10b	6	8	210.0	212.0	2.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	7	9	212.0	288.0	76.0			True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s5e10b	8	10	288.0	292.0	4.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	9	11	292.0	318.0	26.0			True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s5e10b	9	12	318.0	351.0	33.0			False	False	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+s5e10b	9	13	351.0	370.0	19.0			False	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s5e10b	10	14	370.0	405.0	35.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
+s5e10b	10	15	405.0	444.0	39.0			False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	11	16	444.0	499.0	55.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e10b	11	17	499.0	509.0	10.0			False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e10b	12	18	509.0	512.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e10b	13	19	512.0	528.0	16.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s5e10b	13	20	528.0	679.0	151.0			False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s5e10b	14	21	679.0	712.0	33.0			True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

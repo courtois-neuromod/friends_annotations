@@ -1,0 +1,15 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e18b	1	1	0.0	27.0	27.0	end of previous		False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e18b	1	2	27.0	60.0	33.0	M interrupts Ra to play		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e18b	2	3	60.0	64.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e18b	3	4	64.0	146.0	82.0	the girls lost again at poker		False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e18b	4	5	146.0	167.0	21.0	another session w the poker champion		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e18b	5	6	167.0	171.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e18b	6	7	171.0	210.0	39.0	the guys get ready to play		True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s1e18b	6	8	210.0	231.0	21.0	R goes to the bathroom + J wants to order pizza		False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e18b	6	9	231.0	245.0	14.0	R comes out of the bathroom w his fly open		False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e18b	7	10	245.0	322.0	77.0	Ra wins		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e18b	7	11	322.0	400.0	78.0	the poker game continues		False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e18b	7	12	400.0	501.0	101.0	Ra is not retained for the job		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e18b	7	13	501.0	687.0	186.0	it's Ra vs R in poker game		False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e18b	8	14	687.0	732.0	45.0	the guys are playing guess what		False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

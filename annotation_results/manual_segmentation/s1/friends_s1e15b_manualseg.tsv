@@ -1,0 +1,23 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e15b	1	1	0.0	53.0	53.0	end of previous		False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s1e15b	1	2	53.0	121.0	68.0	C catches R w J talking dirty		False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
+s1e15b	1	3	121.0	184.0	63.0	C's job call again and again		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s1e15b	2	4	184.0	188.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e15b	3	5	188.0	230.0	42.0	C shows his new office to Pb		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e15b	3	6	230.0	245.0	15.0	C calls his colleague Helen on the intercom		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s1e15b	3	7	245.0	254.0	9.0	Helen leaves C's office		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e15b	4	8	254.0	260.0	6.0	M loses Wendy as a waitress		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e15b	4	9	260.0	305.0	45.0	Ra arrives behind and listening to the conversation of M		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e15b	5	10	305.0	309.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e15b	6	11	309.0	345.0	36.0	"
+Steve w Pb arrive for her chief audition"		False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e15b	6	12	345.0	375.0	30.0	Pb tells Ra that Steve smoked a joint before arriving		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e15b	6	13	375.0	428.0	53.0	M offers to start the tasting		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e15b	6	14	428.0	530.0	102.0	Steve gets up to search the pantry and fridge (food cravings)		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e15b	6	15	530.0	555.0	25.0	M has had enough and ends the dinner		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e15b	7	16	555.0	558.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e15b	8	17	558.0	605.0	47.0	M tells the guys about her evening w Steve		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e15b	8	18	605.0	642.0	37.0	J asks R about his dirty talk		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e15b	8	19	642.0	649.0	7.0	Pb proposes to do an activity between them		False	False	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False
+s1e15b	9	20	649.0	673.0	24.0	We see C still at work late !		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e15b	10	21	673.0	702.0	29.0	Pb gives Steve a painful massage		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

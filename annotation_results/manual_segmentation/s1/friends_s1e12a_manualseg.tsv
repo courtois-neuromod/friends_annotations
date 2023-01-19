@@ -1,0 +1,31 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e12a	1	1	0.0	8.0	8.0	transition		False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
+s1e12a	2	2	8.0	60.0	52.0	Guys are singing		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False
+s1e12a	3	3	60.0	66.0	6.0	theme song		False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
+s1e12a	4	4	66.0	81.0	15.0	M cooks lasagna		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e12a	4	5	81.0	147.0	66.0	Guys read baby book		False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e12a	4	6	147.0	166.0	19.0	Ra w Paolo arrives		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12a	4	7	166.0	210.0	44.0	Paolo goes bathroom		False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e12a	4	8	210.0	229.0	19.0	guys look naked neighbor		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e12a	5	9	229.0	232.0	3.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12a	6	10	232.0	260.0	28.0	J w C go home		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	True
+s1e12a	7	11	260.0	264.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12a	8	12	264.0	361.0	97.0	R visits his ex wife		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	8	13	361.0	420.0	59.0	Susan arrives		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	8	14	420.0	436.0	16.0	R leaves		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	9	15	436.0	497.0	61.0	C wJ talk about buying furniture		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s1e12a	10	16	497.0	502.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12a	11	17	502.0	560.0	58.0	Pb received Paolo at her work		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	12	18	560.0	592.0	32.0	guys talk about baby sex		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	19	592.0	607.0	15.0	Pb arrives		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	20	607.0	620.0	13.0	dmes ask for cappucino		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	21	620.0	638.0	18.0	Pb says Paolo tried his hand on her		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	22	638.0	644.0	6.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	12	23	644.0	648.0	4.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	24	648.0	649.0	1.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	12	25	649.0	653.0	4.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	26	653.0	662.0	9.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	12	27	662.0	676.0	14.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	28	676.0	680.0	4.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e12a	12	29	680.0	682.0	2.0	Pb's flashback w Paolo		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e12a	12	30	682.0	695.0	13.0	Ra comes into the conversation		False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

@@ -1,0 +1,30 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e11a	1	1	0.0	40.0	40.0	M w Pb whistle		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False
+s1e11a	2	2	40.0	46.0	6.0	theme song		False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e11a	3	3	46.0	122.0	76.0	M w Pb are at the hospital		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e11a	4	4	122.0	126.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e11a	5	5	126.0	143.0	17.0	guys talk about their date		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e11a	5	6	143.0	193.0	50.0	Ra		False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e11a	5	7	193.0	214.0	21.0	Paolo arrives		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e11a	5	8	214.0	247.0	33.0	C's mother is on tv		False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e11a	5	9	247.0	298.0	51.0	C's mother is interview		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e11a	6	10	298.0	303.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e11a	7	11	303.0	323.0	20.0	M reads the newspaper for boy		True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	7	12	323.0	330.0	7.0	M w Pb arrives w three		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	7	13	330.0	338.0	8.0	M knits		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	7	14	338.0	343.0	5.0	Pb sings again		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	7	15	343.0	355.0	12.0	M w Pb shave his beard		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e11a	8	16	355.0	359.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e11a	9	17	359.0	376.0	17.0	Guys at resto w C' mother		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	18	376.0	407.0	31.0	R arrives at resto		False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	19	407.0	420.0	13.0	Ra w Paolo arrives		False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	20	420.0	438.0	18.0	Ra w Paolo eat sensually		False	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	21	438.0	463.0	25.0	R leaves the table		False	False	True	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	22	463.0	467.0	4.0	C's mother speaks at phone		False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	23	467.0	573.0	106.0	R talks w C' mother		False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	9	24	573.0	587.0	14.0	J sees R w C' mother kissing		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e11a	10	25	587.0	591.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e11a	11	26	591.0	625.0	34.0	R knocks on J and C' appart		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	11	27	625.0	657.0	32.0	C opens the door and jumps 		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s1e11a	11	28	657.0	690.0	33.0	C picks up the newspaper		False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e11a	11	29	690.0	703.0	13.0	Ra w Paolo		False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	True

@@ -1,0 +1,28 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e06b	1	1	0.0	63.0	63.0	end of previous		False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e06b	2	2	63.0	135.0	72.0	M at resto w Paul		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e06b	2	3	135.0	159.0	24.0	Ra watching tv		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	2	4	159.0	188.0	29.0	R's appart		True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s1e06b	2	5	188.0	201.0	13.0	J leaves		False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e06b	2	6	201.0	217.0	16.0	Ra looks outside		True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	3	7	217.0	224.0	7.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	4	8	224.0	251.0	27.0	Ra prepared coffee		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	4	9	251.0	257.0	6.0	M comes out of her room		False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	4	10	257.0	301.0	44.0	Paul leaves the room		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	4	11	301.0	317.0	16.0			False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	4	12	317.0	373.0	56.0	C goes work		False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	4	13	373.0	430.0	57.0	C and J gone		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	5	14	430.0	438.0	8.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	6	15	438.0	477.0	39.0	M's job		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e06b	7	16	477.0	528.0	51.0	Paul is a liar		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e06b	7	17	528.0	564.0	36.0	Ra arrives w boots		False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s1e06b	8	18	564.0	665.0	101.0	Ra cut her cards		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	9	19	665.0	670.0	5.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	10	20	670.0	700.0	30.0	Paul's watch		False	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	10	21	700.0	777.0	77.0	M goes to bed		False	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	10	22	777.0	788.0	11.0	Ra & R in living room		False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	10	23	788.0	801.0	13.0	M comes out of her room		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	10	24	801.0	807.0	6.0	R leaves		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	11	25	807.0	833.0	26.0	- transition -		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s1e06b	11	26	833.0	843.0	10.0	Ra serves coffee		False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e06b	11	27	843.0	865.0	22.0	C Las Vegas dream		False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

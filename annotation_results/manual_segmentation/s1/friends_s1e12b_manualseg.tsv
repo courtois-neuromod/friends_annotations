@@ -1,0 +1,22 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e12b	1	1	0.0	19.0	19.0	end of previous		False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s1e12b	2	2	19.0	23.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12b	3	3	23.0	67.0	44.0	J w C shop for a table set		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e12b	4	4	67.0	71.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12b	5	5	71.0	74.0	3.0	Ra packs her bags		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	5	6	74.0	168.0	94.0	Pb reveals the situation w Paolo		False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	5	7	168.0	189.0	21.0	guys playing foosball table		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s1e12b	5	8	189.0	318.0	129.0	Ra is in shock		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	5	9	318.0	344.0	26.0	Pb tells them that Ra speaks w Paolo		True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
+s1e12b	5	10	344.0	386.0	42.0	M w Pb will see how Ra is doing + guys encourage R to go see Ra		False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s1e12b	6	11	386.0	389.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e12b	7	12	389.0	392.0	3.0	Ra throws Paolo's clothes		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	13	392.0	410.0	18.0	R arrives at Ra w M's apart		False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	14	410.0	446.0	36.0	Paolo says goodbye to the guys		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	15	446.0	466.0	20.0	Paolo leaves w lasagna !		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	16	466.0	563.0	97.0	R goes to see Ra outside		False	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	17	563.0	605.0	42.0	Ra w R enter from outside		False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	18	605.0	631.0	26.0	Ra reavels sex of R baby		False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	7	19	631.0	651.0	20.0	J w C arrive at the race		False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e12b	8	20	651.0	687.0	36.0	M, J w C playing foosball table		True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s1e12b	8	21	687.0	694.0	7.0	M gets kicked out of J w C's apart		False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

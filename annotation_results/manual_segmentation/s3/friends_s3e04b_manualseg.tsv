@@ -1,0 +1,20 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s3e04b	1	1	0.0	49.0	49.0	end of previous		False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s3e04b	1	2	49.0	68.0	19.0	Janice leaves because she's scared of C's proposals !		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s3e04b	2	3	68.0	72.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e04b	3	4	72.0	186.0	114.0	M w Ra listen to C about the situation w Janice		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s3e04b	4	5	186.0	189.0	3.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e04b	5	6	189.0	205.0	16.0	R introduces G.I. Joe to Ben		False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s3e04b	5	7	205.0	217.0	12.0	J is excited to see the G.I. Jo		False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False
+s3e04b	5	8	217.0	223.0	6.0	Pb arrives and avoids J ...		False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s3e04b	5	9	223.0	300.0	77.0	... because she didn't want to tell J that he didn't have the role		True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s3e04b	5	10	300.0	310.0	10.0	R plays a G.I. Joe !		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s3e04b	6	11	310.0	313.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e04b	7	12	313.0	399.0	86.0	C follows Janice to the grocery store		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s3e04b	8	13	399.0	473.0	74.0	J tells Pb that he will go back to his agent Estelle		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s3e04b	9	14	473.0	508.0	35.0	C is sad and Ra w M listen to him		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
+s3e04b	9	15	508.0	583.0	75.0	Janice calls C !		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s3e04b	10	16	583.0	586.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e04b	11	17	586.0	672.0	86.0	M recounts when R wore a dress and sang a song ...		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s3e04b	12	18	672.0	687.0	15.0	... supporting evidence !		True	False	False	True	False	False	False	False	False	True	True	False	True	False	False	False	False	False	False	False	False	True	False
+s3e04b	12	19	687.0	696.0	9.0	M comes to help R to clean up		False	True	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False

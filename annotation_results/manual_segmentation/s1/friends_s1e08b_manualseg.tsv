@@ -1,0 +1,30 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e08b	1	1	0.0	21.0	21.0	end of previous		False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	2	2	21.0	97.0	76.0	His mom w aunt search dress		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	2	3	97.0	125.0	28.0	R finds nana's stuff		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e08b	3	4	125.0	128.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e08b	4	5	128.0	140.0	12.0	M, R w Ra wait for the others		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e08b	4	6	140.0	157.0	17.0	Pb arrives		False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e08b	4	7	157.0	170.0	13.0	C w J arrive		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e08b	5	8	170.0	176.0	6.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e08b	6	9	176.0	197.0	21.0	guys at the nana's funeral		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	6	10	197.0	218.0	21.0	J listens the football game		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	6	11	218.0	228.0	10.0	Ra gets her shoes dirty		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	6	12	228.0	244.0	16.0	Pb says the weather is great		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	6	13	244.0	257.0	13.0	R falls into a coffin hole		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e08b	7	14	257.0	263.0	6.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e08b	8	15	263.0	278.0	15.0	Pb checks R muscle spasms		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	16	278.0	288.0	10.0	R's mom gives him pills		False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	17	288.0	302.0	14.0	C meets Andrea		False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	18	302.0	386.0	84.0	R says love every guys		False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	19	386.0	404.0	18.0	J w dad listen the football game		False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	20	404.0	408.0	4.0	all boys listen game		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	21	408.0	414.0	6.0	Ra on sofa w R		False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	22	414.0	536.0	122.0	M w mom talk about nana		False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e08b	8	23	536.0	549.0	13.0	the boys exclaim about game		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e08b	9	24	549.0	553.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e08b	10	25	553.0	626.0	73.0	guys look photo souvenir		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s1e08b	11	26	626.0	630.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e08b	12	27	630.0	689.0	59.0	C talks w working member		True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	12	28	689.0	695.0	6.0			False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e08b	12	29	695.0	700.0	5.0	Brian enters the scene		False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

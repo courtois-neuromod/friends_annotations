@@ -1,0 +1,21 @@
+episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e01a	1	1	0.0	36.0	36.0	Pb summarizes between Ra w R 		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False
+s2e01a	2	2	36.0	42.0	6.0	theme song		False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s2e01a	3	3	42.0	44.0	2.0	transition		False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
+s2e01a	4	4	44.0	50.0	6.0	Ra waits R with flowers		False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e01a	4	5	50.0	133.0	83.0	R arrives with his girlfriend Julie		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e01a	5	6	133.0	137.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e01a	6	7	137.0	173.0	36.0	the guys prepare the return of R		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e01a	6	8	173.0	197.0	24.0	Ra is quick to tell others that R does not come alone		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e01a	6	9	197.0	312.0	115.0	R introduces Julie to the gang		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e01a	7	10	312.0	317.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e01a	8	11	317.0	427.0	110.0	Ra asks C to speak w R		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e01a	9	12	427.0	483.0	56.0	M asks Pb to cut his hair		True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s2e01a	9	13	483.0	518.0	35.0	Julie calls at M to speak w R		False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e01a	9	14	518.0	554.0	36.0	C arrives at M + Ra's apartment		False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e01a	9	15	554.0	650.0	96.0	R sits close to Ra to finish his call		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e01a	9	16	650.0	656.0	6.0	Ra leaves the apartment		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e01a	10	17	656.0	659.0	3.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e01a	11	18	659.0	675.0	16.0	The guys eat breakfast together		False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e01a	11	19	675.0	691.0	16.0	Ra asks them to close their eyes for a few moments		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e01a	11	20	691.0	704.0	13.0	Paolo comes out of the room in a dressing gown		False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
