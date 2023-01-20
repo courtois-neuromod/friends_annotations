@@ -14,6 +14,20 @@ Input: .mkv video files (half episodes)\
 Output: .tsv files containing three columns: segment onset (in s), duration (s), and the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
 
 
+**MANUAL SEGMENTATION**
+
+Friends episodes were segmented by a rater into cohesive story chunks. Segment boundaries were flagged whenever a rater noticed a location change, time jump, character departure or entry, change in character goal(s) or other transitions (e.g., musical interlude, theme song). Segmentation rules and guidelines are detailed in /docs/manual_segmentation/segmentation_manual.pdf
+
+Of note, the same scene can include more than one story segment during which different characters address different issues (e.g., an extended scene of the characters hanging out at Monica's apartment can include different segments during which Monica frets over her parents visiting, Rachel looks for her lost engagement ring, and then Ross announces to his friends that his ex wife is pregnant).
+
+Segments are accompanied by a caption that summarizes what happens in the story (e.g., "Chandler asks Monica whether she would date him if he were the last man on earth"). Captions are available both in English and in French. They were originally written in the main rater's native French, and translated into English using deepl (https://www.deepl.com/translator), with some manual editing to resolve ambiguities.
+
+Each segment has an onset, offset and duration (in seconds). The location of each segment is also specified (the two main apartments, the coffee shop, or somewhere else). Annotations also include the type of boundary (location change, time jump, character entry, etc.) that frames the onset and offset of each segment.
+
+Output: .tsv files found in annotation_results/manual_segmentation
+
+
+
 **DEEPGAZE MR**
 
 DeepGaze MR is a saliency model with VGG-19 backbone trained to predict the likelihood of the viewer's gaze position for movie frames.

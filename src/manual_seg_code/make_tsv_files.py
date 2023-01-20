@@ -43,7 +43,7 @@ def make_tsvs(csv_file, out_path):
     df = pd.read_csv(csv_file, sep=',', header=None)
 
     # add columne names
-    column_names = ['episode', 'scene', 'segment', 'descriptor', 'caption', 'onset',
+    column_names = ['episode', 'scene', 'segment', 'descriptor', 'caption_eng', 'caption_fr', 'onset',
                     'ONbond_location', 'ONbond_charact_entry', 'ONbond_charact_leave', 'ONbond_time_jump',
                     'ONbond_goal_change', 'ONbond_music_transit', 'ONbond_theme_song', 'ONbond_end',
                     'loc_apt1_Mon_Rach', 'loc_apt2_Chan_Joey', 'loc_apt3_Ross', 'loc_apt4_Pheob_Rach',
@@ -67,9 +67,9 @@ def make_tsvs(csv_file, out_path):
         df['OFF'+col_name[2:]] = df[col_name].tolist()[1:] + [False]
 
     final_cnames = ['episode', 'scene', 'segment', 'onset', 'offset', 'duration',
-                    'descriptor', 'caption',
+                    'caption_eng', 'caption_fr',
                     'ONbond_location', 'ONbond_charact_entry', 'ONbond_charact_leave', 'ONbond_time_jump',
-                    'ONbond_goal_change', 'ONbond_music_transit', 'ONbond_theme_song', 'ONbond_end',
+                    'ONbond_goal_change', 'ONbond_music_transit', 'ONbond_theme_song', 
                     'OFFbond_location', 'OFFbond_charact_entry', 'OFFbond_charact_leave', 'OFFbond_time_jump',
                     'OFFbond_goal_change', 'OFFbond_music_transit', 'OFFbond_theme_song', 'OFFbond_end',
                     'loc_apt1_Mon_Rach', 'loc_apt2_Chan_Joey', 'loc_apt3_Ross', 'loc_apt4_Pheob_Rach',
