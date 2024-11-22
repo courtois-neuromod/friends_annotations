@@ -16,7 +16,7 @@ Output: .tsv files containing three columns: segment onset (in s), duration (s),
 
 **MANUAL SEGMENTATION**
 
-Friends episodes were segmented manually by a rater into cohesive story chunks. Segment boundaries were flagged whenever a rater noticed a location change, time jump, character departure or entry, change in character goal(s) or other transitions (e.g., musical interlude, theme song). Segmentation rules and guidelines are detailed in /docs/manual_segmentation/segmentation_manual.pdf
+Friends episodes were segmented manually by a rater into cohesive story chunks. Segment boundaries were flagged whenever a rater noticed a location change, time jump, character departure or entry, change in character goal(s) or other transitions (e.g., musical interlude, theme song). Segmentation rules and guidelines are detailed in /docs/manual_segmentation/segmentation_manual.md
 
 Of note, the same scene can include more than one story segment during which different characters address different issues (e.g., an extended scene of the characters hanging out at Monica's apartment can include different segments during which Monica frets over her parents visiting, Rachel looks for her lost engagement ring, and then Ross announces to his friends that his ex wife is pregnant).
 
