@@ -5,7 +5,7 @@ Authors: Maryse Lapierre, Marie St-Laurent
 
 **1. OVERARCHING GOAL**
 
-This manual segmentation technique was developed to enrich the friends dataset of the Courtois Project on Neuronal Modelling (CNeuroMod)$^1$  which consists of ~60h of fMRI data per subject (n=6) acquired while they watched seasons 1 to 6 of the sitcom Friends. To accompany these fMRI data, we are compiling a set of annotations that characterize low and high-level dimensions in the set of video stimuli.
+This manual segmentation technique was developed to enrich the friends dataset of the Courtois Project on Neuronal Modelling (CNeuroMod)<sup>1</sup>  which consists of ~60h of fMRI data per subject (n=6) acquired while they watched seasons 1 to 6 of the sitcom Friends. To accompany these fMRI data, we are compiling a set of annotations that characterize low and high-level dimensions in the set of video stimuli.
 
 For manual scene segmentation, Friends episodes were segmented into meaningful, cohesive units of story. Scene boundaries were flagged whenever a rater noticed a location change, time jump, character departure or entry, goal change or another transitions (e.g., musical interlude, theme song). The following segmentation rules and guidelines were initially put together by Laurie Charest, Jeni Chen and Marie St-Laurent, and formalized, expanded and clarified by Maryse Lapierre and Marie St-Laurent.
 
