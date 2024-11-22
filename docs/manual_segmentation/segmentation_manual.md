@@ -4,6 +4,7 @@ Authors: Maryse Lapierre, Marie St-Laurent
 
 
 **1. OVERARCHING GOAL**
+
 This manual segmentation technique was developed to enrich the friends dataset of the Courtois Project on Neuronal Modelling (CNeuroMod, http://docs.cneuromod.ca/)1 which consists of ~60h of fMRI data per subject (n=6) acquired while they watched seasons 1 to 6 of the sitcom Friends. To accompany these fMRI data, we are compiling a set of annotations that characterize low and high-level dimensions in the set of video stimuli.
 
 For manual scene segmentation, Friends episodes were segmented into meaningful, cohesive units of story. Scene boundaries were flagged whenever a rater noticed a location change, time jump, character departure or entry, goal change or another transitions (e.g., musical interlude, theme song). The following segmentation rules and guidelines were initially put together by Laurie Charest, Jeni Chen and Marie St-Laurent, and formalized, expanded and clarified by Maryse Lapierre and Marie St-Laurent.
@@ -11,6 +12,7 @@ For manual scene segmentation, Friends episodes were segmented into meaningful, 
 1. Boyle JA , Pinsard B , Boukhdhir A , Belleville S, Brambatti S, Chen J, Cohen-Adad J, Cyr A, Fuente, Rainville P, Bellec P. The Courtois project on neuronal modelling – first data release. In: 2020.
 
 **2. SCENES AND SEGMENTS**
+
 Scenes are sequences of movie frames that feature events contiguous in time and space. A scene corresponds to a portion of an episode’s story that is bound by time jumps, location changes and other transition markers (e.g., musical interludes, fade outs, theme song).
 
 Typically, a scene contains multiple segments. Segments are cohesive story elements that are nested within scenes. The same scene can include more than one story segment during which different characters address different issues (e.g., an extended scene of the characters hanging out at Monica's apartment can include different segments during which Monica frets over her parents visiting, Rachel looks for her lost engagement ring, and then Ross announces to his friends that his ex wife is pregnant). For example, episode s1e06a features a long scene (beginning around 07:25) that contains a series of segments that correspond to flashbacks interweaved with the present.
@@ -101,4 +103,3 @@ When the phone rings, we annotate a character entry (the caller), goal change (f
 **6.4. Video tape**
 
 When a scene includes characters viewing a video, the boundary is considered a goal change only. No location change or character entry is noted because it is a recorded scene and not an active one. Example: Monica and Rachel’s prom video from s2e14b at 05:06.
- 
