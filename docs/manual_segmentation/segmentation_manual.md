@@ -2,6 +2,7 @@ Friends Manual Scene Segmentation: Guidelines
 ==============================
 Authors: Maryse Lapierre, Marie St-Laurent
 <br>
+<br>
 
 **1. OVERARCHING GOAL**
 
@@ -23,7 +24,6 @@ The first **scene** is numbered 001, the second scene 002, and so on until the e
 Boundaries between **segments** are flagged by the rater based on perceived transitions in the storyline. Boundaries are noted whenever the rater notices one or several of the following changes: a location change, a time jump, a character departure or entry, a goal change or a transition that reflects cinematographic editing (e.g., musical inter-scene transitions, theme song).  
 
 The average **segment** length varies from ~45 seconds to a few minutes (between 3-4 minutes). There are exceptions, as some segments can last more than 4 minutes. Segments are very rarely shorter than 30 seconds. The last segment of a half-episode starts when the screen fades to black and lasts until the end of the .mkv
-<br>
 <br>
 <br>
 
@@ -73,7 +73,6 @@ A theme song boundary is marked at the onset of the segment that corresponds to 
 An “end” boundary is marked as the scene fades at the end of a half-episode. It marks the onset of the episode’s last segment, which starts with the fading-out and lasts until the end of the video (last .mkv frame).
 <br>
 <br>
-<br>
 
 **4. LOCATION ANNOTATIONS**
 
@@ -90,7 +89,6 @@ The location annotations indicate where a scene or segment takes place among the
 **5. SEGMENT CAPTIONS**
 
 Captions are complete sentences that provide the gist of each segment (what is happening in the story's plot). Captions were originally written by the main rater in her native French, and then translated into English using the online tool deepl (https://www.deepl.com/translator), with some manual editing to resolve ambiguities.
-<br>
 <br>
 <br>
 
