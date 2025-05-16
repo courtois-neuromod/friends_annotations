@@ -2,6 +2,7 @@ friends_annotations
 ==============================
 This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. It includes the annotations themselves, as well as the scripts used to generate them.
 <br>
+<br>
 
 
 ***PYSCENEDETECT***
@@ -12,6 +13,7 @@ The script to launch the segmentation is src/pyscene_code/launchPyscene.sh. It t
 
 **Input**: .mkv video files (half episodes)\
 **Output**: .tsv files containing three columns: segment onset (in s), duration (s), and the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
+<br>
 <br>
 
 **MANUAL SEGMENTATION**
@@ -26,7 +28,7 @@ Each segment has an onset, offset and duration (in seconds). The location of eac
 
 Output: .tsv files found in annotation_results/manual_segmentation
 <br>
-
+<br>
 
 **DEEPGAZE MR**
 
@@ -49,6 +51,7 @@ The script to launch the extraction of peak coordinates is:
 - *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels, using matrix indexing).\
 The output is found in annotation_results/DeepgazeMR
 <br>
+<br>
 
 ***TIME-STAMPED CAPTIONS***
 
@@ -57,11 +60,13 @@ We used AssemblyAI speech-to-text transcription to obtain time-stamped movie tra
 **Input**: .wav mono audio files (half episodes)\
 **Output**: .json files containing the raw transcript, as well as a dictionary of time-stamped words. The output is found in annotation_results/Speech2Text
 <br>
+<br>
 
 **FRIENDS_CORPUS**
 
 pending: annotated utterances from the <a href="https://convokit.cornell.edu/documentation/friends.html">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
 At the moment, only the extraction of the data from the raw data has been done. Relevant information can be found on the corpusdev branch in  data/friends_corpus/readme.txt
+<br>
 <br>
 
 **MELD**
