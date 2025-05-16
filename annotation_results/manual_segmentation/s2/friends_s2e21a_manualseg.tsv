@@ -1,19 +1,19 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e21a	1	1	0.0	97.0	97.0	Pb sees signs in everything others say (her father)		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
-s2e21a	2	2	97.0	104.0	7.0	theme song		False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
-s2e21a	3	3	104.0	115.0	11.0	R w C return from racket ball		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e21a	3	4	115.0	206.0	91.0	A conflict breaks out for the usual place on the couch...		False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e21a	4	5	206.0	224.0	18.0	J w Ra talk about Pb and her father		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e21a	4	6	224.0	255.0	31.0	M returns from a rather disappointing interview		False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e21a	4	7	255.0	296.0	41.0	R and C tell others what happened at the cafe earlier		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e21a	4	8	296.0	331.0	35.0	M says he earned her investment...		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e21a	5	9	331.0	334.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e21a	6	10	334.0	369.0	35.0	J w Ra accompany Pb to her father for his birthday		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False
-s2e21a	6	11	369.0	430.0	61.0	Pb is attacked by father's dog + J w Ra try to help her... but they are just as scared !		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e21a	7	12	430.0	446.0	16.0	R w C are in the cafe...		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e21a	7	13	446.0	497.0	51.0	... the two guys come back and demand to take back the couch		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s2e21a	7	14	497.0	578.0	81.0	R asks Gunther who was there before		False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e21a	8	15	578.0	638.0	60.0	Pb decides not to go see her father...		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False
-s2e21a	8	16	638.0	660.0	22.0	Pb crushes the dog w the car !		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False
-s2e21a	9	17	660.0	664.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e21a	10	18	664.0	693.0	29.0	M talks about her investment model...		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e21a	1	1	0.0	97.0	97.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s2e21a	2	2	97.0	104.0	7.0	False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
+s2e21a	3	3	104.0	115.0	11.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e21a	3	4	115.0	206.0	91.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e21a	4	5	206.0	224.0	18.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e21a	4	6	224.0	255.0	31.0	False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e21a	4	7	255.0	296.0	41.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e21a	4	8	296.0	331.0	35.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e21a	5	9	331.0	334.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e21a	6	10	334.0	369.0	35.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False
+s2e21a	6	11	369.0	430.0	61.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e21a	7	12	430.0	446.0	16.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e21a	7	13	446.0	497.0	51.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s2e21a	7	14	497.0	578.0	81.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e21a	8	15	578.0	638.0	60.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False
+s2e21a	8	16	638.0	660.0	22.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False
+s2e21a	9	17	660.0	664.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e21a	10	18	664.0	693.0	29.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

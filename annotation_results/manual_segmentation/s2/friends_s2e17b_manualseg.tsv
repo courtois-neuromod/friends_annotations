@@ -1,21 +1,21 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e17b	1	1	0.0	39.0	39.0	end of previous		False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e17b	2	2	39.0	43.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e17b	3	3	43.0	53.0	10.0	M, R + Ra talk about C's new roommate		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e17b	3	4	53.0	159.0	106.0	Pb plays her video of her first song - Smelly Cat		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e17b	4	5	159.0	163.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e17b	5	6	163.0	173.0	10.0	J knocks on the door of C's apartment		True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e17b	5	7	173.0	227.0	54.0	Eddie opens the door and J comes to get his mail		True	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
-s2e17b	5	8	227.0	313.0	86.0	Eddie leaves + J throws a fit of jealousy at C		False	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e17b	6	9	313.0	348.0	35.0	R w M argue over TV		True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
-s2e17b	6	10	348.0	459.0	111.0	Ra can't take it anymore and goes to take a bath		False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e17b	7	11	459.0	463.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e17b	8	12	463.0	537.0	74.0	Pb realized it wasn't her voice in the video		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e17b	9	13	537.0	587.0	50.0	C asks Eddie if he would like to do some stuff that J also liked		True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e17b	9	14	587.0	605.0	18.0	J watches Baywatch series hoping to share w C		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e17b	9	15	605.0	612.0	7.0	C plays at the foosball table alone		True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e17b	9	16	612.0	617.0	5.0	J plays table tennis alone		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e17b	9	17	617.0	626.0	9.0	C looks out the window - he's sad...		True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e17b	9	18	626.0	641.0	15.0	J looks out the fake window - J too...		True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e17b	10	19	641.0	643.0	2.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e17b	11	20	643.0	719.0	76.0	Pb performs her famous song + includes the gang to sing w		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e17b	1	1	0.0	39.0	39.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e17b	2	2	39.0	43.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e17b	3	3	43.0	53.0	10.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e17b	3	4	53.0	159.0	106.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e17b	4	5	159.0	163.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e17b	5	6	163.0	173.0	10.0	True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e17b	5	7	173.0	227.0	54.0	True	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
+s2e17b	5	8	227.0	313.0	86.0	False	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e17b	6	9	313.0	348.0	35.0	True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s2e17b	6	10	348.0	459.0	111.0	False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e17b	7	11	459.0	463.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e17b	8	12	463.0	537.0	74.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e17b	9	13	537.0	587.0	50.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e17b	9	14	587.0	605.0	18.0	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e17b	9	15	605.0	612.0	7.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e17b	9	16	612.0	617.0	5.0	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e17b	9	17	617.0	626.0	9.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e17b	9	18	626.0	641.0	15.0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e17b	10	19	641.0	643.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e17b	11	20	643.0	719.0	76.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

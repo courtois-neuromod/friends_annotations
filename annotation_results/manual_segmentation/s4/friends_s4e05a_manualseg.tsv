@@ -1,26 +1,26 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s4e05a	1	1	0.0	68.0	68.0		Ross essaye d'attirer l'attention de Rachel avec un numéro de téléphone qu'une femme (Amanda) lui aurait remis.	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False
-s4e05a	2	2	68.0	75.0	7.0	theme song	chanson thème	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s4e05a	3	3	75.0	77.0	2.0	transition	transition	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e05a	4	4	77.0	89.0	12.0		Gunther demande à Rachel sa date d'anniversaire et ne note pas celle de Ross.	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	5	89.0	141.0	52.0		Chandler veut aborder une femme, mais hésite à aller lui parler.	False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	6	141.0	165.0	24.0		Phoebe a le rhume et veut chanter quand même au Café.	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	7	165.0	184.0	19.0		Chandler prend son courage à deux mains et va aborder la femme.	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	8	184.0	209.0	25.0		Il se présente à Kathy qui lui dit qu'elle attend sa date.	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	9	209.0	231.0	22.0		La date de Kathy est nul autre que Joey !	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	10	231.0	259.0	28.0		Phoebe s'excuse à l'avance parce qu'elle a le rhume et débute sa prestation.	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s4e05a	4	11	259.0	265.0	6.0		Phoebe demande à Gunther de lui apporter un verre de Whisky.	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s4e05a	4	12	265.0	268.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e05a	5	13	268.0	348.0	80.0		Kathy et Chandler regarde la télévision.	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s4e05a	6	14	348.0	350.0	2.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e05a	7	15	350.0	395.0	45.0		Phoebe reçoit des compliments sur sa prestation ; Elle se sent davanatge sexy lorsqu'elle a le rhume.	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s4e05a	7	16	395.0	406.0	11.0		Kathy et Joey vont acheter un hamster pour la recherche médicale.	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s4e05a	7	17	406.0	453.0	47.0		La gang parle de Kathy et Chandler se fait taquiner sur le fait qu'il l'aime.	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s4e05a	8	18	453.0	455.0	2.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e05a	9	19	455.0	476.0	21.0		Phoebe cherche l'inspiration pour une chanson afin de profiter de sa voix blues.	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s4e05a	9	20	476.0	505.0	29.0		Ross se vente à Monica qu'il va coucher avec Amanda ce soir pour qu'elle le raconte à Rachel.	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s4e05a	9	21	505.0	547.0	42.0		Rachel présente Josh à Monica, Phoebe et Ross.	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e05a	9	22	547.0	617.0	70.0		Ross et Rachel se lance quelques flèches sur leur ancienne relation de couple.	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e05a	9	23	617.0	638.0	21.0		Phoebe réalise qu'elle a perdu sa voix sexy.	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s4e05a	10	24	638.0	641.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e05a	11	25	641.0	695.0	54.0		Ross arrive chez Amanda et réalise qu'il est le babysitter pour les enfants.	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s4e05a	1	1	0.0	68.0	68.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False
+s4e05a	2	2	68.0	75.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s4e05a	3	3	75.0	77.0	2.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e05a	4	4	77.0	89.0	12.0	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	5	89.0	141.0	52.0	False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	6	141.0	165.0	24.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	7	165.0	184.0	19.0	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	8	184.0	209.0	25.0	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	9	209.0	231.0	22.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	10	231.0	259.0	28.0	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s4e05a	4	11	259.0	265.0	6.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s4e05a	4	12	265.0	268.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e05a	5	13	268.0	348.0	80.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s4e05a	6	14	348.0	350.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e05a	7	15	350.0	395.0	45.0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s4e05a	7	16	395.0	406.0	11.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s4e05a	7	17	406.0	453.0	47.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s4e05a	8	18	453.0	455.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e05a	9	19	455.0	476.0	21.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s4e05a	9	20	476.0	505.0	29.0	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e05a	9	21	505.0	547.0	42.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e05a	9	22	547.0	617.0	70.0	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e05a	9	23	617.0	638.0	21.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s4e05a	10	24	638.0	641.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e05a	11	25	641.0	695.0	54.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

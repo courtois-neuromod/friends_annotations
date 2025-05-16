@@ -1,21 +1,19 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e06b	1	1	0.0	12.0	12.0	end of previous		False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e06b	2	2	12.0	18.0	6.0	Pb still sings in front of the cafe		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s2e06b	2	3	18.0	66.0	48.0	Pb meets Stephanie, the professional guitarist and interrogates her !		False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e06b	3	4	66.0	96.0	30.0	C and J make a phone call to town at the social service		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e06b	4	5	96.0	133.0	37.0	Pb buries Stephanie's presentation w her voice singing outside		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e06b	5	6	133.0	136.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e06b	6	7	136.0	165.0	29.0	C and J pretend to be a couple		True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e06b	7	8	165.0	239.0	74.0	they don't recognize Ben in the nursery		False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e06b	8	9	239.0	409.0	170.0	Stephanie performs a song		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e06b	8	10	409.0	512.0	103.0	"Ra joins Pb in front of the cafe 
-to comfort her"		False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e06b	8	11	512.0	528.0	16.0	a guy asks Pb for change to help him		False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s2e06b	8	12	528.0	531.0	3.0	he runs off and says : Christine, I've got it ! 		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e06b	9	13	531.0	535.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e06b	10	14	535.0	592.0	57.0	R w M reminisce about memories		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e06b	10	15	592.0	622.0	30.0	C w J arrive at M w Ben		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e06b	10	16	622.0	648.0	26.0	R leaves the bathroom and comes to hug Ben		False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e06b	10	17	648.0	677.0	29.0	"R realizes that C w J lost Ben during the day and he went to social services ... 
-R is furious !"		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e06b	11	18	677.0	737.0	60.0	Pb gives a singing lesson to Stephanie		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e06b	1	1	0.0	12.0	12.0	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e06b	2	2	12.0	18.0	6.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s2e06b	2	3	18.0	66.0	48.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e06b	3	4	66.0	96.0	30.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e06b	4	5	96.0	133.0	37.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e06b	5	6	133.0	136.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e06b	6	7	136.0	165.0	29.0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e06b	7	8	165.0	239.0	74.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e06b	8	9	239.0	409.0	170.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e06b	8	10	409.0	512.0	103.0	False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e06b	8	11	512.0	528.0	16.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s2e06b	8	12	528.0	531.0	3.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e06b	9	13	531.0	535.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e06b	10	14	535.0	592.0	57.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e06b	10	15	592.0	622.0	30.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e06b	10	16	622.0	648.0	26.0	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e06b	10	17	648.0	677.0	29.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e06b	11	18	677.0	737.0	60.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

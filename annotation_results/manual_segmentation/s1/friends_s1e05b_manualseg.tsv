@@ -1,21 +1,21 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s1e05b	1	1	0	134	134			FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	2	2	134	161	27			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	3	3	161	165	4			FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
-s1e05b	4	4	165	207	42			FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	5	5	207	236	29			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	6	6	236	238	2			FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
-s1e05b	7	7	238	301	63			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	8	8	301	386	85			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	9	9	386	472	86			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	9	10	472	490	18			FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	10	11	490	509	19			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	10	12	509	538	29	C coffee ++		FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	10	13	538	557	19	J back bathroom		FALSE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	10	14	557	572	15	J quit		FALSE	FALSE	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	11	15	572	584	12	laundry w R		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	11	16	584	629	45			FALSE	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	11	17	629	646	17	kiss		FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
-s1e05b	12	18	646	661	15			TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	12	19	661	680	19			FALSE	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
-s1e05b	12	20	680	690	10	C run outside		FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	FALSE
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e05b	1	1	0	134	134	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	2	2	134	161	27	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e05b	3	3	161	165	4	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e05b	4	4	165	207	42	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	5	5	207	236	29	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e05b	6	6	236	238	2	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False
+s1e05b	7	7	238	301	63	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False
+s1e05b	8	8	301	386	85	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	9	9	386	472	86	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	9	10	472	490	18	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	10	11	490	509	19	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s1e05b	10	12	509	538	29	False	False	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	True	False	False
+s1e05b	10	13	538	557	19	False	True	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+s1e05b	10	14	557	572	15	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False
+s1e05b	11	15	572	584	12	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e05b	11	16	584	629	45	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e05b	11	17	629	646	17	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s1e05b	12	18	646	661	15	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e05b	12	19	661	680	19	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e05b	12	20	680	690	10	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

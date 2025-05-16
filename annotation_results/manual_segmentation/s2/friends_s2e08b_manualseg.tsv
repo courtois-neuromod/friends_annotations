@@ -1,29 +1,29 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e08b	1	1	0.0	33.0	33.0	end of previous		False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
-s2e08b	1	2	33.0	60.0	27.0	R goes to get Ra's coat to go for a walk		False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s2e08b	1	3	60.0	169.0	109.0	Ra asks C to see what he printed		False	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
-s2e08b	1	4	169.0	203.0	34.0	C and J leave the apartment to let R explain everything to her		False	False	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e08b	1	5	203.0	217.0	14.0	Ra leaves C and J and goes home		True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s2e08b	1	6	217.0	231.0	14.0	Ra bars her door and leaves R outside		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e08b	2	7	231.0	279.0	48.0	C w J tell what just happened between R w Ra (list)		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e08b	3	8	279.0	282.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e08b	4	9	282.0	290.0	8.0	Ra eats her emotions...		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	4	10	290.0	319.0	29.0	R arrives at Ra's balcony via the fire escape		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	4	11	319.0	323.0	4.0	Ra enters her bedroom		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	4	12	323.0	362.0	39.0	the guys arrives at the same time as R reads the list		False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	4	13	362.0	420.0	58.0	Ra opens the door for R to tell him she's not giving him another chance		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	4	14	420.0	443.0	23.0	Ra goes back to her room and leaves R in the lurch		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e08b	5	15	443.0	446.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e08b	6	16	446.0	494.0	48.0	M presents her recipes to the company		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e08b	7	17	494.0	498.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e08b	8	18	498.0	506.0	8.0	Ra looks out the window + M looks for a job in the newspaper		True	False	False	True	False	False	False	False	True	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e08b	8	19	506.0	532.0	26.0	R calls M and Ra's home and asks M to do something for him		True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	True
-s2e08b	8	20	532.0	561.0	29.0	at Ra's		False	False	True	False	True	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	8	21	561.0	566.0	5.0	at R's		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e08b	8	22	566.0	582.0	16.0	at Ra's		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	8	23	582.0	596.0	14.0	at R's		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e08b	8	24	596.0	600.0	4.0	at Ra's		True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	8	25	600.0	604.0	4.0	M enters her bedroom		False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	8	26	604.0	626.0	22.0	at R's		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e08b	8	27	626.0	643.0	17.0	at Ra's		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e08b	9	28	643.0	673.0	30.0	the company M contracted for is calling her back for another dubious product...		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e08b	1	1	0.0	33.0	33.0	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s2e08b	1	2	33.0	60.0	27.0	False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s2e08b	1	3	60.0	169.0	109.0	False	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
+s2e08b	1	4	169.0	203.0	34.0	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e08b	1	5	203.0	217.0	14.0	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s2e08b	1	6	217.0	231.0	14.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e08b	2	7	231.0	279.0	48.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e08b	3	8	279.0	282.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e08b	4	9	282.0	290.0	8.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	4	10	290.0	319.0	29.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	4	11	319.0	323.0	4.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	4	12	323.0	362.0	39.0	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	4	13	362.0	420.0	58.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	4	14	420.0	443.0	23.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e08b	5	15	443.0	446.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e08b	6	16	446.0	494.0	48.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e08b	7	17	494.0	498.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e08b	8	18	498.0	506.0	8.0	True	False	False	True	False	False	False	False	True	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e08b	8	19	506.0	532.0	26.0	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	True
+s2e08b	8	20	532.0	561.0	29.0	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	8	21	561.0	566.0	5.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e08b	8	22	566.0	582.0	16.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	8	23	582.0	596.0	14.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e08b	8	24	596.0	600.0	4.0	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	8	25	600.0	604.0	4.0	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	8	26	604.0	626.0	22.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e08b	8	27	626.0	643.0	17.0	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e08b	9	28	643.0	673.0	30.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

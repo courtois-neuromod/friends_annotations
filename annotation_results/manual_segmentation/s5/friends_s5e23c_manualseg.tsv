@@ -1,24 +1,24 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s5e23c	1	1	0.0	33.0	33.0	end of previous	fin de scène	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	1	2	33.0	43.0	10.0			False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s5e23c	2	3	43.0	46.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e23c	3	4	46.0	64.0	18.0			True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s5e23c	4	5	64.0	66.0	2.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e23c	5	6	66.0	84.0	18.0			True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s5e23c	6	7	84.0	87.0	3.0	transition	transition	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e23c	7	8	87.0	101.0	14.0			False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s5e23c	8	9	101.0	104.0	3.0	transition	transition	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e23c	9	10	104.0	118.0	14.0			True	False	False	True	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	9	11	118.0	161.0	43.0			False	True	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	9	12	161.0	209.0	48.0			False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	9	13	209.0	234.0	25.0			False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	9	14	234.0	280.0	46.0			False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	10	15	280.0	337.0	57.0			False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	11	16	337.0	365.0	28.0			False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	12	17	365.0	457.0	92.0			True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	12	18	457.0	498.0	41.0			False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	13	19	498.0	513.0	15.0			True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	13	20	513.0	531.0	18.0			False	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
-s5e23c	13	21	531.0	568.0	37.0			False	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	14	22	568.0	640.0	72.0			True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e23c	15	23	640.0	676.0	36.0			True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s5e23c	1	1	0.0	33.0	33.0	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	1	2	33.0	43.0	10.0	False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e23c	2	3	43.0	46.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e23c	3	4	46.0	64.0	18.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e23c	4	5	64.0	66.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e23c	5	6	66.0	84.0	18.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e23c	6	7	84.0	87.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e23c	7	8	87.0	101.0	14.0	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e23c	8	9	101.0	104.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e23c	9	10	104.0	118.0	14.0	True	False	False	True	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	9	11	118.0	161.0	43.0	False	True	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	9	12	161.0	209.0	48.0	False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	9	13	209.0	234.0	25.0	False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	9	14	234.0	280.0	46.0	False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	10	15	280.0	337.0	57.0	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	11	16	337.0	365.0	28.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	12	17	365.0	457.0	92.0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	12	18	457.0	498.0	41.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	13	19	498.0	513.0	15.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	13	20	513.0	531.0	18.0	False	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s5e23c	13	21	531.0	568.0	37.0	False	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	14	22	568.0	640.0	72.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e23c	15	23	640.0	676.0	36.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

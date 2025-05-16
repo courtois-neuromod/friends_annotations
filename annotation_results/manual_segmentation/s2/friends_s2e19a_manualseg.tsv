@@ -1,21 +1,21 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e19a	1	1	0.0	87.0	87.0	Eddie watches C sleep and C wants him to leave his apartment right away !		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False
-s2e19a	2	2	87.0	94.0	7.0	theme song		False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s2e19a	3	3	94.0	96.0	2.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19a	4	4	96.0	154.0	58.0	J joins Ra and M at the cafe w a stylish hat		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e19a	4	5	154.0	243.0	89.0	Pb asks Ra and M if she has read the book		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e19a	5	6	243.0	248.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19a	6	7	248.0	328.0	80.0	J is at his casting agent and he refuses the job she offers him		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e19a	7	8	328.0	349.0	21.0	Ra reads the book and feels concerned by what is written		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e19a	7	9	349.0	433.0	84.0	... so much that she uses what she read on R		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e19a	8	10	433.0	437.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19a	9	11	437.0	452.0	15.0	R tells J that Ra read a book about wind and tree !		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e19a	9	12	452.0	559.0	107.0	J received his Visa bill and R w J jump seeing the amount		False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s2e19a	9	13	559.0	573.0	14.0	R asks J to think about the offer he received from the agent + he leaves		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e19a	10	14	573.0	576.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19a	11	15	576.0	587.0	11.0	R checks his back...		True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e19a	11	16	587.0	595.0	8.0	He walks in and thinks he's alone...		True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e19a	11	17	595.0	652.0	57.0	... But no ! Eddie is still there		False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e19a	12	18	652.0	686.0	34.0	J realizes while talking to the waiter that in the end it's not so bad his concern		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e19a	13	19	686.0	689.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19a	14	20	689.0	704.0	15.0	M notices that C is sleeping on her sofa and watches him sleep !		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e19a	1	1	0.0	87.0	87.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False
+s2e19a	2	2	87.0	94.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s2e19a	3	3	94.0	96.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19a	4	4	96.0	154.0	58.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e19a	4	5	154.0	243.0	89.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e19a	5	6	243.0	248.0	5.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19a	6	7	248.0	328.0	80.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e19a	7	8	328.0	349.0	21.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e19a	7	9	349.0	433.0	84.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e19a	8	10	433.0	437.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19a	9	11	437.0	452.0	15.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e19a	9	12	452.0	559.0	107.0	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s2e19a	9	13	559.0	573.0	14.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e19a	10	14	573.0	576.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19a	11	15	576.0	587.0	11.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e19a	11	16	587.0	595.0	8.0	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e19a	11	17	595.0	652.0	57.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e19a	12	18	652.0	686.0	34.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e19a	13	19	686.0	689.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19a	14	20	689.0	704.0	15.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

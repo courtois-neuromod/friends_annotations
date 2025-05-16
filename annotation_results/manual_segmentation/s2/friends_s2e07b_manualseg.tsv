@@ -1,17 +1,17 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e07b	1	1	0.0	7.0	7.0	end of previous		False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
-s2e07b	1	2	7.0	12.0	5.0	C leaves his apartment leaving M alone		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e07b	2	3	12.0	68.0	56.0	R drops by Ra and M to pick up items for the cat		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e07b	2	4	68.0	190.0	122.0	R take voice messages remotely... +  listen to the message of Ra		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e07b	2	5	190.0	231.0	41.0	Julie rings the doorbell for R to come down		False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e07b	2	6	231.0	238.0	7.0	R joins Julie + leaves Ra behind		False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e07b	3	7	238.0	343.0	105.0	Pb arrives at J and tells him about his discussion with Scott		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e07b	4	8	343.0	347.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e07b	5	9	347.0	435.0	88.0	Julie w R choose the cat they like, but R hesitates		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e07b	6	10	435.0	438.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e07b	7	11	438.0	444.0	6.0	Ra closed the cafe		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s2e07b	7	12	444.0	527.0	83.0	R comes to continue their conversation		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s2e07b	7	13	527.0	547.0	20.0	R goes angry...		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s2e07b	7	14	547.0	601.0	54.0	R retraces his steps... and Ra will open the door for him		False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e07b	7	15	601.0	615.0	14.0	R and Ra kiss !		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e07b	8	16	615.0	723.0	108.0	M is at C's at 6am and he manages to dissuade her to take a nap		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e07b	1	1	0.0	7.0	7.0	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s2e07b	1	2	7.0	12.0	5.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e07b	2	3	12.0	68.0	56.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e07b	2	4	68.0	190.0	122.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e07b	2	5	190.0	231.0	41.0	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e07b	2	6	231.0	238.0	7.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e07b	3	7	238.0	343.0	105.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e07b	4	8	343.0	347.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e07b	5	9	347.0	435.0	88.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e07b	6	10	435.0	438.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e07b	7	11	438.0	444.0	6.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s2e07b	7	12	444.0	527.0	83.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s2e07b	7	13	527.0	547.0	20.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s2e07b	7	14	547.0	601.0	54.0	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e07b	7	15	601.0	615.0	14.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e07b	8	16	615.0	723.0	108.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

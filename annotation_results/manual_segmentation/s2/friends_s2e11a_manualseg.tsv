@@ -1,19 +1,19 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e11a	1	1	0.0	79.0	79.0	Susan and Carol announce to R that they are getting married		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
-s2e11a	2	2	79.0	86.0	7.0	theme song		False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
-s2e11a	3	3	86.0	106.0	20.0	J talks about his dream last night		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e11a	3	4	106.0	168.0	62.0	M is invited to the wedding		False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e11a	3	5	168.0	257.0	89.0	the guys are watching the movie scene in which J plays		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e11a	4	6	257.0	261.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e11a	5	7	261.0	278.0	17.0	C and R are about to come out		False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e11a	5	8	278.0	347.0	69.0	Pb tells them a client died on her massage table		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e11a	6	9	347.0	351.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e11a	7	10	351.0	414.0	63.0	Ra is nervous because her mother is visiting her		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e11a	7	11	414.0	518.0	104.0	Her mother enters the cafe and Ra introduces her to her friends		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e11a	8	12	518.0	521.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e11a	9	13	521.0	572.0	51.0	Ra's mother tells her that she wants to leave her father		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e11a	9	14	572.0	589.0	17.0	M arrives at her house and asks Ra and her mother if the title of her cake sounds good		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e11a	10	15	589.0	593.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e11a	11	16	593.0	670.0	77.0	Ra demands an explanation from her mother		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e11a	12	17	670.0	673.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e11a	13	18	673.0	720.0	47.0	Ra confides in the guys about her parents' divorce and her mother's behavior		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e11a	1	1	0.0	79.0	79.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
+s2e11a	2	2	79.0	86.0	7.0	False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
+s2e11a	3	3	86.0	106.0	20.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e11a	3	4	106.0	168.0	62.0	False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e11a	3	5	168.0	257.0	89.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e11a	4	6	257.0	261.0	4.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e11a	5	7	261.0	278.0	17.0	False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e11a	5	8	278.0	347.0	69.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e11a	6	9	347.0	351.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e11a	7	10	351.0	414.0	63.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e11a	7	11	414.0	518.0	104.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e11a	8	12	518.0	521.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e11a	9	13	521.0	572.0	51.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e11a	9	14	572.0	589.0	17.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e11a	10	15	589.0	593.0	4.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e11a	11	16	593.0	670.0	77.0	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e11a	12	17	670.0	673.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e11a	13	18	673.0	720.0	47.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

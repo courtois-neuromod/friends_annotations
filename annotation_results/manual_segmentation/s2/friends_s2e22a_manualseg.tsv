@@ -1,36 +1,36 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e22a	1	1	0.0	6.0	6.0	transition		False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	2	2	6.0	57.0	51.0	the guys are throwing Ra's birthday party		False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
-s2e22a	3	3	57.0	64.0	7.0	theme song		False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s2e22a	4	4	64.0	66.0	2.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	5	5	66.0	105.0	39.0	they make the guest list		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e22a	5	6	105.0	148.0	43.0	Ra returns from her sister's graduation		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e22a	5	7	148.0	175.0	27.0	they continue the guest list for Ra's birthday		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e22a	6	8	175.0	178.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	7	9	178.0	201.0	23.0	they prepare the apartment for the party		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	10	201.0	247.0	46.0	Ra's father comes by to wish her a happy birthday, but was not supposed to be there !		False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	11	247.0	272.0	25.0	now it's her mother's turn who she was invited !		False	True	True	False	True	False	False	False	False	True	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	12	272.0	312.0	40.0	C asks the father to go and wear his coat on the bed...		False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	13	312.0	316.0	4.0	J watches what happens w the mother		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	14	316.0	334.0	18.0	J closes the bedroom door, still w the father		False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	15	334.0	344.0	10.0	Pb asks the mother to go outside on the balcony		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	7	16	344.0	372.0	28.0	J w C tell the dad the party ain't in the apartment		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e22a	8	17	372.0	377.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	9	18	377.0	391.0	14.0	C splits Men and Women guests in different apartment		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	19	391.0	396.0	5.0	M asks C to send her some Women to her party !		False	True	False	False	False	False	False	False	True	False	True	False	True	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	20	396.0	405.0	9.0	C says hush to them because Ra is coming		True	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	21	405.0	408.0	3.0	C enters his apartment		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	22	408.0	429.0	21.0	Ra w R arrive from the resto		False	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	23	429.0	457.0	28.0	Ra receives her first surprise at M...		True	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	9	24	457.0	459.0	2.0	Ra passes the corridor... 		True	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22a	9	25	459.0	471.0	12.0	... and the second to C and J's apartment		True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e22a	10	26	471.0	475.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	11	27	475.0	518.0	43.0	Ra is slowly recovering from the shock of seeing both of her parents on her birthday party		False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e22a	12	28	518.0	521.0	3.0	transition		False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22a	13	29	521.0	549.0	28.0	C tells J that a woman put her tongue down his throat... He said : I love this party !		False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s2e22a	13	30	549.0	564.0	15.0	Ra tells R that she is going to the other side		False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22a	13	31	564.0	578.0	14.0	M offers them a game (write a most embarrassing memory)		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	13	32	578.0	605.0	27.0	R will talk to Ra's father		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22a	13	33	605.0	618.0	13.0	M demonstrates how to properly close the marker to prevent it from drying out !		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22a	13	34	618.0	653.0	35.0	Gunther wants to leave, but M refuses		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22a	13	35	653.0	667.0	14.0	R goes to get a drink for Ra's father		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e22a	1	1	0.0	6.0	6.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	2	2	6.0	57.0	51.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
+s2e22a	3	3	57.0	64.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s2e22a	4	4	64.0	66.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	5	5	66.0	105.0	39.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e22a	5	6	105.0	148.0	43.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e22a	5	7	148.0	175.0	27.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e22a	6	8	175.0	178.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	7	9	178.0	201.0	23.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	10	201.0	247.0	46.0	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	11	247.0	272.0	25.0	False	True	True	False	True	False	False	False	False	True	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	12	272.0	312.0	40.0	False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	13	312.0	316.0	4.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	14	316.0	334.0	18.0	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	15	334.0	344.0	10.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	7	16	344.0	372.0	28.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e22a	8	17	372.0	377.0	5.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	9	18	377.0	391.0	14.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	19	391.0	396.0	5.0	False	True	False	False	False	False	False	False	True	False	True	False	True	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	20	396.0	405.0	9.0	True	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	21	405.0	408.0	3.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	22	408.0	429.0	21.0	False	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	23	429.0	457.0	28.0	True	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	9	24	457.0	459.0	2.0	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22a	9	25	459.0	471.0	12.0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e22a	10	26	471.0	475.0	4.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	11	27	475.0	518.0	43.0	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e22a	12	28	518.0	521.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22a	13	29	521.0	549.0	28.0	False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s2e22a	13	30	549.0	564.0	15.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22a	13	31	564.0	578.0	14.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	13	32	578.0	605.0	27.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22a	13	33	605.0	618.0	13.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22a	13	34	618.0	653.0	35.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22a	13	35	653.0	667.0	14.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

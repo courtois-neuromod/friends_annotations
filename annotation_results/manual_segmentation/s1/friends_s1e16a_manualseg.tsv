@@ -1,25 +1,25 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s1e16a	1	1	0.0	4.0	4.0	transition		False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
-s1e16a	1	2	4.0	11.0	7.0	J w C are sitting at a table in a resto		False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s1e16a	1	3	11.0	41.0	30.0	Pb is a waitress		False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
-s1e16a	2	4	41.0	49.0	8.0	theme song		False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s1e16a	3	5	49.0	52.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e16a	4	6	52.0	87.0	35.0	R says Marcel is out of control		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s1e16a	4	7	87.0	167.0	80.0	J w C announce to Pb that they have seen her sister		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s1e16a	4	8	167.0	199.0	32.0	R must leave to go to the prenatal meeting		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s1e16a	5	9	199.0	204.0	5.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e16a	6	10	204.0	271.0	67.0	R shows up w Carol + Susan		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s1e16a	7	11	271.0	274.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e16a	8	12	274.0	288.0	14.0	C at work		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s1e16a	8	13	288.0	321.0	33.0	C trips on his colleague Nina		False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s1e16a	9	14	321.0	342.0	21.0	guys eat Chinese		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e16a	9	15	342.0	379.0	37.0	Marcel takes the remote		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e16a	9	16	379.0	403.0	24.0	C asks why there are still Christmas lights		False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e16a	9	17	403.0	479.0	76.0	J returns from the resto where the sister at Pb works		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s1e16a	10	18	479.0	482.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e16a	11	19	482.0	569.0	87.0	R arrives late for the prenatal meeting + and he plays the role of mother		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s1e16a	12	20	569.0	575.0	6.0	C having fun at work		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s1e16a	12	21	575.0	621.0	46.0	Mister tells C that the annual statistics are not good		False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s1e16a	13	22	621.0	656.0	35.0	C summons Nina to fire her, but fails !		False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s1e16a	14	23	656.0	677.0	21.0	Ra asks Pb what she wants to do for her birthday		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s1e16a	14	24	677.0	713.0	36.0	two clients talk about Pb thinking it's her sister		False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e16a	1	1	0.0	4.0	4.0	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False
+s1e16a	1	2	4.0	11.0	7.0	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e16a	1	3	11.0	41.0	30.0	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True
+s1e16a	2	4	41.0	49.0	8.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s1e16a	3	5	49.0	52.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e16a	4	6	52.0	87.0	35.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e16a	4	7	87.0	167.0	80.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e16a	4	8	167.0	199.0	32.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s1e16a	5	9	199.0	204.0	5.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e16a	6	10	204.0	271.0	67.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e16a	7	11	271.0	274.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e16a	8	12	274.0	288.0	14.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e16a	8	13	288.0	321.0	33.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e16a	9	14	321.0	342.0	21.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e16a	9	15	342.0	379.0	37.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e16a	9	16	379.0	403.0	24.0	False	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e16a	9	17	403.0	479.0	76.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e16a	10	18	479.0	482.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e16a	11	19	482.0	569.0	87.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e16a	12	20	569.0	575.0	6.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s1e16a	12	21	575.0	621.0	46.0	False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e16a	13	22	621.0	656.0	35.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s1e16a	14	23	656.0	677.0	21.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s1e16a	14	24	677.0	713.0	36.0	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False

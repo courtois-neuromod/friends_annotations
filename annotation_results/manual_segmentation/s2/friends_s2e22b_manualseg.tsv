@@ -1,35 +1,35 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e22b	1	1	0.0	11.0	11.0	end of previous		False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	2	11.0	46.0	35.0	R prepares the drink and Ra's mother tells him that he drinks the same thing as Richard...		True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	3	46.0	83.0	37.0	Richard joins R in the corridor to get his cigarettes...		True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	1	4	83.0	104.0	21.0	...R returns to Ra and M to bring him his cigarettes		True	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	5	104.0	114.0	10.0	Pb makes a diversion so Gunther can leave		False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	6	114.0	146.0	32.0	Ra's mother thinks R's glasses look like Richard's...		False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	7	146.0	151.0	5.0	Some guests ask Pb to find a way to leave !		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	8	151.0	171.0	20.0	... And now R is a smoker !		False	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	9	171.0	212.0	41.0	Richard waits for R in the corridor + surprises him w his stuff		True	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	1	10	212.0	238.0	26.0	Pb becomes the guide for the guests		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	11	238.0	258.0	20.0	M asks C and J to make less noise		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	12	258.0	271.0	13.0	M realizes that her guests are on this side of the party...		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	13	271.0	298.0	27.0	... and Pb sneaks them around		False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	14	298.0	314.0	16.0	Ra's mother suggests that he go to a therapist because she choses a man like her father...		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	15	314.0	328.0	14.0	Ra will talk with her father		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	16	328.0	334.0	6.0	And comes back to talk to her mother		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	17	334.0	337.0	3.0	... and to her father		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	18	337.0	341.0	4.0	... and to her mother		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	19	341.0	343.0	2.0	... and to her father		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	20	343.0	346.0	3.0	... and to her mother		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	21	346.0	350.0	4.0	... and to her father		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	1	22	350.0	360.0	10.0	Ra is distraught over her parents' divorce		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	1	23	360.0	489.0	129.0	Ra confides in C about what her parents' divorce is doing to her		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	1	24	489.0	504.0	15.0	R comes out of C and J's apartment and hugs Ra		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e22b	2	25	504.0	508.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e22b	3	26	508.0	523.0	15.0	M says goodbye to the guests		True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e22b	3	27	523.0	531.0	8.0	Ra's mother goes to greet her...		True	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e22b	3	28	531.0	546.0	15.0	Ra's father opens the door and R tries to stop him		False	True	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	3	29	546.0	557.0	11.0	R walks into C and J to ask him what he wants		True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e22b	3	30	557.0	564.0	7.0	R, J w C dance and sing loudly to distract		True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	3	31	564.0	570.0	6.0	Ra's father is going to get his coat		False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	3	32	570.0	599.0	29.0	Pb sees Ra's father and tells him he has to get out of here		True	False	False	False	False	False	False	False	True	False	True	False	True	False	False	False	True	False	False	False	False	False	False
-s2e22b	3	33	599.0	635.0	36.0	J kisses Ra's mother for a diversion		True	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e22b	4	34	635.0	665.0	30.0	It's time to blow out the candles		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e22b	1	1	0.0	11.0	11.0	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	2	11.0	46.0	35.0	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	3	46.0	83.0	37.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	1	4	83.0	104.0	21.0	True	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	5	104.0	114.0	10.0	False	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	6	114.0	146.0	32.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	7	146.0	151.0	5.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	8	151.0	171.0	20.0	False	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	9	171.0	212.0	41.0	True	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	1	10	212.0	238.0	26.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	11	238.0	258.0	20.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	12	258.0	271.0	13.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	13	271.0	298.0	27.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	14	298.0	314.0	16.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	15	314.0	328.0	14.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	16	328.0	334.0	6.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	17	334.0	337.0	3.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	18	337.0	341.0	4.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	19	341.0	343.0	2.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	20	343.0	346.0	3.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	21	346.0	350.0	4.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	1	22	350.0	360.0	10.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	1	23	360.0	489.0	129.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	1	24	489.0	504.0	15.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e22b	2	25	504.0	508.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e22b	3	26	508.0	523.0	15.0	True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e22b	3	27	523.0	531.0	8.0	True	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e22b	3	28	531.0	546.0	15.0	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	3	29	546.0	557.0	11.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e22b	3	30	557.0	564.0	7.0	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	3	31	564.0	570.0	6.0	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	3	32	570.0	599.0	29.0	True	False	False	False	False	False	False	False	True	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s2e22b	3	33	599.0	635.0	36.0	True	False	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e22b	4	34	635.0	665.0	30.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

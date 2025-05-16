@@ -1,21 +1,21 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e19b	1	1	0.0	12.0	12.0	end of previous		False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e19b	2	2	12.0	15.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19b	3	3	15.0	92.0	77.0	Eddie is still in C's apartment and C asks him to leave now		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e19b	4	4	92.0	95.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19b	5	5	95.0	159.0	64.0	J is at his audition		True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e19b	6	6	159.0	162.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19b	7	7	162.0	292.0	130.0	M, Ra and Pb have a book clubreading, but it goes wrong		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e19b	8	8	292.0	302.0	10.0	J gets his things taken		True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e19b	8	9	302.0	398.0	96.0	R visits J and asks him what is going on		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e19b	9	10	398.0	400.0	2.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19b	10	11	400.0	440.0	40.0	Ra, Pb and M make peace		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e19b	10	12	440.0	454.0	14.0	C tells them that the psycho is gone...		False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s2e19b	10	13	454.0	523.0	69.0	...but Eddie followed him to the cafe		False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s2e19b	10	14	523.0	530.0	7.0	Eddie leaves the cafe w the model's head		False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s2e19b	11	15	530.0	533.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e19b	12	16	533.0	545.0	12.0	Eddie tries to enter the apartment w his keys...		True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e19b	12	17	545.0	567.0	22.0	C changed the lock and put Eddie's stuff out		True	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s2e19b	12	18	567.0	608.0	41.0	C and J make Eddie think he's in the wrong apartment		False	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
-s2e19b	12	19	608.0	659.0	51.0	Eddie leaves + C w J decide to be roommates again		False	False	True	False	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s2e19b	13	20	659.0	702.0	43.0	C w J move the dog status that R bought him		False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e19b	1	1	0.0	12.0	12.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e19b	2	2	12.0	15.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19b	3	3	15.0	92.0	77.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e19b	4	4	92.0	95.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19b	5	5	95.0	159.0	64.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e19b	6	6	159.0	162.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19b	7	7	162.0	292.0	130.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e19b	8	8	292.0	302.0	10.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e19b	8	9	302.0	398.0	96.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e19b	9	10	398.0	400.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19b	10	11	400.0	440.0	40.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e19b	10	12	440.0	454.0	14.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s2e19b	10	13	454.0	523.0	69.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s2e19b	10	14	523.0	530.0	7.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s2e19b	11	15	530.0	533.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e19b	12	16	533.0	545.0	12.0	True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e19b	12	17	545.0	567.0	22.0	True	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s2e19b	12	18	567.0	608.0	41.0	False	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False
+s2e19b	12	19	608.0	659.0	51.0	False	False	True	False	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s2e19b	13	20	659.0	702.0	43.0	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

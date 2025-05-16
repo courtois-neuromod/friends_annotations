@@ -1,20 +1,19 @@
-episode	scene	segment	onset	offset	duration	descriptor	caption	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e05b	1	1	0.0	88.0	88.0	end of previous		False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e05b	2	2	88.0	91.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e05b	3	3	91.0	225.0	134.0	M, R w C bought the concert tickets for the 6 and it does not pass		True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e05b	3	4	225.0	228.0	3.0	M, C w R go out to see the concert		False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e05b	3	5	228.0	235.0	7.0	M returns saying that the concert is only at 6 pm and that she will be released at that time		False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s2e05b	4	6	235.0	239.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e05b	5	7	239.0	283.0	44.0	R goes to C so that they leave together		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
-s2e05b	5	8	283.0	355.0	72.0	"Jade calls back at ""Bob"" to tell him that she had sex with C..."		False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s2e05b	6	9	355.0	358.0	3.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e05b	7	10	358.0	389.0	31.0	M, R w C are at the concert and hesitant to stay		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e05b	8	11	389.0	399.0	10.0	Ra w Pb try to guess how many fingers J has behind his back...		True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e05b	9	12	399.0	413.0	14.0	the concert ends		True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e05b	9	13	413.0	446.0	33.0	Stevie recognizes M in the room and she was his babysitter		False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e05b	10	14	446.0	450.0	4.0	transition		False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e05b	11	15	450.0	492.0	42.0	the guys all meet at the coffee shop		True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e05b	11	16	492.0	588.0	96.0	"Pb asks M if she has a hickey 
-and they realize they haven't been to the after party"		False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
-s2e05b	11	17	588.0	640.0	52.0	M just got fired		False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s2e05b	12	18	640.0	669.0	29.0	Jade calls back at “Bob” and leaves a message, but J is there and tries to pick up (like C before)		True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e05b	1	1	0.0	88.0	88.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e05b	2	2	88.0	91.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e05b	3	3	91.0	225.0	134.0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e05b	3	4	225.0	228.0	3.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e05b	3	5	228.0	235.0	7.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s2e05b	4	6	235.0	239.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e05b	5	7	239.0	283.0	44.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
+s2e05b	5	8	283.0	355.0	72.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s2e05b	6	9	355.0	358.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e05b	7	10	358.0	389.0	31.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e05b	8	11	389.0	399.0	10.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e05b	9	12	399.0	413.0	14.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e05b	9	13	413.0	446.0	33.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e05b	10	14	446.0	450.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e05b	11	15	450.0	492.0	42.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e05b	11	16	492.0	588.0	96.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False
+s2e05b	11	17	588.0	640.0	52.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s2e05b	12	18	640.0	669.0	29.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
