@@ -1,7 +1,7 @@
 friends_annotations
 ==============================
 This repository includes annotations of half-episodes from the Friends sitcom watched inside the scanner by Courtois-Neuromod participants. It includes the annotations themselves, as well as the scripts used to generate them.
-
+<br>
 
 
 ***PYSCENEDETECT***
@@ -12,7 +12,7 @@ The script to launch the segmentation is src/pyscene_code/launchPyscene.sh. It t
 
 **Input**: .mkv video files (half episodes)\
 **Output**: .tsv files containing three columns: segment onset (in s), duration (s), and the first frame of each cut (frame number). The output is found in annotation_results/TSVpyscene
-
+<br>
 
 **MANUAL SEGMENTATION**
 
@@ -25,7 +25,7 @@ Each segment has an onset, offset and duration (in seconds). The location of eac
 (TODO: finish inserting captions; Segments are accompanied by a caption that summarizes what happens in the story (e.g., "Chandler asks Monica whether she would date him if he were the last man on earth"). Captions are available both in English and in French. They were originally written in the main rater's native French, and translated into English using deepl (https://www.deepl.com/translator), with some manual editing to resolve ambiguities.)
 
 Output: .tsv files found in annotation_results/manual_segmentation
-
+<br>
 
 
 **DEEPGAZE MR**
@@ -48,7 +48,7 @@ The script to launch the extraction of peak coordinates is:
 - *_locmax_normalized_xy.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its x and y cartesian coordinates, which are normalized positions on the entire projection screen (x, y = (0, 0) corresponds to screen's bottom left corner).
 - *_locmax_pixel_hw.npz file which contains a list of local maxima for each movie frame. Each maximum has three values: its normalized saliency, and its h and w coordinates (in pixels, using matrix indexing).\
 The output is found in annotation_results/DeepgazeMR
-
+<br>
 
 ***TIME-STAMPED CAPTIONS***
 
@@ -56,18 +56,18 @@ We used AssemblyAI speech-to-text transcription to obtain time-stamped movie tra
 
 **Input**: .wav mono audio files (half episodes)\
 **Output**: .json files containing the raw transcript, as well as a dictionary of time-stamped words. The output is found in annotation_results/Speech2Text
-
+<br>
 
 **FRIENDS_CORPUS**
 
 pending: annotated utterances from the <a href="https://convokit.cornell.edu/documentation/friends.html">Friend Corpus</a> realigned with the timing of the C-Neuromod runs (half episodes)
 At the moment, only the extraction of the data from the raw data has been done. Relevant information can be found on the corpusdev branch in  data/friends_corpus/readme.txt
-
+<br>
 
 **MELD**
 
 pending: annotated utterances from <a href="https://affective-meld.github.io/">MELD</a> realigned with the timing of the C-Neuromod runs (half episodes)
-
+<br>
 
 
 --------
