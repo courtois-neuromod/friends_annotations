@@ -1,0 +1,16 @@
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s4e16b	1	1	0.0	36.0	36.0	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e16b	1	2	36.0	59.0	23.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s4e16b	2	3	59.0	62.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e16b	3	4	62.0	107.0	45.0	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e16b	3	5	107.0	112.0	5.0	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e16b	3	6	112.0	135.0	23.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s4e16b	4	7	135.0	138.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e16b	5	8	138.0	188.0	50.0	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False
+s4e16b	5	9	188.0	192.0	4.0	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e16b	5	10	192.0	305.0	113.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e16b	5	11	305.0	475.0	170.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s4e16b	6	12	475.0	616.0	141.0	True	False	False	True	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	True
+s4e16b	6	13	616.0	631.0	15.0	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s4e16b	6	14	631.0	681.0	50.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s4e16b	7	15	681.0	716.0	35.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

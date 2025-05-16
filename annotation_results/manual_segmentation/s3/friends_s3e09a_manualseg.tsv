@@ -1,0 +1,13 @@
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
+s3e09a	1	1	0.0	36.0	36.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s3e09a	2	2	36.0	43.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s3e09a	3	3	43.0	46.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e09a	4	4	46.0	56.0	10.0	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s3e09a	4	5	56.0	101.0	45.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s3e09a	4	6	101.0	226.0	125.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s3e09a	5	7	226.0	388.0	162.0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e09a	5	8	388.0	427.0	39.0	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e09a	5	9	427.0	434.0	7.0	False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
+s3e09a	5	10	434.0	572.0	138.0	False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e09a	5	11	572.0	712.0	140.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e09a	5	12	712.0	728.0	16.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
