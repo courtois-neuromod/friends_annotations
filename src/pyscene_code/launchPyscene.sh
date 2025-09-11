@@ -4,17 +4,10 @@ source ~/Venvs/Pyscene/bin/activate
 cd ~/friends_annotations/PySceneDetect
 
 season=${1}
-ep=${2}
 
-for file in /data/neuromod/DATA/cneuromod/friends/stimuli/s${season}/friends_s0${season}e*${ep}.mkv; do
+for file in /data/neuromod/DATA/cneuromod/friends/stimuli/s${season}/friends_s0${season}e*.mkv; do
     python3 -m scenedetect -c ./config/s${season}.cfg --input ${file} --output ../annotation_results/TSVpyscene/s${season} detect-adaptive list-scenes
 done
-
-
-
-
-
-
 
 
 #UNUSED
