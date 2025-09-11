@@ -27,7 +27,7 @@
     "loc_apt1_Mon_Rach": "boolean indicating whether the segment took place in Rachel and Monica's purple appartment (appartment 1).",
     "loc_apt2_Chan_Joey": "boolean indicating whether the segment took place in Chandler and Joey's beige appartment (appartment 2).",
     "loc_apt3_Ross": "boolean indicating whether the segment took place in Ross's appartment (appartment 3), flagged in season 6 only.",
-    "loc_apt4_Pheob_Rach": "boolean indicating whether the segment took place in Phoebe and Rachel's appartment (appartment 4), flagged in season 6 only.",
+    "loc_apt4_Phoeb_Rach": "boolean indicating whether the segment took place in Phoebe and Rachel's appartment (appartment 4), flagged in season 6 only.",
     "loc_coffeeshop": "boolean indicating whether the segment took place in the Central Perk coffee shop.",
     "loc_outside": "boolean indicating whether the segment took place outside rather than indoors.",
     "loc_outside": "boolean indicating whether the segment took in an indoors location other than the appartments or coffee shop."

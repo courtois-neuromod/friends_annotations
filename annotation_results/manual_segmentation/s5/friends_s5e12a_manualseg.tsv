@@ -1,24 +1,24 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s5e12a	1	1	0.0	50.0	50.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
-s5e12a	2	2	50.0	94.0	44.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s5e12a	3	3	94.0	97.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	4	4	97.0	156.0	59.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s5e12a	5	5	156.0	159.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	6	6	159.0	181.0	22.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
-s5e12a	6	7	181.0	234.0	53.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s5e12a	7	8	234.0	237.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	8	9	237.0	272.0	35.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
-s5e12a	8	10	272.0	280.0	8.0	False	True	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
-s5e12a	8	11	280.0	352.0	72.0	False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s5e12a	9	12	352.0	356.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	10	13	356.0	368.0	12.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s5e12a	10	14	368.0	385.0	17.0	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s5e12a	10	15	385.0	406.0	21.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
-s5e12a	10	16	406.0	411.0	5.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s5e12a	11	17	411.0	415.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	12	18	415.0	517.0	102.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s5e12a	13	19	517.0	562.0	45.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s5e12a	14	20	562.0	566.0	4.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s5e12a	15	21	566.0	582.0	16.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s5e12a	15	22	582.0	625.0	43.0	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s5e12a	15	23	625.0	657.0	32.0	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s5e12a	1	1	0.0	50.0	50.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s5e12a	2	2	50.0	94.0	44.0	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s5e12a	3	3	94.0	97.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	4	4	97.0	156.0	59.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s5e12a	5	5	156.0	159.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	6	6	159.0	181.0	22.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True
+s5e12a	6	7	181.0	234.0	53.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s5e12a	7	8	234.0	237.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	8	9	237.0	272.0	35.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False
+s5e12a	8	10	272.0	280.0	8.0	False	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+s5e12a	8	11	280.0	352.0	72.0	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s5e12a	9	12	352.0	356.0	4.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	10	13	356.0	368.0	12.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s5e12a	10	14	368.0	385.0	17.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s5e12a	10	15	385.0	406.0	21.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s5e12a	10	16	406.0	411.0	5.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s5e12a	11	17	411.0	415.0	4.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	12	18	415.0	517.0	102.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s5e12a	13	19	517.0	562.0	45.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s5e12a	14	20	562.0	566.0	4.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s5e12a	15	21	566.0	582.0	16.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s5e12a	15	22	582.0	625.0	43.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s5e12a	15	23	625.0	657.0	32.0	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

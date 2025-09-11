@@ -1,26 +1,26 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s3e10b	1	1	0.0	12.0	12.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s3e10b	2	2	12.0	15.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s3e10b	3	3	15.0	31.0	16.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s3e10b	3	4	31.0	71.0	40.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s3e10b	3	5	71.0	115.0	44.0	False	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s3e10b	3	6	115.0	176.0	61.0	False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s3e10b	3	7	176.0	182.0	6.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s3e10b	3	8	182.0	218.0	36.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s3e10b	4	9	218.0	221.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s3e10b	5	10	221.0	231.0	10.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
-s3e10b	5	11	231.0	265.0	34.0	False	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
-s3e10b	5	12	265.0	300.0	35.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s3e10b	6	13	300.0	413.0	113.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s3e10b	7	14	413.0	429.0	16.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s3e10b	7	15	429.0	480.0	51.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s3e10b	8	16	480.0	482.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s3e10b	9	17	482.0	488.0	6.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s3e10b	9	18	488.0	497.0	9.0	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s3e10b	9	19	497.0	511.0	14.0	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s3e10b	9	20	511.0	534.0	23.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s3e10b	10	21	534.0	573.0	39.0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
-s3e10b	10	22	573.0	587.0	14.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s3e10b	11	23	587.0	609.0	22.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s3e10b	12	24	609.0	624.0	15.0	True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s3e10b	12	25	624.0	662.0	38.0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s3e10b	1	1	0.0	12.0	12.0	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s3e10b	2	2	12.0	15.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e10b	3	3	15.0	31.0	16.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s3e10b	3	4	31.0	71.0	40.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s3e10b	3	5	71.0	115.0	44.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s3e10b	3	6	115.0	176.0	61.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s3e10b	3	7	176.0	182.0	6.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s3e10b	3	8	182.0	218.0	36.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s3e10b	4	9	218.0	221.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e10b	5	10	221.0	231.0	10.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
+s3e10b	5	11	231.0	265.0	34.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False
+s3e10b	5	12	265.0	300.0	35.0	False	True	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e10b	6	13	300.0	413.0	113.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s3e10b	7	14	413.0	429.0	16.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s3e10b	7	15	429.0	480.0	51.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s3e10b	8	16	480.0	482.0	2.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s3e10b	9	17	482.0	488.0	6.0	True	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s3e10b	9	18	488.0	497.0	9.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s3e10b	9	19	497.0	511.0	14.0	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s3e10b	9	20	511.0	534.0	23.0	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s3e10b	10	21	534.0	573.0	39.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False
+s3e10b	10	22	573.0	587.0	14.0	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s3e10b	11	23	587.0	609.0	22.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s3e10b	12	24	609.0	624.0	15.0	True	False	False	True	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s3e10b	12	25	624.0	662.0	38.0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

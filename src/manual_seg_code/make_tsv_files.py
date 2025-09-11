@@ -9,7 +9,7 @@ import argparse
 def get_arguments():
 
     parser = argparse.ArgumentParser(description="convert manual segmentation spreadsheet exports (1 .csv / season) into one .tsv per episode")
-    parser.add_argument('-i', '--ipath', type=str, required=True, help='path to input files (.csv)')
+    parser.add_argument('-i', '--ipath', type=str, required=True, help='path to input files (.csv), e.g., ./season*.csv')
     parser.add_argument('-o', '--odir', type=str, default='./results', help='path to output directory')
     args = parser.parse_args()
 
@@ -40,10 +40,10 @@ def get_times(row, name):
 def make_tsvs(csv_file, out_path):
 
     # Load csv file (one file per season)
-    df = pd.read_csv(csv_file, sep=',', header=None)
+    df = pd.read_csv(csv_file, sep='\t', header=None)
 
     # add columne names
-    column_names = ['episode', 'scene', 'segment', 'descriptor', 'caption_eng', 'caption_fr', 'onset',
+    column_names = ['episode', 'scene', 'segment', 'raw_descriptor', 'caption_eng', 'caption_fr', 'onset',
                     'ONbond_location', 'ONbond_charact_entry', 'ONbond_charact_leave', 'ONbond_time_jump',
                     'ONbond_goal_change', 'ONbond_music_transit', 'ONbond_theme_song', 'ONbond_end',
                     'loc_apt1_Mon_Rach', 'loc_apt2_Chan_Joey', 'loc_apt3_Ross', 'loc_apt4_Phoeb_Rach',
@@ -60,14 +60,16 @@ def make_tsvs(csv_file, out_path):
     df['offset'] = df.apply(lambda row: get_times(row, 'offset'), axis=1)
 
     # convert boundary and location columns into booleans
-    df[column_names[6:]] = df[column_names[6:]].fillna(0).astype(bool)
+    df[column_names[7:]] = df[column_names[7:]].fillna(0).astype(bool)
 
     # create column of transition type
-    for col_name in column_names[6:14]:
+    for col_name in column_names[7:15]:
         df['OFF'+col_name[2:]] = df[col_name].tolist()[1:] + [False]
 
+    # columns to keep in final output
     final_cnames = ['episode', 'scene', 'segment', 'onset', 'offset', 'duration',
-                    'caption_eng', 'caption_fr',
+                    #'raw_descriptor',  # for debugging
+                    #'caption_eng', 'caption_fr',  # to include in final release
                     'ONbond_location', 'ONbond_charact_entry', 'ONbond_charact_leave', 'ONbond_time_jump',
                     'ONbond_goal_change', 'ONbond_music_transit', 'ONbond_theme_song', 
                     'OFFbond_location', 'OFFbond_charact_entry', 'OFFbond_charact_leave', 'OFFbond_time_jump',

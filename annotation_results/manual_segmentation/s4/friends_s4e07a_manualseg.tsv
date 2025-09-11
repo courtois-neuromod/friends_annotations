@@ -1,22 +1,22 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s4e07a	1	1	0.0	44.0	44.0	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e07a	1	2	44.0	52.0	8.0	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
-s4e07a	2	3	52.0	59.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
-s4e07a	3	4	59.0	62.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e07a	4	5	62.0	139.0	77.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s4e07a	5	6	139.0	142.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e07a	6	7	142.0	225.0	83.0	True	False	False	True	False	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
-s4e07a	6	8	225.0	253.0	28.0	False	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e07a	6	9	253.0	278.0	25.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s4e07a	7	10	278.0	281.0	3.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e07a	8	11	281.0	321.0	40.0	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s4e07a	8	12	321.0	451.0	130.0	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e07a	8	13	451.0	475.0	24.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s4e07a	9	14	475.0	488.0	13.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s4e07a	9	15	488.0	515.0	27.0	False	True	False	False	False	False	False	False	True	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s4e07a	9	16	515.0	542.0	27.0	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	True
-s4e07a	9	17	542.0	583.0	41.0	False	False	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s4e07a	10	18	583.0	585.0	2.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e07a	11	19	585.0	638.0	53.0	False	False	False	True	False	False	False	False	True	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s4e07a	11	20	638.0	672.0	34.0	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	True
-s4e07a	11	21	672.0	734.0	62.0	False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s4e07a	1	1	0.0	44.0	44.0	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e07a	1	2	44.0	52.0	8.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s4e07a	2	3	52.0	59.0	7.0	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+s4e07a	3	4	59.0	62.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e07a	4	5	62.0	139.0	77.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s4e07a	5	6	139.0	142.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e07a	6	7	142.0	225.0	83.0	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	True	False	False	False	False	False	False
+s4e07a	6	8	225.0	253.0	28.0	False	False	True	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e07a	6	9	253.0	278.0	25.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s4e07a	7	10	278.0	281.0	3.0	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e07a	8	11	281.0	321.0	40.0	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e07a	8	12	321.0	451.0	130.0	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e07a	8	13	451.0	475.0	24.0	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s4e07a	9	14	475.0	488.0	13.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s4e07a	9	15	488.0	515.0	27.0	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s4e07a	9	16	515.0	542.0	27.0	True	True	False	False	True	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	True
+s4e07a	9	17	542.0	583.0	41.0	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s4e07a	10	18	583.0	585.0	2.0	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e07a	11	19	585.0	638.0	53.0	False	False	False	True	False	False	False	True	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s4e07a	11	20	638.0	672.0	34.0	True	True	False	False	True	False	False	False	False	True	False	True	False	False	False	False	True	False	False	False	False	True
+s4e07a	11	21	672.0	734.0	62.0	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False

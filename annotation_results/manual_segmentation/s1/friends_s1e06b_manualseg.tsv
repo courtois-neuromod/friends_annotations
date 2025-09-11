@@ -1,19 +1,19 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s1e06b	1	1	0	68	68	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e06b	1	2	68	165	97	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s1e06b	2	3	165	168	3	False	False	False	False	False	True	False	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e06b	3	4	168	193	25	False	True	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e06b	3	5	193	205	12	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s1e06b	3	6	205	212	7	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e06b	3	7	212	255	43	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s1e06b	4	8	255	258	3	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e06b	5	9	258	338	80	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s1e06b	6	10	338	342	4	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e06b	7	11	342	502	160	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s1e06b	8	12	502	507	5	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e06b	9	13	507	525	18	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e06b	9	14	525	619	94	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s1e06b	9	15	619	650	31	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s1e06b	10	16	650	653	3	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s1e06b	11	17	653	686	33	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s1e06b	11	18	686	719	33	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s1e06b	1	1	0.0	68.0	68.0	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	1	2	68.0	165.0	97.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	2	3	165.0	168.0	3.0	False	False	False	False	False	True	False	False	True	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	3	4	168.0	193.0	25.0	False	True	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	3	5	193.0	205.0	12.0	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	3	6	205.0	212.0	7.0	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	3	7	212.0	255.0	43.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	4	8	255.0	258.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	5	9	258.0	338.0	80.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s1e06b	6	10	338.0	342.0	4.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	7	11	342.0	502.0	160.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s1e06b	8	12	502.0	507.0	5.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	9	13	507.0	525.0	18.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	9	14	525.0	619.0	94.0	False	True	False	False	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s1e06b	9	15	619.0	650.0	31.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s1e06b	10	16	650.0	653.0	3.0	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s1e06b	11	17	653.0	686.0	33.0	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s1e06b	11	18	686.0	719.0	33.0	False	False	False	True	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

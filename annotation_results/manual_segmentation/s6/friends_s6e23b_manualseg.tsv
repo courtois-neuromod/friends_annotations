@@ -1,20 +1,20 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s6e23b	1	1	0.0	67.0	67.0	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s6e23b	1	2	67.0	77.0	10.0	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
-s6e23b	1	3	77.0	105.0	28.0	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
-s6e23b	1	4	105.0	117.0	12.0	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s6e23b	2	5	117.0	120.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e23b	3	6	120.0	159.0	39.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s6e23b	4	7	159.0	218.0	59.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
-s6e23b	5	8	218.0	353.0	135.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
-s6e23b	6	9	353.0	355.0	2.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e23b	7	10	355.0	371.0	16.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s6e23b	8	11	371.0	449.0	78.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s6e23b	9	12	449.0	452.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e23b	10	13	452.0	472.0	20.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s6e23b	10	14	472.0	556.0	84.0	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s6e23b	10	15	556.0	569.0	13.0	False	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s6e23b	11	16	569.0	646.0	77.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s6e23b	11	17	646.0	676.0	30.0	False	True	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
-s6e23b	11	18	676.0	707.0	31.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s6e23b	12	19	707.0	765.0	58.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s6e23b	1	1	0.0	67.0	67.0	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s6e23b	1	2	67.0	77.0	10.0	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False
+s6e23b	1	3	77.0	105.0	28.0	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False
+s6e23b	1	4	105.0	117.0	12.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s6e23b	2	5	117.0	120.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e23b	3	6	120.0	159.0	39.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s6e23b	4	7	159.0	218.0	59.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False
+s6e23b	5	8	218.0	353.0	135.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+s6e23b	6	9	353.0	355.0	2.0	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e23b	7	10	355.0	371.0	16.0	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s6e23b	8	11	371.0	449.0	78.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s6e23b	9	12	449.0	452.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e23b	10	13	452.0	472.0	20.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s6e23b	10	14	472.0	556.0	84.0	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s6e23b	10	15	556.0	569.0	13.0	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s6e23b	11	16	569.0	646.0	77.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s6e23b	11	17	646.0	676.0	30.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False
+s6e23b	11	18	676.0	707.0	31.0	False	True	False	False	True	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s6e23b	12	19	707.0	765.0	58.0	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False
