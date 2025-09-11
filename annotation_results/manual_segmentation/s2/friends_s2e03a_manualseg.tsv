@@ -1,21 +1,21 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s2e03a	1	1	0.0	3.0	3.0	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s2e03a	1	2	3.0	71.0	68.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
-s2e03a	2	3	71.0	78.0	7.0	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False
-s2e03a	3	4	78.0	93.0	15.0	False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e03a	3	5	93.0	119.0	26.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e03a	3	6	119.0	154.0	35.0	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e03a	3	7	154.0	175.0	21.0	False	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e03a	4	8	175.0	203.0	28.0	True	False	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
-s2e03a	5	9	203.0	317.0	114.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s2e03a	5	10	317.0	327.0	10.0	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s2e03a	5	11	327.0	367.0	40.0	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s2e03a	6	12	367.0	385.0	18.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e03a	6	13	385.0	433.0	48.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e03a	6	14	433.0	467.0	34.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e03a	6	15	467.0	514.0	47.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e03a	6	16	514.0	576.0	62.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
-s2e03a	6	17	576.0	635.0	59.0	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s2e03a	7	18	635.0	640.0	5.0	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s2e03a	8	19	640.0	646.0	6.0	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s2e03a	8	20	646.0	685.0	39.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s2e03a	1	1	0.0	3.0	3.0	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s2e03a	1	2	3.0	71.0	68.0	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s2e03a	2	3	71.0	78.0	7.0	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False
+s2e03a	3	4	78.0	93.0	15.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e03a	3	5	93.0	119.0	26.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e03a	3	6	119.0	154.0	35.0	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e03a	3	7	154.0	175.0	21.0	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e03a	4	8	175.0	203.0	28.0	True	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	True
+s2e03a	5	9	203.0	317.0	114.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s2e03a	5	10	317.0	327.0	10.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s2e03a	5	11	327.0	367.0	40.0	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s2e03a	6	12	367.0	385.0	18.0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e03a	6	13	385.0	433.0	48.0	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e03a	6	14	433.0	467.0	34.0	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e03a	6	15	467.0	514.0	47.0	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e03a	6	16	514.0	576.0	62.0	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True
+s2e03a	6	17	576.0	635.0	59.0	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s2e03a	7	18	635.0	640.0	5.0	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s2e03a	8	19	640.0	646.0	6.0	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s2e03a	8	20	646.0	685.0	39.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True

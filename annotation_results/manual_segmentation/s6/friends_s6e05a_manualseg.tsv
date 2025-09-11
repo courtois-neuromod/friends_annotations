@@ -1,22 +1,22 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s6e05a	1	1	0.0	89.0	89.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
-s6e05a	2	2	89.0	124.0	35.0	False	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
-s6e05a	3	3	124.0	173.0	49.0	True	False	False	True	False	False	False	False	False	True	True	False	True	False	False	False	False	False	False	False	True	False	False
-s6e05a	3	4	173.0	217.0	44.0	False	True	True	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
-s6e05a	3	5	217.0	223.0	6.0	False	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
-s6e05a	4	6	223.0	225.0	2.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e05a	5	7	225.0	271.0	46.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s6e05a	5	8	271.0	332.0	61.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	6	9	332.0	351.0	19.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False
-s6e05a	6	10	351.0	354.0	3.0	False	True	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	True	False
-s6e05a	6	11	354.0	375.0	21.0	False	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False
-s6e05a	7	12	375.0	378.0	3.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e05a	8	13	378.0	439.0	61.0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	8	14	439.0	459.0	20.0	False	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s6e05a	8	15	459.0	520.0	61.0	False	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	9	16	520.0	537.0	17.0	True	False	False	True	False	False	False	False	False	True	True	False	True	False	False	False	False	False	False	False	False	True	False
-s6e05a	9	17	537.0	579.0	42.0	False	True	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s6e05a	10	18	579.0	589.0	10.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	10	19	589.0	628.0	39.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	10	20	628.0	643.0	15.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s6e05a	10	21	643.0	666.0	23.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s6e05a	1	1	0.0	89.0	89.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	False
+s6e05a	2	2	89.0	124.0	35.0	False	False	False	False	False	False	True	True	False	False	True	False	False	False	False	False	False	False	False	False	False	False
+s6e05a	3	3	124.0	173.0	49.0	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	False	False	False	True	False	False
+s6e05a	3	4	173.0	217.0	44.0	False	True	True	False	True	False	False	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False
+s6e05a	3	5	217.0	223.0	6.0	False	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False
+s6e05a	4	6	223.0	225.0	2.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e05a	5	7	225.0	271.0	46.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s6e05a	5	8	271.0	332.0	61.0	False	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	6	9	332.0	351.0	19.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False
+s6e05a	6	10	351.0	354.0	3.0	False	True	False	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	True	False
+s6e05a	6	11	354.0	375.0	21.0	False	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False
+s6e05a	7	12	375.0	378.0	3.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e05a	8	13	378.0	439.0	61.0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	8	14	439.0	459.0	20.0	False	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s6e05a	8	15	459.0	520.0	61.0	False	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	9	16	520.0	537.0	17.0	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	False	False	False	False	True	False
+s6e05a	9	17	537.0	579.0	42.0	False	True	True	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s6e05a	10	18	579.0	589.0	10.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	10	19	589.0	628.0	39.0	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	10	20	628.0	643.0	15.0	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s6e05a	10	21	643.0	666.0	23.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	True	False	False	False	False	False	False

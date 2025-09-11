@@ -1,22 +1,22 @@
-episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	ONbond_end	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Pheob_Rach	loc_coffeeshop	loc_outside	loc_other
-s4e19b	1	1	0.0	154.0	154.0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
-s4e19b	2	2	154.0	159.0	5.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e19b	3	3	159.0	350.0	191.0	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
-s4e19b	4	4	350.0	355.0	5.0	False	False	False	False	False	True	False	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
-s4e19b	5	5	355.0	368.0	13.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	6	368.0	388.0	20.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
-s4e19b	5	7	388.0	391.0	3.0	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	8	391.0	394.0	3.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	9	394.0	404.0	10.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	10	404.0	408.0	4.0	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	11	408.0	411.0	3.0	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	12	411.0	423.0	12.0	False	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	13	423.0	441.0	18.0	True	True	True	False	False	False	False	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False
-s4e19b	5	14	441.0	461.0	20.0	True	False	True	False	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
-s4e19b	5	15	461.0	486.0	25.0	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s4e19b	5	16	486.0	496.0	10.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
-s4e19b	5	17	496.0	523.0	27.0	True	False	False	True	False	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
-s4e19b	5	18	523.0	561.0	38.0	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
-s4e19b	5	19	561.0	612.0	51.0	False	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
-s4e19b	6	20	612.0	621.0	9.0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
-s4e19b	6	21	621.0	642.0	21.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
+episode	scene	segment	onset	offset	duration	ONbond_location	ONbond_charact_entry	ONbond_charact_leave	ONbond_time_jump	ONbond_goal_change	ONbond_music_transit	ONbond_theme_song	OFFbond_location	OFFbond_charact_entry	OFFbond_charact_leave	OFFbond_time_jump	OFFbond_goal_change	OFFbond_music_transit	OFFbond_theme_song	OFFbond_end	loc_apt1_Mon_Rach	loc_apt2_Chan_Joey	loc_apt3_Ross	loc_apt4_Phoeb_Rach	loc_coffeeshop	loc_outside	loc_other
+s4e19b	1	1	0.0	154.0	154.0	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	True	False	False	False	False	False	False
+s4e19b	2	2	154.0	159.0	5.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e19b	3	3	159.0	350.0	191.0	True	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True
+s4e19b	4	4	350.0	355.0	5.0	False	False	False	False	False	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	False
+s4e19b	5	5	355.0	368.0	13.0	True	False	False	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	6	368.0	388.0	20.0	True	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	False	False	False	False	False
+s4e19b	5	7	388.0	391.0	3.0	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	8	391.0	394.0	3.0	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	9	394.0	404.0	10.0	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	10	404.0	408.0	4.0	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	11	408.0	411.0	3.0	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	12	411.0	423.0	12.0	False	True	False	False	False	False	False	True	True	True	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	13	423.0	441.0	18.0	True	True	True	False	False	False	False	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False
+s4e19b	5	14	441.0	461.0	20.0	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	True
+s4e19b	5	15	461.0	486.0	25.0	True	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s4e19b	5	16	486.0	496.0	10.0	True	False	False	True	False	False	False	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False
+s4e19b	5	17	496.0	523.0	27.0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False
+s4e19b	5	18	523.0	561.0	38.0	False	True	False	False	True	False	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	False
+s4e19b	5	19	561.0	612.0	51.0	False	True	False	False	False	False	False	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False
+s4e19b	6	20	612.0	621.0	9.0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	False
+s4e19b	6	21	621.0	642.0	21.0	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False
