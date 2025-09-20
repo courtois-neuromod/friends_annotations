@@ -92,4 +92,4 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 
 
 #Notebooks
-*.ipynb
+#*.ipynb
