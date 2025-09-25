@@ -5,6 +5,6 @@
 *.tsv annex.largefiles=nothing
 *.npz annex.largefiles=nothing
 *.py annex.largefiles=nothing
-*.ipynb
+*.ipynb=nothing
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
