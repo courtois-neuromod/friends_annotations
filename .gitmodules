@@ -2,3 +2,7 @@
 	path = PySceneDetect
 	url = git@github.com:courtois-neuromod/PySceneDetect.git
 	branch = master
+[submodule "src/audioannot_code/audio-annot"]
+	path = src/audioannot_code/audio-annot
+	url = git@github.com:courtois-neuromod/audio-annot.git
+	datalad-url = git@github.com:courtois-neuromod/audio-annot.git
