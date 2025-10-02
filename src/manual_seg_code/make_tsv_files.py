@@ -16,6 +16,15 @@ def get_arguments():
     return args
 
 
+def pad_epi(row):
+    '''
+    Zero pad season in episode label
+    '''
+    epi = row['episode']
+
+    return f"{epi[:1]}0{epi[1:]}"
+
+
 def onset_time(row):
     '''
     Convert onset time from str to time object
@@ -50,6 +59,8 @@ def make_tsvs(csv_file, out_path):
                     'loc_coffeeshop', 'loc_outside', 'loc_other']
     df.columns = column_names
 
+    # add 0 padding to season in episode labelling
+    df['episode'] = df.apply(lambda row: pad_epi(row), axis=1)
     # clean up time variables
     df['onset'] = df.apply(lambda row: onset_time(row), axis=1)
     # add offset and duration columns
