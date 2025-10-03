@@ -89,7 +89,10 @@ target/git@github.com:courtois-neuromod/friends_annotations.git
 *.mkv
 *.mp4
 *.csv
+*.wav
 
+# Model cache
+src/audioannot_code/local_cache/*
 
 #Notebooks
 #*.ipynb
