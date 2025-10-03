@@ -1,5 +1,5 @@
 import argparse
-import glob, os
+import glob, os, sys
 from pathlib import Path
 
 from moviepy import VideoFileClip
