@@ -1,10 +1,8 @@
-from moviepy import VideoFileClip
-import json, glob, os
-import subprocess
+import argparse
+import glob, os
 from pathlib import Path
 
-import argparse
-
+from moviepy import VideoFileClip
 
 def get_arguments():
 
@@ -26,7 +24,7 @@ def get_arguments():
     return parser.parse_args()
 
 
-def extract_wav((mkv_file, out_path):
+def extract_wav(mkv_file, out_path):
     """."""
     wav_path = f"{out_path}/{os.path.basename(mkv_file).replace('.mkv', '_20250101_101010.wav')}"
 
