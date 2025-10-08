@@ -16,7 +16,7 @@ module load python/3.11.5
 source /home/mstlaure/links/projects/rrg-pbellec/mstlaure/friends_annotations/audioannot_venv/bin/activate
 
 DATAPATH="/home/mstlaure/links/projects/rrg-pbellec/mstlaure/friends_annotations/data/wav_files"
-OUTPATH="/home/mstlaure/links/projects/rrg-pbellec/mstlaure/friends_annotations/data/"
+OUTPATH="/home/mstlaure/links/projects/rrg-pbellec/mstlaure/friends_annotations/data/audio_tags"
 CACHEDIR="/home/mstlaure/links/projects/rrg-pbellec/mstlaure/friends_annotations/src/audioannot_code/local_cache"
 
 cd audio-annot
@@ -24,7 +24,8 @@ cd audio-annot
 python process.py \
 	--data_path "${DATAPATH}" \
 	--save_path "${OUTPATH}" \
-	--cache_dir "${CACHEDIR}"
+	--cache_dir "${CACHEDIR}" \
+	--l 5 \
 	--name FriendsAudioAnnot \
 	--local \
 	--save_audio_flac 0
