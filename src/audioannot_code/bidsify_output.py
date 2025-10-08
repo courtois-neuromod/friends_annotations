@@ -48,7 +48,7 @@ def bidsify_audiotag(
             'start': 'onset',
         }
     )
-    sort_df.insert(loc=2, column='duration', value=10.0)
+    sort_df.insert(loc=2, column='duration', value=5.0)
     final_cols = ['episode_id', 'onset', 'duration'] + sort_df.columns.tolist()[5:]
     sort_df = sort_df[final_cols]
 
