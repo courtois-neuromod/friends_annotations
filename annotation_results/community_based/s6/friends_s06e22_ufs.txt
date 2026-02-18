@@ -2,13 +2,13 @@
 
 Phoebe: (dejected) Hi, you guys.
 
-Chandler: Hey!
+Chandler: Hi!
 
-Monica: Hi!
+Monica: Hey.
 
 Rachel: What’s the matter?
 
-Phoebe: Well it’s just—it’s one of those situations that I just hate. Y’know? A massage client gave me three tickets to the Helmet-Pelts exhibit at the Morgan Chase museum.
+Phoebe: Well it’s just. It’s one of those situations that I just hate. You know? A massage client gave me three tickets to the Helmet-Pelts exhibit at the Morgan Chase museum.
 
 Joey: (nodding knowingly) Now you’re thinking you gotta sleep with him.
 
@@ -36,7 +36,7 @@ Joey: Oh man! (Hits Chandler)
 
 Ross: (entering) Hey!
 
-Rachel: Hi!
+Rachel: Hi there!
 
 Chandler: Hey!
 
@@ -88,11 +88,11 @@ Opening Credits
 
 [Scene: A Dry Cleaners, Joey is there with Phoebe and is trying to get his picture put back amongst the other celebrities hanging on the walls.]
 
-Phoebe: Oh, this is so exciting! You get your picture back up on the wall of fame! Eek!
+Phoebe: Oh, this is so exciting! You get your picture back up on the wall of fame!
 
-Joey: He's got all the big actors. I know. It was so cool when I was up there before. Me and Jim Belushi would just be crackin’ up about something… Then I get fired off of Days Of Our Lives and he takes me down. Now he’s just laughing at me. Look at him, that smug Belushi bastard, I’ll…
+Joey: I know, he's got all the big actors. I know. It was so cool when I was up there before. Me and Jim Belushi would just be crackin’ up about something… Then I get fired off of Days Of Our Lives and he takes me down. Now he’s just laughing at me. Look at him, that smug Belushi bastard, I’ll…
 
-Phoebe: (gasps) Ohh, okay maybe they put your picture back up they can put you next to Matt Lauer. Look at him, smiling at me. (Giggles) Yeah I know; we’d be great together!
+Phoebe: (gasps) Ohh, okay maybe they put your picture back up they can put you next to Matt Lauer. Look at him, smiling at me. (Giggles) Yeah I know; we’d be great together! Oh, just...
 
 (The dry cleaner finishes with the customer in front of Joey and they approach the counter.)
 
@@ -102,7 +102,7 @@ The Dry Cleaner: Who are you?
 
 Joey: Joey Tribbiani! From the wall! (The dry cleaner doesn’t remember) Okay, maybe this will jog your memory, huh? (Holds his picture up in front of his face.) Huh? Okay eh-ah-anyway, I’m ready to go back up on the wall I’m the star of a new TV show.
 
-The Dry Cleaner: (picking up a TV Guide) Show me in the table.
+The Dry Cleaner: (picking up a TV Guide) Show me in the TV book.
 
 Joey: Oh well, it’s not on TV yet.
 
@@ -154,7 +154,7 @@ Rachel: Oh sorry didn’t mean to interrupt. It’s just such a beautiful space;
 
 The Museum Official: Yes. We’re very popular. There’s a two-year waiting list. Sorry! (She kinda storms out with the couple.)
 
-Rachel: Monica, you should totally put your name down on the list
+Rachel: Monica, you should totally put your name down for this place.
 
 Monica: What?! Are you crazy?! I’m not getting married! I’m not even engaged.
 
@@ -230,7 +230,7 @@ Elizabeth: Well, whatever works for ya…
 
 Ross: No. No-no uh, he just, he just really freaked me out before.
 
-Elizabeth: Oh. Well, so we have to hide our relationship from one more person. Big deal. Besides, it’s kinda fun hiding.
+Elizabeth: Oh. Well, so we have to hide our relationship from one more person. Big deal. Besides, we've had fun hiding it.
 
 Ross: Yeah.
 
@@ -300,9 +300,9 @@ Paul: Honey, we don’t have any bears here.
 
 Rachel: Well, okay. Would-would you get me a Diet Coke?
 
-Paul: Okay. I’ll be right back. (Gets up and heads for the kitchen.)
+Paul: Okay. Be right back. (Gets up and heads for the kitchen.)
 
-Rachel: Okay. (After Paul leaves Rachel drops to the floor to confront Ross.) What?! What are you doing here?!
+Rachel: Okay. Okay. (After Paul leaves Rachel drops to the floor to confront Ross.) What are you doing here?!
 
 Ross: What are you doing here?!
 
@@ -394,7 +394,11 @@ The Museum Official: (on machine) Hi, this is Heldi from the Morgan Chase museum
 
 Monica: Oh no!
 
-The Museum Official: (on machine) I want to let her know that there was a cancellation and if she’s still interested in having the Bing-Geller wedding at our facility, it is available…
+The Museum Official: (on machine) I want to let her know that there was a cancellation and if she’s still interested in having the Bing-Geller wedding at our facility...
+
+Monica: Please. 
+
+The Museum Official: It is available…
 
 Monica: Oh please, he didn’t hear it! He didn’t hear it!!
 
@@ -552,7 +556,7 @@ Monica: Honey, we were at this beautiful place, and I-I-I just put our names dow
 
 Chandler: Right here! (Clucks like a chicken for some reason.)
 
-Monica: Chandler, please don’t think I was trying to pressure you. Phoebe and Rachel…
+Monica: Chandler, please don’t think I was trying to pressure you. Phoebe and Rachel just thought…
 
 Chandler: Phoebe and Rachel! So the people that knew about our wedding before me were you, Phoebe and Rachel, Heldi, and apparently some band called Starlight Magic 7 who are available by the way!
 

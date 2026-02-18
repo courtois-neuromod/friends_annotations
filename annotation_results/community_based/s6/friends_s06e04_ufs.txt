@@ -20,7 +20,7 @@ Phoebe: Ross, I know what you’re thinking.
 
 Ross: What?
 
-Phoebe: That she’s gonna move in with you and maybe then she’ll fall in love with you and then when she finds out you’re already married, she’ll just be happy. Y’know? You’re just, you’re very sad.
+Phoebe: That she’s gonna move in with you and maybe then she’ll fall in love with you and then when she finds out you’re already married, she’ll just be happy. You know? You’re just, you’re very sad.
 
 Ross: Oh…my…God! I-I see what this is! You are in love with Rachel!
 
@@ -100,7 +100,7 @@ Phoebe: I don’t—she said y’know that I’d have triplets! But she also sai
 
 Chandler: Just out of curiosity did she tell you how you’re gonna go?
 
-Phoebe: No, ‘cause she didn’t tell me I was gonna die until the very end of the session, and I was not gonna waste a whole another hour there! I mean I’ve only got a week left, y’know? I’ve really gotta start living now! (So she picks up the latest copy of Car and Driver (a U.S. auto magazine), leans back, and starts reading.)
+Phoebe: No, ‘cause she didn’t tell me I was gonna die until the very end of the session, and I was not gonna waste a whole another hour there! I mean I’ve only got a week left, y’know? I’ve really gotta start living now! (She picks up the latest copy of Car and Driver, a U.S. auto magazine, leans back, and starts reading.)
 
 Ross: (entering) Hey everyone!
 
@@ -266,13 +266,13 @@ Rachel: Yeah, we could. Oh hey look! There’s some Kappa Kappa Deltas! I was a 
 
 (They enter the lecture hall to find Ross speaking in an English accent for some unknown reason.)
 
-Ross: (to the class) Right! So when Rigby got his samples back from the laboratory he made a startling discovery! What he believed to be igneous, was in fact sedimentary. Imagine his consternation when—(sees Monica and Rachel.) Oh bloody hell.
+Ross: (to the class) Right! So when Rigby got his samples back from the laboratory he made a startling discovery! What he believed to be igneous, was in fact sedimentary. Imagine his consternation when. (sees Monica and Rachel.) Oh, bloody hell.
 
 [Scene: Chandler and Joey's, Chandler enters to find Joey lying in the fetus position on the floor.]
 
-Chandler: Hey!
+Chandler: Hi.
 
-Joey: (in obvious pain) Hey! So Estelle lined up a bunch of auditions for me tomorrow and I’ll have my health insurance back in no time.
+Joey: (in obvious pain) Hey! So Estelle lined up a bunch of auditions for me tomorrow. And I’ll have my health insurance back in no time.
 
 Chandler: That’s great, but shouldn’t you be on the toilet right now?
 
@@ -462,11 +462,7 @@ Phoebe: Eh, better her than me! Hey, let’s bake cookies!
 
 [Scene: Silvercup Studios, Joey has won the part of dying man and is now able to play the role he was injured for. Chandler is helping to carry him in.]
 
-Chandler: Listen, I’m really glad you got the part.
-
-Joey: (barely audible through the pain) Thank you.
-
-Chandler: But are you sure you can do this?
+Chandler: Listen, I’m really glad you got the part. But are you sure you can do this?
 
 Joey: Yeah! And hey, thanks for coming with me. And thanks again for helping me take a shower.
 
@@ -484,7 +480,7 @@ The Director: Okay. (to Alex) All right uh, Alex now when Joey says his line, "T
 
 (Joey lies down on the gurney.)
 
-A Crew Member: (with that board thingy) Scene 5, take 1.
+A Crew Member: (with that board thingy) Scene five, take one.
 
 The Director: And Action!
 
